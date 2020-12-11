@@ -1,0 +1,1296 @@
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+@font-face {
+  font-family: "AvenirLTStd-Book";
+  src: url("./AvenirLTStd-Book.ttf") format("opentype");
+}
+body {
+  margin: 0;
+}
+
+.reduxLogo {
+height: 40px;
+margin: 5px 0 10px 5px;
+border-radius: 5px;
+}
+
+.main-logo {
+  width: 50%;
+  position: absolute;
+  left: 30px;
+  top:80px;
+  transform: rotate(-15deg) 
+}
+.dropdown .fa-caret-down {
+color: white
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: navy;
+}
+a.itin-menu {
+  padding: 0 !important;
+}
+
+h3 {
+  text-align: center;
+}
+
+/* hamburger menu icon */
+.container {
+  display: inline-block;
+  cursor: pointer;
+  position: absolute;
+  right: 25px;
+  top: 5px;
+}
+
+.bar1,
+.bar2,
+.bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: white;
+  margin: 6px 0;
+  transition: 0.4s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+  transform: rotate(-45deg) translate(-9px, 6px);
+}
+
+.change .bar2 {
+  opacity: 0;
+}
+
+.change .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+  transform: rotate(45deg) translate(-8px, -8px);
+}
+
+/* black overlay */
+
+.start {
+  position: absolute;
+  background: rgba(0, 0, 0, 0);
+  height: 0;
+  width: 100vw;
+  top: 52px;
+  left: 0;
+  z-index: 1;
+  transition: background 0.25s ease-in;
+}
+.overlay {
+  background: rgba(0, 0, 0, 0.7);
+  height: calc(100% - 52px);
+  width: 100%;
+  position: fixed;
+}
+.main-nav {
+  background: linear-gradient(
+    135deg,
+    rgba(29, 169, 29, 1) 0%,
+    rgba(26, 109, 26, 1) 39%,
+    rgba(31, 59, 8, 1) 78%,
+    rgba(31, 59, 8, 1) 100%
+  );
+  height: 52px;
+  box-shadow: 8px 11px 7px 0px rgba(0, 0, 0, 0.4);
+  position: fixed;
+  font-family: "AvenirLTStd-Book";
+  color: white;
+  top: 0;
+  z-index: 7;
+  width: 100%;
+}
+main {
+  height: 100%;
+  font-family: "AvenirLTStd-Book";
+  margin: 0 10px;
+}
+.flex {
+  display: flex;
+  padding-top: 20px;
+  border-bottom: 1px solid gray;
+  align-items: center;
+  flex-direction: column;
+  color: black;
+}
+h2 {
+  text-align: center;
+  margin: 15px 0 10px 0;
+}
+.flex h2 {
+  text-align: center;
+  margin: 0 0 5px 0;
+}
+.border {
+  font-size: 14px;
+}
+.description {
+  padding: 0;
+  grid-area: monu;
+}
+.description-one {
+  margin: 0 auto;
+  padding: 10px;
+}
+.description-one a{
+  color: navy
+}
+.description-one h3{
+  margin: 15px 0
+}
+
+
+.sub-pic {
+  position: relative;
+}
+h3 {
+  margin: 15px 0 0;
+}
+.map h3 {
+margin: 0 0 10px;
+}
+.map {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: auto;
+  margin-bottom: 30px;
+}
+.map img{
+  width: 100%;
+  margin: 0 auto;
+}
+.map h4 {
+  margin: 0 10px 10px;
+  text-align: center;
+}
+.map h3 {
+  margin-bottom: 30px;
+}
+.s-cal {
+  margin-bottom: 50px;
+}
+.state-nav {
+  background: navy;
+  height: 70px;
+}
+.state-nav ul {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  height: 100%;
+  font-size: 1.25em;
+}
+.state-nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.state-nav a:hover {
+  text-decoration: underline;
+  color: lightblue;
+}
+.utah {
+  height: 25px;
+  padding-bottom: 3px;
+}
+.logo {
+  position: relative;
+  top: 45px;
+  left: 14px;
+  color: white;
+  font-size: 30px;
+  font-family: "AvenirLTStd-book";
+}
+.logo-nashville {
+  position: relative;
+  left: 14px;
+  color: white;
+  font-size: 30px;
+  font-family: "AvenirLTStd-book";
+  bottom: 10px;
+  margin: 0;
+  top: 42px
+}
+
+.logo-two {
+  font-family: "AvenirLTStd-book";
+  font-size: 14px;
+  position: absolute;
+  bottom: 5px;
+  color: white;
+  width: 100%
+}
+.logo-two h2 {
+  margin: 0 auto;
+  padding: 10px;
+}
+.logo-two-info {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  }
+
+.logo-two-info li {
+  font-size: 12px;
+  list-style: none;
+}
+
+
+.journey {
+  margin: 0px 0px 0px 18px;
+  font-size: 20px;
+}
+
+.slider {
+  position: absolute;
+  top: 52px;
+  right: 0;
+  z-index: 6;
+  background: white;
+  width: 0;
+  transition: 0.3s ease-in 0.1s;
+  font-family: "AvenirLTStd-Book", sans-serif;
+}
+
+
+.move {
+  width: 50vw;
+  padding: 0;
+}
+
+.slider a,
+.dropdown-btn {
+  padding: 6px 8px 6px 12px;
+  text-decoration: none;
+  font-size: 2px;
+  color: #5c5b5b;
+  display: block;
+  border: none;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+  white-space: nowrap;
+}
+.dropdown-btn h2 {
+  font-size: 24px;
+}
+
+.arrow-open {
+  transform: rotate(180deg);
+}
+
+.active {
+  background-color: green;
+  color: white;
+}
+
+.dropdown-container {
+  display: none;
+  padding: 0
+}
+
+.dropdown-container a, .dropdown-btn {
+  border-bottom: 0.5px solid lightblue;
+}
+
+.fa-caret-down {
+  color: #5c5b5b;
+  transition: 0.1s;
+}
+
+p {
+  font-size: 16px;
+}
+.portal {
+  width: 200px;
+  height: 150px;
+  overflow: hidden;
+  position: relative;
+}
+
+.portal-portrait {
+  width: 150px;
+  height: 200px;
+  overflow: hidden;
+}
+
+.img-cards {
+  width: 200px;
+  transition: transform 0.4s;
+}
+
+.img-cards-portrait {
+  height: 200px;
+  transition: transform 0.4s;
+}
+
+.img-cards-intinerary-portrait {
+  position: relative;
+}
+
+.newerOver {
+  background: rgba(0, 0, 0, 0.3);
+  height: 125px;
+  width: 150px;
+  position: absolute;
+  z-index: 6;
+}
+
+h2 a {
+  color: rgb(26, 109, 26);
+  text-decoration: none;
+}
+h3 a {
+  color: navy;
+}
+
+.hero {
+  position: relative;
+  height: 400px;
+  width: 100%;
+  overflow: hidden;
+  background: url(./yosemite.jpg) no-repeat center;
+  background-size: cover;
+}
+
+.newContainer {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+  margin: 0 20px;
+}
+
+.caption {
+  margin: 0;
+  padding: 0;
+  background:  #deefff;
+  position: relative;
+  font-size: 12px;
+  display: inline-block;
+}
+
+.caption-portrait {
+  margin: 0;
+  padding: 0;
+  background:  #deefff;
+  position: relative;
+  font-size: 12px;
+  display: inline-block;
+}
+
+
+.state-description {
+  padding: 16px;
+  margin: 0;
+  background: #deefff;
+  font-size: 16px;
+}
+.high {
+  font-family: "AvenirLTStd-Book";
+    font-weight: 800;
+    color: navy
+   
+}
+
+footer {
+  background: linear-gradient(
+    to right,
+    rgba(73, 155, 234, 1) 0%,
+    rgba(21, 67, 117, 1) 65%,
+    rgba(21, 67, 117, 1) 100%
+  );
+  height: auto;
+}
+
+footer ul {
+  margin: 0 auto;
+  padding: 10px 10px 20px;
+  width: 50%;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  text-align: center;
+  
+}
+footer ul li{
+  padding: 16px 0;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: "AvenirLTStd-Book";
+    color: black;
+  }
+.footer-menu li a {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: "AvenirLTStd-Book";
+  color: white;
+}
+.fa-circle {
+  color: white;
+  transform: scale(.8)
+}
+
+
+.social-links-footer {
+  position: relative;
+  height: 40px;
+  display: block;
+  text-align: center;
+}
+.social-links-footer a {
+display: inline-block;
+width: 40px;
+height: 32px;
+text-indent: -9999px;
+bottom: 10px;
+}
+.facebook {
+  background: url(./resources/images/icon_facebook.svg) no-repeat center center;
+  background-size: auto 26px;
+  text-indent: -9999px;
+}
+.instagram {
+  background: url(./resources/images/icon_instagram.svg) no-repeat center center;
+  background-size: auto 23px;
+}
+.twitter {
+  background: url(./resources/images/icon_twitter.svg) no-repeat center center;
+  background-size: auto 23px;
+}
+
+.itinerary-text {
+  color: white;
+  font-family: 'AvenirLTStd-Book';
+  position: absolute;
+  bottom: 5%;
+  text-align: center;
+  margin: 0 10px;
+}
+.itinerary-text span {
+  font-family: 'Segoe Script';
+}
+.top {
+  top: 42px;
+  bottom: 0
+}
+.itinerary-specs {
+  font-weight: 800;
+}
+
+/*hide fullscreen navbar*/
+.navbar {
+  display: none;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  padding: 0 0 45px;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active,
+.dot:hover {
+  background-color: #85b9e9;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* slideshow grid */
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.grid img {
+  width: 100%;
+  height: auto;
+  padding: 5px;
+}
+
+.mySlides img {
+  width: 100%;
+}
+
+/* individual page content */
+map {
+  margin: 0 auto;
+}
+.map h3 {
+    padding: 0 16px;
+}
+.article-color {
+  background: linear-gradient(
+    to bottom,
+    rgba(252, 252, 252, 1) 0%,
+    rgba(252, 252, 252, 1) 25%,
+    rgb(196 224 249) 100%
+  );
+}
+.title {
+  margin-top: 58px;
+  padding: 15px;
+  z-index: 5;
+  background-color: #e6f3ff;
+  font-family: "AvenirLTStd-Book";
+}
+
+.title-text {
+  font-size: 26px;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+.title-text-itenerary {
+  font-size: 26px;
+  margin: 0;
+  text-align: center;
+}
+
+.title-text-main {
+  font-size: 32px;
+  margin: 0;
+}
+
+.breadcrumb {
+  margin: 0 auto;
+  font-size: 14px;
+  font-weight: 700;
+  max-width: 1170px;
+}
+.breadcrumb-state {
+  margin: 15px;
+}
+
+.highlights {
+  padding: 0px 0px 10px;
+  margin: 0;
+  text-align: center;
+}
+
+.general {
+  background: #b0d5f7;
+  margin: 0;
+  padding: 0 15px 5px;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+.directions {
+  margin: 0 0 0 10px;
+}
+
+.info {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: repeat(7, auto);
+  grid-column-gap: 2px;
+  padding: 10px 15px;
+  margin: 0 10px;
+  background: #b0d5f7;
+}
+
+.info-itinerary {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: repeat(7, auto);
+  grid-column-gap: 2px;
+  padding: 10px 15px;
+  background: #b0d5f7;
+  margin: 20px 0 0;
+}
+.info-itinerary div {
+  margin: 5px 0;
+}
+
+
+.info div {
+  margin: 5px 0;
+}
+
+.trail {
+  display: flex;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 15px 15px 15px 0;
+  border-bottom: 1px solid grey;
+  align-items: center;
+  color: black;
+}
+.trail img {
+  margin-right: 10px;
+}
+
+.trail h2 {
+  line-height: 25px;
+}
+
+.trail h4 {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 5px 0;
+}
+
+.trail p {
+  margin: 5px 0;
+}
+
+.trail-img {
+  height: 150px;
+  width: 200px;
+}
+
+.unfinished{
+  color: black;
+}
+.star {
+  color: #c34721;
+}
+
+.deco-img {
+  height: 150px;
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.deco-img-itin {
+  height: 150px;
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.cap {
+  text-align: center;
+  margin: 5px 0;
+  font-size: 12px;
+}
+.hi-h3 {
+  padding: 10px 0 5px;
+  margin: 0;
+}
+.portrait {
+  height: 200px;
+  width: 150px;
+}
+.portrait-full
+{
+    height: 200px;
+    width: 150px;
+  }
+.weather {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+.itinerary-paragraph {
+  font-family: Verdana, Arial, sans-serif;
+  margin: 10px 10px 28px;
+}
+.itinerary-map {
+  display: flex;
+  width: auto;
+  margin: 0 auto;
+  flex-direction: column;
+  margin: 0 20px;
+}
+.itinerary-map-cali {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.itinerary-map img {
+  width: 100%
+}
+.itinerary-map-cali img {
+  margin-bottom: 10px;
+  width: 100%
+}
+.article-itinerary {
+  margin-top: 28px;
+}
+.verd {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 14px;
+  margin: 10px 10px 20px;
+}
+.featured {
+  margin: 30px 0;
+}
+.featured p {
+  font-size: 14px;
+  margin: 5px 0px 20px;
+}
+.featured h4 {
+  margin: 5px 0;
+  text-align: center;
+}
+.navy {
+  color: navy;
+}
+h4.navy {
+  color: black;
+  text-align: center;
+}
+.article-grid {
+  margin: 10px 0 50px;
+
+}
+.itinerary-margin {
+  margin-top: 28px;
+}
+.itinerary-bottom {
+margin-bottom: 40px;
+}
+
+.about-title {
+  text-align: center;
+}
+
+@media only screen and (min-width: 460px) {
+  
+  .slider a,
+.dropdown-btn {
+  font-size: 30px;
+}
+}
+@media only screen and (min-width: 800px) {
+  body,
+  header {
+    max-width: 100vw;
+  }
+.main-article img {
+  width: auto;
+}
+
+
+  main {
+    max-width: 1170px;
+    margin: 0 auto;
+    font-size: 18px;
+  }
+  .reduxLogo {
+    margin: 10px 0 0 50px;
+    height: 60px;
+    position: absolute;
+  }
+.verd {
+  font-size: 16px;
+  margin: 10px 15px 0 40px;
+}
+.border {
+  font-size: 18px;
+}
+.featured h4 {
+  text-align: left;
+}
+  .main-logo {
+    width: 30%;
+    left: 15%;
+    top:100px;
+  }
+  .slideshow-container {
+    padding-top: 15px;
+  }
+  .magnifying {
+    top: 33px;
+    right: 155px;
+    transform: scale(2);
+  }
+  .logo {
+    font-size: 80px;
+  display: block;
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 50px 0 0 15px;
+  }
+  .logo-nashville {
+    font-size: 80px;
+    text-align: right;
+  display: block;
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 50px 0 0 15px;
+  }
+  .logo-two {
+    font-size: 20px;
+    bottom: 14px;
+    width: 100%;
+  }
+  .logo-two-info {
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    margin: 0 auto;
+    max-width: 1170px;
+  }
+  .logo-two-info li{
+    font-size: 18px;
+    white-space: nowrap;
+  }
+  .trail-img {
+    margin: 15px;
+  }
+  .hero {
+    height: 750px;
+  }
+  .main-nav {
+    height: 80px;
+  }
+.main-padding {
+  padding: 35px 20px;
+}
+
+
+  .yellowstone-flex{
+    flex-direction: column;
+  }
+  ul {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.start {
+  display: none;
+}
+.caption {
+  margin: 0;
+  padding: 2px;
+  position: absolute;
+  bottom: 5px;
+  left: 5px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+.caption-portrait {
+  margin: 0;
+  padding: 2px;
+  position: absolute;
+  bottom: 5px;
+  left: 67px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+.cap {
+  font-size: 16px;
+}
+.title-text {
+margin: 0 auto;
+max-width: 1170px;
+}
+.title-text-main {
+  font-size: 62px;
+}
+  .slider {
+    top: 80px;
+  }
+  .map {
+    margin-bottom: 50px;
+  }
+  .map img {
+    max-width: 700px;
+  }
+  .newContainer {
+    max-width: 70vw;
+    margin: 0 auto;
+    height: auto;
+  }
+
+  .container {
+    display: none;
+  }
+
+  .heading {
+    font-size: 3em;
+  }
+
+  .portal {
+    width: 500px;
+    height: 375px;
+  }
+  .img-cards {
+    width: 100%;
+  }
+
+  .portal-portrait {
+    width: 375px;
+    height: 500px;
+    margin: 0 62.5px;
+  }
+  .img-cards-portrait {
+    height: 100%;
+  }
+
+  .img-cards:hover {
+    transform: scale(1.2);
+  }
+
+  .img-cards-portrait:hover {
+    transform: scale(1.2);
+  }
+  .city-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+  /* fullscreen navbar */
+  /* Navbar container */
+  .navbar {
+    width: 50%;
+    height: 80px;
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+  }
+
+  /* Links inside the navbar */
+  .navbar a {
+    font-size: 18px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 5px;
+    margin: 0;
+    text-decoration: none;
+  }
+
+  /* The dropdown container */
+  .dropdown {
+    height: 65px;
+  }
+  .row {
+    display: flex;
+  }
+
+  /* Dropdown button */
+  .dropdown .dropbtn {
+    font-size: 18px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 10px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+  }
+
+  /* Add a red background color to navbar links on hover */
+  .navbar a:hover,
+  .dropdown:hover .dropbtn {
+    text-decoration: underline;
+  text-decoration-color: navy;
+  cursor: pointer;
+  }
+
+
+  /* Dropdown content (hidden by default) */
+  .dropdown-content {
+    height: 0;
+    display: flex;
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    top: 80px;
+    color: navy;
+    font-size: 18px;
+    background-color: #f9f9f9;
+  width: 100%;
+  left: 0;
+  list-style: none;
+  transition: .3s;
+  }
+
+  .dropdown-content ul {
+    display: none;
+  }
+  .dropdown-content ul li a {
+    color: black;
+
+  }
+  .menu-list li {
+    padding: 8px;
+    list-style: none;
+  }
+
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content{
+    height: 40vh;
+  }
+
+  .dropdown:hover .dropdown-content ul{
+    display: block;
+  }
+
+  .itinerary-text {
+    font-size: 22px;
+  }
+  .itinerary-text span{
+    font-size: 18px;
+  }
+  .itinerary-paragraph {
+    margin: 10px 10px 28px 0;
+  }
+  /* slideshow grid */
+  .grid {
+    display: flex;
+  }
+
+  /* individual page content */
+  .title {
+    margin-top: 80px;
+  }
+  .main-article {    
+    grid-column-start: 1;
+    grid-row-start: 1;
+    grid-row-end: 4;
+  }
+  .info {
+    grid-column: 2 / 3;
+    grid-row: 1;
+  }
+  .featured {
+    grid-column: 2;
+  }
+.featured p {
+  font-size: 16px;
+  margin: 5px 0px;
+}
+
+
+  .deco-img {
+    height: 390px;
+    width: 520px;
+  }
+  .portrait {
+    height: 520px;
+    width: 390px;
+  }
+
+  .title h5 {
+    margin-top: 5px;
+  }
+
+  
+  .itinerary-highlights-imgs {
+    margin-right: 10px;
+  }
+
+  .article-grid-itinerary {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+  }
+
+  .yellowstone-margin {
+    margin-top: 70px;
+  }
+
+  .article-grid figure{
+margin: 5px;
+  }
+
+  .article {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: repeat(4, auto);
+    margin: 55px 10px;
+    align-items: start;
+  }
+
+  .article-test {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 1fr 1fr;
+    margin: 55px 0;
+    align-items: start;
+  }
+
+
+  .article-itinerary {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    margin: 28px 0;
+    align-items: start;
+  }
+  .article-itinerary h3 {
+    text-align: left;
+  }
+  .itinerary-map {
+    flex-direction: row;
+  max-width: 1170px;
+  margin: 0 auto;
+  height: auto;
+  }
+.itinerary-map img {
+  width: 50%;
+}
+.itinerary-map-cali {
+  max-width: 585px;
+}
+
+.itinerary-map-cali img {
+  width: 100%;
+  margin: 0 auto;
+}
+.deco-img-itin {
+  height: 150px;
+  width: 200px;
+  display: block;
+  margin: 0
+}
+.about{
+  height: 65vh
+}
+}
+@media only screen and (min-width: 1170px) {
+  .flex {
+    flex-direction: row;
+    padding: 10px 0;
+  }
+  .article-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+  }
+.article-grid-itinerary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-items: center;
+}
+
+.logo-two {
+  font-size: 24px;
+  bottom: 30px;
+  width: 100%;
+}
+.logo-two-info {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-items: center;
+  margin: 0 auto;
+  max-width: 1170px;
+}
+.logo-two-info li{
+  font-size: 22px;
+  white-space: nowrap;
+}
+}
