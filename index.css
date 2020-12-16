@@ -691,7 +691,6 @@ map {
 .general {
   background: #b0d5f7;
   margin: 0;
-  padding: 0 15px 5px;
   grid-column-start: 1;
   grid-column-end: 3;
 }
@@ -720,12 +719,6 @@ map {
 .info-itinerary div {
   margin: 5px 0;
 }
-
-
-.info div {
-  margin: 5px 0;
-}
-
 .trail {
   display: flex;
   font-size: 16px;
@@ -904,7 +897,7 @@ margin-bottom: 40px;
   }
 .verd {
   font-size: 16px;
-  margin: 10px 15px 0 0;
+  margin: 10px 0;
 }
 .border {
   font-size: 18px;
@@ -1180,6 +1173,7 @@ max-width: 1170px;
   .info {
     grid-column: 2 / 3;
     grid-row: 1;
+    margin-right: 10px;
   }
   .featured {
     grid-column: 2;
@@ -1228,7 +1222,8 @@ margin: 5px;
     display: grid;
     grid-template-columns: 60% 40%;
     grid-template-rows: repeat(4, auto);
-    margin: 55px 10px;
+    grid-column-gap: 10px;
+    margin: 55px 0;
     align-items: start;
   }
 
