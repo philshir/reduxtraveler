@@ -223,6 +223,10 @@
     background: url(resources/images/arizona-one/tonto-nm/tonto-nm-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#vermilion-hero {
+    background: url(resources/images/arizona-one/vermilionCliffs/vermilion-cliffs-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #walnut-hero{
     background: url(resources/images/arizona-one/walnut-canyon/walnut-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1313,6 +1317,10 @@
     }
     #tonto-hero{
         background: url(resources/images/arizona-one/tonto-nm/tonto-nm-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vermilion-hero {
+        background: url(resources/images/arizona-one/vermilionCliffs/vermilion-cliffs-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #walnut-hero{
