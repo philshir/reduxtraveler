@@ -18,9 +18,13 @@ body {
 }
 
 .reduxLogo {
-height: 40px;
-margin: 5px 0 10px 5px;
+height: 30px;
 border-radius: 5px;
+position: absolute;
+    top: 11px;
+    left: 10px;
+    transform: rotate(-15deg);
+    z-index: 6;
 }
 
 .main-logo {
@@ -885,6 +889,9 @@ margin-bottom: 40px;
   main {
     margin: 0 10px;
     font-size: 18px;
+  }
+  .sub-pic {
+    margin-right: 20px;
   }
   .highlights {
     padding: 0px 0px 10px;
