@@ -379,6 +379,10 @@
     background: url(resources/images/californiaOne/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#hearst-hero {
+    background: url(resources/images/californiaOne/hearst/hearst-castle-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #joshua-tree-hero{
     background: url(resources/images/californiaOne/joshuaTree/hiddenValley/joshua-tree-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1645,6 +1649,10 @@
     }
     #ubehebe-hero{
         background: url(resources/images/californiaOne/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hearst-hero {
+        background: url(resources/images/californiaOne/hearst/hearst-castle-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #joshua-tree-hero{
