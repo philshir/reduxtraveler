@@ -591,6 +591,14 @@
     background: url(resources/images/californiaOne/santa-cruz/sant-cruz-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#palm-springs-hero{
+    background: url(resources/images/californiaOne/palmSprings/palm-springs-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-shasta-hero{
+    background: url(resources/images/californiaOne/shasta/mt-shasta-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #sequoia-hero{
     background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
@@ -1861,6 +1869,14 @@
     }
     #santa-cruz-hero{
         background: url(resources/images/californiaOne/santa-cruz/sant-cruz-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palm-springs-hero{
+        background: url(resources/images/californiaOne/palmSprings/palm-springs-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-shasta-hero{
+        background: url(resources/images/californiaOne/shasta/mt-shasta-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #sequoia-hero{
