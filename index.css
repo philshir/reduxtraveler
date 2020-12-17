@@ -17,6 +17,17 @@ body {
   margin: 0;
 }
 
+.textsvg {
+  font-family: "AvenirLTStd-Book";
+  font-weight: 700;
+  font-size: 13px;
+  fill: rgb(26, 109, 26);
+}
+
+.textsvg:hover {
+  fill: navy;
+}
+
 .reduxLogo {
 height: 30px;
 border-radius: 5px;
@@ -1013,6 +1024,8 @@ max-width: 1170px;
 }
 .title-text-main {
   font-size: 62px;
+  margin: 0 auto;
+  max-width: 1170px;
 }
   .slider {
     top: 80px;
