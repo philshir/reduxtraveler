@@ -221,6 +221,7 @@ margin: 0 0 10px;
   flex-direction: column;
   margin: 0 auto;
   margin-bottom: 30px;
+  width: 100%;
 }
 
 text.st1{
@@ -268,8 +269,7 @@ tspan.st10.s11{
 .map-one .st14{font-size:14px;}
 .map-one .st15{letter-spacing:-1;}
               .map-one {
-                width: 700px;
-                margin: 0 auto;
+                width: 100%;
               }
 .map-one .st8 {
                 font-weight: 900;
@@ -293,8 +293,7 @@ tspan.st10.s11{
 .map-two            .st15{font-size:8px;}
 .map-two            .st16{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
 .map-two {
-  width: 700px;
-  margin: 0 auto;
+  width: 100%;
 }
 .map-two .st8 {
   font-weight: 900;
@@ -316,7 +315,7 @@ tspan.st10.s11{
 .itinerary-map svg {
   width: 50%
 }
-.map img{
+.map svg{
   width: 100%;
   margin: 0 auto;
 }
@@ -1028,7 +1027,10 @@ margin-bottom: 40px;
 .caption-hero {
   font-size: 18px;
 }
-
+.map-one, .map-two {
+  width: 700px;
+  margin: 0 auto;
+}
   main {
     margin: 0 10px;
     font-size: 18px;
