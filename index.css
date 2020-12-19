@@ -32,6 +32,8 @@ strong {
   display: flex;
   bottom: 0;
   background-color: white;
+  width:100%;
+  overflow: hidden;
 }
 .design img {
   height: 100%;
@@ -51,6 +53,7 @@ margin: 0;
   display: flex;
   background-color: white;
   width: 100%;
+  overflow: hidden;
 }
 .design-two img {
   height: 100%;
@@ -188,7 +191,6 @@ h2 {
 }
 .description {
   padding: 0;
-  grid-area: monu;
 }
 .description-one {
   margin: 0 auto;
@@ -200,7 +202,9 @@ h2 {
 .description-one h3{
   margin: 15px 0
 }
-
+.description-main {
+  width: 100%;
+}
 
 .sub-pic {
   position: relative;
@@ -230,7 +234,14 @@ tspan.st1{
 circle.st17 {
   stroke: black
 }
-
+text.st10.s11{
+  font-family: "AvenirLTStd-Black";
+  font-size: 13px;
+}
+tspan.st10.s11{
+  font-family: "AvenirLTStd-Black";
+  font-size: 13px;
+}
 
 .map a:hover text tspan {
   fill: navy;
@@ -294,10 +305,12 @@ circle.st17 {
 }
 .map-one a:hover text tspan, .map-two a:hover text tspan {
   fill: navy;
+  cursor: pointer;
 }
 .map-one a:hover text, .map-two a:hover text {
   fill: navy;
   text-decoration-color: navy;
+  cursor: pointer;
 }
 
 .itinerary-map svg {
@@ -766,9 +779,6 @@ footer ul li{
 }
 
 /* individual page content */
-map {
-  margin: 0 auto;
-}
 .map h3 {
     padding: 0 16px;
 }
@@ -1152,8 +1162,9 @@ max-width: 1170px;
   .map {
     margin-bottom: 50px;
   }
-  .map img {
+  .map svg {
     max-width: 700px;
+    margin: 0 auto;
   }
   .newContainer {
     max-width: 70vw;
