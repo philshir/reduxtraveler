@@ -27,13 +27,24 @@ body {
 strong {
   color:navy
 }
+.redux-logo {
+  height: 30px;
+border-radius: 5px;
+position: absolute;
+font-weight: 700;
+    top: 11px;
+    left: 10px;
+    transform: rotate(-15deg);
+    z-index: 6;
+}
 .design {
-  height:110px;
+  height:60px;
   display: flex;
   bottom: 0;
   background-color: white;
   width:100%;
   overflow: hidden;
+  margin-bottom: 30px;
 }
 .design img {
   height: 100%;
@@ -60,22 +71,13 @@ margin: 0;
   margin: 5px 2.5px;
 }
 
-.reduxLogo {
-height: 30px;
-border-radius: 5px;
-position: absolute;
-    top: 11px;
-    left: 10px;
-    transform: rotate(-15deg);
-    z-index: 6;
-}
-
 .main-logo {
   width: 50%;
   position: absolute;
   left: 30px;
   top:80px;
-  transform: rotate(-15deg) 
+  transform: rotate(-15deg) ;
+  font-weight: 700;
 }
 .dropdown .fa-caret-down {
 color: white
@@ -1027,6 +1029,9 @@ margin-bottom: 40px;
 .caption-hero {
   font-size: 18px;
 }
+.design {
+  height:110px;
+}
 .map-one, .map-two {
   width: 700px;
   margin: 0 auto;
@@ -1042,7 +1047,7 @@ margin-bottom: 40px;
     padding: 0px 0px 10px;
     margin: 0;
   }
-  .reduxLogo {
+  .redux-logo {
     margin: 10px 0 0 50px;
     height: 60px;
     position: absolute;
@@ -1107,7 +1112,7 @@ margin-bottom: 40px;
     padding: 10px;
   }
   .hero {
-    height: 750px;
+    height: 700px;
   }
   .main-nav {
     height: 80px;
@@ -1295,7 +1300,7 @@ max-width: 1170px;
 
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content{
-    height: 40vh;
+    height: auto;
   }
 
   .dropdown:hover .dropdown-content ul{

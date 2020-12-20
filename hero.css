@@ -888,6 +888,10 @@
     background: url(resources/images/nyc/federalHall/federal-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#high-line-hero{
+    background: url(resources/images/nyc/highLine/high-line-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #staten-ferry-hero{
     background: url(resources/images/nyc/statenIsland/staten-island-ferry-hero-1515.jpg) center no-repeat;
     background-size: cover;
