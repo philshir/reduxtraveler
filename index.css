@@ -63,7 +63,7 @@ font-size: 18px;
 margin: 0;
 }
 .design-two{
-  height:80px;
+  margin-bottom: 20px;
   display: flex;
   width: 100%;
   overflow: hidden;
@@ -223,6 +223,22 @@ h2 {
   margin-bottom: 20px;
   width: 100%;
 }
+.map-main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.map-main svg{
+  width: 100%;
+  margin: 0 auto;
+}
+.st1:hover {
+  fill:rgb(46,49,146)
+  }
+
 .map h3 {
   margin: 10px 0;
 }
@@ -840,6 +856,8 @@ footer ul li{
   grid-column-gap: 10px;
   padding: 10px 15px;
   background: #b0d5f7;
+  border-top: solid 1px gray;
+  border-bottom: solid 1px gray;
 }
 
 .info-itinerary {
@@ -914,6 +932,10 @@ footer ul li{
   text-align: center;
   margin: 5px 0;
   font-size: 12px;
+  font-weight: 900;
+}
+.bold {
+  font-weight: 900;
 }
 .hi-h3 {
   padding: 10px 0 5px;
@@ -970,6 +992,12 @@ font-size: 14px;
 margin: 10px 0 0;
 width: 100%;
 text-align: center;
+}
+.main-article p {
+  font-family: "AvenirLTStd-Book";
+}
+.description-main p {
+  font-family: "AvenirLTStd-Book";
 }
 .featured {
   margin: 30px 0;
@@ -1040,7 +1068,7 @@ margin-bottom: 40px;
   height:110px;
 }
 .design-two {
-  height:110px;
+  margin: 20px 0 0 0;
 }
 .design-two img {
   height: 110px;
@@ -1066,11 +1094,11 @@ margin-bottom: 40px;
     position: absolute;
   }
 .verd {
-  font-size: 16px;
+  font-size: 14px;
   margin: 10px 0;
 }
 .border {
-  font-size: 18px;
+  font-size: 14px;
 }
 .featured h4 {
   text-align: left;
@@ -1165,7 +1193,7 @@ margin-bottom: 40px;
   opacity: 0.7;
 }
 .cap {
-  font-size: 16px;
+  font-size: 14px;
 }
 .title-text {
 margin: 0 auto;
