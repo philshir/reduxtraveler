@@ -1,7 +1,5 @@
 
 
-
-
 const hamburger = document.querySelector('.container')
 const slider = document.querySelector(".slider")
 const newOverlay = document.querySelector(".start")
@@ -55,7 +53,7 @@ for (i = 0; i < dropdown.length; i++) {
 
 hamburger.addEventListener("click", tester);
 
-
+/* 
 // Slideshow 
 var slideIndex = 1;
 showSlides(slideIndex);
@@ -84,5 +82,28 @@ function showSlides(n) {
   }
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
+} */
+
+var slideIndex = 0;
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 5000); // Change image every 2 seconds
 }
+
+showSlides();
+
+
 
