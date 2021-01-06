@@ -2258,6 +2258,7 @@
     #mt-rushmore-hero{
         background: url(resources/images/southDakota/mt-rushmore/mt-rushmore-hero-3030.jpg) center no-repeat;
         background-size: cover;
+        background-position-y: -44px;
     }
     #wall-drug-hero{
         background: url(resources/images/southDakota/wall-drug/wall-drug-hero-3030.jpg) center no-repeat;

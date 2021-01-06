@@ -24,9 +24,6 @@ html {
 body {
   margin: 0;
 }
-h2, h3 {
-  margin: 0;
-}
 strong {
   color:navy
 }
@@ -75,11 +72,12 @@ margin: 0;
 }
 
 .main-logo {
-  width: 50%;
+  width: 40%;
+  height: 40%;
   position: absolute;
-  left: 30px;
-  top:80px;
-  transform: rotate(-15deg) ;
+  left: 4%;
+  top: 2%;
+  transform: rotate(-15deg);
   font-weight: 700;
 }
 .dropdown .fa-caret-down {
@@ -184,9 +182,6 @@ main {
   color: black;
   width: 100%;
 }
-h2 {
-  text-align: center;
-}
 .flex h2 {
   text-align: center;
   margin: 15px 0 5px 0;
@@ -221,15 +216,11 @@ h2 {
   justify-content: center;
   flex-direction: column;
   margin: 0 auto;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   width: 100%;
 }
 .map-main {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  margin: 0 auto;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
   width: 100%;
 }
 .map-main svg{
@@ -363,6 +354,9 @@ tspan.st10.s11{
   font-size: 30px;
   font-family: "AvenirLTStd-book";
 }
+.dark {
+  color: #282829;
+}
 .logo-nashville {
   position: relative;
   left: 14px;
@@ -376,15 +370,20 @@ tspan.st10.s11{
 
 .logo-two {
   font-family: "AvenirLTStd-book";
-  font-size: 14px;
   position: absolute;
   bottom: 5px;
   color: white;
-  width: 100%
+  width: 100%;
+  text-align: center;
 }
 .logo-two h2 {
   margin: 0 auto;
-  padding: 10px;
+  padding: 0 10px 10px;
+  font-size: 16px;
+}
+.logo-two h3 {
+  font-size: 11px;
+  margin: 0 10px 5px;
 }
 .logo-two-info {
   display: grid;
@@ -786,8 +785,6 @@ footer ul li{
   width: 100%;
 }
 .dot-container {
-  position: absolute;
-  bottom: 100px;
   width: 100%;
   display:flex;
   justify-content: center;
@@ -1036,10 +1033,7 @@ margin-bottom: 40px;
 .about-title {
   text-align: center;
 }
-.logo-two h3 {
-  font-size: 18px;
-  margin-bottom: 10px;
-}
+
 @media only screen and (min-width: 460px) {
   
   .slider a,
@@ -1065,6 +1059,10 @@ margin-bottom: 40px;
 }
 .main-article h4 {
   margin: 10px;
+}
+.logo-two h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
 }
 .caption-hero {
   font-size: 18px;
@@ -1100,7 +1098,7 @@ margin-bottom: 40px;
     position: absolute;
   }
 .verd {
-  font-size: 14px;
+  font-size: 18px;
   margin: 10px 0;
 }
 .border {
@@ -1143,10 +1141,15 @@ margin-bottom: 40px;
     padding: 50px 0 0 15px;
   }
   .logo-two {
-    font-size: 20px;
     bottom: 14px;
     width: 100%;
   }
+.logo-two h2 {
+  font-size: 38px;
+}
+
+
+
   .logo-two-info {
     grid-template-columns: 1fr 1fr 1fr;
     justify-items: center;
@@ -1508,11 +1511,7 @@ margin: 5px;
 .design-two img {
   height: 78px;
 }
-.logo-two {
-  font-size: 24px;
-  bottom: 120px;
-  width: 100%;
-}
+
 .logo-two-info {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-items: center;
