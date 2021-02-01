@@ -1132,6 +1132,26 @@
     background: url(resources/images/texas-one/guadalupe/guadalupe-mountains-peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#houston-hero{
+    background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/houston-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#buffalo-bayou-park-hero{
+    background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/buffalo-bayou-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hines-waterwall-hero{
+    background: url(resources/images/texas-one/houstonOne/gerald-hines-waterwall/gerald-hines-waterwall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hermann-square-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-sqaure/hermann-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kemah-boardwalk-hero{
+    background: url(resources/images/texas-one/houstonOne/kemah-boardwalk/kemah-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #san-antonio-missions-hero{
     background: url(resources/images/texas-one/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2478,6 +2498,27 @@
     }
     #guadalupe-peak-hero{
         background: url(resources/images/texas-one/guadalupe/guadalupe-mountains-peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #houston-hero{
+        background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/houston-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #buffalo-bayou-park-hero{
+        background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/buffalo-bayou-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom
+    }
+    #hines-waterwall-hero{
+        background: url(resources/images/texas-one/houstonOne/gerald-hines-waterwall/gerald-hines-waterwall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hermann-square-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-sqaure/hermann-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kemah-boardwalk-hero{
+        background: url(resources/images/texas-one/houstonOne/kemah-boardwalk/kemah-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #san-antonio-missions-hero{
