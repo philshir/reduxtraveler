@@ -175,7 +175,7 @@ h3 {
   height: 52px;
   box-shadow: 8px 11px 7px 0px rgba(0, 0, 0, 0.4);
   position: fixed;
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
   color: white;
   top: 0;
   z-index: 7;
@@ -184,7 +184,7 @@ h3 {
 }
 main {
   height: 100%;
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
 
   margin: 0 10px;
 }
@@ -391,14 +391,14 @@ tspan.st10.s11{
   left: 14px;
   color: white;
   font-size: 30px;
-  font-family: "AvenirLTStd-book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-book", Arial, sans-serif;
   bottom: 10px;
   margin: 0;
   top: 42px
 }
 
 .logo-two {
-  font-family: "AvenirLTStd-book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-book", Arial, sans-serif;
   position: absolute;
   bottom: 5px;
   color: white;
@@ -445,7 +445,7 @@ tspan.st10.s11{
   background: white;
   width: 0;
   transition: 0.3s ease-in 0.1s;
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
 }
 .move {
   width: 50vw;
@@ -578,7 +578,7 @@ h3 a {
   background:  #deefff;
   display: block;
   max-width: 1170px;
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
 }
 .topic {
   font-weight: 700;
@@ -604,7 +604,7 @@ h3 a {
   font-size: 16px;
 }
 .high {
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
     font-weight: 800;
     color: navy
 }
@@ -636,13 +636,13 @@ footer ul li{
   padding: 16px 0;
     font-size: 20px;
     text-transform: uppercase;
-    font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+    font-family: "AvenirLTStd-Book", Arial, sans-serif;
     color: black;
   }
 .footer-menu li a {
   font-size: 20px;
   text-transform: uppercase;
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
   color: white;
 }
 .fa-circle {
@@ -830,7 +830,7 @@ footer ul li{
   padding: 15px;
   z-index: 5;
   background-color: #e6f3ff;
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
 }
 
 .title-text {
@@ -956,7 +956,7 @@ footer ul li{
   margin: 5px 0;
   font-size: 12px;
   font-weight: 600;
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
   
 }
 .bold {
@@ -1023,10 +1023,10 @@ width: 100%;
 text-align: center;
 }
 .main-article p {
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
 }
 .description-main p {
-  font-family: "AvenirLTStd-Book", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Book", Arial, sans-serif;
 }
 .featured {
   margin: 30px 0;
