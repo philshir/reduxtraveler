@@ -1,8 +1,8 @@
 let testing = document.querySelector(".testing")
 let monsterScroll = document.querySelectorAll(".places")
-let nyc = document.querySelector(".nyc")
-let northeast = document.querySelector(".northeast")
-    let northeastInfo = document.querySelector(".northeast-info")
+let nyc = document.querySelectorAll(".nyc")
+let northeast = document.querySelectorAll(".northeast")
+    let northeastInfo = document.querySelectorAll(".northeast-info")
 
     function inViewPort(el) {
         let rect = el.getBoundingClientRect()
@@ -15,17 +15,9 @@ let northeast = document.querySelector(".northeast")
     
     function moveHeader() {
 
-        monsterScroll.forEach((item) =>
-      inViewPort(item)
-        ? item.classList.add('appear')
-        : item.classList.remove('appear')
-      )
-        window.requestAnimationFrame(moveHeader)
-}
-    
-function moveHeaderTwo() {
+        
 
-  if (inViewPort(nyc) === true) {
+/*   if (inViewPort(nyc) === true) {
     nyc.classList.add("slide")
   }
 
@@ -35,13 +27,29 @@ function moveHeaderTwo() {
 
   if (inViewPort(northeastInfo) === true) {
     northeastInfo.classList.add("appear")
-  }
+  } */
 
-  window.requestAnimationFrame(moveHeaderTwo)
+  nyc.forEach((item) =>
+      inViewPort(item)
+        ? item.classList.add('slide')
+        : null
+  )
+  northeast.forEach((item) =>
+      inViewPort(item)
+        ? item.classList.add('slide-down')
+        : null
+  )
+  northeastInfo.forEach((item) =>
+      inViewPort(item)
+        ? item.classList.add('appear')
+        : null
+      )
+
+  window.requestAnimationFrame(moveHeader)
 }
     
 window.requestAnimationFrame(moveHeader)
-window.requestAnimationFrame(moveHeaderTwo)
+window.requestAnimationFrame(moveHeader)
 
 
     

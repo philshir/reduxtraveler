@@ -1152,6 +1152,38 @@
     background: url(resources/images/texas-one/houstonOne/kemah-boardwalk/kemah-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cancer-survivors-park-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/cancer-survivors-plaza/cancer-survivors-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hermann-japanese-garden-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/hermann-japanese-tea-garden/hermann-japanese-tea-garden-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jones-reflecting-pool-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mary-gibbs-and-jesse-h-jones-reflection-pool/hermann-park-reflection-pool-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcgovern-lake-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-lake/mcgovern-lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcgovern-gardens-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-centennial-gardens/centennial-gardens-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mecom-colonnade-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mecom-rockwell-colonnade/mecom-rockwell-colonnade-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pioneer-obelisk-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/pioneer-memorial-obelisk/pioneer-memorial-obelisk-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sam-houston-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/sam-houston-statue/sam-houston-statue-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #san-antonio-missions-hero{
     background: url(resources/images/texas-one/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2042,6 +2074,7 @@
     #biscayne-hero{
         background: url(resources/images/floridaOne/biscayne/biscayne-hero-3030.jpg) center no-repeat;
         background-size: cover;
+        background-position: bottom;
     }
     #daytona-hero{
         background: url(resources/images/floridaOne/daytona/daytona-hero-3030.jpg) center no-repeat;
@@ -2519,6 +2552,38 @@
     }
     #kemah-boardwalk-hero{
         background: url(resources/images/texas-one/houstonOne/kemah-boardwalk/kemah-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cancer-survivors-park-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/cancer-survivors-plaza/cancer-survivors-plaza-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hermann-japanese-garden-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/hermann-japanese-tea-garden/hermann-japanese-tea-garden-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jones-reflecting-pool-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mary-gibbs-and-jesse-h-jones-reflection-pool/hermann-park-reflection-pool-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mcgovern-lake-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-lake/mcgovern-lake-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mcgovern-gardens-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-centennial-gardens/centennial-gardens-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mecom-colonnade-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mecom-rockwell-colonnade/mecom-rockwell-colonnade-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pioneer-obelisk-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/pioneer-memorial-obelisk/pioneer-memorial-obelisk-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sam-houston-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/sam-houston-statue/sam-houston-statue-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #san-antonio-missions-hero{
