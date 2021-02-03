@@ -1068,7 +1068,7 @@ margin-bottom: 40px;
 }
 
 .appear {
-  animation: clear 1s 0.5s forwards;
+  animation: clear 1s 1s forwards;
   opacity: 0;
   transform: scale(0.9);
 }
@@ -1077,6 +1077,32 @@ margin-bottom: 40px;
   to {
     opacity: 1;
     transform: none;
+  }
+}
+
+.slide {
+  animation: slide 0.5s 1s forwards;
+  left: -1000px;
+}
+
+@keyframes slide {
+  to {
+    left: 0;
+  }
+}
+.northeast{
+  position: relative;
+}
+.slide-down {
+  animation: slidedown 0.6s 0.5s forwards;
+  top: -20px;
+  opacity: 0;
+}
+
+@keyframes slidedown {
+  to {
+    top: 0;
+    opacity: 1;
   }
 }
 
