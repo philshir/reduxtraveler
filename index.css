@@ -690,13 +690,11 @@ footer ul li{
 }
 .slideshow-container-hero {
   width: 100%;
-  height: 300px;
   position: relative;
   margin: 50px 0 0;
 }
 
 .slideshow-container-hero div img {
-  height: 300px;
 }
 
 /* Hide the images by default */
@@ -1188,14 +1186,7 @@ margin-bottom: 40px;
     left: 15%;
     top:100px;
   }
-  .slideshow-container-hero {
-    height: 700px;
-    margin-top: 15px;
-  }
-  
-  .slideshow-container-hero div img {
-    height: 700px;
-  }
+ 
   .magnifying {
     top: 33px;
     right: 155px;
@@ -1617,5 +1608,13 @@ max-width: 1170px;
 .main-article .portrait {
   width: 390px;
   height: 520px;
+}
+.slideshow-container-hero {
+  height: 700px;
+  margin-top: 15px;
+}
+
+.slideshow-container-hero div img {
+  height: 700px;
 }
 }
