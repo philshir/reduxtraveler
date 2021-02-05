@@ -760,15 +760,23 @@
     background-size: cover;
 }
 #cafe-du-monde-hero{
-    background: url(resources/images/NewOrleans/french-quarter/cafe-du-monde-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/cafe-du-monde/cafe-du-monde-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #french-quarter-hero{
     background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#canal-street-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-louis-cathedral-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #st-louis-cemetery-hero{
-    background: url(resources/images/NewOrleans/no-cemeteries/st-louis-cemetery-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mardi-gras-hero{
@@ -2356,20 +2364,28 @@
         background: url(resources/images/NewOrleans/french-quarter/jackson-square-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #city-park-no-hero{
-        background: url(resources/images/NewOrleans/city-park/new-orleans-city-park-hero-3030.jpg) center no-repeat;
+    #cafe-du-monde-hero{
+        background: url(resources/images/louisiana/new-orleans/cafe-du-monde/cafe-du-monde-hero-1515.jpg) center no-repeat;
         background-size: cover;
     }
-    #cafe-du-monde-hero{
-        background: url(resources/images/NewOrleans/french-quarter/cafe-du-monde-hero-3030.jpg) center no-repeat;
+    #city-park-no-hero{
+        background: url(resources/images/NewOrleans/city-park/new-orleans-city-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #french-quarter-hero{
         background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #canal-street-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #st-louis-cemetery-hero{
-        background: url(resources/images/NewOrleans/no-cemeteries/st-louis-cemetery-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-louis-cemetery-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mardi-gras-hero{
