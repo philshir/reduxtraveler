@@ -752,7 +752,7 @@
     background-size: cover;
 }
 #jackson-square-hero{
-    background: url(resources/images/NewOrleans/french-quarter/jackson-square-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-square/jackson-square-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #city-park-no-hero{
@@ -773,6 +773,10 @@
 }
 #st-louis-cathedral-hero{
     background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#woldenberg-park-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/woldenberg-park/woldenberg-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #st-louis-cemetery-hero{
@@ -2361,7 +2365,7 @@
         background-size: cover;
     }
     #jackson-square-hero{
-        background: url(resources/images/NewOrleans/french-quarter/jackson-square-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-square/jackson-square-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cafe-du-monde-hero{
@@ -2380,8 +2384,12 @@
         background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #st-louis-cemetery-hero{
+    #st-louis-cathedral-hero{
         background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #woldenberg-park-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/woldenberg-park/woldenberg-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #st-louis-cemetery-hero{
