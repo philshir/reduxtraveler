@@ -799,6 +799,10 @@
     background: url(resources/images/louisiana/new-orleans/french-quarter/antoines-restaurant-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
+#bourbon-street-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/bourbon-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #canal-street-hero{
     background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -806,10 +810,17 @@
 #jackson-brewery-hero{
     background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-brewing-company/jackson-brewing-company-hero-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
 }
 #galatoires-hero{
     background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#legends-park-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pat-obriens-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/pat-obriens-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #riverwalk-hero{
@@ -2467,17 +2478,30 @@
         background-size: cover;
         background-position-y: -500px;
     }
+    #bourbon-street-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/bourbon-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
     #canal-street-hero{
         background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #galatoires-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position-y: -100px;
     }
+    #legends-park-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #jackson-brewery-hero{
         background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-brewing-company/jackson-brewing-company-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pat-obriens-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/pat-obriens-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #riverwalk-hero{
