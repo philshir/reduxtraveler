@@ -747,8 +747,28 @@
     background: url(resources/images/savannah-one/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#louisiana-state-capitol-hero{
+    background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-louisiana-state-capitol-hero{
+    background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-kidd-hero{
+    background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #new-orleans-hero{
     background: url(resources/images/NewOrleans/french-quarter/new-orleans-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#algiers-point-hero{
+    background: url(resources/images/louisiana/new-orleans/algiers-point/algiers-point-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#audubon-park-hero{
+    background: url(resources/images/louisiana/new-orleans/audubon-park/audubon-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #jackson-square-hero{
@@ -765,6 +785,10 @@
 }
 #french-quarter-hero{
     background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#antoines-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/antoines-restaurant-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #canal-street-hero{
@@ -2381,8 +2405,29 @@
         background: url(resources/images/savannah-one/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #louisiana-state-capitol-hero{
+        background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-louisiana-state-capitol-hero{
+        background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #uss-kidd-hero{
+        background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #new-orleans-hero{
         background: url(resources/images/NewOrleans/french-quarter/new-orleans-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #algiers-point-hero{
+        background: url(resources/images/louisiana/new-orleans/algiers-point/algiers-point-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #audubon-park-hero{
+        background: url(resources/images/louisiana/new-orleans/audubon-park/audubon-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #jackson-square-hero{
@@ -2390,7 +2435,7 @@
         background-size: cover;
     }
     #cafe-du-monde-hero{
-        background: url(resources/images/louisiana/new-orleans/cafe-du-monde/cafe-du-monde-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/cafe-du-monde/cafe-du-monde-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #city-park-no-hero{
@@ -2400,6 +2445,11 @@
     #french-quarter-hero{
         background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-3030.jpg) center no-repeat;
         background-size: cover;
+    }
+    #antoines-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/antoines-restaurant-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -500px;
     }
     #canal-street-hero{
         background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-3030.jpg) center no-repeat;
