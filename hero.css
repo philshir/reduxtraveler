@@ -747,6 +747,18 @@
     background: url(resources/images/savannah-one/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bayou-coquille-hero{
+    background: url(resources/images/louisiana/barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barataria-marsh-overlook-hero{
+    background: url(resources/images/louisiana/barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barataria-visitor-center-trail-hero{
+    background: url(resources/images/louisiana/barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #galvez-plaza-hero{
     background: url(resources/images/louisiana/baton-rouge/galvez-plaza-north-blvd/galvez-plaza-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -756,7 +768,7 @@
     background-size: cover;
 }
 #old-louisiana-state-capitol-hero{
-    background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #riverfront-plaza-hero{
@@ -767,8 +779,8 @@
     background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#new-orleans-hero{
-    background: url(resources/images/NewOrleans/french-quarter/new-orleans-hero-1515.jpg) center no-repeat;
+#mardi-gras-hero{
+    background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #algiers-point-hero{
@@ -836,7 +848,7 @@
     background-size: cover;
 }
 #steamboat-natchez-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #woldenberg-park-hero{
@@ -845,10 +857,6 @@
 }
 #st-louis-cemetery-hero{
     background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#mardi-gras-hero{
-    background: url(resources/images/NewOrleans/mardiGras/mardi-gras-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hoover-dam-hero{
@@ -1129,7 +1137,7 @@
     background-size: cover;
 }
 #graceland-hero{
-    background: url(resources/images/tenneseeOne/memphisOne/graceland-living-room-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/tenneseeOne/memphisOne/graceland-living-room-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #memphis-pyramid-hero{
@@ -2197,7 +2205,7 @@
         background-size: cover;
     }
     #kentucky-hero{
-        background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
+        background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-3030.jpg) no-repeat center;
         background-size: cover;
     }
     #black-mountain-ky-hero{
@@ -2424,6 +2432,22 @@
         background: url(resources/images/savannah-one/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #mardi-gras-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bayou-coquille-hero{
+        background: url(resources/images/louisiana/barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #barataria-marsh-overlook-hero{
+        background: url(resources/images/louisiana/barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #barataria-visitor-center-trail-hero{
+        background: url(resources/images/louisiana/barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #galvez-plaza-hero{
         background: url(resources/images/louisiana/baton-rouge/galvez-plaza-north-blvd/galvez-plaza-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -2513,7 +2537,7 @@
         background-size: cover;
     }
     #steamboat-natchez-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #st-louis-cathedral-hero{
@@ -2526,10 +2550,6 @@
     }
     #st-louis-cemetery-hero{
         background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #mardi-gras-hero{
-        background: url(resources/images/NewOrleans/mardiGras/mardi-gras-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #south-carolina-hero{
@@ -2674,11 +2694,11 @@
         background-size: cover;
     }
     #saengerfest-hero{
-        background: url(resources/images/texas-one/galvestonOne/saengerfestPark/saengerfest-park-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/texas-one/galvestonOne/saengerfestPark/saengerfest-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #strand-hero{
-        background: url(resources/images/texas-one/galvestonOne/Strand/strand-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/texas-one/galvestonOne/Strand/strand-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #guadalupe-hero{
