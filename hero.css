@@ -747,12 +747,20 @@
     background: url(resources/images/savannah-one/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#galvez-plaza-hero{
+    background: url(resources/images/louisiana/baton-rouge/galvez-plaza-north-blvd/galvez-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #louisiana-state-capitol-hero{
     background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #old-louisiana-state-capitol-hero{
     background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#riverfront-plaza-hero{
+    background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/riverfront-plaza-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #uss-kidd-hero{
@@ -2405,12 +2413,20 @@
         background: url(resources/images/savannah-one/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #galvez-plaza-hero{
+        background: url(resources/images/louisiana/baton-rouge/galvez-plaza-north-blvd/galvez-plaza-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #louisiana-state-capitol-hero{
         background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #old-louisiana-state-capitol-hero{
         background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #riverfront-plaza-hero{
+        background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/riverfront-plaza-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #uss-kidd-hero{
