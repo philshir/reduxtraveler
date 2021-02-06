@@ -771,8 +771,29 @@
     background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#jackson-brewery-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-brewing-company/jackson-brewing-company-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+    background-position-y: -100px;
+}
+#galatoires-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#riverwalk-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spanish-plaza-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/spanish-plaza/spanisg-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #st-louis-cathedral-hero{
     background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#steamboat-natchez-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #woldenberg-park-hero{
@@ -2382,6 +2403,28 @@
     }
     #canal-street-hero{
         background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #galatoires-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #jackson-brewery-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-brewing-company/jackson-brewing-company-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #riverwalk-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #spanish-plaza-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/spanish-plaza/spanisg-plaza-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #steamboat-natchez-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-1515.jpg) center no-repeat;
         background-size: cover;
     }
     #st-louis-cathedral-hero{
