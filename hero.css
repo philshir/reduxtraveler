@@ -859,6 +859,22 @@
     background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#vicksburg-nmp-hero{
+    background: url(resources/images/vicksburg-national-military-park/vicksburg-nmp-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-cairo-hero{
+    background: url(resources/images/vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-illinois-memorial-hero{
+    background: url(resources/images/vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-memorials-hero{
+    background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #hoover-dam-hero{
     background: url(resources/images/nevada-one/hoover/hoover-dam-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2214,6 +2230,22 @@
     }
     #mammoth-hero{
         background: url(resources/images/kentuckyOne/mammoth/mammoth-cave-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vicksburg-nmp-hero{
+        background: url(resources/images/vicksburg-national-military-park/vicksburg-nmp-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #uss-cairo-hero{
+        background: url(resources/images/vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vicksburg-illinois-memorial-hero{
+        background: url(resources/images/vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vicksburg-memorials-hero{
+        background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hoover-dam-hero{
