@@ -715,6 +715,14 @@
     background: url(resources/images/floridaOne/pensacolaBeach/pensacola_beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bridge-lions-hero{
+    background: url(resources/images/floridaOne/stAugustine/bridgeLions/bridge-lions-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#castillo-san-marcos-hero{
+    background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #kentucky-hero{
     background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
     background-size: cover;
@@ -2218,6 +2226,14 @@
     }
     #pensacola-hero{
         background: url(resources/images/floridaOne/pensacolaBeach/pensacola_beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bridge-lions-hero{
+        background: url(resources/images/floridaOne/stAugustine/bridgeLions/bridge-lions-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #castillo-san-marcos-hero{
+        background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #kentucky-hero{
