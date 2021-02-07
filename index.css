@@ -255,8 +255,11 @@ main {
   fill:rgb(46,49,146)
   }
 
-.map h3 {
-  margin: 10px 0;
+.map p {
+  margin: 0 10px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
 }
 .map h2, .map-one h2 {
   text-align: center;
@@ -692,9 +695,6 @@ footer ul li{
   width: 100%;
   position: relative;
   margin: 50px 0 0;
-}
-
-.slideshow-container-hero div img {
 }
 
 /* Hide the images by default */
