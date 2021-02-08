@@ -1308,6 +1308,18 @@
     background: url(resources/images/texas-one/houstonOne/hermann-park/sam-houston-statue/sam-houston-statue-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#love-lock-hero{
+    background: url(resources/images/texas-one/houstonOne/love-lock-bridge/love-lock-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-pauls-united-hero{
+    background: url(resources/images/texas-one/houstonOne/st-pauls-united-methodist-houston/st-paul-methodist-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tranquillity-park-hero{
+    background: url(resources/images/texas-one/houstonOne/tranquillity-park/tranquillity-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #san-antonio-missions-hero{
     background: url(resources/images/texas-one/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2843,6 +2855,20 @@
     #sam-houston-hero{
         background: url(resources/images/texas-one/houstonOne/hermann-park/sam-houston-statue/sam-houston-statue-hero-3030.jpg) center no-repeat;
         background-size: cover;
+    }
+    #love-lock-hero{
+        background: url(resources/images/texas-one/houstonOne/love-lock-bridge/love-lock-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-pauls-united-hero{
+        background: url(resources/images/texas-one/houstonOne/st-pauls-united-methodist-houston/st-paul-methodist-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #tranquillity-park-hero{
+        background: url(resources/images/texas-one/houstonOne/tranquillity-park/tranquillity-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
     }
     #san-antonio-missions-hero{
         background: url(resources/images/texas-one/mission-san-jose/san-antonio-missions-hero-3030.jpg) center no-repeat;
