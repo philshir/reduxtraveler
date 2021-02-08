@@ -723,6 +723,22 @@
     background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cathedral-st-augustine-hero{
+    background: url(resources/images/floridaOne/stAugustine/cathedralBasilicaStAug/st-aug-cathedral-basilica-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flagler-college-hero{
+    background: url(resources/images/floridaOne/stAugustine/flaglerCollege/flagler-college-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#governors-house-hero{
+    background: url(resources/images/floridaOne/stAugustine/governors-house/governors-house-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lightner-museum-hero{
+    background: url(resources/images/floridaOne/stAugustine/lightnerMuseum/st-augustine-lightner-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #kentucky-hero{
     background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
     background-size: cover;
@@ -2234,6 +2250,24 @@
     }
     #castillo-san-marcos-hero{
         background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cathedral-st-augustine-hero{
+        background: url(resources/images/floridaOne/stAugustine/cathedralBasilicaStAug/st-aug-cathedral-basilica-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #flagler-college-hero{
+        background: url(resources/images/floridaOne/stAugustine/flaglerCollege/flagler-college-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #governors-house-hero{
+        background: url(resources/images/floridaOne/stAugustine/governors-house/governors-house-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lightner-museum-hero{
+        background: url(resources/images/floridaOne/stAugustine/lightnerMuseum/st-augustine-lightner-museum-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #kentucky-hero{
