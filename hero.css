@@ -743,6 +743,10 @@
     background: url(resources/images/floridaOne/stAugustine/memorialPresbyterian/memorial-presbyterian-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#city-gates-hero{
+    background: url(resources/images/floridaOne/stAugustine/st-augustine-old-city-gate-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #oldest-schoolhouse-hero{
     background: url(resources/images/floridaOne/stAugustine/st-augustine-oldest-schoolhouse/st-augustine-oldest-schoolhouse-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2304,6 +2308,10 @@
     }
     #memorial-presbyterian-hero{
         background: url(resources/images/floridaOne/stAugustine/memorialPresbyterian/memorial-presbyterian-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #city-gates-hero{
+        background: url(resources/images/floridaOne/stAugustine/st-augustine-old-city-gate-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #oldest-schoolhouse-hero{
