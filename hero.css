@@ -711,6 +711,26 @@
     background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#key-west-hero{
+    background: url(resources/images/floridaOne/key-west/key-west-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#duval-street-hero{
+    background: url(resources/images/floridaOne/key-west/duval-street/duval-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mallory-square-hero{
+    background: url(resources/images/floridaOne/key-west/mallory-square/mallory-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#southernmost-point-hero{
+    background: url(resources/images/floridaOne/key-west/southernmost-point/southernmost-point-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#tropic-cinema-hero{
+    background: url(resources/images/floridaOne/key-west/tropic-cinema/tropic-cinema-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #merritt-boardwalk-hero{
     background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2298,6 +2318,26 @@
     }
     #fort-lauderdale-hero{
         background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #key-west-hero{
+        background: url(resources/images/floridaOne/key-west/key-west-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #duval-street-hero{
+        background: url(resources/images/floridaOne/key-west/duval-street/duval-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mallory-square-hero{
+        background: url(resources/images/floridaOne/key-west/mallory-square/mallory-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #southernmost-point-hero{
+        background: url(resources/images/floridaOne/key-west/southernmost-point/southernmost-point-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tropic-cinema-hero{
+        background: url(resources/images/floridaOne/key-west/tropic-cinema/tropic-cinema-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #merritt-boardwalk-hero{
