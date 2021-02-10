@@ -747,8 +747,44 @@
     background: url(resources/images/floridaOne/merrittIsland/cruickshank-trail/cruickshank-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#torch-friendship-hero{
+    background: url(resources/images/floridaOne/miami/antorcha-amistad/antocha-amistad-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bal-harbour-shops-hero{
+    background: url(resources/images/floridaOne/miami/bal-harbour-shops/bal-harbour-shops-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bayside-marketplace-hero{
+    background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#freedon-tower-hero{
+    background: url(resources/images/floridaOne/miami/freedom-tower/freedom-tower-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#holocaust-memorial-hero{
+    background: url(resources/images/floridaOne/miami/holocaust-memorial/holocaust-memorial-miami-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lincoln-road-hero{
+    background: url(resources/images/floridaOne/miami/lincoln-rd/lincoln-road-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#Little-havana-hero{
+    background: url(resources/images/floridaOne/miami/little-havana/little-havana-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #south-pointe-park-hero{
     background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-bernard-church-hero{
+    background: url(resources/images/floridaOne/miami/st-bernard-de-clairvaux-church/st-bernard-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wynwood-walls-hero{
+    background: url(resources/images/floridaOne/miami/wynwood-walls/wynwood-walls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #panama-hero{
@@ -2344,10 +2380,53 @@
         background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #torch-friendship-hero{
+        background: url(resources/images/floridaOne/miami/antorcha-amistad/antocha-amistad-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bal-harbour-shops-hero{
+        background: url(resources/images/floridaOne/miami/bal-harbour-shops/bal-harbour-shops-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bayside-marketplace-hero{
+        background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #freedon-tower-hero{
+        background: url(resources/images/floridaOne/miami/freedom-tower/freedom-tower-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #holocaust-memorial-hero{
+        background: url(resources/images/floridaOne/miami/holocaust-memorial/holocaust-memorial-miami-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lincoln-road-hero{
+        background: url(resources/images/floridaOne/miami/lincoln-rd/lincoln-road-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #Little-havana-hero{
+        background: url(resources/images/floridaOne/miami/little-havana/little-havana-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-beach-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/south-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
     #south-pointe-park-hero{
         background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #st-bernard-church-hero{
+        background: url(resources/images/floridaOne/miami/st-bernard-de-clairvaux-church/st-bernard-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wynwood-walls-hero{
+        background: url(resources/images/floridaOne/miami/wynwood-walls/wynwood-walls-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: top;
+    }
+   
     #black-point-drive-hero{
         background: url(resources/images/floridaOne/merrittIsland/black-point-wildlife-drive/black-point-scenic-drive-hero-3030.jpg) center no-repeat;
         background-size: cover;
