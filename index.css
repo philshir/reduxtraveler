@@ -809,6 +809,7 @@ footer ul li{
   width: 100%;
 }
 .dot-container {
+  margin: 5px;
   width: 100%;
   display:flex;
   justify-content: center;
@@ -1208,7 +1209,7 @@ margin-bottom: 40px;
     padding: 50px 0 0 15px;
   }
   .logo-two {
-    bottom: 14px;
+    bottom: 10px;
     width: 100%;
   }
   .logo-two h1 {
