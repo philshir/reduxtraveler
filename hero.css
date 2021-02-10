@@ -775,6 +775,23 @@
     background: url(resources/images/floridaOne/miami/little-havana/little-havana-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#south-beach-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/south-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+#casa-casuarina-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/casa-casuarina/casa-casuarina-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#espanola-way-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/espanola-way/espanola-way-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#las-olas-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/las-olas/las-olas-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #south-pointe-park-hero{
     background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2412,6 +2429,18 @@
         background: url(resources/images/floridaOne/miami/south-beach/south-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: bottom;
+    }
+    #casa-casuarina-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/casa-casuarina/casa-casuarina-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #espanola-way-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/espanola-way/espanola-way-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #las-olas-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/las-olas/las-olas-hero-3030.jpg) center no-repeat;
+        background-size: cover;
     }
     #south-pointe-park-hero{
         background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-3030.jpg) center no-repeat;
