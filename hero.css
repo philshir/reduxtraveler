@@ -707,6 +707,30 @@
     background: url(resources/images/floridaOne/evergladesNP/westLakeTrail/west-lake-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#fort-lauderdale-hero{
+    background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#merritt-boardwalk-hero{
+    background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-point-drive-hero{
+    background: url(resources/images/floridaOne/merrittIsland/black-point-wildlife-drive/black-point-scenic-drive-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oak-hammock-hero{
+    background: url(resources/images/floridaOne/merrittIsland/oak-hammock-trail/oak-hammock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cruickshank-trail-hero{
+    background: url(resources/images/floridaOne/merrittIsland/cruickshank-trail/cruickshank-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-pointe-park-hero{
+    background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #panama-hero{
     background: url(resources/images/floridaOne/panamaCity/panama-city-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2270,6 +2294,30 @@
     }
     #west-lake-hero{
         background: url(resources/images/floridaOne/evergladesNP/westLakeTrail/west-lake-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-lauderdale-hero{
+        background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #merritt-boardwalk-hero{
+        background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-pointe-park-hero{
+        background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #black-point-drive-hero{
+        background: url(resources/images/floridaOne/merrittIsland/black-point-wildlife-drive/black-point-scenic-drive-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #oak-hammock-hero{
+        background: url(resources/images/floridaOne/merrittIsland/oak-hammock-trail/oak-hammock-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cruickshank-trail-hero{
+        background: url(resources/images/floridaOne/merrittIsland/cruickshank-trail/cruickshank-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #panama-hero{
