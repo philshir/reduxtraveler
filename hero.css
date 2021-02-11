@@ -7,6 +7,10 @@
     background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-1515.jpg) no-repeat center;
     background-size: cover;
 }
+#cheaha-hero{
+    background: url(resources/images/cheaha-mountain/cheaha-mountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #arkansas-hero{
     background: url(resources/images/ArkansasOne/hot-springs-np/arkansas-hero-1515.jpg) no-repeat center;
     background-size: cover;
@@ -1690,6 +1694,10 @@
 @media only screen and (min-width: 50em) {
     #itinerary-hero {
         background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #cheaha-hero{
+        background: url(resources/images/cheaha-mountain/cheaha-mountain-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #apache-hero{
