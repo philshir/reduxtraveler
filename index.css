@@ -606,6 +606,9 @@ h3 a {
   background: #deefff;
   font-size: 16px;
 }
+.state-description p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .high {
   font-family: "AvenirLTStd-Book", Arial, sans-serif;
     font-weight: 800;
@@ -1155,6 +1158,9 @@ margin-bottom: 40px;
   width: 700px;
   margin: 0 auto;
 }
+.state-description p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
   main {
     margin: 0 10px;
     font-size: 18px;

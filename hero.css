@@ -759,6 +759,26 @@
     background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#coral-gables-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/coral-gables-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coral-gables-city-hall-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/cityHall/coral-gables-city-hall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coral-gables-congregational-church-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/congregationalUnited/coral-gables-congregational-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#miami-biltmore-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/biltmore-coral-gables-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#venetian-pool-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/venetianPool/venetian-pool-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #freedon-tower-hero{
     background: url(resources/images/floridaOne/miami/freedom-tower/freedom-tower-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
@@ -2407,6 +2427,27 @@
     }
     #bayside-marketplace-hero{
         background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coral-gables-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/coral-gables-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coral-gables-city-hall-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/cityHall/coral-gables-city-hall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coral-gables-congregational-church-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/congregationalUnited/coral-gables-congregational-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #miami-biltmore-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/biltmore-coral-gables-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #venetian-pool-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/venetianPool/venetian-pool-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #freedon-tower-hero{
