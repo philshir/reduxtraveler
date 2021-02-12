@@ -1044,6 +1044,14 @@
     background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#branson-landing-hero{
+    background: url(resources/images/branson/branson-landing/branson-landing-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#table-rock-hero{
+    background: url(resources/images/branson/table-rock-mo/table-rock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #hoover-dam-hero{
     background: url(resources/images/nevada-one/hoover/hoover-dam-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2601,6 +2609,14 @@
     }
     #vicksburg-memorials-hero{
         background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #branson-landing-hero{
+        background: url(resources/images/branson/branson-landing/branson-landing-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #table-rock-hero{
+        background: url(resources/images/branson/table-rock-mo/table-rock-hero-1515.jpg) center no-repeat;
         background-size: cover;
     }
     #hoover-dam-hero{
