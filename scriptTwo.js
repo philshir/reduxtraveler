@@ -31,7 +31,12 @@ let northeast = document.querySelectorAll(".northeast")
 
   nyc.forEach((item) =>
       inViewPort(item)
-        ? item.classList.add('slide')
+        ? item.classList.add('appear2')
+        : null
+      )
+      nyc.forEach((item) =>
+      inViewPort(item)
+        ? item.classList.add('appear')
         : null
   )
   northeast.forEach((item) =>
@@ -51,6 +56,14 @@ let northeast = document.querySelectorAll(".northeast")
 window.requestAnimationFrame(moveHeader)
 window.requestAnimationFrame(moveHeader)
 
+var flkty = new Flickity( '.main-gallery', {
+  // options
+  cellAlign: 'left',
+  contain: true,
+  wrapAround: true,
+  autoPlay: true,
+  pauseAutoPlayOnHover: false
+});
 
     
     

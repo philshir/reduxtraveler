@@ -11,10 +11,11 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
     <script src="https://kit.fontawesome.com/ea97e0442a.js" crossorigin="anonymous"></script>
 </head>
 
-<body  class="article-color">
+<body>
     <div class="start"></div>
       <nav class="main-nav site-nav" id="menuSlider">
         <div >
@@ -89,7 +90,7 @@
     <button class="dropbtn">PLACES TO GO <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      
+      <div class="full-nav-columns">
           <ul class="menu-list">
             <li><a href="./Regions/Southwest/southwest.html"><strong>Southwest</strong></a></li>
           <li><a href="./Regions/Southwest/Arizona/arizona.html">Arizona</a></li>
@@ -136,6 +137,7 @@
                   <li>   <a href="./Regions/Northeast/IndependenceHall.html">Pennsylvania</a></li>
                     <li>   <a href="./Regions/Northeast/WashingtonDC/washingtonDC.html">Washington DC</a></li>
         </ul>
+      </div>
         </div>
       </div>
     <a href="./itineraries/reduxTravelerItineraries.html">ITINERARIES
@@ -144,42 +146,29 @@
 </div>
     </nav>
  <!--Hero-->
-
+ <img class="main-logo" src="resources/images/reduxTravelerLogoFullSize.png" alt="redux traveler logo home page" />
+ <div class="logo-two"><h1>Detailed guide to the best life changing destinations in the US!</h1>
+   <h2 class="main-sub-header">Over 500 Sites in 25 States!</h2>
+   <h3>National Parks &middot National Monuments &middot National Historic Landmarks &middot State Parks &middot Mountains &middot Beaches </h3>
+   </div>
  <!-- Slideshow container -->
-<div class="slideshow-container-hero">
+<div class="main-gallery " >
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides ">
+  <div class="gallery-cell " '>
     <img src="./resources/images/californiaOne/yosemite-one/tunnel-view/yosemite-tunnel-view-hero-3030.jpg" alt="Yosemite Tunnell View Hero Image">
     <!-- <div class="text">Caption Text</div> -->
   </div>
 
-  <div class="mySlides">
+  <div class="gallery-cell">
     <img src="./resources/images/crater-lake/crater-lake-hero-3030.jpg" alt="Crater Lake Hero Image">
    <!--  <div class="text">Caption Two</div> -->
   </div>
 
-  <div class="mySlides ">
+  <div class="gallery-cell ">
     <img src="./resources/images/utah-one/arches-one/delicate-arch/arches-delicate-arch-hero-3030.jpg" alt="Delicate Arch Hero Image">
    <!--  <div class="text">Caption Three</div> -->
   </div>
-
-  <!-- Next and previous buttons -->
-  <!-- <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a> -->
-
-  <img class="main-logo" src="resources/images/reduxTravelerLogoFullSize.png" alt="redux traveler logo home page" />
-
-  <div class="logo-two"><h1>Detailed guide to the best life changing destinations in the US!</h1>
-    <h2 class="main-sub-header">Over 500 Sites in 25 States!</h2>
-    <h3>National Parks &middot National Monuments &middot National Historic Landmarks &middot State Parks &middot Mountains &middot Beaches </h3>
-    <div class="dot-container">
-      <span class="dot" onclick="currentSlide(1)"></span>
-      <span class="dot" onclick="currentSlide(2)"></span>
-      <span class="dot" onclick="currentSlide(3)"></span>
-    </div>
-    </div>
-    <!-- The dots/circles -->
 
 </div>
     <div class="design">
@@ -538,6 +527,8 @@ Southeast-->
           </div>
     </footer>
     <script src="./indexMain.js" ></script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="./scriptTwo.js"></script>
+    
 </body>
 </html>
