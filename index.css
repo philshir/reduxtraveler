@@ -235,12 +235,23 @@ main {
   width: 100%;
   overflow: hidden;
 }
+.description-main h3 {
+  margin: 0;
+}
+.map-main h2 {
+  margin: 0;
+  font-size: 34px;
+}
+.map-main p {
+  margin: 0;
+  font-size: 18px;
+}
 
 .sub-pic {
   position: relative;
 }
 .main-details {
-  font-size: 12px;
+  font-size: 16px;
   margin-bottom: 20px;
 }
 .map {
@@ -281,6 +292,9 @@ main {
 }
 .slideshow-container h2 {
   text-align: center;
+}
+.slideshow-container {
+  padding-bottom: 60px;
 }
 
 text.st1{
@@ -1134,7 +1148,7 @@ margin-bottom: 40px;
   }
   .redux-logo {
     margin: 10px 0 0 50px;
-    height: 60px;
+    height: 55px;
     position: absolute;
   }
 .verd {
