@@ -199,7 +199,7 @@ main {
 }
 .flex {
   display: flex;
-  padding-top: 20px;
+  padding-top: 50px;
   border-bottom: 1px solid gray;
   align-items: center;
   flex-direction: column;
@@ -222,7 +222,7 @@ main {
   font-size: 14px;
 }
 .description {
-  padding: 0;
+  padding: 0 10px;
 }
 .description-one {
   margin: 0 auto;
@@ -289,6 +289,11 @@ main {
 }
 .map h2, .map-one h2 {
   text-align: center;
+  font-size: 24px;
+}
+.map h3 {
+  font-size: 18px;
+  margin: 0;
 }
 .slideshow-container h2 {
   text-align: center;
@@ -802,7 +807,7 @@ body {
 
 .breadcrumb {
   margin: 0 auto;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 700;
   max-width: 1170px;
   padding-top: 5px;
@@ -810,6 +815,7 @@ body {
 .breadcrumb-state {
   margin: 15px;
   font-weight: 700;
+  font-size: 14px;
 }
 
 .general {
@@ -906,12 +912,11 @@ body {
   text-align: center;
   margin: 5px 0;
   font-size: 12px;
-  font-weight: 600;
   font-family: Arial, sans-serif;
   
 }
 .bold {
-  font-weight: 900;
+  font-weight: 700;
 }
 .hi-h3 {
   padding: 10px 0 5px;
@@ -979,16 +984,16 @@ text-align: center;
 .description-main p {
   font-family: Arial, sans-serif;
 }
-.featured {
-  margin: 30px 0;
-}
 .featured p {
-  font-size: 14px;
+  font-size: 13px;
   margin: 5px 0px 20px;
 }
 .featured h4 {
   margin: 5px 0;
   text-align: center;
+}
+.featured h3 {
+  margin: 0;
 }
 .navy {
   color: navy;
@@ -1001,8 +1006,14 @@ h4.navy {
   text-align: center;
 }
 .article-grid {
-  margin: 10px 0 50px;
+  margin: 0 0 50px;
 
+}
+.article-grid-title{
+  margin: 25px 0;
+  text-align: center;
+  font-weight: 700;
+  color: navy;
 }
 .itinerary-margin {
   margin-top: 28px;
@@ -1097,6 +1108,22 @@ margin-bottom: 40px;
 .main-article h4 {
   margin: 10px;
 }
+.featured {
+  margin: 30px 0;
+}
+.breadcrumb {
+  font-size: 14px;
+  padding-top: 0;
+}
+.navy {
+  font-size: 22px;
+}
+.article-grid-title {
+  font-size: 20px;
+}
+.breadcrumb-state {
+  font-size: 16px;
+}
 .flickity-button {
   width: 44px !important;
   height: 44px !important;
@@ -1137,6 +1164,7 @@ margin-bottom: 40px;
   main {
     margin: 0 10px;
     font-size: 18px;
+    padding-bottom: 50px;
   }
   .sub-pic {
     margin-right: 20px;
@@ -1152,11 +1180,14 @@ margin-bottom: 40px;
     position: absolute;
   }
 .verd {
-  font-size: 18px;
+  font-size: 19px;
   margin: 10px 0;
 }
 .border {
   font-size: 14px;
+}
+.featured h3 {
+  font-size: 22px;
 }
 .featured h4 {
   text-align: left;
@@ -1461,7 +1492,7 @@ max-width: 1170px;
     grid-column: 2;
   }
 .featured p {
-  font-size: 16px;
+  font-size: 15px;
   margin: 5px 0px;
 }
 
