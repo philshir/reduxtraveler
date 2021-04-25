@@ -124,11 +124,6 @@ a.itin-menu {
 .trail-description a h4, .trail-description h4{
   font-size: 20px;
 }
-.light-bg{
-  background: black;
-  padding: 0 10px;
-  opacity: .7;}
-
 h3 {
   text-align: center;
 }
@@ -317,22 +312,22 @@ main {
 }
 
 text.st1{
-  font-family: "AvenirLTStd-Black", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Black", "Cambria Math", sans-serif;
   fill: black
 }
 tspan.st1{
-  font-family: "AvenirLTStd-Black", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Black", "Cambria Math", sans-serif;
   fill: black
 }
 circle.st17 {
   stroke: black
 }
 text.st10.s11{
-  font-family: "AvenirLTStd-Black", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Black", "Cambria Math", sans-serif;
   font-size: 13px;
 }
 tspan.st10.s11{
-  font-family: "AvenirLTStd-Black", Verdana, sans-serif;
+  font-family: "AvenirLTStd-Black", "Cambria Math", sans-serif;
   font-size: 13px;
 }
 
@@ -433,6 +428,7 @@ tspan.st10.s11{
   color: white;
   font-size: 30px;
   font-family: Arial;
+  text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
 }
 
 .logo-nashville {
@@ -663,12 +659,15 @@ h2 a {
   font-size: 16px;
 }
 .state-description p{
-font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: "Cambria Math", Geneva, Tahoma, sans-serif;
 }
 .high {
   font-family: Arial, sans-serif;
     font-weight: 800;
     color: navy
+}
+.highlights {
+  font-family: Arial, Geneva, Tahoma, sans-serif !important;
 }
 
 footer {
@@ -723,7 +722,7 @@ footer ul li{
 }
 .itinerary-text {
   color: white;
-  font-family: Arial, Verdana, sans-serif;
+  font-family: Arial, "Cambria Math", sans-serif;
   position: absolute;
   bottom: 5%;
   text-align: center;
@@ -978,7 +977,7 @@ body {
   margin-top: 28px;
 }
 .verd {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: "Cambria Math", Arial, sans-serif;
   font-size: 16px;
   margin: 10px 0 20px;
   width: 100%;
@@ -991,10 +990,10 @@ width: 100%;
 text-align: center;
 }
 .main-article p {
-  font-family: Arial, sans-serif;
+  font-family: "Cambria Math", Arial, sans-serif;
 }
 .description-main p {
-  font-family: Arial, sans-serif;
+  font-family: "Cambria Math", Arial, sans-serif;
 }
 .featured p {
   font-size: 13px;
@@ -1012,6 +1011,7 @@ text-align: center;
   text-align: center;
   font-size: 20px;
   font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif !important;
 }
 h4.navy {
   color: black;
@@ -1181,7 +1181,7 @@ margin-bottom: 40px;
   margin: 0 auto;
 }
 .state-description p{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Cambria Math", Geneva, Tahoma, sans-serif;
   }
   main {
     margin: 0 10px;
@@ -1300,6 +1300,9 @@ margin-bottom: 40px;
   }
 .start {
   display: none;
+}
+.star {
+  font-size: 24px;
 }
 .caption {
   margin: 0;
