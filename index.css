@@ -345,7 +345,7 @@ tspan.st10.s11{
 .map-one .st5{fill:none;stroke:#000;stroke-width:.75;stroke-miterlimit:10}
 .map-one .st6{fill:#fff}
 .map-one .st6,.st7{stroke:#000;stroke-miterlimit:10}
-.map-one .st8{font-family:HelveticaNeue-Bold}
+.map-one .st8{font-family:HelveticaNeue-Bold; font-weight: 900;}
 .map-one .st9{font-size:10px}
 .map-one .st10{font-size:9.6998px}
 .map-one .st11{fill:#fff;stroke:#000;stroke-width:2;stroke-miterlimit:10}
@@ -358,7 +358,7 @@ tspan.st10.s11{
 .map-two .st4{fill:none;stroke:#000;stroke-width:.75;stroke-miterlimit:10}
 .map-two .st6{fill:#fff}
 .map-two .st6,.st7{stroke:#000;stroke-miterlimit:10}
-.map-two .st8{font-family:HelveticaNeue-Bold}
+.map-two .st8{font-family:HelveticaNeue-Bold; font-weight: 900;}
 .map-two .st9{font-size:6.0854px}
 .map-two .st10{font-size:4.5075px}
 .map-two .st11{font-family:AvenirLTStd-Black}
