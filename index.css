@@ -958,6 +958,13 @@ body {
   grid-column-end: 3;
   margin-top: 5px;
 }
+.google-map {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+.google-map iframe {
+  width: 100%;
+}
 .itinerary-paragraph {
   font-family: Verdana, Arial, sans-serif;
   margin: 10px 10px 28px;
@@ -1030,11 +1037,16 @@ h4.navy {
 
 }
 .article-grid-title{
-  margin: 25px 0;
+  margin: 25px 0 5px;
   text-align: center;
   font-weight: 700;
   color: navy;
 }
+/* .article-grid-click {
+  text-align: center;
+  font-weight: 500;
+  color: navy;
+} */
 .itinerary-margin {
   margin-top: 28px;
 }

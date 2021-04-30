@@ -11,6 +11,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -200,14 +201,21 @@ The Falls are viewable from Haines Overlook Park on the south and Mary Ellen Kra
       </div>
     </div>
     <p class="article-grid-title">Paterson Great Falls National Historical Park Pics</p>
+    <!-- <p class="article-grid-click">Click Image to Enlarge</p> -->
     <div class="article-grid">
-        <figure><img class="deco-img portrait" src="../../../resources/images/newJersey/paterson-falls/paterson-falls-hamilton-statue-750wPortrait.jpg" alt="Paterson Great Falls Aelexander Hamilton Statue" />
+        <figure>
+          <a href="../../../resources/images/newJersey/paterson-falls/paterson-falls-hamilton-statue-750wPortrait.jpg" data-lightbox="image-1" data-title="Founding Father Alexander Hamilton Statue">
+          <img class="deco-img portrait" src="../../../resources/images/newJersey/paterson-falls/paterson-falls-hamilton-statue-750wPortrait.jpg" alt="Paterson Great Falls Aelexander Hamilton Statue" />
+        </a>
           <figcaption class="cap">Founding Father Alexander Hamilton Statue</figcaption></figure>
       <figure><img class="deco-img portrait" src="../../../resources/images/newJersey/paterson-falls/paterson-falls-waterfall-bridge-750wPortrait.jpg" alt="Paterson Great Falls Waterfall Bridge" />
         <figcaption class="cap">View of Bridge and Waterfall</figcaption></figure>
         <figure><img class="deco-img" src="../../../resources/images/newJersey/paterson-falls/paterson-falls-building-1000.jpg" alt="Paterson Great Falls Building" />
             <figcaption class="cap">Industrial Building</figcaption></figure>
-            <figure><img class="deco-img " src="../../../resources/images/newJersey/paterson-falls/paterson-falls-waterfalls-1000.jpg" alt="Paterson Great Falls Warerfalls" />
+            <figure>
+              <a href="../../../resources/images/newJersey/paterson-falls/paterson-falls-waterfalls-1000.jpg" data-lightbox="image-1" data-title="Full View of Falls">
+              <img class="deco-img " src="../../../resources/images/newJersey/paterson-falls/paterson-falls-waterfalls-1000.jpg" alt="Paterson Great Falls Waterfalls" />
+            </a>
                 <figcaption class="cap">Full View of Falls</figcaption></figure>
            </div>
       <!-- main -->
@@ -298,5 +306,12 @@ The Falls are viewable from Haines Overlook Park on the south and Mary Ellen Kra
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>
