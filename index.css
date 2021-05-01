@@ -110,7 +110,7 @@ margin: 5px;
   transition: 0.7s;
   color: #0071bc;
 }
-a:hover {
+a:hover, .description-one a:hover {
   color: #8fcffa;
 }
 .social-links-footer a svg:hover {
