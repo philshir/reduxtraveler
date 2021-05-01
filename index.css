@@ -96,6 +96,15 @@ color: white
   font-size: 34px;
   margin: 5px;
 }
+.main-sub-header-nyc {
+font-size: 18px;
+margin: 5px;
+text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
+}
+.main-sub-header-best-itinerary {
+  font-size: 18px;
+margin: 5px;
+}
  a {
   text-decoration: none;
   transition: 0.7s;
@@ -470,20 +479,52 @@ tspan.st10.s11{
   font-weight: 900;
   width: 100%;
 }
-.nyc {
+.main-page-title-nyc {
+  position: absolute;
+  text-align: center;
+  z-index: 5;
+  font-size: 68px;
+  top: 16px;
   color: #171780;
   font-family: 'Times New Roman', Times, serif;
-  
+  text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
+  font-weight: 900;
+  width: 100%;
+}
+
+.nyc-p {
+  margin: 0;
+  font-size: 20px;
 }
 .new-locations {
   font-family: "AvenirLTStd-Book";
   color: #1b143b;
+  text-align: right;
+  position: absolute;
+  margin-right: 25px;
+  text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
+  font-weight: 900;
+}
+.new-locations p {
+  font-size: 22px;
+}
+
+.new-locations ul {
+  width: 100%;
+  margin: 150px 0 0 0;
+  padding: 0;
+  list-style: none;
+  color: #9cec9b;
 }
 .best-itinerary{
-  color: #000;
+  color: #fff;
   font-family: "AvenirLTStd-Book";
   text-align: left;
-  margin: 25px;
+  top: 20px;
+  left: 36px;
+  color: white;
+  width: 25%;
+  font-size: 20px;
 }
 .logo-two ul li {
   list-style: none;
@@ -1218,6 +1259,38 @@ margin-bottom: 40px;
 .main-page-title{
   font-size: 118px;
   top: 90px;
+}
+.new-locations {
+  right: 0;
+  margin-right: 60px;
+}
+.new-locations p {
+  font-size: 92px;
+    top: 90px;
+}
+.best-itinerary {
+  font-size: 68px;
+  width: 40%;
+  margin-left: 60px;
+}
+.main-sub-header-best-itinerary {
+  font-size: 112px;
+margin: 25px;
+}
+.main-sub-header-nyc {
+  font-size: 46px;
+  margin: 30px;
+  }
+  .main-page-title-nyc{
+    font-size: 192px;
+    top: 50px
+  }
+.nyc-p {
+    font-size: 48px;
+  }
+.new-locations ul {
+  font-size: 42px;
+  margin: 40px 0 0 0;
 }
 .logo-two h3 {
   font-size: 18px;
