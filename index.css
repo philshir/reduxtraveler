@@ -102,8 +102,12 @@ margin: 5px;
 text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
 }
 .main-sub-header-best-itinerary {
-  font-size: 18px;
-margin: 5px;
+  font-size: 32px;
+margin: 10px;
+}
+
+.main-sub-header-best-itinerary a:visited {
+  color: #fff;
 }
  a {
   text-decoration: none;
@@ -504,12 +508,13 @@ tspan.st10.s11{
   margin-right: 25px;
   text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
   font-weight: 900;
+  right: 0;
 }
 .new-locations p {
   font-size: 22px;
 }
 
-.new-locations ul {
+.new-locations ul, .new-locations ul li a {
   width: 100%;
   margin: 150px 0 0 0;
   padding: 0;
@@ -1257,39 +1262,39 @@ margin-bottom: 40px;
   height: 500px
 }
 .main-page-title{
-  font-size: 118px;
-  top: 90px;
+  font-size: 88px;
+  top: 37px;
 }
 .new-locations {
   right: 0;
-  margin-right: 60px;
+  margin-right: 100px;
 }
 .new-locations p {
-  font-size: 92px;
+  font-size: 58px;
     top: 90px;
 }
 .best-itinerary {
-  font-size: 68px;
+  font-size: 40px;
   width: 40%;
   margin-left: 60px;
 }
 .main-sub-header-best-itinerary {
-  font-size: 112px;
+  font-size: 60px;
 margin: 25px;
 }
 .main-sub-header-nyc {
-  font-size: 46px;
+  font-size: 26px;
   margin: 30px;
   }
   .main-page-title-nyc{
-    font-size: 192px;
+    font-size: 122px;
     top: 50px
   }
 .nyc-p {
-    font-size: 48px;
+    font-size: 32px;
   }
 .new-locations ul {
-  font-size: 42px;
+  font-size: 30px;
   margin: 40px 0 0 0;
 }
 .logo-two h3 {
@@ -1315,8 +1320,9 @@ margin: 25px;
   width: 700px;
   margin: 0 auto;
 }
-.state-description p{
-  font-family: "Cambria Math", Geneva, Tahoma, sans-serif;
+.state-description p {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
   }
   main {
     margin: 0 10px;
@@ -1802,7 +1808,36 @@ max-width: 1170px;
   margin-top: 15px;
   overflow: unset;
 }
-
+.main-page-title{
+  font-size: 118px;
+  top: 90px
+}
+.new-locations p {
+  font-size: 92px;
+}
+.new-locations ul {
+  font-size: 42px;
+}
+.main-sub-header-nyc {
+  font-size: 46px;
+  margin: 30px;
+  }
+  .main-page-title-nyc{
+    font-size: 192px;
+    top: 50px
+  }
+  .best-itinerary {
+    font-size: 68px;
+    width: 40%;
+    margin-left: 60px;
+  }
+  .main-sub-header-best-itinerary {
+    font-size: 112px;
+  margin: 25px;
+  }
+.nyc-p {
+    font-size: 48px;
+  }
 .logo-two h1 {
   font-size: 40px;
   margin: 0;
