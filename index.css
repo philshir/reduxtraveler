@@ -670,6 +670,24 @@ p {
 
 .img-cards-intinerary-portrait {
   position: relative;
+  overflow: hidden;
+  margin: 5px;
+}
+
+.itin-overlay {
+  background-color: black;
+  opacity: 0;
+  transition: 0.5s;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+}
+.img-cards-intinerary-portrait:hover div {
+  opacity: 0.5;
+}
+.img-cards-intinerary-portrait:hover img {
+  transform: scale(1.5);
 }
 
 .newerOver {
@@ -816,12 +834,23 @@ footer ul li{
   font-family: Arial, "Cambria Math", sans-serif;
   position: absolute;
   bottom: 5%;
+  transition: 0.4s ease-in;
   text-align: center;
   margin: 0 10px;
+  z-index: 2;
 }
 .itinerary-text span {
   font-family: 'Segoe Script', 'Bradley Hand', 'Brush Script MT';
   text-shadow: 0px 5px 10px rgb(40 40 40);
+}
+.itinerary-text ul li{
+
+}
+.multi-page-links
+{
+  width: 100%;
+  text-align: center;
+  margin: 20px;
 }
 .top {
   top: 42px;
@@ -858,11 +887,13 @@ footer ul li{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
+  
 }
 .grid img {
   width: 100%;
   height: auto;
-  padding: 5px;
+  position: relative;
+  transition: 0.5s;
 }
 
 .mySlides img {
@@ -1301,6 +1332,9 @@ margin: 25px;
   font-size: 18px;
   margin-bottom: 10px;
 }
+/* .img-cards-intinerary-portrait:hover .itinerary-text {
+  bottom: 15px;
+} */
 .caption-hero {
   font-size: 18px;
 }
