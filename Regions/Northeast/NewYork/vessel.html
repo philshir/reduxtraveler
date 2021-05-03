@@ -7,6 +7,7 @@
     <title>RT Vessel</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -198,19 +199,33 @@ Limited quantities of tickets are also available for future reservations in a 14
           </div>
           <p class="article-grid-title">Vessel Pics</p>
               <div class="article-grid">
-                <figure><img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-base-750wPortrait.jpg" alt="Vessel Base" />
+                <figure>
+                  <a href="../../../resources/images/nyc/vessel-one/vessel-base-750wPortrait.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                  <img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-base-750wPortrait.jpg" alt="Vessel Base" /></a>
                     <figcaption class="cap">Ground Level</figcaption></figure>
-                <figure><img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-bottom-interior-750wPortrait.jpg" alt="Vessel Bottom Interior" />
+                <figure>
+                  <a href="../../../resources/images/nyc/vessel-one/vessel-bottom-interior-750wPortrait.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                  <img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-bottom-interior-750wPortrait.jpg" alt="Vessel Bottom Interior" /></a>
                   <figcaption class="cap">View of Bottom Level from Top</figcaption></figure>
-                  <figure><img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-hudson-yard-750wPortrait.jpg" alt="Vessel Hudson Yard" />
+                  <figure>
+                    <a href="../../../resources/images/nyc/vessel-one/vessel-hudson-yard-750wPortrait.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                    <img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-hudson-yard-750wPortrait.jpg" alt="Vessel Hudson Yard" /></a>
                     <figcaption class="cap">Hudson Yard</figcaption></figure>
-                    <figure><img class="deco-img" src="../../../resources/images/nyc/vessel-one/vessel-shed-1000.jpg" alt="Vessel Shed" />
+                    <figure>
+                      <a href="../../../resources/images/nyc/vessel-one/vessel-shed-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                      <img class="deco-img" src="../../../resources/images/nyc/vessel-one/vessel-shed-1000.jpg" alt="Vessel Shed" /></a>
                         <figcaption class="cap">The Shed Performing Arts Center</figcaption></figure>
-                        <figure><img class="deco-img" src="../../../resources/images/nyc/vessel-one/vessel-staircase-1000.jpg" alt="Vessel Staircase" />
+                        <figure>
+                          <a href="../../../resources/images/nyc/vessel-one/vessel-staircase-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                          <img class="deco-img" src="../../../resources/images/nyc/vessel-one/vessel-staircase-1000.jpg" alt="Vessel Staircase" /></a>
                             <figcaption class="cap">Staircase</figcaption></figure>
-                            <figure><img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-sky--interior-750wPortrait.jpg" alt="Vessel Sky Interior" />
+                            <figure>
+                              <a href="../../../resources/images/nyc/vessel-one/vessel-sky--interior-750wPortrait.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                              <img class="deco-img portrait" src="../../../resources/images/nyc/vessel-one/vessel-sky--interior-750wPortrait.jpg" alt="Vessel Sky Interior" /></a>
                                 <figcaption class="cap">Sky View from Bottom Level</figcaption></figure>
-                                <figure><img class="deco-img" src="../../../resources/images/nyc/vessel-one/vessel-city-view-1000.jpg" alt="Vessel City View" />
+                                <figure>
+                                  <a href="../../../resources/images/nyc/vessel-one/vessel-city-view-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                                  <img class="deco-img" src="../../../resources/images/nyc/vessel-one/vessel-city-view-1000.jpg" alt="Vessel City View" /></a>
                                     <figcaption class="cap"></figcaption></figure>
   </div>
       <!-- main -->
@@ -301,5 +316,12 @@ Limited quantities of tickets are also available for future reservations in a 14
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

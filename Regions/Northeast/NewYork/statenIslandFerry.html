@@ -7,6 +7,7 @@
     <title>RT Staten Island Ferry</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -189,7 +190,9 @@
         <p class="verd">
             The Staten Island Ferry has a high commuter ridership due to the lack of transit connections between Staten Island and the other boroughs. With 23.9 million riders in fiscal year 2016, the Staten Island Ferry is the single busiest ferry route in the United States as of 2016, as well as the world's busiest passenger-only ferry system. The ferry is also popular among tourists and visitors, due to the views of the New York Harbor a trip affords; and it has been featured in several films.
         </p>
-        <figure><img class="deco-img three" src="../../../resources/images/nyc/statenIsland/staten-island-ferry-ferry-1000.jpg" alt="Staten Island Ferry Ship" />
+        <figure>
+          <a href="../../../resources/images/nyc/statenIsland/staten-island-ferry-ferry-1000.jpg" data-lightbox="image-1" data-title="">
+          <img class="deco-img three" src="../../../resources/images/nyc/statenIsland/staten-island-ferry-ferry-1000.jpg" alt="Staten Island Ferry Ship" /></a>
             <figcaption class="cap">Ferry Boat</figcaption></figure>
         <h3 class="navy"></h3>
         <p class="verd">
@@ -203,9 +206,13 @@
           </div>
           <p class="article-grid-title">Staten Island Ferry Pics</p>
               <div class="article-grid">
-                  <figure><img class="deco-img" src="../../../resources/images/nyc/statenIsland/staten-island-ferry-interior-1000.jpg" alt="Staten Island Ferry Interior" />
+                  <figure>
+                    <a href="../../../resources/images/nyc/statenIsland/staten-island-ferry-interior-1000.jpg" data-lightbox="image-1" data-title="">
+                    <img class="deco-img" src="../../../resources/images/nyc/statenIsland/staten-island-ferry-interior-1000.jpg" alt="Staten Island Ferry Interior" /></a>
                     <figcaption class="cap">Inside Seating Area</figcaption></figure>
-                    <figure><img class="deco-img" src="../../../resources/images/nyc/statenIsland/staten-island-ferry-new-jersey-skyline-1000.jpg" alt="Staten Island Ferry Skyline" />
+                    <figure>
+                      <a href="../../../resources/images/nyc/statenIsland/staten-island-ferry-new-jersey-skyline-1000.jpg" data-lightbox="image-1" data-title="">
+                      <img class="deco-img" src="../../../resources/images/nyc/statenIsland/staten-island-ferry-new-jersey-skyline-1000.jpg" alt="Staten Island Ferry Skyline" /></a>
                         <figcaption class="cap">New Jersey Skyline</figcaption></figure>
   </div>
         
@@ -298,5 +305,12 @@
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

@@ -7,6 +7,7 @@
     <title>RT Washington Monument</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -191,7 +192,9 @@ Non-refundable reservation fee of $1.50 per ticket to enter monument and ride th
         <p class="verd">
             The Washington Monument is an obelisk within the National Mall in Washington, D.C., built to commemorate George Washington. Located almost due east of the Reflecting Pool and the Lincoln Memorial, the monument, made of marble, granite, and bluestone gneiss, is both the world's tallest predominantly stone structure and the world's tallest obelisk, standing 555 feet 5 1⁄8 inches tall according to the National Park Service. It is the tallest monumental column in the world if all are measured above their pedestrian entrances. The interior is occupied by iron stairs that spiral up the walls, with an elevator in the center, each supported by four iron columns. The pyramidion has eight observation windows, two per side, and eight red aircraft warning lights, two per side. 
         </p>
-      <figure><img class="deco-img three portrait" src="../../../resources/images/washingtonDC/washington-memorial-1000.jpg" alt="Washington Monument"/>
+      <figure>
+        <a href="../../../resources/images/washingtonDC/washington-memorial-1000.jpg" data-lightbox="image-1" data-title="">
+        <img class="deco-img three portrait" src="../../../resources/images/washingtonDC/washington-memorial-1000.jpg" alt="Washington Monument"/></a>
       <figcaption class="cap"></figcaption></figure>
         <p class="navy"></p>
         <p class="verd">
@@ -200,7 +203,9 @@ Non-refundable reservation fee of $1.50 per ticket to enter monument and ride th
       </div>
     </div>
     <div class="article-grid">
-      <figure><img class="deco-img portrait" src="../../../resources/images/washingtonDC/washington-monument-near-white-house-750wPortrait.jpg" alt="Washington Monument Near White House"/>
+      <figure>
+        <a href="../../../resources/images/washingtonDC/washington-monument-near-white-house-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+        <img class="deco-img portrait" src="../../../resources/images/washingtonDC/washington-monument-near-white-house-750wPortrait.jpg" alt="Washington Monument Near White House"/></a>
         <figcaption class="cap"></figcaption></figure>
         </div>
       <!-- main -->
@@ -291,5 +296,12 @@ Non-refundable reservation fee of $1.50 per ticket to enter monument and ride th
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

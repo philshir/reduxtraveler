@@ -948,6 +948,18 @@
     background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cane-river-creole-hero{
+    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/cane-river-creole-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oakland-plantation-hero{
+    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/oakland-plantation-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#magnolia-plantation-hero{
+    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/magnolia-plantation/magnolia-plantation-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #mardi-gras-hero{
     background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2869,6 +2881,18 @@
     }
     #uss-kidd-hero{
         background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cane-river-creole-hero{
+        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/cane-river-creole-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #oakland-plantation-hero{
+        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/oakland-plantation-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #magnolia-plantation-hero{
+        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/magnolia-plantation/magnolia-plantation-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #new-orleans-hero{

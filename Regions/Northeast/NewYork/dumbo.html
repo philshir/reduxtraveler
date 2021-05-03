@@ -7,6 +7,7 @@
     <title>RT DUMBO</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -194,17 +195,29 @@ The DUMBO Archway is a popular location for film shoots, art exhibitions, live m
     </div>
     <p class="article-grid-title">DUMBO Pics</p>
               <div class="article-grid">
-                <figure><img class="deco-img" src="../../../resources/images/nyc/dumbo/dumbo-center-shot-1000.jpg" alt="DUMBO Center Shot" />
+                <figure>
+                  <a href="../../../resources/images/nyc/dumbo/dumbo-center-shot-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                  <img class="deco-img" src="../../../resources/images/nyc/dumbo/dumbo-center-shot-1000.jpg" alt="DUMBO Center Shot" /></a>
                   <figcaption class="cap"></figcaption></figure>
-                    <figure><img class="deco-img" src="../../../resources/images/nyc/dumbo/dumbo-setting-up-shot-1000.jpg" alt="DUMBO Setting up Shot" />
+                    <figure>
+                      <a href="../../../resources/images/nyc/dumbo/dumbo-setting-up-shot-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                      <img class="deco-img" src="../../../resources/images/nyc/dumbo/dumbo-setting-up-shot-1000.jpg" alt="DUMBO Setting up Shot" /></a>
                         <figcaption class="cap"></figcaption></figure>
-                        <figure><img class="deco-img " src="../../../resources/images/nyc/dumbo/dumbo-beach-1000.jpg" alt="DUMBO Beach" />
+                        <figure>
+                          <a href="../../../resources/images/nyc/dumbo/dumbo-beach-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                          <img class="deco-img " src="../../../resources/images/nyc/dumbo/dumbo-beach-1000.jpg" alt="DUMBO Beach" /></a>
                             <figcaption class="cap"></figcaption></figure>
-                            <figure><img class="deco-img" src="../../../resources/images/nyc/dumbo/dumbo-beach-two-1000.jpg" alt="DUMBO Beach 2" />
+                            <figure>
+                              <a href="../../../resources/images/nyc/dumbo/dumbo-beach-two-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                              <img class="deco-img" src="../../../resources/images/nyc/dumbo/dumbo-beach-two-1000.jpg" alt="DUMBO Beach 2" /></a>
                                 <figcaption class="cap"></figcaption></figure>
-                                <figure><img class="deco-img " src="../../../resources/images/nyc/dumbo/dumbo-lawn-1000.jpg" alt="DUMBO Lawn" />
+                                <figure>
+                                  <a href="../../../resources/images/nyc/dumbo/dumbo-lawn-1000.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                                  <img class="deco-img " src="../../../resources/images/nyc/dumbo/dumbo-lawn-1000.jpg" alt="DUMBO Lawn" /></a>
                                     <figcaption class="cap"></figcaption></figure>
-                                    <figure><img class="deco-img portrait" src="../../../resources/images/nyc/dumbo/dumbo-park-bridge-750wPortrait.jpg" alt="DUMBO Park Bridge" />
+                                    <figure>
+                                      <a href="../../../resources/images/nyc/dumbo/dumbo-park-bridge-750wPortrait.jpg" data-lightbox="image-1" data-title="Casino Pier and Amusement Park">
+                                      <img class="deco-img portrait" src="../../../resources/images/nyc/dumbo/dumbo-park-bridge-750wPortrait.jpg" alt="DUMBO Park Bridge" /></a>
                                         <figcaption class="cap"></figcaption></figure>
                                         
   </div>
@@ -298,5 +311,12 @@ The DUMBO Archway is a popular location for film shoots, art exhibitions, live m
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

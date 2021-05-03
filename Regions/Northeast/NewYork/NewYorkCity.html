@@ -7,6 +7,7 @@
     <title>RT New York City</title>
     <link href="../../../index.css" type=text/css rel="stylesheet">
     <link href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script src="https://kit.fontawesome.com/ea97e0442a.js" crossorigin="anonymous"></script>
 </head>
 
@@ -429,19 +430,33 @@
             </div>
             <p class="article-grid-title">New York City Pics</p>
             <div class="article-grid">
-              <figure><img class="deco-img" src="../../../resources/images/nyc/statue-of-liberty-1000.jpg" alt="Statue of Liberty" />
+              <figure>
+                <a href="../../../resources/images/nyc/statue-of-liberty-1000.jpg" data-lightbox="image-1" data-title="">
+                <img class="deco-img" src="../../../resources/images/nyc/statue-of-liberty-1000.jpg" alt="Statue of Liberty" /></a>
                 <figcaption class="cap">Statue of Liberty</figcaption></figure>
-                <figure><img class="deco-img" src="../../../resources/images/nyc/st-patrick-cathedral-1000.jpg" alt="St Patrick Cathedral" />
+                <figure>
+                  <a href="../../../resources/images/nyc/st-patrick-cathedral-1000.jpg" data-lightbox="image-1" data-title="">
+                  <img class="deco-img" src="../../../resources/images/nyc/st-patrick-cathedral-1000.jpg" alt="St Patrick Cathedral" /></a>
                   <figcaption class="cap">St Patrick's Cathedral</figcaption></figure>
-                  <figure><img class="deco-img portrait" src="../../../resources/images/nyc/radio-city-music-hall-750wPortrait.jpg" alt="Radio City Music Hall" />
+                  <figure>
+                    <a href="../../../resources/images/nyc/radio-city-music-hall-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                    <img class="deco-img portrait" src="../../../resources/images/nyc/radio-city-music-hall-750wPortrait.jpg" alt="Radio City Music Hall" /></a>
                       <figcaption class="cap">Radio City Music Hall</figcaption></figure>
-                      <figure><img class="deco-img portrait" src="../../../resources/images/nyc/30-rock-nbc-studio-750wPortrait.jpg" alt="30 Rock NBC Studios" />
+                      <figure>
+                        <a href="../../../resources/images/nyc/30-rock-nbc-studio-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                        <img class="deco-img portrait" src="../../../resources/images/nyc/30-rock-nbc-studio-750wPortrait.jpg" alt="30 Rock NBC Studios" /></a>
                         <figcaption class="cap">30 Rock NBC Studios</figcaption></figure>
-                        <figure><img class="deco-img" src="../../../resources/images/nyc/nyc-city-hall-1000.jpg" alt="City Hall" />
+                        <figure>
+                          <a href="../../../resources/images/nyc/nyc-city-hall-1000.jpg" data-lightbox="image-1" data-title="">
+                          <img class="deco-img" src="../../../resources/images/nyc/nyc-city-hall-1000.jpg" alt="City Hall" /></a>
                           <figcaption class="cap">City Hall</figcaption></figure>
-                          <figure><img class="deco-img" src="../../../resources/images/nyc/nyc-city-hall-fountain-1000.jpg" alt="City Hall Fountain" />
+                          <figure>
+                            <a href="../../../resources/images/nyc/nyc-city-hall-fountain-1000.jpg" data-lightbox="image-1" data-title="">
+                            <img class="deco-img" src="../../../resources/images/nyc/nyc-city-hall-fountain-1000.jpg" alt="City Hall Fountain" /></a>
                               <figcaption class="cap">City Hall Fountain</figcaption></figure>
-                              <figure><img class="deco-img portrait" src="../../../resources/images/nyc/nyc-red-cube-750wPortrait.jpg" alt="Red Cube Sculpture" />
+                              <figure>
+                                <a href="../../../resources/images/nyc/nyc-red-cube-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                                <img class="deco-img portrait" src="../../../resources/images/nyc/nyc-red-cube-750wPortrait.jpg" alt="Red Cube Sculpture" /></a>
                                 <figcaption class="cap">Red Cube Sculpture</figcaption></figure>
 </div>
 
@@ -532,5 +547,12 @@
         </div>
   </footer>
     <script src="../../../index.js" ></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
 </body>
 </html>

@@ -11,6 +11,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -200,16 +201,27 @@
     </div>
     <p class="article-grid-title">High Point State Park Pics</p>
     <div class="article-grid">
-        <figure><img class="deco-img portrait" src="../../../resources/images/newJersey/high-point/high-point-sp-tower-full-1000.jpg" width="1000" height="750" alt="High Point State Tower Full" />
+        <figure>
+          <a href="../../../resources/images/newJersey/high-point/high-point-sp-tower-full-1000.jpg" data-lightbox="image-1" data-title="View of Monument from Parking Lot">
+          <img class="deco-img portrait" src="../../../resources/images/newJersey/high-point/high-point-sp-tower-full-1000.jpg" width="1000" height="750" alt="High Point State Tower Full" />
+        </a>
           <figcaption class="cap">View of Monument from Parking Lot</figcaption></figure>
-      <figure><img class="deco-img portrait" src="../../../resources/images/newJersey/high-point/high-point-sp-tower-1000.jpg" width="1000" height="750" alt="High Point State Tower" />
+
+      <figure>
+        <a href="../../../resources/images/newJersey/high-point/high-point-sp-tower-1000.jpg" data-lightbox="image-1" data-title="Close Up View of Monument Tower">
+        <img class="deco-img portrait" src="../../../resources/images/newJersey/high-point/high-point-sp-tower-1000.jpg" width="1000" height="750" alt="High Point State Tower" />
+      </a>
         <figcaption class="cap">Close Up View of Monument Tower</figcaption></figure>
-        <figure><picture>
+
+        <figure>
+          <picture>
           <source media="(max-width: 799px)" srcset="../../../resources/images/newJersey/high-point/high-point-sp-summit-view-200.jpg,
           ../../../resources/images/newJersey/high-point/high-point-sp-summit-view-400.jpg 2x">
           <source media="(min-width: 800px)" srcset="../../../resources/images/newJersey/high-point/high-point-sp-summit-view-500.jpg,
           ../../../resources/images/newJersey/high-point/high-point-sp-summit-view-1000.jpg 2x">
+          <a href="../../../resources/images/newJersey/high-point/high-point-sp-summit-view-1000.jpg" data-lightbox="image-1" data-title="Surrounding View from the Summit">
           <img class="deco-img" src="../../../resources/images/newJersey/high-point/high-point-sp-summit-view-500.jpg" width="500" height="375" alt="High Point State Summit View">
+        </a>
         </picture>
             <figcaption class="cap">Surrounding View from the Summit</figcaption></figure>
            
@@ -303,5 +315,12 @@
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

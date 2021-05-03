@@ -7,6 +7,7 @@
     <title>RT Federal Hall</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -191,11 +192,17 @@ The current structure, one of the best surviving examples of Greek Revival archi
     </div>
     <p class="article-grid-title">Federal Hall Pics</p>
               <div class="article-grid">
-                <figure><img class="deco-img portrait" src="../../../resources/images/nyc/federalHall/federal-hall-washington-statue-750wPortrait.jpg" alt="Federal Hall Washington Statue"/>
+                <figure>
+                  <a href="../../../resources/images/nyc/federalHall/federal-hall-washington-statue-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                  <img class="deco-img portrait" src="../../../resources/images/nyc/federalHall/federal-hall-washington-statue-750wPortrait.jpg" alt="Federal Hall Washington Statue"/></a>
                   <figcaption class="cap"></figcaption></figure>
-                  <figure><img class="deco-img portrait" src="../../../resources/images/nyc/federalHall/federal-hall-side-750wPortrait.jpg" alt="Federal Hall Side"/>
+                  <figure>
+                    <a href="../../../resources/images/nyc/federalHall/federal-hall-side-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                    <img class="deco-img portrait" src="../../../resources/images/nyc/federalHall/federal-hall-side-750wPortrait.jpg" alt="Federal Hall Side"/></a>
                     <figcaption class="cap"></figcaption></figure>
-                    <figure><img class="deco-img portrait" src="../../../resources/images/nyc/federalHall/federal-hall-side-two-750wPortrait.jpg" alt="Federal Hall Side 2"/>
+                    <figure>
+                      <a href="../../../resources/images/nyc/federalHall/federal-hall-side-two-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                      <img class="deco-img portrait" src="../../../resources/images/nyc/federalHall/federal-hall-side-two-750wPortrait.jpg" alt="Federal Hall Side 2"/></a>
                         <figcaption class="cap"></figcaption></figure>
   </div>
         
@@ -288,5 +295,12 @@ The current structure, one of the best surviving examples of Greek Revival archi
         </div>
   </footer>
     <script src="../../../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

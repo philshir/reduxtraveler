@@ -7,6 +7,7 @@
     <title>RT The High Line</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -188,11 +189,17 @@ The High Line is split into three sections, with multiple easily accessible entr
     </div>
     <p class="article-grid-title">The High Line Pics</p>
               <div class="article-grid">
-                <figure><img class="deco-img" src="../../../resources/images/nyc/highLine/IMG_9709.JPG" alt="The High Line Entrance"/>
+                <figure>
+                  <a href="../../../resources/images/nyc/highLine/IMG_9709.JPG" data-lightbox="image-1" data-title="">
+                  <img class="deco-img" src="../../../resources/images/nyc/highLine/IMG_9709.JPG" alt="The High Line Entrance"/></a>
                   <figcaption class="cap"></figcaption></figure>
-                  <figure><img class="deco-img" src="../../../resources/images/nyc/highLine/IMG_9714.jpg" alt="The High Line Plants"/>
+                  <figure>
+                    <a href="../../../resources/images/nyc/highLine/IMG_9714.jpg" data-lightbox="image-1" data-title="">
+                    <img class="deco-img" src="../../../resources/images/nyc/highLine/IMG_9714.jpg" alt="The High Line Plants"/></a>
                     <figcaption class="cap"></figcaption></figure>
-                        <figure><img class="deco-img portrait" src="../../../resources/images/nyc/highLine/IMG_9737.jpg" alt="The High Line Walkway"/>
+                        <figure>
+                          <a href="../../../resources/images/nyc/highLine/IMG_9737.jpg" data-lightbox="image-1" data-title="">
+                          <img class="deco-img portrait" src="../../../resources/images/nyc/highLine/IMG_9737.jpg" alt="The High Line Walkway"/></a>
                             <figcaption class="cap"></figcaption></figure>
   </div>
         
@@ -285,5 +292,12 @@ The High Line is split into three sections, with multiple easily accessible entr
         </div>
   </footer>
     <script src="../../../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

@@ -7,6 +7,7 @@
     <title>RT Trinity Church</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -189,13 +190,21 @@ Churchyard open from 7am to 6pm daily
           </div>
           <p class="article-grid-title">Trinity Church Pics</p>
               <div class="article-grid">
-                <figure><img class="deco-img" src="../../../resources/images/nyc/trinityChurch/trinity-church-alexander-hamilton-grave-1000.jpg" alt="Trinity Church Alexander Hamilton's Grave"/>
+                <figure>
+                  <a href="../../../resources/images/nyc/trinityChurch/trinity-church-alexander-hamilton-grave-1000.jpg" data-lightbox="image-1" data-title="">
+                  <img class="deco-img" src="../../../resources/images/nyc/trinityChurch/trinity-church-alexander-hamilton-grave-1000.jpg" alt="Trinity Church Alexander Hamilton's Grave"/></a>
                   <figcaption class="cap">Alexander Hamilton's Grave</figcaption></figure>
-                  <figure><img class="deco-img portrait" src="../../../resources/images/nyc/trinityChurch/trinity-church-side-750wPortrait.jpg" alt="Trinity Church Side"/>
+                  <figure>
+                    <a href="../../../resources/images/nyc/trinityChurch/trinity-church-side-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                    <img class="deco-img portrait" src="../../../resources/images/nyc/trinityChurch/trinity-church-side-750wPortrait.jpg" alt="Trinity Church Side"/></a>
                     <figcaption class="cap">South View</figcaption></figure>
-                    <figure><img class="deco-img portrait" src="../../../resources/images/nyc/trinityChurch/trinity-church-side-two-750wPortrait.jpg" alt="Trinity Church Side 2"/>
+                    <figure>
+                      <a href="../../../resources/images/nyc/trinityChurch/trinity-church-side-two-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                      <img class="deco-img portrait" src="../../../resources/images/nyc/trinityChurch/trinity-church-side-two-750wPortrait.jpg" alt="Trinity Church Side 2"/></a>
                         <figcaption class="cap"></figcaption></figure>
-                        <figure><img class="deco-img portrait" src="../../../resources/images/nyc/trinityChurch/trinity-church-spire-750wPortrait.jpg" alt="Trinity Church Spire"/>
+                        <figure>
+                          <a href="../../../resources/images/nyc/trinityChurch/trinity-church-spire-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+                          <img class="deco-img portrait" src="../../../resources/images/nyc/trinityChurch/trinity-church-spire-750wPortrait.jpg" alt="Trinity Church Spire"/></a>
                             <figcaption class="cap">View from Federal Hall</figcaption></figure>
   </div>
         
@@ -288,5 +297,12 @@ Churchyard open from 7am to 6pm daily
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>

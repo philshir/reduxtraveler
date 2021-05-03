@@ -7,6 +7,7 @@
     <title>RT Washington, DC</title>
     <link href="../../../index.css" type=text/css rel="stylesheet">
     <link href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script src="https://kit.fontawesome.com/ea97e0442a.js" crossorigin="anonymous"></script>    
 </head>
 
@@ -292,15 +293,25 @@
               </div>
 
             <div class="article-grid yellowstone-margin">
-                <figure><img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-walkway-1000.jpg" alt="Pennsylvania Avenue Walkway" />
+                <figure>
+                  <a href="../../../resources/images/washingtonDC/washington-dc-walkway-1000.jpg" data-lightbox="image-1" data-title="Pennsylvania Avenue Walkway">
+                  <img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-walkway-1000.jpg" alt="Pennsylvania Avenue Walkway" /></a>
                   <figcaption class="cap">Pennsylvania Avenue Walkway</figcaption></figure>
-                  <figure><img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-peace-monument-1000.jpg" alt="Peace Monument near US Capitol" />
+                  <figure>
+                    <a href="../../../resources/images/washingtonDC/washington-dc-peace-monument-1000.jpg" data-lightbox="image-1" data-title="Peace Monument near US Capitol">
+                    <img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-peace-monument-1000.jpg" alt="Peace Monument near US Capitol" /></a>
                     <figcaption class="cap">Peace Monument near US Capitol</figcaption></figure>
-                    <figure><img class="deco-img portrait" src="../../../resources/images/washingtonDC/washington-dc-smithsonian-castle-two-750wPortrait.jpg" alt="Smithsonian Castle" />
+                    <figure>
+                      <a href="../../../resources/images/washingtonDC/washington-dc-smithsonian-castle-two-750wPortrait.jpg" data-lightbox="image-1" data-title="Smithsonian Castle">
+                      <img class="deco-img portrait" src="../../../resources/images/washingtonDC/washington-dc-smithsonian-castle-two-750wPortrait.jpg" alt="Smithsonian Castle" /></a>
                         <figcaption class="cap">Smithsonian Castle</figcaption></figure>
-                        <figure><img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-smithsonian-castle-1000.jpg" alt="Smithsonian Castle 2" />
+                        <figure>
+                          <a href="../../../resources/images/washingtonDC/washington-dc-smithsonian-castle-1000.jpg" data-lightbox="image-1" data-title="Smithsonian Castle">
+                          <img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-smithsonian-castle-1000.jpg" alt="Smithsonian Castle 2" /></a>
                             <figcaption class="cap">Smithsonian Castle</figcaption></figure>
-                            <figure><img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-hirshhorn-museum-1000.jpg" alt="Hirshhorn Museum" />
+                            <figure>
+                              <a href="../../../resources/images/washingtonDC/washington-dc-hirshhorn-museum-1000.jpg" data-lightbox="image-1" data-title="Hirshhorn Museum">
+                              <img class="deco-img" src="../../../resources/images/washingtonDC/washington-dc-hirshhorn-museum-1000.jpg" alt="Hirshhorn Museum" /></a>
                               <figcaption class="cap">Hirshhorn Museum</figcaption></figure>
             </div>
             
@@ -391,5 +402,12 @@
         </div>
   </footer>
     <script src="../../../index.js" ></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
 </body>
 </html>

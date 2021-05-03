@@ -7,6 +7,7 @@
     <title>RT Lincoln Memorial</title>
     <link href="../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../hero.css" type=text/css rel="stylesheet">
+    <link href="../../../lightbox2-2.11.3/dist/css/lightbox.css" rel="stylesheet" />
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -187,7 +188,9 @@
         <p class="verd">
             Although the Lincoln Memorial is just one of the District's many monuments, the larger-than-life Honest Abe is also among travelers' favorites. History buffs might enjoy the man of few (albeit powerful) words' two famous speeches, the second inaugural address and the Gettysburg Address, which are both etched into the memorial's opposing walls. Meanwhile, art history and architecture aficionados will enjoy admiring the building's striking design by Henry Bacon, complete with 38 Doric columns, 36 of which signify the states in the Union at the time Lincoln passed away.
         </p>
-      <figure><img class="deco-img three portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-gettysburg-address-750wPortrait.jpg" alt="Lincoln Memorial Gettysburg Address"/>
+      <figure>
+        <a href="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-gettysburg-address-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+        <img class="deco-img three portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-gettysburg-address-750wPortrait.jpg" alt="Lincoln Memorial Gettysburg Address"/></a>
       <figcaption class="cap"></figcaption></figure>
    
         <p class="navy"></p>
@@ -197,11 +200,17 @@
       </div>
     </div>
     <div class="article-grid">
-        <figure><img class="deco-img portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-750wPortrait.jpg" alt="Lincoln Memorial Statue"/>
+        <figure>
+          <a href="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+          <img class="deco-img portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-750wPortrait.jpg" alt="Lincoln Memorial Statue"/></a>
           <figcaption class="cap"></figcaption></figure>
-          <figure><img class="deco-img portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-two-750wPortrait.jpg" alt="Lincoln Memorial Statue Two"/>
+          <figure>
+            <a href="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-two-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+            <img class="deco-img portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-two-750wPortrait.jpg" alt="Lincoln Memorial Statue Two"/></a>
             <figcaption class="cap"></figcaption></figure>
-            <figure><img class="deco-img portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-side-750wPortrait.jpg" alt="Lincoln Memorial Statue Side"/>
+            <figure>
+              <a href="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-side-750wPortrait.jpg" data-lightbox="image-1" data-title="">
+              <img class="deco-img portrait" src="../../../resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-statue-side-750wPortrait.jpg" alt="Lincoln Memorial Statue Side"/></a>
                 <figcaption class="cap"></figcaption></figure>
     </div>
       <!-- main -->
@@ -292,5 +301,12 @@
         </div>
   </footer>
     <script src="../../../index.js"></script>
+    <script src="../../../lightbox2-2.11.3/dist/js/lightbox-plus-jquery.js"></script>
+    <script>
+      lightbox.option({
+        'resizeDuration': 400,
+        'imageFadeDuration': 400
+      })
+  </script>
   </body>
 </html>
