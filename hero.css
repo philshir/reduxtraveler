@@ -244,7 +244,7 @@
     background-size: cover;
 }
 #buffalo-hero{
-    background: url(resources/images/ArkansasOne/buffaloNR/lostValley/buffalo-river-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/ArkansasOne/buffaloNR/buffalo-river-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #centerpoint-hero{
@@ -252,11 +252,15 @@
     background-size: cover;
 }
 #lost-valley-hero{
-    background: url(resources/images/ArkansasOne/buffaloNR/lostValley/buffalo-river-lost-valley-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/ArkansasOne/buffaloNR/lostValley/lost-valley-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #whitaker-point-hero{
-    background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/buffalo-river-whitaker-point-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/whitaker-point-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glory-hole-hero{
+    background: url(resources/images/ArkansasOne/glory-hole-trail/glory-hole-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hot-springs-hero{
@@ -1949,7 +1953,7 @@
         background-size: cover;
     }
     #buffalo-hero{
-        background: url(resources/images/ArkansasOne/buffaloNR/lostValley/buffalo-river-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/ArkansasOne/buffaloNR/buffalo-river-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #centerpoint-hero{
@@ -1957,11 +1961,15 @@
         background-size: cover;
     }
     #lost-valley-hero{
-        background: url(resources/images/ArkansasOne/buffaloNR/lostValley/buffalo-river-lost-valley-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/ArkansasOne/buffaloNR/lostValley/lost-valley-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #whitaker-point-hero{
-        background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/buffalo-river-whitaker-point-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/whitaker-point-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glory-hole-hero{
+        background: url(resources/images/ArkansasOne/glory-hole-trail/glory-hole-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hot-springs-hero{
