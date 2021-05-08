@@ -351,6 +351,14 @@
     background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#mission-san-carlos-borromeo-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-gabriel-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-gabriel/san-gabriel-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #algodones-hero{
     background: url(resources/images/californiaOne/algodones/algodones-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2062,6 +2070,14 @@
     }
     #california-missions-hero {
         background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-carlos-borromeo-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-gabriel-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-gabriel/san-gabriel-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #algodones-hero{
