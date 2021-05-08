@@ -120,6 +120,10 @@ a:hover, .description-one a:hover {
 .social-links-footer a svg:hover {
   fill: #8fcffa
 }
+table {
+  margin: 0 auto;
+  padding: 50px 0;
+}
 
 h3 a {
   color: #01395e;
@@ -773,7 +777,8 @@ font-family: "Cambria Math", Geneva, Tahoma, sans-serif;
 .high {
   font-family: Arial, sans-serif;
     font-weight: 800;
-    color: navy
+    color: navy;
+    text-align: center
 }
 .highlights {
   font-family: Arial, Geneva, Tahoma, sans-serif !important;
