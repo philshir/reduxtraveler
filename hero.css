@@ -359,6 +359,14 @@
     background: url(resources/images/californiaOne/california-missions/mission-san-gabriel/san-gabriel-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#san-juan-bautista-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-juan-bautista/san-juan-bautista-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-juan-capistrano-hero {
+    background: url(resources/images/californiaOne/california-missions/misiion-santa-cruz-1000.jpg) center no-repeat;
+    background-size: cover;
+}
 #algodones-hero{
     background: url(resources/images/californiaOne/algodones/algodones-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2078,6 +2086,14 @@
     }
     #san-gabriel-hero {
         background: url(resources/images/californiaOne/california-missions/mission-san-gabriel/san-gabriel-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-juan-baustista-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-juan-bautista/san-juan-bautista-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-juan-capistrano-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-juan-capistrano/Mission_San_Juan_Capistrano_California-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #algodones-hero{
