@@ -27,6 +27,14 @@
     background: url(resources/images/arizona-one/picacho/picacho-peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#antelope-canyon-hero{
+    background: url(resources/images/arizona-one/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#arcosanti-hero{
+    background: url(resources/images/arizona-one/arcosanti/Arcosanti-Cliff_-View-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #aqua-hero{
     background: url(resources/images/arizona-one/Aqua-Fria/aqua-fria-nm-hero-1515h1136w.jpg) center no-repeat;
     background-size: cover;
@@ -1826,6 +1834,14 @@
     }
     #picacho-hero{
         background: url(resources/images/arizona-one/picacho/picacho-peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #antelope-canyon-hero{
+        background: url(resources/images/arizona-one/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #arcosanti-hero{
+        background: url(resources/images/arizona-one/arcosanti/Arcosanti-Cliff_-View-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #theodore-dam-hero{
