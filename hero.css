@@ -359,6 +359,10 @@
     background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#mission-san-diego-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #mission-san-carlos-borromeo-hero {
     background: url(resources/images/californiaOne/california-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2094,6 +2098,10 @@
     }
     #california-missions-hero {
         background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-diego-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mission-san-carlos-borromeo-hero {
