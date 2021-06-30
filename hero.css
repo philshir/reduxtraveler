@@ -667,6 +667,18 @@
     background: url(resources/images/californiaOne/yosemite-one/tunnel-view/yosemite-tunnel-view-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bridalveil-fall-hero{
+    background: url(resources/images/californiaOne/yosemite-one/bridalveil-yosemite/yosemite-bridalveil-fall-mist-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glacier-point-hero{
+    background: url(resources/images/californiaOne/yosemite-one/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#el-capitan-hero{
+    background: url(resources/images/californiaOne/yosemite-one/el-capitan/yosemite-el-capitan-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #hiking-yosemite-hero{
     background: url(resources/images/californiaOne/yosemite-one/half-dome/yosemite-half-dome-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2416,6 +2428,18 @@
         background: url(resources/images/californiaOne/yosemite-one/tunnel-view/yosemite-tunnel-view-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #bridalveil-fall-hero{
+        background: url(resources/images/californiaOne/yosemite-one/bridalveil-yosemite/yosemite-bridalveil-fall-mist-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glacier-point-hero{
+        background: url(resources/images/californiaOne/yosemite-one/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #el-capitan-hero{
+        background: url(resources/images/californiaOne/yosemite-one/el-capitan/yosemite-el-capitan-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #hiking-yosemite-hero{
         background: url(resources/images/californiaOne/yosemite-one/half-dome/yosemite-half-dome-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -2712,11 +2736,11 @@
         background-size: cover;
     }
     #branson-landing-hero{
-        background: url(resources/images/branson/branson-landing/branson-landing-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/branson/branson-landing/branson-landing-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #table-rock-hero{
-        background: url(resources/images/branson/table-rock-mo/table-rock-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/branson/table-rock-mo/table-rock-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hoover-dam-hero{

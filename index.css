@@ -1203,6 +1203,10 @@ margin-bottom: 40px;
   opacity: 0;
   left: -100px
 }
+.alert {
+  text-align: center;
+  color: red;
+}
 
 @keyframes clear {
   to {
