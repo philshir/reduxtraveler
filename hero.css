@@ -463,8 +463,12 @@
     background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#scenic-lassen-hero{
-    background: url(resources/images/californiaOne/lassenOne/lassenPeak/lassen-volcanic-scenic-drive-hero-1515.jpg) center no-repeat;
+#sulphur-works-hero{
+    background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-sulphur-works-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chaos-crags-hero{
+    background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-chaos-crags-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cinder-hero{
@@ -2208,8 +2212,12 @@
         background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #scenic-lassen-hero{
-        background: url(resources/images/californiaOne/lassenOne/lassenPeak/lassen-volcanic-scenic-drive-hero-3030.jpg) center no-repeat;
+    #sulphur-works-hero{
+        background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-sulphur-works-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chaos-crags-hero{
+        background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-chaos-crags-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cinder-hero{
