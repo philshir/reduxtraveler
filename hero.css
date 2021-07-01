@@ -671,6 +671,10 @@
     background: url(resources/images/californiaOne/yosemite-one/bridalveil-yosemite/yosemite-bridalveil-fall-mist-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#clouds-rest-hero{
+    background: url(resources/images/californiaOne/yosemite-one/) center no-repeat;
+    background-size: cover;
+}
 #glacier-point-hero{
     background: url(resources/images/californiaOne/yosemite-one/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-1515.jpg) center no-repeat;
     background-size: cover;
