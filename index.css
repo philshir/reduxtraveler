@@ -238,12 +238,17 @@ main {
 }
 .flex {
   display: flex;
-  padding-top: 50px;
+  padding: 20px 10px;
   border-bottom: 1px solid gray;
   align-items: center;
   flex-direction: column;
   color: black;
   width: 100%;
+  border: #cac9c9 solid 1px;
+  border-radius: 26px;
+  background: linear-gradient( to bottom, rgba(252, 252, 252, 1) 0%, rgba(252, 252, 252, 1) 25%, rgb(196 224 249) 100% );
+  box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%);
+  margin: 15px 0;
 }
 .flex-more-pics {
   display: flex;
@@ -507,6 +512,10 @@ tspan.st10.s11{
   font-weight: 900;
   width: 100%;
 }
+.general-info-list {
+  margin: 0;
+  width: 100%;
+}
 
 .nyc-p {
   margin: 0;
@@ -658,9 +667,6 @@ tspan.st10.s11{
   transition: 0.1s;
 }
 
-p {
-  font-size: 16px;
-}
 .portal {
   width: 200px;
   height: 150px;
@@ -987,6 +993,9 @@ body {
   background: #b0d5f7;
   border-top: solid 1px gray;
   border-bottom: solid 1px gray;
+}
+.info p {
+  margin: 0 0 5px;
 }
 
 .info-itinerary {
@@ -1817,7 +1826,6 @@ margin: 5px;
 @media only screen and (min-width: 1170px) {
   .flex {
     flex-direction: row;
-    padding: 10px 0;
   }
   .flex-more-pics {
     padding: 1em 0;
