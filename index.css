@@ -153,8 +153,9 @@ a.itin-menu {
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
 }
-.trail-description a h4, .trail-description h4{
+.trail-description p:first-child {
   font-size: 20px;
+  text-align: center;
 }
 h3 {
   text-align: center;
@@ -1826,6 +1827,7 @@ margin: 5px;
 @media only screen and (min-width: 1170px) {
   .flex {
     flex-direction: row;
+    padding: 0
   }
   .flex-more-pics {
     padding: 1em 0;
