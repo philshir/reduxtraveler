@@ -1827,7 +1827,6 @@ margin: 5px;
 @media only screen and (min-width: 1170px) {
   .flex {
     flex-direction: row;
-    padding: 0
   }
   .flex-more-pics {
     padding: 1em 0;
