@@ -1709,6 +1709,30 @@
     background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#mt-rainier-hero{
+    background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-rainier-np-hero{
+    background: url(resources/images/washington/mt-rainier/Mount_Rainier_3-reflection-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-rainer-trails-hero{
+    background: url(resources/images/washington/mt-rainier/skagit-river-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#narada-hero{
+    background: url(resources/images/washington/mt-rainier/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nisqually-hero{
+    background: url(resources/images/washington/mt-rainier/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#paradise-wa-hero{
+    background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #west-virginia-hero{
     background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3486,6 +3510,33 @@
     #white-house-hero{
         background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-3030.jpg) center no-repeat;
         background-size: cover;
+    }
+    #mt-rainier-hero{
+        background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #mt-rainier-np-hero{
+        background: url(resources/images/washington/mt-rainier/Mount_Rainier_3-reflection-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -72px;
+    }
+    #mount-rainer-trails-hero{
+        background: url(resources/images/washington/mt-rainier/skagit-river-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #narada-hero{
+        background: url(resources/images/washington/mt-rainier/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #nisqually-hero{
+        background: url(resources/images/washington/mt-rainier/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #paradise-wa-hero{
+        background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -70px;
     }
     #west-virginia-hero{
         background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-3030.jpg) center no-repeat;
