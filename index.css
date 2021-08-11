@@ -1223,6 +1223,13 @@ margin-bottom: 40px;
   text-align: center;
   color: red;
 }
+.state-overview {
+  padding: 10px;
+  margin-bottom: 60px;
+}
+.state-overview h2 {
+  text-align: center;
+}
 
 @keyframes clear {
   to {
