@@ -1709,6 +1709,10 @@
     background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#washington-state-hero {
+    background: url(resources/images/washington/Seattle_4-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #mt-rainier-hero{
     background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1731,6 +1735,46 @@
 }
 #paradise-wa-hero{
     background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-st-helens-hero{
+    background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-hero {
+    background: url(resources/images/washington/seattle/Seattle_3-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#amazon-spheres-hero {
+    background: url(resources/images/washington/seattle/amazon-spheres/Amazon_Spheres_05.jpg-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chihuly-garden-hero {
+    background: url(resources/images/washington/seattle/chihuly-garden/Chihuly_Garden_and_Glass_Seattle_Washington17-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-gum-wall-hero {
+    background: url(resources/images/washington/seattle/gum-wall/Gum_wall\,_Seattle\,_Washington\,_Estados_Unidos\,_2017-09-02\,_DD_19-21_HDR-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-gum-wall-hero {
+    background: url(resources/images/washington/seattle/gum-wall/Gum_wall\,_Seattle\,_Washington\,_Estados_Unidos\,_2017-09-02\,_DD_19-21_HDR-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pike-place-market-hero {
+    background: url(resources/images/washington/seattle/pike-place-market/pike-place-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-great-wheel-hero {
+    background: url(resources/images/washington/seattle/great-wheel/Seattle_Great_Wheel-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#space-needle-hero {
+    background: url(resources/images/washington/seattle/space-needle/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#starbucks-pike-place-hero {
+    background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #west-virginia-hero{
@@ -3511,6 +3555,11 @@
         background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #washington-state-hero {
+        background: url(resources/images/washington/Seattle_4-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -175px;
+    }
     #mt-rainier-hero{
         background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -3537,6 +3586,44 @@
         background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position-y: -70px;
+    }
+    #mt-st-helens-hero{
+        background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #seattle-hero {
+        background: url(resources/images/washington/seattle/Seattle_3-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -175px;
+    }
+    #amazon-spheres-hero {
+        background: url(resources/images/washington/seattle/amazon-spheres/Amazon_Spheres_05.jpg-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chihuly-garden-hero {
+        background: url(resources/images/washington/seattle/chihuly-garden/Chihuly_Garden_and_Glass_Seattle_Washington17-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seattle-gum-wall-hero {
+        background: url(resources/images/washington/seattle/gum-wall/Gum_wall\,_Seattle\,_Washington\,_Estados_Unidos\,_2017-09-02\,_DD_19-21_HDR-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pike-place-market-hero {
+        background: url(resources/images/washington/seattle/pike-place-market/pike-place-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seattle-great-wheel-hero {
+        background: url(resources/images/washington/seattle/great-wheel/Seattle_Great_Wheel-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #space-needle-hero {
+        background: url(resources/images/washington/seattle/space-needle/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #starbucks-pike-place-hero {
+        background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-3030.jpg) center no-repeat;
+        background-size: cover;
     }
     #west-virginia-hero{
         background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-3030.jpg) center no-repeat;
