@@ -391,12 +391,32 @@
     background: url(resources/images/californiaOne/amboy/amboy-crater-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#ancient-bristlecone-hero{
+    background: url(resources/images/californiaOne/ancient-bristlecone/Bristlecone-pine-forest-janine-sprout-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#antelope-valley-hero{
+    background: url(resources/images/californiaOne/antelope-valley-preserve/Wildflowers_at_California_Poppy_Reserve-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bodie-hero{
+    background: url(resources/images/californiaOne/bodie-state-historic-park/Bodie_September_2016_panorama_1-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cabazon-hero{
+    background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #calico-hero{
     background: url(resources/images/californiaOne/calico/calico-ghost-town-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #carmel-hero{
     background: url(resources/images/californiaOne/carmelBeach/carmel-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-postpile-hero{
+    background: url(resources/images/californiaOne/devils-postpile/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #death-valley-hero{
@@ -421,6 +441,14 @@
 }
 #ubehebe-hero{
     background: url(resources/images/californiaOne/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#donner-memorial-hero{
+    background: url(resources/images/californiaOne/donner-memorial/Donner_Memorial_State_Park_-_Flickr_-_Joe_Parks-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glass-beach-hero{
+    background: url(resources/images/californiaOne/glass-beach/Sea_glass_at_Glass_Beach_in_California__-_2016-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hearst-hero {
@@ -525,6 +553,10 @@
 }
 #walt-concert-hero{
     background: url(resources/images/californiaOne/LAOne/walt-disney-concert-hall/walt-disney-concert-hall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mono-lakes-hero{
+    background: url(resources/images/californiaOne/mono-lake/Mono_Lake_Tufa-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #muir-woods-hero{
@@ -644,7 +676,7 @@
     background-size: cover;
 }
 #mt-shasta-hero{
-    background: url(resources/images/californiaOne/shasta/mt-shasta-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/californiaOne/shasta/Mount_Shasta_34774661494-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sequoia-hero{
@@ -661,6 +693,10 @@
 }
 #giant-forest-hero{
     background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-giant-trees-parker-group-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-mountain-hero{
+    background: url(resources/images/californiaOne/white-mountain/White_Mountain_Peak_View_to_southwest\,_California-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yosemite-hero{
@@ -1319,6 +1355,10 @@
 }
 #watchman-trail-hero{
     background: url(resources/images/crater-lake/watchman/crater-lake-watchman-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#multnomah-falls-hero{
+    background: url(resources/images/oregon/multnomah-falls/multnomah-falls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #independence-hero{
@@ -2224,12 +2264,32 @@
         background: url(resources/images/californiaOne/amboy/amboy-crater-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #ancient-bristlecone-hero{
+        background: url(resources/images/californiaOne/ancient-bristlecone/Bristlecone-pine-forest-janine-sprout-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #antelope-valley-hero{
+        background: url(resources/images/californiaOne/antelope-valley-preserve/Wildflowers_at_California_Poppy_Reserve-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bodie-hero{
+        background: url(resources/images/californiaOne/bodie-state-historic-park/Bodie_September_2016_panorama_1-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cabazon-hero{
+        background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #calico-hero{
         background: url(resources/images/californiaOne/calico/calico-ghost-town-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #carmel-hero{
         background: url(resources/images/californiaOne/carmelBeach/carmel-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #devils-postpile-hero{
+        background: url(resources/images/californiaOne/devils-postpile/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #death-valley-hero{
@@ -2254,6 +2314,14 @@
     }
     #ubehebe-hero{
         background: url(resources/images/californiaOne/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #donner-memorial-hero{
+        background: url(resources/images/californiaOne/donner-memorial/Donner_Memorial_State_Park_-_Flickr_-_Joe_Parks-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glass-beach-hero{
+        background: url(resources/images/californiaOne/glass-beach/Sea_glass_at_Glass_Beach_in_California__-_2016-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hearst-hero {
@@ -2358,6 +2426,10 @@
     }
     #walt-concert-hero{
         background: url(resources/images/californiaOne/LAOne/walt-disney-concert-hall/walt-disney-concert-hall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mono-lakes-hero{
+        background: url(resources/images/californiaOne/mono-lake/Mono_Lake_Tufa-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #muir-woods-hero{
@@ -2477,8 +2549,9 @@
         background-size: cover;
     }
     #mt-shasta-hero{
-        background: url(resources/images/californiaOne/shasta/mt-shasta-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/californiaOne/shasta/Mount_Shasta_34774661494-hero-3030.jpg) center no-repeat;
         background-size: cover;
+        background-position-y: -100px;
     }
     #sequoia-hero{
         background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
@@ -2494,6 +2567,10 @@
     }
     #giant-forest-hero{
         background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-giant-trees-parker-group-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #white-mountain-hero{
+        background: url(resources/images/californiaOne/white-mountain/White_Mountain_Peak_View_to_southwest\,_California-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yosemite-hero{
@@ -2520,6 +2597,7 @@
         background: url(resources/images/californiaOne/yosemite-one/yosemite-falls/yosemite-falls-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
+  
     #black-canyon-hero{
         background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -3005,6 +3083,10 @@
     }
     #watchman-trail-hero{
         background: url(resources/images/crater-lake/watchman/crater-lake-watchman-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #multnomah-falls-hero{
+        background: url(resources/images/oregon/multnomah-falls/multnomah-falls-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #independence-hero{
@@ -3620,10 +3702,12 @@
     #space-needle-hero {
         background: url(resources/images/washington/seattle/space-needle/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound-hero-3030.jpg) center no-repeat;
         background-size: cover;
+        background-position-y: -200px;
     }
     #starbucks-pike-place-hero {
         background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-3030.jpg) center no-repeat;
         background-size: cover;
+        
     }
     #west-virginia-hero{
         background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-3030.jpg) center no-repeat;
