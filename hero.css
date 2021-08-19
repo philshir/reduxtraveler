@@ -1160,6 +1160,23 @@
     background: url(resources/images/branson/table-rock-mo/table-rock-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#wheeler-peak-scenic-hero{
+    background: url(resources/images/nevada-one/great-basin/Baker_Peak-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lehman-caves-hero{
+    background: url(resources/images/nevada-one/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bristlecone-glacier-hero{
+    background: url(resources/images/nevada-one/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wheeler-peak-nv-hero{
+    background: url(resources/images/nevada-one/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #hoover-dam-hero{
     background: url(resources/images/nevada-one/hoover/hoover-dam-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1779,6 +1796,14 @@
 }
 #mt-st-helens-hero{
     background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hoh-hero{
+    background: url(resources/images/washington/olympic-np/hoh-rain-forest/hoh-rain-forest-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hurricane-ridge-hero{
+    background: url(resources/images/washington/olympic-np/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #seattle-hero {
@@ -2893,6 +2918,23 @@
         background: url(resources/images/branson/table-rock-mo/table-rock-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #wheeler-peak-scenic-hero{
+        background: url(resources/images/nevada-one/great-basin/Baker_Peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lehman-caves-hero{
+        background: url(resources/images/nevada-one/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bristlecone-glacier-hero{
+        background: url(resources/images/nevada-one/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wheeler-peak-nv-hero{
+        background: url(resources/images/nevada-one/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
     #hoover-dam-hero{
         background: url(resources/images/nevada-one/hoover/hoover-dam-3030.jpg) center no-repeat;
         background-size: cover;
@@ -3673,6 +3715,22 @@
         background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) center no-repeat;
         background-size: cover;
         background-position-y: -100px;
+    }
+    #hoh-hero{
+        background: url(resources/images/washington/olympic-np/hoh-rain-forest/hoh-rain-forest-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hurricane-ridge-hero{
+        background: url(resources/images/washington/olympic-np/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kalaloch-ruby-hero{
+        background: url(resources/images/washington/olympic-np/ruby-beach/Ruby_Beach\,_Olympic_National_Park\,_on_a_Late_September_Afternoon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mora-rialto-hero{
+        background: url(resources/images/washington/olympic-np/rialto-beach/Olympic_Rialto_Beach_28.jpg-hero-3030.jpg) center no-repeat;
+        background-size: cover;
     }
     #seattle-hero {
         background: url(resources/images/washington/seattle/Seattle_3-hero-3030.jpg) center no-repeat;
