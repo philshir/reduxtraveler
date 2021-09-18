@@ -119,10 +119,7 @@ a:hover, .description-one a:hover {
 }
 .third-party-img {
   font-size: 8px!important;
-<<<<<<< HEAD
   text-align: center;
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 }
 .social-links-footer a svg:hover {
   fill: #8fcffa
@@ -162,7 +159,6 @@ a.itin-menu {
   font-size: 20px;
   text-align: center;
 }
-<<<<<<< HEAD
 .trail-description h2 {
   font-size: 20px
 }
@@ -172,8 +168,6 @@ a.itin-menu {
 .nyc-regions-margin{
   margin: 24px 0;
 }
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 h3 {
   text-align: center;
 }
@@ -316,7 +310,6 @@ main {
   font-size: 16px;
   margin-bottom: 20px;
 }
-<<<<<<< HEAD
 .back-to-top {
   position: fixed;
   height: 50px;
@@ -332,8 +325,6 @@ main {
   color: white!important;
 }
 
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 .map {
   display: flex;
   justify-content: center;
@@ -371,7 +362,6 @@ main {
 .map h2, .map-one h2 {
   text-align: center;
   font-size: 24px;
-<<<<<<< HEAD
   margin: 6px 0;
 }
 .map h3 {
@@ -380,13 +370,6 @@ main {
 }
 .nyc-map {
   margin-bottom: 0!important;
-=======
-  margin: 10px 0;
-}
-.map h3 {
-  font-size: 18px;
-  margin: 0;
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 }
 .slideshow-container h2 {
   text-align: center;
@@ -1014,11 +997,7 @@ body {
   padding-top: 5px;
 }
 .breadcrumb-state {
-<<<<<<< HEAD
   margin: 5px;
-=======
-  margin: 15px;
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
   font-weight: 700;
   font-size: 14px;
 }
@@ -1127,12 +1106,9 @@ body {
 .bold {
   font-weight: 700;
 }
-<<<<<<< HEAD
 .general-bold {
   font-weight: 600;
 }
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 .hi-h3 {
   padding: 10px 0 5px;
   margin: 0;
@@ -1291,12 +1267,9 @@ margin-bottom: 40px;
   text-align: center;
   font-weight: 700;
 }
-<<<<<<< HEAD
 .pikes-table{
   font-size: 10px;
 }
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 
 @keyframes clear {
   to {
@@ -1331,12 +1304,9 @@ margin-bottom: 40px;
   top: -20px;
   opacity: 0;
 }
-<<<<<<< HEAD
 .inactive {
   font-size: 20px;
 }
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 
 @keyframes slidedown {
   to {
@@ -1345,11 +1315,8 @@ margin-bottom: 40px;
   }
 }
 
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 @media only screen and (min-width: 460px) {
   
   .slider a,
@@ -1391,10 +1358,7 @@ margin-bottom: 40px;
   font-size: 24px;
 }
 .breadcrumb-state {
-<<<<<<< HEAD
   margin: 15px;
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
   font-size: 16px;
 }
 .map h2, .map-one h2 {
@@ -1403,7 +1367,6 @@ margin-bottom: 40px;
 .map h3 {
   margin-bottom: 10px;
 }
-<<<<<<< HEAD
 .nyc-regions-title {
   font-size: 30px;
   margin-bottom: 0;
@@ -1418,8 +1381,6 @@ margin-bottom: 40px;
   right: 90px;
   border-radius: 45px;
 }
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 .flickity-button {
   width: 44px !important;
   height: 44px !important;
@@ -1940,7 +1901,6 @@ margin: 5px;
   font-size: 36px;
   margin-bottom: 74px;
 }
-<<<<<<< HEAD
 .pikes-table{
   font-size: 12px;
 }
@@ -1953,8 +1913,6 @@ margin: 5px;
 article {
   margin-bottom: 150px;
 }
-=======
->>>>>>> 771dd948da1cd009b76b4d1f4bddf9a73e2a810d
 }
 @media only screen and (min-width: 1170px) {
   .flex {
