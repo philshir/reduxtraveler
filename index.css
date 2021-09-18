@@ -387,6 +387,7 @@ main {
   font-size: 18px;
   text-align: center;
   margin: 50px 0 14px;
+  color: rgb(59 82 39);
 }
 .slideshow-container {
   padding-bottom: 60px;
@@ -1349,11 +1350,36 @@ margin-bottom: 40px;
     max-width: 100vw;
   }
   .main-details {
+    font-size: 22px;
     margin-bottom: 20px;
+  }
+  .main-details-two {
+    font-size: 14px;
+    margin-bottom: 50px;
+  }
+  .map-main {
+    margin: 70px 0 50px;
+  }
+  .map-main h2 {
+    font-size: 36px;
+    
+  }
+  .description-main h2 {
+    font-size: 34px;
+  }
+  .description-main h3 a{
+    font-size: 26px;
+  }
+  .slideshow-container h2 {
+    font-size: 36px;
+    margin: 90px 0 35px;
   }
 .main-article img {
   width: 400px;
   height: 300px
+}
+.map-main p {
+  font-size: 18px;
 }
 .main-article .portrait{
   width: 300px;
@@ -1548,6 +1574,7 @@ margin: 25px;
   .logo-two {
     bottom: 20px;
     width: 100%;
+    margin: 0 0 20px;
   }
   .logo-two h1 {
     font-size: 24px;
@@ -1588,6 +1615,7 @@ margin: 25px;
   }
 .main-padding {
   padding: 35px 20px;
+  margin: 40px 0;
 }
 
 
