@@ -47,10 +47,6 @@
     background: url(resources/images/arizona-one/canyon-de-chelly/canyon-de-chelly-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#four-corners-hero{
-    background: url(resources/images/arizona-one/four-corners/Four_Corners_Monument_-_panoramio-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #horseshoe-hero{
     background: url(resources/images/arizona-one/horseshoe/horseshoe-bend-hero-1137wPortrait.jpg) center no-repeat;
     background-size: cover;
@@ -167,8 +163,8 @@
     background: url(resources/images/arizona-one/grand-canyon/grand-canyon-west-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#havasu-falls-hero{
-    background: url(resources/images/arizona-one/grand-canyon/havasu-creek/Beaver_falls-hero-1515.jpg) center no-repeat;
+#havasu-hero{
+    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-west-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wrightson-hero{
@@ -3196,7 +3192,6 @@
         background: url(resources/images/nyc/batteryPark/battery-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-
     #bowling-green-hero{
         background: url(resources/images/nyc/bowlingCharging/bowling-green-hero-3030.jpg) center no-repeat;
         background-size: cover;
