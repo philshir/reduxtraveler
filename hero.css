@@ -1,0 +1,4072 @@
+
+#utah-hero{
+    background: url(resources/images/utah-one/zion-one/zion-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#itinerary-hero {
+    background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#cheaha-hero{
+    background: url(resources/images/cheaha-mountain/cheaha-mountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#arkansas-hero{
+    background: url(resources/images/ArkansasOne/hot-springs-np/arkansas-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#tennessee-hero{
+    background: url(resources/images/tenneseeOne/gsmnp/great-smoky-mountain-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#meteor-hero{
+    background: url(resources/images/arizona-one/meteorCrater/meteor-crater--hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#picacho-hero{
+    background: url(resources/images/arizona-one/picacho/picacho-peak-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#antelope-canyon-hero{
+    background: url(resources/images/arizona-one/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#arcosanti-hero{
+    background: url(resources/images/arizona-one/arcosanti/Arcosanti-Cliff_-View-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#aqua-hero{
+    background: url(resources/images/arizona-one/Aqua-Fria/aqua-fria-nm-hero-1515h1136w.jpg) center no-repeat;
+    background-size: cover;
+} 
+#apache-hero{
+    background: url(resources/images/arizona-one/Apache-Trail/apache-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chelly-hero{
+    background: url(resources/images/arizona-one/canyon-de-chelly/canyon-de-chelly-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#four-corners-hero{
+    background: url(resources/images/arizona-one/four-corners/Four_Corners_Monument_-_panoramio-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#horseshoe-hero{
+    background: url(resources/images/arizona-one/horseshoe/horseshoe-bend-hero-1137wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#humphreys-hero{
+    background: url(resources/images/arizona-one/humphreys/humphreys-peak-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jerome-hero{
+    background: url(resources/images/arizona-one/jerome/jerome-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-havasu-hero{
+    background: url(resources/images/arizona-one/havasu/lake-havasu-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glen-canyon-hero{
+    background: url(resources/images/arizona-one/glen-canyon-nra/glen-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#montezuma-hero{
+    background: url(resources/images/arizona-one/montezuma-castle/montezuma-castle-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lemmon-hero{
+    background: url(resources/images/arizona-one/lemmon/mt-lemmon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#organ-pipe-hero{
+    background: url(resources/images/arizona-one/organ-cactus/organ-pipe-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-mountain-hero{
+    background: url(resources/images/arizona-one/phoenix-one/black-mountain/black-mountain-az-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#camelback-hero{
+    background: url(resources/images/arizona-one/phoenix-one/camelback/camelback-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#casa-grande-hero{
+    background: url(resources/images/arizona-one/casa-grande/casa-grande-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#first-christian-hero{
+    background: url(resources/images/arizona-one/phoenix-one/first-christian/first-christian-church-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#goldfield-hero{
+    background: url(resources/images/arizona-one/phoenix-one/goldfield/goldfield-ghost-town-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hayden-hero{
+    background: url(resources/images/arizona-one/phoenix-one/hayden-butte/hayden-butte-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcdowell-mountains-hero{
+    background: url(resources/images/arizona-one/phoenix-one/toms-thumb/mcdowell-mountains-toms-thumb-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#papago-hero{
+    background: url(resources/images/arizona-one/phoenix-one/papago/papago-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#piestewa-hero{
+    background: url(resources/images/arizona-one/phoenix-one/piestewa/piestewa-peak-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-tan-hero{
+    background: url(resources/images/arizona-one/phoenix-one/san-tan/san-tan-mountains-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-mountain-hero{
+    background: url(resources/images/arizona-one/phoenix-one/south-mountain/south-mountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spook-hero{
+    background: url(resources/images/arizona-one/phoenix-one/spook/spook-hill-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#superstition-hero{
+    background: url(resources/images/arizona-one/phoenix-one/superstition/superstition-mountains-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#usery-hero{
+    background: url(resources/images/arizona-one/phoenix-one/wind-cave/usery-mountains-wind-cave-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-tank-hero{
+    background: url(resources/images/arizona-one/phoenix-one/white-tank/white-tank-mountains-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chiricahau-hero{
+    background: url(resources/images/arizona-one/chiricahau/chiricahau-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sugarloaf-hero{
+    background: url(resources/images/arizona-one/chiricahau/sugarloaf/sugarloaf-mountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gc-hero{
+    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bright-angel-hero{
+    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-bright-angel-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gc-south-rim-hero{
+    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-south-rim-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#skywalk-hero{
+    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-west-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#havasu-falls-hero{
+    background: url(resources/images/arizona-one/grand-canyon/havasu-creek/Beaver_falls-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wrightson-hero{
+    background: url(resources/images/arizona-one/wrightson/mt-wrightson-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#petrified-hero{
+    background: url(resources/images/arizona-one/petrified/petrified-forest-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sabino-hero{
+    background: url(resources/images/arizona-one/sabino/sabino-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#saguaro-hero{
+    background: url(resources/images/arizona-one/saguaro/saguaro-np-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-hero{
+    background: url(resources/images/arizona-one/sedona-one/cathedral/sedona-cathedral-rock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bell-courthouse-hero{
+    background: url(resources/images/arizona-one/sedona-one/courthouse-bell/sedona-courthouse-bell-rock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chapel-hero{
+        background: url(resources/images/arizona-one/sedona-one/chapel-holy-cross/sedona-chapel-holy-cross-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+}
+#devils-bridge-hero{
+    background: url(resources/images/arizona-one/sedona-one/devils-bridge/sedona-devils-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fay-hero{
+    background: url(resources/images/arizona-one/sedona-one/fay-canyon/sedona-fay-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#airport-mesa-hero{
+    background: url(resources/images/arizona-one/sedona-one/airportMesa/sedona-scenic-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#airport-scenic-hero{
+    background: url(resources/images/arizona-one/sedona-one/airportScenicLookout/sedona-scenic-lookout-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#west-fork-hero{
+    background: url(resources/images/arizona-one/sedona-one/west-fork/sedona-west-fork-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sonora-museum-hero{
+    background: url(resources/images/arizona-one/sonoran-museum/sonora-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-river-hero{
+    background: url(resources/images/arizona-one/salt-river-canyon/salt-river-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sunset-crater-hero{
+    background: url(resources/images/arizona-one/sunset-crater/sunset-crater-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#theodore-dam-hero{
+    background: url(resources/images/arizona-one/roosevelt-dam/theodore-roosevelt-dam-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tonto-hero{
+    background: url(resources/images/arizona-one/tonto-nm/tonto-nm-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vermilion-hero {
+    background: url(resources/images/arizona-one/vermilionCliffs/vermilion-cliffs-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wave-az-hero {
+    background: url(resources/images/arizona-one/wave/TheWave-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#walnut-hero{
+    background: url(resources/images/arizona-one/walnut-canyon/walnut-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#winslow-hero{
+    background: url(resources/images/arizona-one/winslow/winslow-hero-1136w.jpg) center no-repeat;
+    background-size: cover;
+}
+#wupatki-hero{
+    background: url(resources/images/arizona-one/wupatki-nm/wupatki-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#buffalo-hero{
+    background: url(resources/images/ArkansasOne/buffaloNR/buffalo-river-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#centerpoint-hero{
+    background: url(resources/images/ArkansasOne/buffaloNR/centerpoint/buffalo-river-centerpoint-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#lost-valley-hero{
+    background: url(resources/images/ArkansasOne/buffaloNR/lostValley/lost-valley-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#whitaker-point-hero{
+    background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/whitaker-point-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glory-hole-hero{
+    background: url(resources/images/ArkansasOne/glory-hole-trail/glory-hole-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hot-springs-hero{
+    background: url(resources/images/ArkansasOne/hot-springs-np/hot-springs-buckstaff-bathhouse-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#garvan-hero{
+    background: url(resources/images/ArkansasOne/garvan/garvan-gardens-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-rock-hero{
+    background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-dam-bridge-hero{
+    background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#central-high-hero{
+    background: url(resources/images/ArkansasOne/littleRock/central-high/central-high-school-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-mill-hero{
+    background: url(resources/images/ArkansasOne/littleRock/oldMill/old-mill-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pinnacle-mountain-hero{
+    background: url(resources/images/ArkansasOne/littleRock/pinnacleMtn/pinnacle-mountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#river-market-hero{
+    background: url(resources/images/ArkansasOne/littleRock/riverMarket/river-market-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#riverfront-park-hero{
+    background: url(resources/images/ArkansasOne/littleRock/riverfrontPark/riverfront-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bill-clinton-library-hero{
+    background: url(resources/images/ArkansasOne/littleRock/clintonLibrary/clinton-library-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#toltec-hero{
+    background: url(resources/images/ArkansasOne/toltec/toltec-mounds-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#two-rivers-hero{
+    background: url(resources/images/ArkansasOne/littleRock/two-rivers/two-rivers-bridge-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#willastein-hero{
+    background: url(resources/images/ArkansasOne/littleRock/willastein/lake-willastein-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-magazine-hero{
+    background: url(resources/images/ArkansasOne/mt-magazine/mt-magazione-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nebo-hero{
+    background: url(resources/images/ArkansasOne/nebo/mt-nebo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#petit-jean-hero{
+    background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bear-cave-hero{
+    background: url(resources/images/ArkansasOne/petitJean/bearCave/petit-jeanbear-cave-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cedar-creek-hero{
+    background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-cedar-creek-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cedar-falls-hero{
+    background: url(resources/images/ArkansasOne/petitJean/petit-jean-cedar-falls-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seven-hollows-hero{
+    background: url(resources/images/ArkansasOne/petitJean/sevenHollows/petit-jean-seven-hollows-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#plantation-agricultural-hero{
+    background: url(resources/images/ArkansasOne/plantation-museum/plantation-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#california-missions-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-diego-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-carlos-borromeo-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-gabriel-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-gabriel/san-gabriel-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-fernando-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-fernando-rey/2007_Mission_San_Fernando-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-juan-bautista-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-juan-bautista/san-juan-bautista-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-juan-capistrano-hero {
+    background: url(resources/images/californiaOne/california-missions/mission-san-juan-capistrano/Mission_San_Juan_Capistrano_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#algodones-hero{
+    background: url(resources/images/californiaOne/algodones/algodones-dunes-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#amboy-hero{
+    background: url(resources/images/californiaOne/amboy/amboy-crater-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ancient-bristlecone-hero{
+    background: url(resources/images/californiaOne/ancient-bristlecone/Bristlecone-pine-forest-janine-sprout-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#antelope-valley-hero{
+    background: url(resources/images/californiaOne/antelope-valley-preserve/Wildflowers_at_California_Poppy_Reserve-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bodie-hero{
+    background: url(resources/images/californiaOne/bodie-state-historic-park/Bodie_September_2016_panorama_1-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cabazon-hero{
+    background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#calico-hero{
+    background: url(resources/images/californiaOne/calico/calico-ghost-town-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#carmel-hero{
+    background: url(resources/images/californiaOne/carmelBeach/carmel-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-postpile-hero{
+    background: url(resources/images/californiaOne/devils-postpile/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#death-valley-hero{
+    background: url(resources/images/californiaOne/deathValleyOne/dantes-view/death-valley-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dantes-hero{
+    background: url(resources/images/californiaOne/deathValleyOne/dantes-view/death-valley-dantes-view-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#badwater-hero{
+    background: url(resources/images/californiaOne/deathValleyOne/badwater/death-valley-badwater-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#zabriske-hero{
+    background: url(resources/images/californiaOne/deathValleyOne/zabriske/death-valley-zabriske-point-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#twenty-mule-hero{
+    background: url(resources/images/californiaOne/deathValleyOne/twenty-mule/death-valley-twenty-mule-team-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ubehebe-hero{
+    background: url(resources/images/californiaOne/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#donner-memorial-hero{
+    background: url(resources/images/californiaOne/donner-memorial/Donner_Memorial_State_Park_-_Flickr_-_Joe_Parks-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glass-beach-hero{
+    background: url(resources/images/californiaOne/glass-beach/Sea_glass_at_Glass_Beach_in_California__-_2016-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hearst-hero {
+    background: url(resources/images/californiaOne/hearst/hearst-castle-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#joshua-tree-hero{
+    background: url(resources/images/californiaOne/joshuaTree/hiddenValley/joshua-tree-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lost-oasis-hero{
+    background: url(resources/images/californiaOne/joshuaTree/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kings-canyon-hero{
+    background: url(resources/images/californiaOne/kingsCanyon/kings-canyon-panoramic-point-hero-1515-.jpg) center no-repeat;
+    background-size: cover;
+}
+#grants-grove-hero{
+    background: url(resources/images/californiaOne/kingsCanyon/general-grant/kings-canyon-grant-grove-hero-1515-.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-stump-hero{
+    background: url(resources/images/californiaOne/kingsCanyon/big-stump-trail/kings-canyon-big-stump-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-jolla-hero{
+    background: url(resources/images/californiaOne/lajolla/lajolla-cove-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#laguna-hero{
+    background: url(resources/images/californiaOne/laguna/laguna-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tahoe-hero{
+    background: url(resources/images/californiaOne/tahoe/lake-tahoe-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lassen-hero{
+    background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sulphur-works-hero{
+    background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-sulphur-works-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chaos-crags-hero{
+    background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-chaos-crags-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cinder-hero{
+    background: url(resources/images/californiaOne/lassenOne/cinderCone/cinder-cone-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lassen-peak-hero{
+    background: url(resources/images/californiaOne/lassenOne/lassenPeak/lassen-volcanic-scenic-drive-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bumpass-hero{
+    background: url(resources/images/californiaOne/lassenOne/bumpass/bumpass-hell-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#broad-hero{
+    background: url(resources/images/californiaOne/LAOne/broad/broad-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#getty-museum-hero{
+    background: url(resources/images/californiaOne/LAOne/getty-museum/getty-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#getty-villa-hero{
+    background: url(resources/images/californiaOne/LAOne/getty-villa/getty-villa-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#griffith-hero{
+    background: url(resources/images/californiaOne/LAOne/griffith/griffith-observatory-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grove-farmers-hero{
+    background: url(resources/images/californiaOne/LAOne/grove-farmers/grove-farmers-market-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hollywood-hero{
+    background: url(resources/images/californiaOne/LAOne/hollywood-sign/hollywood-sign-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#queen-mary-hero{
+    background: url(resources/images/californiaOne/LAOne/queen-mary/queen-mary-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#santa-monica-hero{
+    background: url(resources/images/californiaOne/LAOne/santa-monica/santa-monica-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#union-station-hero{
+    background: url(resources/images/californiaOne/LAOne/union-station/union-station-la-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#venice-beach-hero{
+    background: url(resources/images/californiaOne/LAOne/venice-beach/venice-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#walt-concert-hero{
+    background: url(resources/images/californiaOne/LAOne/walt-disney-concert-hall/walt-disney-concert-hall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mono-lakes-hero{
+    background: url(resources/images/californiaOne/mono-lake/Mono_Lake_Tufa-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#muir-woods-hero{
+    background: url(resources/images/californiaOne/muirWoods/muir-woods-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pinnacles-hero{
+    background: url(resources/images/californiaOne/pinnacles/pinnacles-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#high-peaks-hero{
+    background: url(resources/images/californiaOne/pinnacles/pinnacles-high-peaks-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pch-hero{
+    background: url(resources/images/californiaOne/pch/pacific-coast-highway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#julia-pfeiffer-hero{
+    background: url(resources/images/californiaOne/pch/mcwayFalls/pacific-coast-highway-julia-pfeiffer-burns-sp-mcway-falls-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pfeiffer-beach-hero{
+    background: url(resources/images/californiaOne/pch/pfeifferBeach/pfeiffer-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rainbow-basin-hero{
+    background: url(resources/images/californiaOne/rainbow-basin/rainbow-basin-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#redwood-hero{
+    background: url(resources/images/californiaOne/redwoodOne/simpson-reed/redwood-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hidden-beach-hero{
+    background: url(resources/images/californiaOne/redwoodOne/hidden-beach/redwood-hidden-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lady-bird-hero{
+    background: url(resources/images/californiaOne/redwoodOne/lady-bird/redwood-lady--bird-johnson-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stout-hero{
+    background: url(resources/images/californiaOne/redwoodOne/stout/redwood-stout-grove-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salton-hero{
+    background: url(resources/images/californiaOne/salton/salton-sea-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salvation-hero{
+    background: url(resources/images/californiaOne/salvation-mountain/salvation-mountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#balboa-hero{
+    background: url(resources/images/californiaOne/sanDiegoOne/balboa-park/san-diego-balboa-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cabrillo-hero{
+    background: url(resources/images/californiaOne/sanDiegoOne/cabrillo/cabrillo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coronado-beach-hero{
+    background: url(resources/images/californiaOne/sanDiegoOne/coronado/coronado-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#maritime-hero{
+    background: url(resources/images/californiaOne/sanDiegoOne/maritimeSanDiego/san-diego-maritime-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#torrey-hero{
+    background: url(resources/images/californiaOne/sanDiegoOne/torrey-pines/torrey-pines-hero1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#midway-hero{
+    background: url(resources/images/californiaOne/sanDiegoOne/ussMidway/uss-midway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#alcatraz-hero{
+    background: url(resources/images/californiaOne/san-fran/alcatraz-one/alcatraz-island-hero-two-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chinatown-san-fran-hero{
+    background: url(resources/images/californiaOne/san-fran/chinatown-sanfran/san-francisco-chinatown-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#golden-gate-hero{
+    background: url(resources/images/californiaOne/san-fran/golden-gate-bridge/golden-gate-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#japanese-tea-hero{
+    background: url(resources/images/californiaOne/san-fran/japanese-tea/golden-gate-park-japanese-tea-garden-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lombard-hero{
+    background: url(resources/images/californiaOne/san-fran/lombard/lombard-street-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#muir-beach-hero{
+    background: url(resources/images/californiaOne/muir-beack-and-outlook/muir-beach-outlook-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#painted-ladies-hero{
+    background: url(resources/images/californiaOne/san-fran/painted-ladies-one/painted-ladies-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palace-fine-arts-hero{
+    background: url(resources/images/californiaOne/san-fran/palace-fine-arts/palace-of-fine-arts-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#santa-cruz-hero{
+    background: url(resources/images/californiaOne/santa-cruz/sant-cruz-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palm-springs-hero{
+    background: url(resources/images/californiaOne/palmSprings/palm-springs-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-shasta-hero{
+    background: url(resources/images/californiaOne/shasta/Mount_Shasta_34774661494-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sequoia-hero{
+    background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#congress-hero{
+    background: url(resources/images/californiaOne/sequoiaOne/sherman/sequoia-general-sherman-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#moro-hero{
+    background: url(resources/images/californiaOne/sequoiaOne/moro/moro-rock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#giant-forest-hero{
+    background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-giant-trees-parker-group-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-mountain-hero{
+    background: url(resources/images/californiaOne/white-mountain/White_Mountain_Peak_View_to_southwest\,_California-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yosemite-hero{
+    background: url(resources/images/californiaOne/yosemite-one/tunnel-view/yosemite-tunnel-view-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bridalveil-fall-hero{
+    background: url(resources/images/californiaOne/yosemite-one/bridalveil-yosemite/yosemite-bridalveil-fall-mist-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#clouds-rest-hero{
+    background: url(resources/images/californiaOne/yosemite-one/) center no-repeat;
+    background-size: cover;
+}
+#glacier-point-hero{
+    background: url(resources/images/californiaOne/yosemite-one/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#el-capitan-hero{
+    background: url(resources/images/californiaOne/yosemite-one/el-capitan/yosemite-el-capitan-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hiking-yosemite-hero{
+    background: url(resources/images/californiaOne/yosemite-one/half-dome/yosemite-half-dome-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lower-yosemite-hero{
+    background: url(resources/images/californiaOne/yosemite-one/yosemite-falls/yosemite-falls-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-canyon-hero{
+    background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#colorado-nm-hero{
+    background: url(resources/images/colorado-one/colorado-nm/colorado-nm-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#garden-gods-hero{
+    background: url(resources/images/colorado-one/garden-gods/garden-of-the-gods-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grays-torreys-hero{
+    background: url(resources/images/colorado-one/grays-torrey/grays-torreys-peaks-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#great-sand-hero{
+    background: url(resources/images/colorado-one/great-sand/great-sand-dunes-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mesa-verde-hero{
+    background: url(resources/images/colorado-one/mesa-verde/mesa-verde-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#painted-mines-hero{
+    background: url(resources/images/colorado-one/painted-mine/painted-mines-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rocky-mountains-hero{
+    background: url(resources/images/colorado-one/rocky-mountain/rocky-mountains-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-juan-skyway-hero{
+    background: url(resources/images/colorado-one/san-juan/san-juan-skyway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#florida-hero{
+    background: url(resources/images/floridaOne/panamaCity/florida-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#biscayne-hero{
+    background: url(resources/images/floridaOne/biscayne/biscayne-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#daytona-hero{
+    background: url(resources/images/floridaOne/daytona/daytona-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#everglades-hero{
+    background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/everglades-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#anhinga-hero{
+    background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/anhinga-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#eco-pond-hero{
+    background: url(resources/images/floridaOne/evergladesNP/ecoTrail/eco-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gumbo-limbo-hero{
+    background: url(resources/images/floridaOne/evergladesNP/gumboLimbo/gumbo-limbo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mahogany-hammock-hero{
+    background: url(resources/images/floridaOne/evergladesNP/mahoganyHammock/mahogany-hammock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pinelands-hero{
+    background: url(resources/images/floridaOne/evergladesNP/pinelandsTrail/pinelands-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#snake-bight-hero{
+    background: url(resources/images/floridaOne/evergladesNP/snakeBightTrail/snake-bight-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#west-lake-hero{
+    background: url(resources/images/floridaOne/evergladesNP/westLakeTrail/west-lake-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-lauderdale-hero{
+    background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#key-west-hero{
+    background: url(resources/images/floridaOne/key-west/key-west-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#duval-street-hero{
+    background: url(resources/images/floridaOne/key-west/duval-street/duval-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mallory-square-hero{
+    background: url(resources/images/floridaOne/key-west/mallory-square/mallory-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#southernmost-point-hero{
+    background: url(resources/images/floridaOne/key-west/southernmost-point/southernmost-point-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#tropic-cinema-hero{
+    background: url(resources/images/floridaOne/key-west/tropic-cinema/tropic-cinema-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#merritt-boardwalk-hero{
+    background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-point-drive-hero{
+    background: url(resources/images/floridaOne/merrittIsland/black-point-wildlife-drive/black-point-scenic-drive-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oak-hammock-hero{
+    background: url(resources/images/floridaOne/merrittIsland/oak-hammock-trail/oak-hammock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cruickshank-trail-hero{
+    background: url(resources/images/floridaOne/merrittIsland/cruickshank-trail/cruickshank-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#torch-friendship-hero{
+    background: url(resources/images/floridaOne/miami/antorcha-amistad/antocha-amistad-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bal-harbour-shops-hero{
+    background: url(resources/images/floridaOne/miami/bal-harbour-shops/bal-harbour-shops-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bayside-marketplace-hero{
+    background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coral-gables-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/coral-gables-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coral-gables-city-hall-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/cityHall/coral-gables-city-hall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coral-gables-congregational-church-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/congregationalUnited/coral-gables-congregational-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#miami-biltmore-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/biltmore-coral-gables-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#venetian-pool-hero{
+    background: url(resources/images/floridaOne/miami/coral-gables/venetianPool/venetian-pool-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#freedom-tower-hero{
+    background: url(resources/images/floridaOne/miami/freedom-tower/freedom-tower-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#holocaust-memorial-hero{
+    background: url(resources/images/floridaOne/miami/holocaust-memorial/holocaust-memorial-miami-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lincoln-road-hero{
+    background: url(resources/images/floridaOne/miami/lincoln-rd/lincoln-road-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-havana-hero{
+    background: url(resources/images/floridaOne/miami/little-havana/little-havana-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-beach-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/south-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+#casa-casuarina-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/casa-casuarina/casa-casuarina-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#espanola-way-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/espanola-way/espanola-way-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#las-olas-hero{
+    background: url(resources/images/floridaOne/miami/south-beach/las-olas/las-olas-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-pointe-park-hero{
+    background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-bernard-church-hero{
+    background: url(resources/images/floridaOne/miami/st-bernard-de-clairvaux-church/st-bernard-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wynwood-walls-hero{
+    background: url(resources/images/floridaOne/miami/wynwood-walls/wynwood-walls-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#panama-hero{
+    background: url(resources/images/floridaOne/panamaCity/panama-city-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pensacola-hero{
+    background: url(resources/images/floridaOne/pensacolaBeach/pensacola_beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bridge-lions-hero{
+    background: url(resources/images/floridaOne/stAugustine/bridgeLions/bridge-lions-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#castillo-san-marcos-hero{
+    background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-st-augustine-hero{
+    background: url(resources/images/floridaOne/stAugustine/cathedralBasilicaStAug/st-aug-cathedral-basilica-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flagler-college-hero{
+    background: url(resources/images/floridaOne/stAugustine/flaglerCollege/flagler-college-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#governors-house-hero{
+    background: url(resources/images/floridaOne/stAugustine/governors-house/governors-house-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lightner-museum-hero{
+    background: url(resources/images/floridaOne/stAugustine/lightnerMuseum/st-augustine-lightner-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#memorial-presbyterian-hero{
+    background: url(resources/images/floridaOne/stAugustine/memorialPresbyterian/memorial-presbyterian-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#city-gates-hero{
+    background: url(resources/images/floridaOne/stAugustine/st-augustine-old-city-gate-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oldest-schoolhouse-hero{
+    background: url(resources/images/floridaOne/stAugustine/st-augustine-oldest-schoolhouse/st-augustine-oldest-schoolhouse-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#plaza-constitucion-hero{
+    background: url(resources/images/floridaOne/stAugustine/plaza-de-la-constitucion/plaza-de-la-constitucion-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#villa-zorayda-hero{
+    background: url(resources/images/floridaOne/stAugustine/st-augustine-zorayda-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#zero-milestone-hero{
+    background: url(resources/images/floridaOne/stAugustine/zero-milestone/st-augustine-zero-milestone-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#kentucky-hero{
+    background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#black-mountain-ky-hero{
+    background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mammoth-hero{
+    background: url(resources/images/kentuckyOne/mammoth/mammoth-cave-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#savannah-hero{
+    background: url(resources/images/savannah-one/savannah-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bonaventure-hero{
+    background: url(resources/images/savannah-one/bonaventure/bonaventure-cemetery-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#forsyth-park-hero{
+    background: url(resources/images/savannah-one/forsyth-park/forsyth-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ft-pulaski-hero{
+    background: url(resources/images/savannah-one/ft-pulaski/ft-pulaski-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tybee-hero{
+    background: url(resources/images/savannah-one/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bayou-coquille-hero{
+    background: url(resources/images/louisiana/barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barataria-marsh-overlook-hero{
+    background: url(resources/images/louisiana/barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barataria-visitor-center-trail-hero{
+    background: url(resources/images/louisiana/barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#galvez-plaza-hero{
+    background: url(resources/images/louisiana/baton-rouge/galvez-plaza-north-blvd/galvez-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#louisiana-state-capitol-hero{
+    background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-louisiana-state-capitol-hero{
+    background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#riverfront-plaza-hero{
+    background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/riverfront-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-kidd-hero{
+    background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cane-river-creole-hero{
+    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/cane-river-creole-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oakland-plantation-hero{
+    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/oakland-plantation-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#magnolia-plantation-hero{
+    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/magnolia-plantation/magnolia-plantation-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mardi-gras-hero{
+    background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#algiers-point-hero{
+    background: url(resources/images/louisiana/new-orleans/algiers-point/algiers-point-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#audubon-park-hero{
+    background: url(resources/images/louisiana/new-orleans/audubon-park/audubon-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jackson-square-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-square/jackson-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#city-park-no-hero{
+    background: url(resources/images/louisiana/new-orleans/city-park/new-orleans-city-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cafe-du-monde-hero{
+    background: url(resources/images/louisiana/new-orleans/cafe-du-monde/cafe-du-monde-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#french-quarter-hero{
+    background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#antoines-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/antoines-restaurant-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#bourbon-street-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/bourbon-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#canal-street-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jackson-brewery-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-brewing-company/jackson-brewing-company-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#galatoires-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#legends-park-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pat-obriens-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/pat-obriens-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#riverwalk-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spanish-plaza-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/spanish-plaza/spanisg-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-louis-cathedral-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#steamboat-natchez-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#woldenberg-park-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/woldenberg-park/woldenberg-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-louis-cemetery-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-nmp-hero{
+    background: url(resources/images/vicksburg-national-military-park/vicksburg-nmp-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-cairo-hero{
+    background: url(resources/images/vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-illinois-memorial-hero{
+    background: url(resources/images/vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-memorials-hero{
+    background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#branson-landing-hero{
+    background: url(resources/images/branson/branson-landing/branson-landing-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#table-rock-hero{
+    background: url(resources/images/branson/table-rock-mo/table-rock-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wheeler-peak-scenic-hero{
+    background: url(resources/images/nevada-one/great-basin/Baker_Peak-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lehman-caves-hero{
+    background: url(resources/images/nevada-one/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bristlecone-glacier-hero{
+    background: url(resources/images/nevada-one/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wheeler-peak-nv-hero{
+    background: url(resources/images/nevada-one/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#hoover-dam-hero{
+    background: url(resources/images/nevada-one/hoover/hoover-dam-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bellagio-hero{
+    background: url(resources/images/nevada-one/LasVegas/belagioNV/bellagio-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#caesars-hero{
+    background: url(resources/images/nevada-one/LasVegas/caesars/caesars-palace-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cosmo-hero{
+    background: url(resources/images/nevada-one/LasVegas/cosmo/cosmo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#excalibur-hero{
+    background: url(resources/images/nevada-one/LasVegas/excaliburNV/excalibur-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fremont-street-hero{
+    background: url(resources/images/nevada-one/LasVegas/fremont/fremont-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#luxor-hero{
+    background: url(resources/images/nevada-one/LasVegas/luxorNV/luxor-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mandalay-hero{
+    background: url(resources/images/nevada-one/LasVegas/mandalay/mandalay-bay-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mgm-hero{
+    background: url(resources/images/nevada-one/LasVegas/mgm/mgm-grand-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mirage-hero{
+    background: url(resources/images/nevada-one/LasVegas/mirageNV/mirage-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nyny-hero{
+    background: url(resources/images/nevada-one/LasVegas/newYorkNV/new-york-new-york-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#paris-hero{
+    background: url(resources/images/nevada-one/LasVegas/parisNV/paris-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#planet-hollywood-hero{
+    background: url(resources/images/nevada-one/LasVegas/planetHollywood/planet-hollywood-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#strat-hero{
+    background: url(resources/images/nevada-one/LasVegas/stratNV/strat-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#treasure-island-hero{
+    background: url(resources/images/nevada-one/LasVegas/treasureIsland/treasure-island-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#venetian-hero{
+    background: url(resources/images/nevada-one/LasVegas/venetianNV/venetian-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wynn-hero{
+    background: url(resources/images/nevada-one/LasVegas/wynnNV/wynn-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-rock-canyon-hero{
+    background: url(resources/images/nevada-one/red-rock-canyon/red-rock-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#valley-fire-hero{
+    background: url(resources/images/nevada-one/valley-fire/valley-of-fire-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#valley-scenic-hero{
+    background: url(resources/images/nevada-one/valley-fire/valley-of-fire-scenic-drive-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-domes-hero{
+    background: url(resources/images/nevada-one/valley-fire/white-domes/valley-of-fire-white-domes-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#new-jersey-hero{
+    background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#high-point-hero{
+    background: url(resources/images/newJersey/high-point/high-point-sp-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#paterson-falls-hero{
+    background: url(resources/images/newJersey/paterson-falls/paterson-falls-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seaside-heights-hero{
+    background: url(resources/images/newJersey/seaside-heights/seaside-heights-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-mexico-hero{
+    background: url(resources/images/NewMexico/Las_Cruses\,_New_Mexico-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#carlsbad-caverns-hero{
+    background: url(resources/images/NewMexico/carlsbad/carlsbad-cavern-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#santa-fe-hero{
+    background: url(resources/images/NewMexico/santa-fe/santa-fe-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-sands-hero{
+    background: url(resources/images/NewMexico/white-sands/white-sands-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#thirty-rock-hero{
+    background: url(resources/images/nyc/30-rockeffeler-plaza/2258-NYC-NBC_Studios-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nine-one-one-hero{
+    background: url(resources/images/nyc/911Memorial/911-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#american-museum-natural-history-hero{
+    background: url(resources/images/nyc/american-museum-of-natural-history/Blue_Whale_Natl_Hist_Museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#battery-hero{
+    background: url(resources/images/nyc/batteryPark/battery-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bowling-green-hero{
+    background: url(resources/images/nyc/bowlingCharging/bowling-green-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#brooklyn-bridge-hero{
+    background: url(resources/images/nyc/brooklynBridge/brooklyn-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#brooklyn-bridge-park-hero{
+    background: url(resources/images/nyc/brooklynBridgePark/brooklyn-bridge-park-poles-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bryant-park-hero{
+    background: url(resources/images/nyc/bryant-park/New-York_-_Bryant_Park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#central-park-hero{
+    background: url(resources/images/nyc/CentralPark/central-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coney-island-hero{
+    background: url(resources/images/nyc/coney-island/Coney_Island_beach_and_amusement_parks_June_2016-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chelsea-market-hero{
+    background: url(resources/images/nyc/chelsea-market/Chelsea_Market_49052085186-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chrysler-building-hero{
+    background: url(resources/images/nyc/chrysler-building/Chrysler_Building_2005_4-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dumbo-hero{
+    background: url(resources/images/nyc/dumbo/dumbo-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#edge-hero{
+    background: url(resources/images/nyc/edgeNY/nyc-empire-state-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ellis-island-hero{
+    background: url(resources/images/nyc/ellis-island/Ellis_island_view-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#empire-state-hero{
+    background: url(resources/images/nyc/empire-state-building/NYC_Empire_State_Building-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#federal-hall-hero{
+    background: url(resources/images/nyc/federalHall/Federal_Hall_August_2017_01-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flatiron-building-hero{
+    background: url(resources/images/nyc/flatiron-building/The_Flatiron_Building_3-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fraunces-tavern-hero{
+    background: url(resources/images/nyc/fraunces-tavern/Fraunces_Tavern_Block-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-central-terminal-hero{
+    background: url(resources/images/nyc/grand-central-terminal/Grand_Central_Terminal_ceiling_view-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#greenwich-village-hero{
+    background: url(resources/images/nyc/greenwich-village/Greenwich_Village_-_panoramio_1-hero-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#high-line-hero{
+    background: url(resources/images/nyc/highLine/The_High_Line\,_New_York_17643199203-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#met-art-hero{
+    background: url(resources/images/nyc/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_4-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#moma-hero{
+    background: url(resources/images/nyc/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nathans-famous-hero{
+    background: url(resources/images/nyc/nathans-famous/NathansHotDog-3_48034232387-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-york-city-hall-hero{
+    background: url(resources/images/nyc/new-york-city-hall/New_York_City_Hall_exterior\,_October_2016-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nyc-hero{
+    background: url(resources/images/nyc/NYC-Top_of_the_Rock-Panoramic_view_of_Midtown_South_Central-Empire_State_Buildung-panoramio-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ny-public-library-hero{
+    background: url(resources/images/nyc/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ny-transit-museum-hero{
+    background: url(resources/images/nyc/new-york-transit-museum/New_York_Transit_Museum_July_2013_007-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#prospect-park-hero{
+    background: url(resources/images/nyc/prospect-park/Prospect_Park_New_York_October_2015_003-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#radio-city-music-hero{
+    background: url(resources/images/nyc/radio-city-music-hall/Radio_City_Music_Hall\,_New_York\,_Manhattan\,_USA-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rockefeller-center-hero{
+    background: url(resources/images/nyc/rockefeller-center/Rockefeller_Center-_Ice_Skating-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#roosevelt-tramway-hero{
+    background: url(resources/images/nyc/roosevelt-island-tram/Roosevelt_Island_td_2019-11-03_040_-_Roosevelt_Island_Tramway_Station-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#solomon-guggenheim-hero{
+    background: url(resources/images/nyc/solomon-guggenheim/Museo_Solomon_R-hero-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#st-patricks-cathedral-hero{
+    background: url(resources/images/nyc/st-patricks-cathedral/NYC_-_St-hero-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#staten-ferry-hero{
+    background: url(resources/images/nyc/statenIsland/staten-island-ferry-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-patrick-ny-hero{
+    background: url(resources/images/nyc/st-patricks-cathedral/) center no-repeat;
+    background-size: cover;
+}
+#statue-liberty-hero{
+    background: url(resources/images/nyc/statue-of-liberty/Liberty_Island_photo_D_Ramey_Logan-hero-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#times-square-hero{
+    background: url(resources/images/nyc/timesSquareNY/times-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#trinity-church-hero{
+    background: url(resources/images/nyc/trinityChurch/NYC_-_Trinity_Church_-_Watts_statue-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vessel-hero{
+    background: url(resources/images/nyc/vessel-one/vessel-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-square-park-hero{
+    background: url(resources/images/nyc/washington-square-park/Washington_Square_Arch-Isabella-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-mitchell-hero{
+    background: url(resources/images/northCarolina/mt-mitchell/mt-mitchell-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blue-ridge-hero{
+    background: url(resources/images/northCarolina/blue-ridge/blue-ridge-parkway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#asheville-hero{
+    background: url(resources/images/northCarolina/asheville/asheville-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crater-lake-hero{
+    background: url(resources/images/crater-lake/crater-lake-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crater-rim-hero{
+    background: url(resources/images/crater-lake/crater-lake-rim-drive-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#watchman-trail-hero{
+    background: url(resources/images/crater-lake/watchman/crater-lake-watchman-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#multnomah-falls-hero{
+    background: url(resources/images/oregon/multnomah-falls/multnomah-falls-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#independence-hero{
+    background: url(resources/images/liberty-hall/independance-hall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-carolina-hero{
+    background: url(resources/images/SouthCarolina/charleston-one/south-carolina-carriage-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#charleston-hero{
+    background: url(resources/images/SouthCarolina/charleston-one/charleston-pineapple-fountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#angel-oak-hero{
+    background: url(resources/images/SouthCarolina/charleston-one/angel-oak/angel-oak-tree-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-phillips-hero{
+    background: url(resources/images/SouthCarolina/charleston-one/stPhillips/st-phillips-interior-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#congaree-hero{
+    background: url(resources/images/SouthCarolina/congaree/congaree-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-sassafras-hero{
+    background: url(resources/images/SouthCarolina/sassafras/mt-sassafras-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-dakota-hero{
+    background: url(resources/images/southDakota/badlands-one/south-dakota-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#badlands-hero{
+    background: url(resources/images/southDakota/badlands-one/badlands-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sage-creek-rim-hero{
+    background: url(resources/images/southDakota/badlands-one/badlands-bighorn-sheep-sage-creek-road-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#corn-palace-hero{
+    background: url(resources/images/southDakota/corn-palace/corn-palace-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-rushmore-hero{
+    background: url(resources/images/southDakota/mt-rushmore/mt-rushmore-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wall-drug-hero{
+    background: url(resources/images/southDakota/wall-drug/wall-drug-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wind-cave-sd-hero{
+    background: url(resources/images/southDakota/sd-wind-cave/wind-cave-sd-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gsmnp-hero{
+    background: url(resources/images/tenneseeOne/gsmnp/great-smoky-mountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chimney-tops-hero{
+    background: url(resources/images/tenneseeOne/gsmnp/chimney-tops/chimney-tops-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#clingmans-hero{
+    background: url(resources/images/tenneseeOne/gsmnp/clingmans/clingmans-dome-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#laurel-falls-hero{
+    background: url(resources/images/tenneseeOne/gsmnp/laurel-falls/laurel-falls-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#beale-hero{
+    background: url(resources/images/tenneseeOne/memphisOne/beale/beale-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-river-hero{
+    background: url(resources/images/tenneseeOne/memphisOne/bigRiverCrossing/memphis-big-river-crossing-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#graceland-hero{
+    background: url(resources/images/tenneseeOne/memphisOne/graceland-living-room-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#memphis-pyramid-hero{
+    background: url(resources/images/tenneseeOne/memphisOne/memphisPyramid/memphis-pyramid-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#orpheum-hero{
+    background: url(resources/images/tenneseeOne/memphisOne/orpheum/orpheum-theater-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sun-studios-hero{
+    background: url(resources/images/tenneseeOne/memphisOne/sun-studios-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tom-lee-hero{
+    background: url(resources/images/tenneseeOne/memphisOne/tomLee/tom-lee-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#broadway-district-hero{
+    background: url(resources/images/tenneseeOne/nashville-one/nashville-broadway-district-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#parthenon-hero{
+    background: url(resources/images/tenneseeOne/nashville-one/parthenon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-bend-hero{
+    background: url(resources/images/texas-one/bigBend/big-bend-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chisos-hero{
+    background: url(resources/images/texas-one/bigBend/big-bend-chisos-window-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#southwest-big-bend-hero{
+    background: url(resources/images/texas-one/bigBend/big-bend-southwest-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#santa-elena-hero{
+    background: url(resources/images/texas-one/bigBend/santa-elena/santa-elena-canyon-hero-1136.jpg) center no-repeat;
+    background-size: cover;
+}
+#galveston-hero{
+    background: url(resources/images/texas-one/galvestonOne/galvestonHistoricPleasureIsland/galveston-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bishops-palace-hero{
+    background: url(resources/images/texas-one/galvestonOne/bishopsPalace/1892-bishops-palace-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#galveston-beach-hero{
+    background: url(resources/images/texas-one/galvestonOne/galvestonBeach/galveston-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#galveston-island-pleasure-pier-hero{
+    background: url(resources/images/texas-one/galvestonOne/galvestonHistoricPleasureIsland/galveston-pleasure-island-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ocean-star-hero{
+    background: url(resources/images/texas-one/galvestonOne/oceanStar/ocean-star-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#saengerfest-hero{
+    background: url(resources/images/texas-one/galvestonOne/saengerfestPark/saengerfest-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#strand-hero{
+    background: url(resources/images/texas-one/galvestonOne/Strand/strand-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#guadalupe-hero{
+    background: url(resources/images/texas-one/guadalupe/guadalupe-mountains-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#guadalupe-peak-hero{
+    background: url(resources/images/texas-one/guadalupe/guadalupe-mountains-peak-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#houston-hero{
+    background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/houston-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#buffalo-bayou-park-hero{
+    background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/buffalo-bayou-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hines-waterwall-hero{
+    background: url(resources/images/texas-one/houstonOne/gerald-hines-waterwall/gerald-hines-waterwall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hermann-square-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-sqaure/hermann-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kemah-boardwalk-hero{
+    background: url(resources/images/texas-one/houstonOne/kemah-boardwalk/kemah-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cancer-survivors-park-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/cancer-survivors-plaza/cancer-survivors-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hermann-japanese-garden-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/hermann-japanese-tea-garden/hermann-japanese-tea-garden-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jones-reflecting-pool-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mary-gibbs-and-jesse-h-jones-reflection-pool/hermann-park-reflection-pool-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcgovern-lake-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-lake/mcgovern-lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcgovern-gardens-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-centennial-gardens/centennial-gardens-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mecom-colonnade-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/mecom-rockwell-colonnade/mecom-rockwell-colonnade-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pioneer-obelisk-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/pioneer-memorial-obelisk/pioneer-memorial-obelisk-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sam-houston-hero{
+    background: url(resources/images/texas-one/houstonOne/hermann-park/sam-houston-statue/sam-houston-statue-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#love-lock-hero{
+    background: url(resources/images/texas-one/houstonOne/love-lock-bridge/love-lock-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-pauls-united-hero{
+    background: url(resources/images/texas-one/houstonOne/st-pauls-united-methodist-houston/st-paul-methodist-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tranquillity-park-hero{
+    background: url(resources/images/texas-one/houstonOne/tranquillity-park/tranquillity-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-antonio-missions-hero{
+    background: url(resources/images/texas-one/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#arches-hero{
+    background: url(resources/images/utah-one/arches-one/delicate-arch/arches-delicate-arch-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#park-avenue-hero{
+    background: url(resources/images/utah-one/arches-one/park-ave/arches-park-avenue-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#double-arch-hero{
+    background: url(resources/images/utah-one/arches-one/arches-double-arch-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#windows-hero{
+    background: url(resources/images/utah-one/arches-one/arches-windows-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-garden-hero{
+    background: url(resources/images/utah-one/arches-one/devils-garden/arches-devils-garden-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#bryce-hero{
+    background: url(resources/images/utah-one/bryce/bryce-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#queens-garden-hero{
+    background: url(resources/images/utah-one/bryce/bryce-canyon-queens-garden-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#navajo-trail-hero{
+    background: url(resources/images/utah-one/bryce/bryce-canyon-navajo-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#buckskin-hero{
+    background: url(resources/images/utah-one/buckskin/buckskin-gulch-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#canyonlands-hero{
+    background: url(resources/images/utah-one/canyonlands-one/island-sky/canyonlands-island-sky-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#island-sky-hero{
+    background: url(resources/images/utah-one/canyonlands-one/mesa-arch/canyonlands-mesa-arch-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mesa-arch-hero{
+    background: url(resources/images/utah-one/canyonlands-one/mesa-arch/canyonlands-mesa-arch-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-view-hero{
+    background: url(resources/images/utah-one/canyonlands-one/grand-view/canyonlands-grand-view-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#upheaval-hero{
+    background: url(resources/images/utah-one/canyonlands-one/upheaval/canyonlands-upheaval-dome-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#needles-hero{
+    background: url(resources/images/utah-one/canyonlands-one/can-needles/canyonlands-needles-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#capitol-reef-hero{
+    background: url(resources/images/utah-one/capitol-reef-one/capitol-reef-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hickman-hero{
+    background: url(resources/images/utah-one/capitol-reef-one/hickman-bridge/capitol-reef-hickman-bridge-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#coral-pink-hero{
+    background: url(resources/images/utah-one/coral-pink/coral-pink-sand-dunes-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#goblin-valley-hero{
+    background: url(resources/images/utah-one/goblin-valley/goblin-valley-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#goosenecks-hero{
+    background: url(resources/images/utah-one/goosenecks/goosenecks-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-wild-horse-hero{
+    background: url(resources/images/utah-one/little-wild-horse/little-wild-horse-canyon-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#moki-hero{
+    background: url(resources/images/utah-one/moki/moki-dugway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#monument-valley-hero{
+    background: url(resources/images/utah-one/monument-valley/monument-valley-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#paria-hero{
+    background: url(resources/images/utah-one/paria-ghost/paria-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#valley-gods-hero{
+    background: url(resources/images/utah-one/valley-gods/valley-of-the-gods-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wire-pass-hero{
+    background: url(resources/images/utah-one/wire-pass/wire-pass-hero-15136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#zion-hero{
+    background: url(resources/images/utah-one/zion-one/angels-landing/zion-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#zion-canyon-hero{
+    background: url(resources/images/utah-one/zion-one/zion-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#angels-landing-hero{
+    background: url(resources/images/utah-one/zion-one/angels-landing/angels-landing-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#zion-narrows-hero{
+    background: url(resources/images/utah-one/zion-one/zion-narrows/zion-narrows-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#virginia-hero{
+    background: url(resources/images/virginia/shenandoah-one/virginia-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#shenandoah-hero{
+    background: url(resources/images/virginia/shenandoah-one/shenandoah-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#udvay-hero{
+    background: url(resources/images/virginia/udvar/steven-udvay-space-center-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lincoln-memorial-hero{
+    background: url(resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#reflecting-pool-hero{
+    background: url(resources/images/washingtonDC/reflectigPool/reflecting-pool-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ulysses-hero{
+    background: url(resources/images/washingtonDC/ulyssesGrant/ulysses-grant-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#us-capitol-hero{
+    background: url(resources/images/washingtonDC/usCapitol/us-capitol-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vietnam-memorial-hero{
+    background: url(resources/images/washingtonDC/washington-dc-vietnam-veterans-memorial-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-monument-hero{
+    background: url(resources/images/washingtonDC/washington-monument-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-house-hero{
+    background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-state-hero {
+    background: url(resources/images/washington/Seattle_4-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-rainier-hero{
+    background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-rainier-np-hero{
+    background: url(resources/images/washington/mt-rainier/Mount_Rainier_3-reflection-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-rainer-trails-hero{
+    background: url(resources/images/washington/mt-rainier/skagit-river-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#narada-hero{
+    background: url(resources/images/washington/mt-rainier/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nisqually-hero{
+    background: url(resources/images/washington/mt-rainier/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#paradise-wa-hero{
+    background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-st-helens-hero{
+    background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hoh-hero{
+    background: url(resources/images/washington/olympic-np/hoh-rain-forest/hoh-rain-forest-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hurricane-ridge-hero{
+    background: url(resources/images/washington/olympic-np/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-hero {
+    background: url(resources/images/washington/seattle/Seattle_3-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#amazon-spheres-hero {
+    background: url(resources/images/washington/seattle/amazon-spheres/Amazon_Spheres_05.jpg-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chihuly-garden-hero {
+    background: url(resources/images/washington/seattle/chihuly-garden/Chihuly_Garden_and_Glass_Seattle_Washington17-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-gum-wall-hero {
+    background: url(resources/images/washington/seattle/gum-wall/Gum_wall\,_Seattle\,_Washington\,_Estados_Unidos\,_2017-09-02\,_DD_19-21_HDR-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-gum-wall-hero {
+    background: url(resources/images/washington/seattle/gum-wall/Gum_wall\,_Seattle\,_Washington\,_Estados_Unidos\,_2017-09-02\,_DD_19-21_HDR-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pike-place-market-hero {
+    background: url(resources/images/washington/seattle/pike-place-market/pike-place-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#seattle-great-wheel-hero {
+    background: url(resources/images/washington/seattle/great-wheel/Seattle_Great_Wheel-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#space-needle-hero {
+    background: url(resources/images/washington/seattle/space-needle/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#starbucks-pike-place-hero {
+    background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#west-virginia-hero{
+    background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#german-valley-hero{
+    background: url(resources/images/WestVirginia/german-valley/german-valley-wv-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glade-creek-hero{
+    background: url(resources/images/WestVirginia/glade-creek/glade-creek-grist-mill-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-river-hero{
+    background: url(resources/images/WestVirginia/new-river-gorge/new-river-gorge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spruce-knob-hero{
+    background: url(resources/images/WestVirginia/spruce-knob/spruce-knob-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wyoming-hero{
+    background: url(resources/images/wyoming/grand-teton-one/wyoming-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-tower-hero{
+    background: url(resources/images/wyoming/devils-tower/devils-tower-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-teton-hero{
+    background: url(resources/images/wyoming/grand-teton-one/grand-teton-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-hero {
+    background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-southwest-hero {
+    background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-northwest-hero {
+    background: url(resources/images/wyoming/yellowstone-one/norris-geyser/norris-basin-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-upper-basin-hero {
+    background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-midway-basin-hero {
+    background: url(resources/images/wyoming/yellowstone-one/midway-basin/grand-prismatic/midway-basin-grand-prismatic-spring-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-lower-basin-hero {
+    background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-grand-canyon-hero {
+    background: url(resources/images/wyoming/yellowstone-one/grand-canyon-yellowstone/grand-canyon-yellowstone-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+
+
+@media only screen and (min-width: 50em) {
+    #itinerary-hero {
+        background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #cheaha-hero{
+        background: url(resources/images/cheaha-mountain/cheaha-mountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #apache-hero{
+        background: url(resources/images/arizona-one/Apache-Trail/apache-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #aqua-hero{
+        background: url(resources/images/arizona-one/Aqua-Fria/agua-fria-nm-hero-3300h2475w.jpg) center no-repeat;
+        background-size: cover;
+    } 
+    #chelly-hero{
+        background: url(resources/images/arizona-one/canyon-de-chelly/canyon-de-chelly-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #casa-grande-hero{
+        background: url(resources/images/arizona-one/casa-grande/casa-grande-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chiricahau-hero{
+        background: url(resources/images/arizona-one/chiricahau/chiricahau-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sugarloaf-hero{
+        background: url(resources/images/arizona-one/chiricahau/sugarloaf/sugarloaf-mountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #four-corners-hero{
+        background: url(resources/images/arizona-one/four-corners/Four_Corners_Monument_-_panoramio-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #montezuma-hero{
+        background: url(resources/images/arizona-one/montezuma-castle/montezuma-castle-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #organ-pipe-hero{
+        background: url(resources/images/arizona-one/organ-cactus/organ-pipe-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sunset-crater-hero{
+        background: url(resources/images/arizona-one/sunset-crater/sunset-crater-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tonto-hero{
+        background: url(resources/images/arizona-one/tonto-nm/tonto-nm-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vermilion-hero {
+        background: url(resources/images/arizona-one/vermilionCliffs/vermilion-cliffs-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wave-az-hero {
+        background: url(resources/images/arizona-one/wave/TheWave-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #walnut-hero{
+        background: url(resources/images/arizona-one/walnut-canyon/walnut-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wupatki-hero{
+        background: url(resources/images/arizona-one/wupatki-nm/wupatki-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #horseshoe-hero{
+        background: url(resources/images/arizona-one/horseshoe/horseshoe-bend-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jerome-hero{
+        background: url(resources/images/arizona-one/jerome/jerome-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #humphreys-hero{
+        background: url(resources/images/arizona-one/humphreys/humphreys-peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lake-havasu-hero{
+        background: url(resources/images/arizona-one/havasu/lake-havasu-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lemmon-hero{
+        background: url(resources/images/arizona-one/lemmon/mt-lemmon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #meteor-hero{
+        background: url(resources/images/arizona-one/meteorCrater/meteor-crater--hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wrightson-hero{
+        background: url(resources/images/arizona-one/wrightson/mt-wrightson-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #picacho-hero{
+        background: url(resources/images/arizona-one/picacho/picacho-peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #antelope-canyon-hero{
+        background: url(resources/images/arizona-one/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #arcosanti-hero{
+        background: url(resources/images/arizona-one/arcosanti/Arcosanti-Cliff_-View-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #theodore-dam-hero{
+        background: url(resources/images/arizona-one/roosevelt-dam/theodore-roosevelt-dam-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sabino-hero{
+        background: url(resources/images/arizona-one/sabino/sabino-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #salt-river-hero{
+        background: url(resources/images/arizona-one/salt-river-canyon/salt-river-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sonora-museum-hero{
+        background: url(resources/images/arizona-one/sonoran-museum/sonora-museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #winslow-hero{
+        background: url(resources/images/arizona-one/winslow/winslow-hero-2273w.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #saguaro-hero{
+        background: url(resources/images/arizona-one/saguaro/saguaro-np-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #petrified-hero{
+        background: url(resources/images/arizona-one/petrified/petrified-forest-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glen-canyon-hero{
+        background: url(resources/images/arizona-one/glen-canyon-nra/glen-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gc-hero{
+        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bright-angel-hero{
+        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-bright-angel-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gc-south-rim-hero{
+        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-south-rim-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #skywalk-hero{
+        background: url(resources/images/arizona-one/grand-canyon/havasu-creek/Beaver_falls-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #havasu-hero{
+        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-west-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cathedral-hero{
+        background: url(resources/images/arizona-one/sedona-one/cathedral/sedona-cathedral-rock-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bell-courthouse-hero{
+        background: url(resources/images/arizona-one/sedona-one/courthouse-bell/sedona-courthouse-bell-rock-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chapel-hero{
+            background: url(resources/images/arizona-one/sedona-one/chapel-holy-cross/sedona-chapel-holy-cross-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+    }
+    #devils-bridge-hero{
+        background: url(resources/images/arizona-one/sedona-one/devils-bridge/sedona-devils-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fay-hero{
+        background: url(resources/images/arizona-one/sedona-one/fay-canyon/sedona-fay-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #airport-mesa-hero{
+        background: url(resources/images/arizona-one/sedona-one/airportMesa/sedona-scenic-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #airport-scenic-hero{
+        background: url(resources/images/arizona-one/sedona-one/airportScenicLookout/sedona-scenic-lookout-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #west-fork-hero{
+        background: url(resources/images/arizona-one/sedona-one/west-fork/sedona-west-fork-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #black-mountain-hero{
+        background: url(resources/images/arizona-one/phoenix-one/black-mountain/black-mountain-az-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #camelback-hero{
+        background: url(resources/images/arizona-one/phoenix-one/camelback/camelback-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #first-christian-hero{
+        background: url(resources/images/arizona-one/phoenix-one/first-christian/first-christian-church-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #goldfield-hero{
+        background: url(resources/images/arizona-one/phoenix-one/goldfield/goldfield-ghost-town-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hayden-hero{
+        background: url(resources/images/arizona-one/phoenix-one/hayden-butte/hayden-butte-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mcdowell-mountains-hero{
+        background: url(resources/images/arizona-one/phoenix-one/toms-thumb/mcdowell-mountains-toms-thumb-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #papago-hero{
+        background: url(resources/images/arizona-one/phoenix-one/papago/papago-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #piestewa-hero{
+        background: url(resources/images/arizona-one/phoenix-one/piestewa/piestewa-peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-tan-hero{
+        background: url(resources/images/arizona-one/phoenix-one/san-tan/san-tan-mountains-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-mountain-hero{
+        background: url(resources/images/arizona-one/phoenix-one/south-mountain/south-mountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #spook-hero{
+        background: url(resources/images/arizona-one/phoenix-one/spook/spook-hill-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #superstition-hero{
+        background: url(resources/images/arizona-one/phoenix-one/superstition/superstition-mountains-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #usery-hero{
+        background: url(resources/images/arizona-one/phoenix-one/wind-cave/usery-mountains-wind-cave-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #white-tank-hero{
+        background: url(resources/images/arizona-one/phoenix-one/white-tank/white-tank-mountains-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #arkansas-hero{
+        background: url(resources/images/ArkansasOne/hot-springs-np/arkansas-hero-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #buffalo-hero{
+        background: url(resources/images/ArkansasOne/buffaloNR/buffalo-river-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #centerpoint-hero{
+        background: url(resources/images/ArkansasOne/buffaloNR/centerpoint/buffalo-river-centerpoint-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lost-valley-hero{
+        background: url(resources/images/ArkansasOne/buffaloNR/lostValley/lost-valley-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #whitaker-point-hero{
+        background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/whitaker-point-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glory-hole-hero{
+        background: url(resources/images/ArkansasOne/glory-hole-trail/glory-hole-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hot-springs-hero{
+        background: url(resources/images/ArkansasOne/hot-springs-np/hot-springs-buckstaff-bathhouse-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #garvan-hero{
+        background: url(resources/images/ArkansasOne/garvan/garvan-gardens-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #little-rock-hero{
+        background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #big-dam-bridge-hero{
+        background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #central-high-hero{
+        background: url(resources/images/ArkansasOne/littleRock/central-high/central-high-school-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-mill-hero{
+        background: url(resources/images/ArkansasOne/littleRock/oldMill/old-mill-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pinnacle-mountain-hero{
+        background: url(resources/images/ArkansasOne/littleRock/pinnacleMtn/pinnacle-mountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #river-market-hero{
+        background: url(resources/images/ArkansasOne/littleRock/riverMarket/river-market-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #riverfront-park-hero{
+        background: url(resources/images/ArkansasOne/littleRock/riverfrontPark/riverfront-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bill-clinton-library-hero{
+        background: url(resources/images/ArkansasOne/littleRock/clintonLibrary/clinton-library-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #toltec-hero{
+        background: url(resources/images/ArkansasOne/toltec/toltec-mounds-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #two-rivers-hero{
+        background: url(resources/images/ArkansasOne/littleRock/two-rivers/two-rivers-bridge-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #willastein-hero{
+        background: url(resources/images/ArkansasOne/littleRock/willastein/lake-willastein-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-magazine-hero{
+        background: url(resources/images/ArkansasOne/mt-magazine/mt-magazione-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #nebo-hero{
+        background: url(resources/images/ArkansasOne/nebo/mt-nebo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #petit-jean-hero{
+        background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bear-cave-hero{
+        background: url(resources/images/ArkansasOne/petitJean/bearCave/petit-jeanbear-cave-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cedar-creek-hero{
+        background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-cedar-creek-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cedar-falls-hero{
+        background: url(resources/images/ArkansasOne/petitJean/petit-jean-cedar-falls-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seven-hollows-hero{
+        background: url(resources/images/ArkansasOne/petitJean/sevenHollows/petit-jean-seven-hollows-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #plantation-agricultural-hero{
+        background: url(resources/images/ArkansasOne/plantation-museum/plantation-museum-hero3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #california-missions-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-diego-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-carlos-borromeo-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-gabriel-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-gabriel/san-gabriel-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-fernando-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-fernando-rey/2007_Mission_San_Fernando-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-juan-baustista-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-juan-bautista/san-juan-bautista-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-juan-capistrano-hero {
+        background: url(resources/images/californiaOne/california-missions/mission-san-juan-capistrano/Mission_San_Juan_Capistrano_California-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #algodones-hero{
+        background: url(resources/images/californiaOne/algodones/algodones-dunes-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #amboy-hero{
+        background: url(resources/images/californiaOne/amboy/amboy-crater-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ancient-bristlecone-hero{
+        background: url(resources/images/californiaOne/ancient-bristlecone/Bristlecone-pine-forest-janine-sprout-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #antelope-valley-hero{
+        background: url(resources/images/californiaOne/antelope-valley-preserve/Wildflowers_at_California_Poppy_Reserve-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bodie-hero{
+        background: url(resources/images/californiaOne/bodie-state-historic-park/Bodie_September_2016_panorama_1-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cabazon-hero{
+        background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #calico-hero{
+        background: url(resources/images/californiaOne/calico/calico-ghost-town-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #carmel-hero{
+        background: url(resources/images/californiaOne/carmelBeach/carmel-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #devils-postpile-hero{
+        background: url(resources/images/californiaOne/devils-postpile/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #death-valley-hero{
+        background: url(resources/images/californiaOne/deathValleyOne/dantes-view/death-valley-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #dantes-hero{
+        background: url(resources/images/californiaOne/deathValleyOne/dantes-view/death-valley-dantes-view-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #badwater-hero{
+        background: url(resources/images/californiaOne/deathValleyOne/badwater/death-valley-badwater-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #zabriske-hero{
+        background: url(resources/images/californiaOne/deathValleyOne/zabriske/death-valley-zabriske-point-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #twenty-mule-hero{
+        background: url(resources/images/californiaOne/deathValleyOne/twenty-mule/death-valley-twenty-mule-team-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ubehebe-hero{
+        background: url(resources/images/californiaOne/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #donner-memorial-hero{
+        background: url(resources/images/californiaOne/donner-memorial/Donner_Memorial_State_Park_-_Flickr_-_Joe_Parks-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glass-beach-hero{
+        background: url(resources/images/californiaOne/glass-beach/Sea_glass_at_Glass_Beach_in_California__-_2016-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hearst-hero {
+        background: url(resources/images/californiaOne/hearst/hearst-castle-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #joshua-tree-hero{
+        background: url(resources/images/californiaOne/joshuaTree/hiddenValley/joshua-tree-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lost-oasis-hero{
+        background: url(resources/images/californiaOne/joshuaTree/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kings-canyon-hero{
+        background: url(resources/images/californiaOne/kingsCanyon/kings-canyon-panoramic-point-hero-3030-.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grants-grove-hero{
+        background: url(resources/images/californiaOne/kingsCanyon/general-grant/kings-canyon-grant-grove-hero-3030-.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #big-stump-hero{
+        background: url(resources/images/californiaOne/kingsCanyon/big-stump-trail/kings-canyon-big-stump-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #la-jolla-hero{
+        background: url(resources/images/californiaOne/lajolla/lajolla-cove-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #laguna-hero{
+        background: url(resources/images/californiaOne/laguna/laguna-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tahoe-hero{
+        background: url(resources/images/californiaOne/tahoe/lake-tahoe-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lassen-hero{
+        background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sulphur-works-hero{
+        background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-sulphur-works-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chaos-crags-hero{
+        background: url(resources/images/californiaOne/lassenOne/lassen-volcanic-chaos-crags-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cinder-hero{
+        background: url(resources/images/californiaOne/lassenOne/cinderCone/cinder-cone-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lassen-peak-hero{
+        background: url(resources/images/californiaOne/lassenOne/lassenPeak/lassen-volcanic-scenic-drive-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bumpass-hero{
+        background: url(resources/images/californiaOne/lassenOne/bumpass/bumpass-hell-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #broad-hero{
+        background: url(resources/images/californiaOne/LAOne/broad/broad-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #getty-museum-hero{
+        background: url(resources/images/californiaOne/LAOne/getty-museum/getty-museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #getty-villa-hero{
+        background: url(resources/images/californiaOne/LAOne/getty-villa/getty-villa-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #griffith-hero{
+        background: url(resources/images/californiaOne/LAOne/griffith/griffith-observatory-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grove-farmers-hero{
+        background: url(resources/images/californiaOne/LAOne/grove-farmers/grove-farmers-market-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hollywood-hero{
+        background: url(resources/images/californiaOne/LAOne/hollywood-sign/hollywood-sign-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #queen-mary-hero{
+        background: url(resources/images/californiaOne/LAOne/queen-mary/queen-mary-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #santa-monica-hero{
+        background: url(resources/images/californiaOne/LAOne/santa-monica/santa-monica-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #union-station-hero{
+        background: url(resources/images/californiaOne/LAOne/union-station/union-station-la-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #venice-beach-hero{
+        background: url(resources/images/californiaOne/LAOne/venice-beach/venice-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #walt-concert-hero{
+        background: url(resources/images/californiaOne/LAOne/walt-disney-concert-hall/walt-disney-concert-hall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mono-lakes-hero{
+        background: url(resources/images/californiaOne/mono-lake/Mono_Lake_Tufa-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #muir-woods-hero{
+        background: url(resources/images/californiaOne/muirWoods/muir-woods-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pinnacles-hero{
+        background: url(resources/images/californiaOne/pinnacles/pinnacles-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #high-peaks-hero{
+        background: url(resources/images/californiaOne/pinnacles/pinnacles-high-peaks-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pch-hero{
+        background: url(resources/images/californiaOne/pch/pacific-coast-highway-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #julia-pfeiffer-hero{
+        background: url(resources/images/californiaOne/pch/mcwayFalls/pacific-coast-highway-julia-pfeiffer-burns-sp-mcway-falls-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pfeiffer-beach-hero{
+        background: url(resources/images/californiaOne/pch/pfeifferBeach/pfeiffer-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rainbow-basin-hero{
+        background: url(resources/images/californiaOne/rainbow-basin/rainbow-basin-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #redwood-hero{
+        background: url(resources/images/californiaOne/redwoodOne/simpson-reed/redwood-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hidden-beach-hero{
+        background: url(resources/images/californiaOne/redwoodOne/hidden-beach/redwood-hidden-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lady-bird-hero{
+        background: url(resources/images/californiaOne/redwoodOne/lady-bird/redwood-lady--bird-johnson-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #stout-hero{
+        background: url(resources/images/californiaOne/redwoodOne/stout/redwood-stout-grove-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #salton-hero{
+        background: url(resources/images/californiaOne/salton/salton-sea-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #salvation-hero{
+        background: url(resources/images/californiaOne/salvation-mountain/salvation-mountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #balboa-hero{
+        background: url(resources/images/californiaOne/sanDiegoOne/balboa-park/san-diego-balboa-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cabrillo-hero{
+        background: url(resources/images/californiaOne/sanDiegoOne/cabrillo/cabrillo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coronado-beach-hero{
+        background: url(resources/images/californiaOne/sanDiegoOne/coronado/coronado-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #maritime-hero{
+        background: url(resources/images/californiaOne/sanDiegoOne/maritimeSanDiego/san-diego-maritime-museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #torrey-hero{
+        background: url(resources/images/californiaOne/sanDiegoOne/torrey-pines/torrey-pines-hero3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #midway-hero{
+        background: url(resources/images/californiaOne/sanDiegoOne/ussMidway/uss-midway-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #alcatraz-hero{
+        background: url(resources/images/californiaOne/san-fran/alcatraz-one/alcatraz-island-hero-two-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chinatown-san-fran-hero{
+        background: url(resources/images/californiaOne/san-fran/chinatown-sanfran/san-francisco-chinatown-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #golden-gate-hero{
+        background: url(resources/images/californiaOne/san-fran/golden-gate-bridge/golden-gate-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #japanese-tea-hero{
+        background: url(resources/images/californiaOne/san-fran/japanese-tea/golden-gate-park-japanese-tea-garden-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lombard-hero{
+        background: url(resources/images/californiaOne/san-fran/lombard/lombard-street-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #muir-beach-hero{
+        background: url(resources/images/californiaOne/muir-beack-and-outlook/muir-beach-outlook-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #painted-ladies-hero{
+        background: url(resources/images/californiaOne/san-fran/painted-ladies-one/painted-ladies-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palace-fine-arts-hero{
+        background: url(resources/images/californiaOne/san-fran/palace-fine-arts/palace-of-fine-arts-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #santa-cruz-hero{
+        background: url(resources/images/californiaOne/santa-cruz/sant-cruz-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palm-springs-hero{
+        background: url(resources/images/californiaOne/palmSprings/palm-springs-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-shasta-hero{
+        background: url(resources/images/californiaOne/shasta/Mount_Shasta_34774661494-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #sequoia-hero{
+        background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #congress-hero{
+        background: url(resources/images/californiaOne/sequoiaOne/sherman/sequoia-general-sherman-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #moro-hero{
+        background: url(resources/images/californiaOne/sequoiaOne/moro/moro-rock-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #giant-forest-hero{
+        background: url(resources/images/californiaOne/sequoiaOne/parker-group/sequoia-giant-trees-parker-group-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #white-mountain-hero{
+        background: url(resources/images/californiaOne/white-mountain/White_Mountain_Peak_View_to_southwest\,_California-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yosemite-hero{
+        background: url(resources/images/californiaOne/yosemite-one/tunnel-view/yosemite-tunnel-view-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bridalveil-fall-hero{
+        background: url(resources/images/californiaOne/yosemite-one/bridalveil-yosemite/yosemite-bridalveil-fall-mist-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glacier-point-hero{
+        background: url(resources/images/californiaOne/yosemite-one/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #el-capitan-hero{
+        background: url(resources/images/californiaOne/yosemite-one/el-capitan/yosemite-el-capitan-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hiking-yosemite-hero{
+        background: url(resources/images/californiaOne/yosemite-one/half-dome/yosemite-half-dome-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lower-yosemite-hero{
+        background: url(resources/images/californiaOne/yosemite-one/yosemite-falls/yosemite-falls-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+  
+    #black-canyon-hero{
+        background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #colorado-nm-hero{
+        background: url(resources/images/colorado-one/colorado-nm/colorado-nm-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #garden-gods-hero{
+        background: url(resources/images/colorado-one/garden-gods/garden-of-the-gods-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grays-torreys-hero{
+        background: url(resources/images/colorado-one/grays-torrey/grays-torreys-peaks-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #great-sand-hero{
+        background: url(resources/images/colorado-one/great-sand/great-sand-dunes-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mesa-verde-hero{
+        background: url(resources/images/colorado-one/mesa-verde/mesa-verde-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #painted-mines-hero{
+        background: url(resources/images/colorado-one/painted-mine/painted-mines-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rocky-mountains-hero{
+        background: url(resources/images/colorado-one/rocky-mountain/rocky-mountains-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-juan-skyway-hero{
+        background: url(resources/images/colorado-one/san-juan/san-juan-skyway-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #florida-hero{
+        background: url(resources/images/floridaOne/panamaCity/florida-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #biscayne-hero{
+        background: url(resources/images/floridaOne/biscayne/biscayne-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #daytona-hero{
+        background: url(resources/images/floridaOne/daytona/daytona-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #everglades-hero{
+        background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/everglades-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #anhinga-hero{
+        background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/anhinga-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #eco-pond-hero{
+        background: url(resources/images/floridaOne/evergladesNP/ecoTrail/eco-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gumbo-limbo-hero{
+        background: url(resources/images/floridaOne/evergladesNP/gumboLimbo/gumbo-limbo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mahogany-hammock-hero{
+        background: url(resources/images/floridaOne/evergladesNP/mahoganyHammock/mahogany-hammock-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pinelands-hero{
+        background: url(resources/images/floridaOne/evergladesNP/pinelandsTrail/pinelands-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #snake-bight-hero{
+        background: url(resources/images/floridaOne/evergladesNP/snakeBightTrail/snake-bight-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #west-lake-hero{
+        background: url(resources/images/floridaOne/evergladesNP/westLakeTrail/west-lake-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-lauderdale-hero{
+        background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #key-west-hero{
+        background: url(resources/images/floridaOne/key-west/key-west-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #duval-street-hero{
+        background: url(resources/images/floridaOne/key-west/duval-street/duval-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mallory-square-hero{
+        background: url(resources/images/floridaOne/key-west/mallory-square/mallory-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #southernmost-point-hero{
+        background: url(resources/images/floridaOne/key-west/southernmost-point/southernmost-point-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tropic-cinema-hero{
+        background: url(resources/images/floridaOne/key-west/tropic-cinema/tropic-cinema-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #merritt-boardwalk-hero{
+        background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #torch-friendship-hero{
+        background: url(resources/images/floridaOne/miami/antorcha-amistad/antocha-amistad-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bal-harbour-shops-hero{
+        background: url(resources/images/floridaOne/miami/bal-harbour-shops/bal-harbour-shops-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bayside-marketplace-hero{
+        background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coral-gables-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/coral-gables-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coral-gables-city-hall-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/cityHall/coral-gables-city-hall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coral-gables-congregational-church-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/congregationalUnited/coral-gables-congregational-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #miami-biltmore-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/biltmore-coral-gables-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #venetian-pool-hero{
+        background: url(resources/images/floridaOne/miami/coral-gables/venetianPool/venetian-pool-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #freedon-tower-hero{
+        background: url(resources/images/floridaOne/miami/freedom-tower/freedom-tower-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #holocaust-memorial-hero{
+        background: url(resources/images/floridaOne/miami/holocaust-memorial/holocaust-memorial-miami-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lincoln-road-hero{
+        background: url(resources/images/floridaOne/miami/lincoln-rd/lincoln-road-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #Little-havana-hero{
+        background: url(resources/images/floridaOne/miami/little-havana/little-havana-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-beach-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/south-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #casa-casuarina-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/casa-casuarina/casa-casuarina-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #espanola-way-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/espanola-way/espanola-way-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #las-olas-hero{
+        background: url(resources/images/floridaOne/miami/south-beach/las-olas/las-olas-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-pointe-park-hero{
+        background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-bernard-church-hero{
+        background: url(resources/images/floridaOne/miami/st-bernard-de-clairvaux-church/st-bernard-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wynwood-walls-hero{
+        background: url(resources/images/floridaOne/miami/wynwood-walls/wynwood-walls-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: top;
+    }
+   
+    #black-point-drive-hero{
+        background: url(resources/images/floridaOne/merrittIsland/black-point-wildlife-drive/black-point-scenic-drive-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #oak-hammock-hero{
+        background: url(resources/images/floridaOne/merrittIsland/oak-hammock-trail/oak-hammock-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cruickshank-trail-hero{
+        background: url(resources/images/floridaOne/merrittIsland/cruickshank-trail/cruickshank-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #panama-hero{
+        background: url(resources/images/floridaOne/panamaCity/panama-city-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pensacola-hero{
+        background: url(resources/images/floridaOne/pensacolaBeach/pensacola_beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bridge-lions-hero{
+        background: url(resources/images/floridaOne/stAugustine/bridgeLions/bridge-lions-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #castillo-san-marcos-hero{
+        background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cathedral-st-augustine-hero{
+        background: url(resources/images/floridaOne/stAugustine/cathedralBasilicaStAug/st-aug-cathedral-basilica-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #flagler-college-hero{
+        background: url(resources/images/floridaOne/stAugustine/flaglerCollege/flagler-college-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #governors-house-hero{
+        background: url(resources/images/floridaOne/stAugustine/governors-house/governors-house-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lightner-museum-hero{
+        background: url(resources/images/floridaOne/stAugustine/lightnerMuseum/st-augustine-lightner-museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #memorial-presbyterian-hero{
+        background: url(resources/images/floridaOne/stAugustine/memorialPresbyterian/memorial-presbyterian-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #city-gates-hero{
+        background: url(resources/images/floridaOne/stAugustine/st-augustine-old-city-gate-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #oldest-schoolhouse-hero{
+        background: url(resources/images/floridaOne/stAugustine/st-augustine-oldest-schoolhouse/st-augustine-oldest-schoolhouse-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #plaza-constitucion-hero{
+        background: url(resources/images/floridaOne/stAugustine/plaza-de-la-constitucion/plaza-de-la-constitucion-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #villa-zorayda-hero{
+        background: url(resources/images/floridaOne/stAugustine/st-augustine-zorayda-museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #zero-milestone-hero{
+        background: url(resources/images/floridaOne/stAugustine/zero-milestone/st-augustine-zero-milestone-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kentucky-hero{
+        background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #black-mountain-ky-hero{
+        background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mammoth-hero{
+        background: url(resources/images/kentuckyOne/mammoth/mammoth-cave-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vicksburg-nmp-hero{
+        background: url(resources/images/vicksburg-national-military-park/vicksburg-nmp-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #uss-cairo-hero{
+        background: url(resources/images/vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vicksburg-illinois-memorial-hero{
+        background: url(resources/images/vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vicksburg-memorials-hero{
+        background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #branson-landing-hero{
+        background: url(resources/images/branson/branson-landing/branson-landing-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #table-rock-hero{
+        background: url(resources/images/branson/table-rock-mo/table-rock-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wheeler-peak-scenic-hero{
+        background: url(resources/images/nevada-one/great-basin/Baker_Peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lehman-caves-hero{
+        background: url(resources/images/nevada-one/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bristlecone-glacier-hero{
+        background: url(resources/images/nevada-one/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wheeler-peak-nv-hero{
+        background: url(resources/images/nevada-one/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #hoover-dam-hero{
+        background: url(resources/images/nevada-one/hoover/hoover-dam-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bellagio-hero{
+        background: url(resources/images/nevada-one/LasVegas/belagioNV/bellagio-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #caesars-hero{
+        background: url(resources/images/nevada-one/LasVegas/caesars/caesars-palace-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cosmo-hero{
+        background: url(resources/images/nevada-one/LasVegas/cosmo/cosmo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #excalibur-hero{
+        background: url(resources/images/nevada-one/LasVegas/excaliburNV/excalibur-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fremont-street-hero{
+        background: url(resources/images/nevada-one/LasVegas/fremont/fremont-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #luxor-hero{
+        background: url(resources/images/nevada-one/LasVegas/luxorNV/luxor-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mandalay-hero{
+        background: url(resources/images/nevada-one/LasVegas/mandalay/mandalay-bay-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mgm-hero{
+        background: url(resources/images/nevada-one/LasVegas/mgm/mgm-grand-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mirage-hero{
+        background: url(resources/images/nevada-one/LasVegas/mirageNV/mirage-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #nyny-hero{
+        background: url(resources/images/nevada-one/LasVegas/newYorkNV/new-york-new-york-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #paris-hero{
+        background: url(resources/images/nevada-one/LasVegas/parisNV/paris-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #planet-hollywood-hero{
+        background: url(resources/images/nevada-one/LasVegas/planetHollywood/planet-hollywood-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #strat-hero{
+        background: url(resources/images/nevada-one/LasVegas/stratNV/strat-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #treasure-island-hero{
+        background: url(resources/images/nevada-one/LasVegas/treasureIsland/treasure-island-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #venetian-hero{
+        background: url(resources/images/nevada-one/LasVegas/venetianNV/venetian-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wynn-hero{
+        background: url(resources/images/nevada-one/LasVegas/wynnNV/wynn-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #red-rock-canyon-hero{
+        background: url(resources/images/nevada-one/red-rock-canyon/red-rock-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #valley-fire-hero{
+        background: url(resources/images/nevada-one/valley-fire/valley-of-fire-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #valley-scenic-hero{
+        background: url(resources/images/nevada-one/valley-fire/valley-of-fire-scenic-drive-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #white-domes-hero{
+        background: url(resources/images/nevada-one/valley-fire/white-domes/valley-of-fire-white-domes-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #new-jersey-hero{
+        background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #high-point-hero{
+        background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #paterson-falls-hero{
+        background: url(resources/images/newJersey/paterson-falls/paterson-falls-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seaside-heights-hero{
+        background: url(resources/images/newJersey/seaside-heights/seaside-heights-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #new-mexico-hero{
+        background: url(resources/images/NewMexico/Las_Cruses\,_New_Mexico-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #carlsbad-caverns-hero{
+        background: url(resources/images/NewMexico/carlsbad/carlsbad-cavern-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #santa-fe-hero{
+        background: url(resources/images/NewMexico/santa-fe/santa-fe-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #white-sands-hero{
+        background: url(resources/images/NewMexico/white-sands/white-sands-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #thirty-rock-hero{
+        background: url(resources/images/nyc/30-rockeffeler-plaza/2258-NYC-NBC_Studios-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #nine-one-one-hero{
+        background: url(resources/images/nyc/911Memorial/911-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #american-museum-natural-history-hero{
+        background: url(resources/images/nyc/american-museum-of-natural-history/Blue_Whale_Natl_Hist_Museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #battery-hero{
+        background: url(resources/images/nyc/batteryPark/battery-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
+    #bowling-green-hero{
+        background: url(resources/images/nyc/bowlingCharging/bowling-green-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #brooklyn-bridge-hero{
+        background: url(resources/images/nyc/brooklynBridge/brooklyn-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #brooklyn-bridge-park-hero{
+        background: url(resources/images/nyc/brooklynBridgePark/brooklyn-bridge-park-poles-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bryant-park-hero {
+        background: url(resources/images/nyc/bryant-park/New-York_-_Bryant_Park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #central-park-hero{
+        background: url(resources/images/nyc/CentralPark/central-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chelsea-market-hero{
+        background: url(resources/images/nyc/chelsea-market/Chelsea_Market_49052085186-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #chrysler-building-hero{
+        background: url(resources/images/nyc/chrysler-building/Chrysler_Building_2005_4-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coney-island-hero{
+        background: url(resources/images/nyc/coney-island/Coney_Island_beach_and_amusement_parks_June_2016-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #dumbo-hero{
+        background: url(resources/images/nyc/dumbo/dumbo-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #edge-hero{
+        background: url(resources/images/nyc/edgeNY/nyc-empire-state-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ellis-island-hero{
+        background: url(resources/images/nyc/ellis-island/Ellis_island_view-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #empire-state-hero{
+        background: url(resources/images/nyc/empire-state-building/NYC_Empire_State_Building-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #federal-hall-hero{
+        background: url(resources/images/nyc/federalHall/Federal_Hall_August_2017_01-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #flatiron-building-hero{
+        background: url(resources/images/nyc/flatiron-building/The_Flatiron_Building_3-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fraunces-tavern-hero{
+        background: url(resources/images/nyc/fraunces-tavern/Fraunces_Tavern_Block-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #grand-central-terminal-hero{
+        background: url(resources/images/nyc/grand-central-terminal/Grand_Central_Terminal_ceiling_view-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #greenwich-village-hero{
+        background: url(resources/images/nyc/greenwich-village/Greenwich_Village_-_panoramio_1-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #high-line-hero{
+        background: url(resources/images/nyc/highLine/The_High_Line\,_New_York_17643199203-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #met-art-hero{
+        background: url(resources/images/nyc/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_4-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #moma-hero{
+        background: url(resources/images/nyc/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #nathans-famous-hero{
+        background: url(resources/images/nyc/nathans-famous/NathansHotDog-3_48034232387-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #new-york-city-hall-hero{
+        background: url(resources/images/nyc/new-york-city-hall/New_York_City_Hall_exterior\,_October_2016-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #nyc-hero{
+        background: url(resources/images/nyc/NYC-Top_of_the_Rock-Panoramic_view_of_Midtown_South_Central-Empire_State_Buildung-panoramio-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ny-public-library-hero{
+        background: url(resources/images/nyc/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #ny-transit-museum-hero{
+        background: url(resources/images/nyc/new-york-transit-museum/New_York_Transit_Museum_July_2013_007-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #prospect-park-hero{
+        background: url(resources/images/nyc/prospect-park/Prospect_Park_New_York_October_2015_003-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #radio-city-music-hero{
+        background: url(resources/images/nyc/radio-city-music-hall/Radio_City_Music_Hall\,_New_York\,_Manhattan\,_USA-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #rockefeller-center-hero{
+        background: url(resources/images/nyc/rockefeller-center/Rockefeller_Center-_Ice_Skating-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #roosevelt-tramway-hero{
+        background: url(resources/images/nyc/roosevelt-island-tram/Roosevelt_Island_td_2019-11-03_040_-_Roosevelt_Island_Tramway_Station-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #solomon-guggenheim-hero{
+        background: url(resources/images/nyc/solomon-guggenheim/Museo_Solomon_R-hero-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #st-patricks-cathedral-hero{
+        background: url(resources/images/nyc/st-patricks-cathedral/NYC_-_St-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #staten-ferry-hero{
+        background: url(resources/images/nyc/statenIsland/staten-island-ferry-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #statue-liberty-hero{
+        background: url(resources/images/nyc/statue-of-liberty/Liberty_Island_photo_D_Ramey_Logan-hero-3030.jpg) center no-repeat;
+        background-size: cover; 
+    }
+    #times-square-hero{
+        background: url(resources/images/nyc/timesSquareNY/times-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #trinity-church-hero{
+        background: url(resources/images/nyc/trinityChurch/NYC_-_Trinity_Church_-_Watts_statue-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vessel-hero{
+        background: url(resources/images/nyc/vessel-one/vessel-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #washington-square-park-hero{
+        background: url(resources/images/nyc/washington-square-park/Washington_Square_Arch-Isabellahero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-mitchell-hero{
+        background: url(resources/images/northCarolina/mt-mitchell/mt-mitchell-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #blue-ridge-hero{
+        background: url(resources/images/northCarolina/blue-ridge/blue-ridge-parkway-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #asheville-hero{
+        background: url(resources/images/northCarolina/asheville/asheville-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #crater-lake-hero{
+        background: url(resources/images/crater-lake/crater-lake-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #crater-rim-hero{
+        background: url(resources/images/crater-lake/crater-lake-rim-drive-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #watchman-trail-hero{
+        background: url(resources/images/crater-lake/watchman/crater-lake-watchman-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #multnomah-falls-hero{
+        background: url(resources/images/oregon/multnomah-falls/multnomah-falls-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #independence-hero{
+        background: url(resources/images/liberty-hall/independance-hall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #savannah-hero{
+        background: url(resources/images/savannah-one/savannah-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bonaventure-hero{
+        background: url(resources/images/savannah-one/bonaventure/bonaventure-cemetery-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #forsyth-park-hero{
+        background: url(resources/images/savannah-one/forsyth-park/forsyth-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ft-pulaski-hero{
+        background: url(resources/images/savannah-one/ft-pulaski/ft-pulaski-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tybee-hero{
+        background: url(resources/images/savannah-one/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mardi-gras-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bayou-coquille-hero{
+        background: url(resources/images/louisiana/barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #barataria-marsh-overlook-hero{
+        background: url(resources/images/louisiana/barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #barataria-visitor-center-trail-hero{
+        background: url(resources/images/louisiana/barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #galvez-plaza-hero{
+        background: url(resources/images/louisiana/baton-rouge/galvez-plaza-north-blvd/galvez-plaza-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #louisiana-state-capitol-hero{
+        background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-louisiana-state-capitol-hero{
+        background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #riverfront-plaza-hero{
+        background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/riverfront-plaza-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #uss-kidd-hero{
+        background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cane-river-creole-hero{
+        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/cane-river-creole-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #oakland-plantation-hero{
+        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/oakland-plantation-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #magnolia-plantation-hero{
+        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/magnolia-plantation/magnolia-plantation-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #new-orleans-hero{
+        background: url(resources/images/NewOrleans/french-quarter/new-orleans-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #algiers-point-hero{
+        background: url(resources/images/louisiana/new-orleans/algiers-point/algiers-point-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #audubon-park-hero{
+        background: url(resources/images/louisiana/new-orleans/audubon-park/audubon-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jackson-square-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-square/jackson-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cafe-du-monde-hero{
+        background: url(resources/images/louisiana/new-orleans/cafe-du-monde/cafe-du-monde-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #city-park-no-hero{
+        background: url(resources/images/louisiana/new-orleans/city-park/new-orleans-city-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #french-quarter-hero{
+        background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #antoines-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/antoines-restaurant-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -500px;
+    }
+    #bourbon-street-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/bourbon-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #canal-street-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/canal-street/canal-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #galatoires-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #legends-park-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jackson-brewery-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/jackson-brewing-company/jackson-brewing-company-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pat-obriens-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/pat-obriens-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #riverwalk-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #spanish-plaza-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/spanish-plaza/spanisg-plaza-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #steamboat-natchez-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/natchez-steamboat/natchez-steamboat-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-louis-cathedral-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #woldenberg-park-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/woldenberg-park/woldenberg-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-louis-cemetery-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-carolina-hero{
+        background: url(resources/images/SouthCarolina/charleston-one/south-carolina-carriage-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #charleston-hero{
+        background: url(resources/images/SouthCarolina/charleston-one/charleston-pineapple-fountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #angel-oak-hero{
+        background: url(resources/images/SouthCarolina/charleston-one/angel-oak/angel-oak-tree-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-phillips-hero{
+        background: url(resources/images/SouthCarolina/charleston-one/stPhillips/st-phillips-interior-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #congaree-hero{
+        background: url(resources/images/SouthCarolina/congaree/congaree-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-sassafras-hero{
+        background: url(resources/images/SouthCarolina/sassafras/mt-sassafras-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-dakota-hero{
+        background: url(resources/images/southDakota/badlands-one/south-dakota-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #badlands-hero{
+        background: url(resources/images/southDakota/badlands-one/badlands-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sage-creek-rim-hero{
+        background: url(resources/images/southDakota/badlands-one/badlands-bighorn-sheep-sage-creek-road-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #corn-palace-hero{
+        background: url(resources/images/southDakota/corn-palace/corn-palace-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-rushmore-hero{
+        background: url(resources/images/southDakota/mt-rushmore/mt-rushmore-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -44px;
+    }
+    #wall-drug-hero{
+        background: url(resources/images/southDakota/wall-drug/wall-drug-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wind-cave-sd-hero{
+        background: url(resources/images/southDakota/sd-wind-cave/wind-cave-sd-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gsmnp-hero{
+        background: url(resources/images/tenneseeOne/gsmnp/great-smoky-mountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chimney-tops-hero{
+        background: url(resources/images/tenneseeOne/gsmnp/chimney-tops/chimney-tops-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #clingmans-hero{
+        background: url(resources/images/tenneseeOne/gsmnp/clingmans/clingmans-dome-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #laurel-falls-hero{
+        background: url(resources/images/tenneseeOne/gsmnp/laurel-falls/laurel-falls-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #beale-hero{
+        background: url(resources/images/tenneseeOne/memphisOne/beale/beale-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #big-river-hero{
+        background: url(resources/images/tenneseeOne/memphisOne/bigRiverCrossing/memphis-big-river-crossing-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #graceland-hero{
+        background: url(resources/images/tenneseeOne/memphisOne/graceland-living-room-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #memphis-pyramid-hero{
+        background: url(resources/images/tenneseeOne/memphisOne/memphisPyramid/memphis-pyramid-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #orpheum-hero{
+        background: url(resources/images/tenneseeOne/memphisOne/orpheum/orpheum-theater-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sun-studios-hero{
+        background: url(resources/images/tenneseeOne/memphisOne/sun-studios-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tom-lee-hero{
+        background: url(resources/images/tenneseeOne/memphisOne/tomLee/tom-lee-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #broadway-district-hero{
+        background: url(resources/images/tenneseeOne/nashville-one/nashville-broadway-district-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #parthenon-hero{
+        background: url(resources/images/tenneseeOne/nashville-one/parthenon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #big-bend-hero{
+        background: url(resources/images/texas-one/bigBend/big-bend-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chisos-hero{
+        background: url(resources/images/texas-one/bigBend/big-bend-chisos-window-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #southwest-big-bend-hero{
+        background: url(resources/images/texas-one/bigBend/big-bend-southwest-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #santa-elena-hero{
+        background: url(resources/images/texas-one/bigBend/santa-elena/santa-elena-canyon-hero-2273.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #galveston-hero{
+        background: url(resources/images/texas-one/galvestonOne/galvestonHistoricPleasureIsland/galveston-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #galveston-beach-hero{
+        background: url(resources/images/texas-one/galvestonOne/galvestonBeach/galveston-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #galveston-island-pleasure-pier-hero{
+        background: url(resources/images/texas-one/galvestonOne/galvestonHistoricPleasureIsland/galveston-pleasure-island-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bishops-palace-hero{
+        background: url(resources/images/texas-one/galvestonOne/bishopsPalace/1892-bishops-palace-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ocean-star-hero{
+        background: url(resources/images/texas-one/galvestonOne/oceanStar/ocean-star-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #saengerfest-hero{
+        background: url(resources/images/texas-one/galvestonOne/saengerfestPark/saengerfest-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #strand-hero{
+        background: url(resources/images/texas-one/galvestonOne/Strand/strand-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #guadalupe-hero{
+        background: url(resources/images/texas-one/guadalupe/guadalupe-mountains-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #guadalupe-peak-hero{
+        background: url(resources/images/texas-one/guadalupe/guadalupe-mountains-peak-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #houston-hero{
+        background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/houston-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #buffalo-bayou-park-hero{
+        background: url(resources/images/texas-one/houstonOne/buffalo-bayou-park/buffalo-bayou-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom
+    }
+    #hines-waterwall-hero{
+        background: url(resources/images/texas-one/houstonOne/gerald-hines-waterwall/gerald-hines-waterwall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hermann-square-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-sqaure/hermann-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kemah-boardwalk-hero{
+        background: url(resources/images/texas-one/houstonOne/kemah-boardwalk/kemah-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cancer-survivors-park-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/cancer-survivors-plaza/cancer-survivors-plaza-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hermann-japanese-garden-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/hermann-japanese-tea-garden/hermann-japanese-tea-garden-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jones-reflecting-pool-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mary-gibbs-and-jesse-h-jones-reflection-pool/hermann-park-reflection-pool-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mcgovern-lake-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-lake/mcgovern-lake-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mcgovern-gardens-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mcgovern-centennial-gardens/centennial-gardens-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mecom-colonnade-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/mecom-rockwell-colonnade/mecom-rockwell-colonnade-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pioneer-obelisk-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/pioneer-memorial-obelisk/pioneer-memorial-obelisk-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sam-houston-hero{
+        background: url(resources/images/texas-one/houstonOne/hermann-park/sam-houston-statue/sam-houston-statue-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #love-lock-hero{
+        background: url(resources/images/texas-one/houstonOne/love-lock-bridge/love-lock-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-pauls-united-hero{
+        background: url(resources/images/texas-one/houstonOne/st-pauls-united-methodist-houston/st-paul-methodist-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #tranquillity-park-hero{
+        background: url(resources/images/texas-one/houstonOne/tranquillity-park/tranquillity-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    #san-antonio-missions-hero{
+        background: url(resources/images/texas-one/mission-san-jose/san-antonio-missions-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #utah-hero{
+        background: url(resources/images/utah-one/zion-one/zion-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #arches-hero{
+        background: url(resources/images/utah-one/arches-one/delicate-arch/arches-delicate-arch-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #park-avenue-hero{
+        background: url(resources/images/utah-one/arches-one/park-ave/arches-park-avenue-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #double-arch-hero{
+        background: url(resources/images/utah-one/arches-one/arches-double-arch-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #windows-hero{
+        background: url(resources/images/utah-one/arches-one/arches-windows-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #devils-garden-hero{
+        background: url(resources/images/utah-one/arches-one/devils-garden/arches-devils-garden-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bryce-hero{
+        background: url(resources/images/utah-one/bryce/bryce-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #queens-garden-hero{
+        background: url(resources/images/utah-one/bryce/bryce-canyon-queens-garden-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #navajo-trail-hero{
+        background: url(resources/images/utah-one/bryce/bryce-canyon-navajo-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #buckskin-hero{
+        background: url(resources/images/utah-one/buckskin/buckskin-gulch-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #canyonlands-hero{
+        background: url(resources/images/utah-one/canyonlands-one/island-sky/canyonlands-island-sky-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #island-sky-hero{
+        background: url(resources/images/utah-one/canyonlands-one/mesa-arch/canyonlands-mesa-arch-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mesa-arch-hero{
+        background: url(resources/images/utah-one/canyonlands-one/mesa-arch/canyonlands-mesa-arch-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grand-view-hero{
+        background: url(resources/images/utah-one/canyonlands-one/grand-view/canyonlands-grand-view-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #upheaval-hero{
+        background: url(resources/images/utah-one/canyonlands-one/upheaval/canyonlands-upheaval-dome-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #needles-hero{
+        background: url(resources/images/utah-one/canyonlands-one/can-needles/canyonlands-needles-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #capitol-reef-hero{
+        background: url(resources/images/utah-one/capitol-reef-one/capitol-reef-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hickman-hero{
+        background: url(resources/images/utah-one/capitol-reef-one/hickman-bridge/capitol-reef-hickman-bridge-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coral-pink-hero{
+        background: url(resources/images/utah-one/coral-pink/coral-pink-sand-dunes-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #goblin-valley-hero{
+        background: url(resources/images/utah-one/goblin-valley/goblin-valley-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #goosenecks-hero{
+        background: url(resources/images/utah-one/goosenecks/goosenecks-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #little-wild-horse-hero{
+        background: url(resources/images/utah-one/little-wild-horse/little-wild-horse-canyon-hero-1136wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #moki-hero{
+        background: url(resources/images/utah-one/moki/moki-dugway-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #monument-valley-hero{
+        background: url(resources/images/utah-one/monument-valley/monument-valley-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #paria-hero{
+        background: url(resources/images/utah-one/paria-ghost/paria-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #valley-gods-hero{
+        background: url(resources/images/utah-one/valley-gods/valley-of-the-gods-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wire-pass-hero{
+        background: url(resources/images/utah-one/wire-pass/wire-pass-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #zion-hero{
+        background: url(resources/images/utah-one/zion-one/angels-landing/zion-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #zion-canyon-hero{
+        background: url(resources/images/utah-one/zion-one/zion-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #angels-landing-hero{
+        background: url(resources/images/utah-one/zion-one/angels-landing/angels-landing-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #zion-narrows-hero{
+        background: url(resources/images/utah-one/zion-one/zion-narrows/zion-narrows-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #virginia-hero{
+        background: url(resources/images/virginia/shenandoah-one/virginia-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #shenandoah-hero{
+        background: url(resources/images/virginia/shenandoah-one/shenandoah-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #udvay-hero{
+        background: url(resources/images/virginia/udvar/steven-udvay-space-center-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lincoln-memorial-hero{
+        background: url(resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #reflecting-pool-hero{
+        background: url(resources/images/washingtonDC/reflectigPool/reflecting-pool-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ulysses-hero{
+        background: url(resources/images/washingtonDC/ulyssesGrant/ulysses-grant-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #us-capitol-hero{
+        background: url(resources/images/washingtonDC/usCapitol/us-capitol-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vietnam-memorial-hero{
+        background: url(resources/images/washingtonDC/washington-dc-vietnam-veterans-memorial-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #washington-monument-hero{
+        background: url(resources/images/washingtonDC/washington-monument-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #white-house-hero{
+        background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #washington-state-hero {
+        background: url(resources/images/washington/Seattle_4-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -175px;
+    }
+    #mt-rainier-hero{
+        background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #mt-rainier-np-hero{
+        background: url(resources/images/washington/mt-rainier/Mount_Rainier_3-reflection-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -72px;
+    }
+    #mount-rainer-trails-hero{
+        background: url(resources/images/washington/mt-rainier/skagit-river-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #narada-hero{
+        background: url(resources/images/washington/mt-rainier/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #nisqually-hero{
+        background: url(resources/images/washington/mt-rainier/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #paradise-wa-hero{
+        background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -70px;
+    }
+    #mt-st-helens-hero{
+        background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -100px;
+    }
+    #hoh-hero{
+        background: url(resources/images/washington/olympic-np/hoh-rain-forest/hoh-rain-forest-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hurricane-ridge-hero{
+        background: url(resources/images/washington/olympic-np/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kalaloch-ruby-hero{
+        background: url(resources/images/washington/olympic-np/ruby-beach/Ruby_Beach\,_Olympic_National_Park\,_on_a_Late_September_Afternoon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mora-rialto-hero{
+        background: url(resources/images/washington/olympic-np/rialto-beach/Olympic_Rialto_Beach_28.jpg-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seattle-hero {
+        background: url(resources/images/washington/seattle/Seattle_3-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -175px;
+    }
+    #amazon-spheres-hero {
+        background: url(resources/images/washington/seattle/amazon-spheres/Amazon_Spheres_05.jpg-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chihuly-garden-hero {
+        background: url(resources/images/washington/seattle/chihuly-garden/Chihuly_Garden_and_Glass_Seattle_Washington17-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seattle-gum-wall-hero {
+        background: url(resources/images/washington/seattle/gum-wall/Gum_wall\,_Seattle\,_Washington\,_Estados_Unidos\,_2017-09-02\,_DD_19-21_HDR-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pike-place-market-hero {
+        background: url(resources/images/washington/seattle/pike-place-market/pike-place-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seattle-great-wheel-hero {
+        background: url(resources/images/washington/seattle/great-wheel/Seattle_Great_Wheel-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #space-needle-hero {
+        background: url(resources/images/washington/seattle/space-needle/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        background-position-y: -200px;
+    }
+    #starbucks-pike-place-hero {
+        background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+        
+    }
+    #west-virginia-hero{
+        background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #german-valley-hero{
+        background: url(resources/images/WestVirginia/german-valley/german-valley-wv-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glade-creek-hero{
+        background: url(resources/images/WestVirginia/glade-creek/glade-creek-grist-mill-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #new-river-hero{
+        background: url(resources/images/WestVirginia/new-river-gorge/new-river-gorge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #spruce-knob-hero{
+        background: url(resources/images/WestVirginia/spruce-knob/spruce-knob-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wyoming-hero{
+        background: url(resources/images/wyoming/grand-teton-one/wyoming-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #devils-tower-hero{
+        background: url(resources/images/wyoming/devils-tower/devils-tower-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grand-teton-hero{
+        background: url(resources/images/wyoming/grand-teton-one/grand-teton-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yellowstone-hero {
+        background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yellowstone-southwest-hero {
+        background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yellowstone-northwest-hero {
+        background: url(resources/images/wyoming/yellowstone-one/norris-geyser/norris-basin-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yellowstone-upper-basin-hero {
+        background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yellowstone-midway-basin-hero {
+        background: url(resources/images/wyoming/yellowstone-one/midway-basin/grand-prismatic/midway-basin-grand-prismatic-spring-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yellowstone-lower-basin-hero {
+        background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yellowstone-grand-canyon-hero {
+        background: url(resources/images/wyoming/yellowstone-one/grand-canyon-yellowstone/grand-canyon-yellowstone-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+}
