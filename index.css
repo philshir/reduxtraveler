@@ -164,6 +164,7 @@ a.itin-menu {
 }
 .nyc-regions-title {
   font-size: 22px;
+  margin: 0;
 }
 .nyc-regions-margin{
   margin: 24px 0;
@@ -246,7 +247,7 @@ main {
   height: 100%;
   font-family: Arial, sans-serif;
 
-  margin: 0 15px;
+  margin: 0 25px;
 }
 .flex {
   display: flex;
@@ -269,6 +270,15 @@ main {
   align-items: center;
   color: black;
   width: 100%;
+}
+.flex-more-pics-central-park {
+  align-items: center;
+  color: black;
+  width: 100%;
+  margin: 20px 0 75px;
+}
+.sub-pic h3 {
+  margin: 20px 0 !important;
 }
 .flex h2 {
   text-align: center;
@@ -335,6 +345,14 @@ main {
 .back-to-top a {
  
   color: white!important;
+}
+
+article {
+  margin: 35px 0 100px;
+  background-color: #8fcffa;
+  padding: 20px;
+  border: 1px solid #6ac0f9;
+  border-radius: 5px;
 }
 
 .map {
@@ -1185,8 +1203,8 @@ body {
   margin-top: 28px;
 }
 .verd {
-  font-family: "Cambria Math", Arial, sans-serif;
-  font-size: 16px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
   margin: 10px 0 20px;
   width: 100%;
 }
@@ -1198,10 +1216,10 @@ width: 100%;
 text-align: center;
 }
 .main-article p {
-  font-family: "Cambria Math", Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 .description-main p {
-  font-family: "Cambria Math", Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 .featured p {
   font-size: 13px;
@@ -1414,7 +1432,7 @@ margin-bottom: 40px;
 }
 .nyc-regions-title {
   font-size: 30px;
-  margin-bottom: 0;
+  margin: 10px 0 20px;
 }
 .nyc-regions-margin{
   margin: 36px 0;
@@ -1958,7 +1976,9 @@ margin: 5px;
   font-size: 24px!important;
 }
 article {
-  margin-bottom: 150px;
+  margin: 100px 0 150px;
+  background-color: #8fcffa;
+  padding: 20px;
 }
 }
 @media only screen and (min-width: 1170px) {
