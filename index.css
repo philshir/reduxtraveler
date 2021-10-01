@@ -349,9 +349,9 @@ main {
 
 article {
   margin: 35px 0 100px;
-  background-color: #8fcffa;
+  background-color: #b9d1f7;
   padding: 20px;
-  border: 1px solid #6ac0f9;
+  border: 1px solid #86b3fb;
   border-radius: 5px;
 }
 
@@ -1977,7 +1977,6 @@ margin: 5px;
 }
 article {
   margin: 100px 0 150px;
-  background-color: #8fcffa;
   padding: 20px;
 }
 }
