@@ -563,9 +563,9 @@ tspan.st10.s11{
 .main-page-title{
   position: absolute;
   text-align: center;
-  z-index: 5;
+  z-index: 7;
   font-size: 32px;
-  top: 16px;
+  top: 62px;
   color: #c91b27;
   font-family: "Segoe Script";
   font-weight: 900;
