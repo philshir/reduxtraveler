@@ -3148,10 +3148,10 @@
         background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #high-point-hero{
+  /*   #high-point-hero{
         background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
-    }
+    } */
     #paterson-falls-hero{
         background: url(resources/images/newJersey/paterson-falls/paterson-falls-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -4065,3 +4065,16 @@
         background-size: cover;
     }
 }
+
+@media
+only screen and (                min-resolution: 192dpi) and (min-width: 1300px),
+only screen and (                min-resolution: 2dppx)  and (min-width: 1300px) { 
+
+  /* Large screen, retina, stuff to override above media query */
+  #high-point-hero{
+    background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+}
+
+
