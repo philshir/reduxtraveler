@@ -297,7 +297,7 @@ main {
   padding: 10px;
 }
 .description-one a{
-  font-size: 20px;
+  font-size: 18px;
   color: navy
 }
 .description-main {
@@ -352,12 +352,16 @@ main {
 
 article {
   /* margin: 35px 0 100px; */
-  margin: 5px 0 20px;
   background-color: #b9d1f7;
-  padding: 10px;
   border: 1px solid #86b3fb;
   border-radius: 5px;
+  margin: 50px 0 38px;
+  padding: 20px 20px 50px;
 }
+article:nth-child(2) {
+  margin-top: 0;
+  padding-bottom: 40px;
+ }
 
 article p.navy {
   margin: 0;
@@ -1987,14 +1991,17 @@ margin: 5px;
   font-size: 24px!important;
 }
 article {
-  margin: 16px 0 38px;
-  padding: 20px;
+  margin: 100px 0 38px;
+  padding: 20px 20px 100px;
 }
 .description-one a {
-  font-size: 32px;
+  font-size: 26px;
 }
 .state-table td {
   padding: 0 10px 10px 10px;
+}
+article p:first-of-type {
+ font-size: 30px;
 }
 }
 @media only screen and (min-width: 1170px) {
