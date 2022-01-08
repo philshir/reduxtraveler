@@ -159,11 +159,13 @@ a.itin-menu {
   font-family: Arial, Helvetica, sans-serif;
 }
 .trail-description p:first-child {
-  font-size: 20px;
-  text-align: center;
+  font-size: 16px;
 }
 .trail-description h2 {
   font-size: 20px
+}
+.trail-description a {
+  text-align: center;
 }
 .nyc-regions-title {
   font-size: 22px;
@@ -1572,9 +1574,9 @@ margin: 25px;
 .featured h3 {
   font-size: 22px;
 }
-.featured h4 {
+/* .featured h4 {
   text-align: left;
-}
+} */
   .main-logo {
     width: 200px;
     height: auto;
@@ -1620,7 +1622,9 @@ margin: 25px;
   font-weight: 600;
 }
 
-
+article a {
+  font-weight: 700;
+}
 
   .logo-two-info {
     grid-template-columns: 1fr 1fr 1fr;
@@ -1641,6 +1645,7 @@ margin: 25px;
   .trail-description h2 {
     font-size: 24px;
 }
+
   .hero {
     height: 700px;
   }
