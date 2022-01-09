@@ -811,7 +811,7 @@ h2 a {
   height: 250px;
   width: 100%;
   overflow: hidden;
-  background: url(./yosemite.jpg) no-repeat center;
+  /* background: url(./yosemite.jpg) no-repeat center; */
   background-size: cover;
 }
 
@@ -835,18 +835,22 @@ h2 a {
   background:  #deefff;
 }
 .caption-hero {
-  margin: 0 auto;
   padding: 2px;
   position: absolute;
-  bottom: 5px;
-  left: 5px;
+  bottom: -6px;
   font-size: 10px;
   opacity: 0.7;
+  display: inline-block;
   background:  #deefff;
-  display: block;
-  max-width: 1170px;
+  margin-left: 2px;
   font-family: Arial, sans-serif;
 }
+
+.hero-caption-container {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
 .topic {
   font-weight: 700;
 }
@@ -880,6 +884,10 @@ h2 a {
 }
 .highlights {
   font-family: Arial, Geneva, Tahoma, sans-serif !important;
+  font-size: 16px !important;
+}
+main article:last-of-type {
+  margin-top: 40px;
 }
 
 footer {
@@ -1159,8 +1167,17 @@ body {
 .bold {
   font-weight: 700;
 }
+.verd a {
+  font-weight: 700;
+}
 .general-bold {
   font-weight: 600;
+}
+.info div:nth-child(even) {
+  font-weight: 700;
+}
+.info div:nth-last-child(3) {
+  align-self: center;
 }
 .hi-h3 {
   padding: 10px 0 5px;
@@ -1554,8 +1571,13 @@ margin: 25px;
   .highlights {
     text-align: center;
     padding: 15px 0px;
+    font-size: 22px !important;
     
   }
+  main article:last-of-type {
+    margin-top: 60px;
+  }
+
   .redux-logo {
     margin: 10px 0 0 50px;
     height: 55px;
@@ -1596,6 +1618,7 @@ margin: 25px;
     margin: 0 auto;
     padding: 50px 0 0 15px;
   }
+
   .logo-nashville {
     font-size: 80px;
     text-align: right;
