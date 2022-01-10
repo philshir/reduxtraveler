@@ -1323,6 +1323,9 @@ margin-bottom: 40px;
   text-align: center;
   color: red;
 }
+.pet-alert {
+  color: red;
+}
 .state-overview {
   padding: 10px;
   margin-bottom: 60px;
