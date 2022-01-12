@@ -338,14 +338,27 @@ main {
   font-size: 10px;
   margin-bottom: 20px;
 }
+.menu {
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  top: 25px;
+  right: 10px;
+  background-color: navy;
+  border-radius: 2px;
+  z-index: 10;
+}
 .back-to-top {
   position: fixed;
   height: 50px;
   width: 50px;
-  bottom: 25px;
-  right: 10px;
+  bottom: 130px;
+  right: 20px;
   background-color: navy;
   border-radius: 25px;
+}
+.fa-caret-up {
+  transform: scale(3.5) translate(5.8px, 4px);
 }
 
 .back-to-top a {
@@ -1472,11 +1485,22 @@ margin-bottom: 40px;
 .nyc-regions-margin{
   margin: 36px 0;
 }
+.menu {
+  position: fixed;
+  height: 150px;
+  width: 150px;
+  top: 100px;
+  right: 45px;
+  padding: 10px;
+  background-color: lightblue;
+  border-radius: 2px;
+  z-index: 10;
+}
 .back-to-top {
   height: 70px;
   width: 70px;
-  bottom: 86px;
-  right: 90px;
+  bottom: 45px;
+    right: 45px;
   border-radius: 45px;
 }
 .flickity-button {
