@@ -409,10 +409,7 @@ article p.navy {
 .map-main svg .st1:hover, .itinerary-map svg a:hover {
   fill:rgb(46,49,146)
   }
-  #new_york:hover {
-    fill:rgb(46,49,146)
-  }
-
+  
 .map p {
   margin: 0 10px;
   text-align: center;
