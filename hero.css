@@ -1298,12 +1298,16 @@
     background: url(resources/images/NewMexico/white-sands/white-sands-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#new-york-city-hero{
+    background: url(resources/images/new-york/new-york-city/NYC-Top-of-the-Rock-Panoramic-view-of-Midtown-South-Central-Empire-State-Buildung-panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #thirty-rock-hero{
-    background: url(resources/images/nyc/30-rockeffeler-plaza/2258-NYC-NBC_Studios-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/30-rock/2258-NYC-NBC_Studios-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nine-one-one-hero{
-    background: url(resources/images/nyc/911Memorial/911-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/september-11-memorial-and-museum/911-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #american-museum-natural-history-hero{
@@ -1312,101 +1316,114 @@
 }
 
 #battery-hero{
-    background: url(resources/images/nyc/batteryPark/battery-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/battery-ny/battery-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bowling-green-hero{
-    background: url(resources/images/nyc/bowlingCharging/bowling-green-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bronx-zoo-hero{
+    background: url(resources/images/new-york/new-york-city/bronx-zoo/Bronx_Zoo_001-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #brooklyn-bridge-hero{
-    background: url(resources/images/nyc/brooklynBridge/brooklyn-bridge-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge/brooklyn-bridge-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #brooklyn-bridge-park-hero{
-    background: url(resources/images/nyc/brooklynBridgePark/brooklyn-bridge-park-poles-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge-park/brooklyn-bridge-park-poles-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bryant-park-hero{
-    background: url(resources/images/nyc/bryant-park/New-York_-_Bryant_Park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/bryant-park/Bryant_Park_-_NYC_\(51494551468\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #central-park-hero{
-    background: url(resources/images/nyc/CentralPark/central-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/central-park/central-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #coney-island-hero{
-    background: url(resources/images/nyc/coney-island/Coney_Island_beach_and_amusement_parks_June_2016-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_\(June_2016\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chelsea-market-hero{
-    background: url(resources/images/nyc/chelsea-market/Chelsea_Market_49052085186-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/chelsea-market/Chelsea_Market_exterior_2015-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chrysler-building-hero{
-    background: url(resources/images/nyc/chrysler-building/Chrysler_Building_2005_4-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/chrysler/Chrysler_Building_2005_4-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #dumbo-hero{
-    background: url(resources/images/nyc/dumbo/dumbo-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/dumbo/dumbo-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #edge-hero{
-    background: url(resources/images/nyc/edgeNY/nyc-empire-state-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/edge-ny/nyc-empire-state-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ellis-island-hero{
-    background: url(resources/images/nyc/ellis-island/Ellis_island_view-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/ellis-island/Ellis_Island_2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #empire-state-hero{
-    background: url(resources/images/nyc/empire-state-building/NYC_Empire_State_Building-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/empire-state-building/EmpireStateNewYokCity-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #federal-hall-hero{
-    background: url(resources/images/nyc/federalHall/Federal_Hall_August_2017_01-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/federal-hall/federal-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #flatiron-building-hero{
-    background: url(resources/images/nyc/flatiron-building/The_Flatiron_Building_3-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/flatiron-buiding/The_Flatiron_Building_\(3\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #fraunces-tavern-hero{
-    background: url(resources/images/nyc/fraunces-tavern/Fraunces_Tavern_Block-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/fraunces-tavern/Frauncestavern-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #grand-central-terminal-hero{
-    background: url(resources/images/nyc/grand-central-terminal/Grand_Central_Terminal_ceiling_view-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/grand-central-terminal/Grand_Central_Terminal_Main_Concourse_2019-10-03_20-02-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #greenwich-village-hero{
-    background: url(resources/images/nyc/greenwich-village/Greenwich_Village_-_panoramio_1-hero-1515.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/new-york-city/greenwich-village/Greenwich_Village_as_seen_from_Jefferson_Market_Library_tower-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #high-line-hero{
-    background: url(resources/images/nyc/highLine/The_High_Line\,_New_York_17643199203-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/high-line/High_Line_\(9072966463-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lincoln-center-hero{
+    background: url(resources/images/new-york/new-york-city/lincoln-center/Lincoln_Center_during_pride_at_dusk_\(93296p\-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-island-pier-hero{
+    background: url(resources/images/new-york/new-york-city/little-island-nyc/Little_Island_opening_morn_\(1\_jeh-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lower-tenement-hero{
+    background: url(resources/images/new-york/new-york-city/lower-east-side-tenement-museum/The_Tenement_Museum_\(51624759160\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #met-art-hero{
-    background: url(resources/images/nyc/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_4-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_\(4\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #moma-hero{
-    background: url(resources/images/nyc/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nathans-famous-hero{
-    background: url(resources/images/nyc/nathans-famous/NathansHotDog-3_48034232387-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/nathans/NathansHotDog-3_\(48034232387\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #new-york-city-hall-hero{
-    background: url(resources/images/nyc/new-york-city-hall/New_York_City_Hall_exterior\,_October_2016-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/new-york-city-hall/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#nyc-hero{
-    background: url(resources/images/nyc/NYC-Top_of_the_Rock-Panoramic_view_of_Midtown_South_Central-Empire_State_Buildung-panoramio-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
+
 #ny-public-library-hero{
     background: url(resources/images/nyc/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3176,112 +3193,9 @@
         background: url(resources/images/NewMexico/white-sands/white-sands-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #thirty-rock-hero{
-        background: url(resources/images/nyc/30-rockeffeler-plaza/2258-NYC-NBC_Studios-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #nine-one-one-hero{
-        background: url(resources/images/nyc/911Memorial/911-memorial-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+    
     #american-museum-natural-history-hero{
         background: url(resources/images/nyc/american-museum-of-natural-history/Blue_Whale_Natl_Hist_Museum-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #battery-hero{
-        background: url(resources/images/nyc/batteryPark/battery-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #bowling-green-hero{
-        background: url(resources/images/nyc/bowlingCharging/bowling-green-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #brooklyn-bridge-hero{
-        background: url(resources/images/nyc/brooklynBridge/brooklyn-bridge-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #brooklyn-bridge-park-hero{
-        background: url(resources/images/nyc/brooklynBridgePark/brooklyn-bridge-park-poles-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #bryant-park-hero {
-        background: url(resources/images/nyc/bryant-park/New-York_-_Bryant_Park-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #central-park-hero{
-        background: url(resources/images/nyc/CentralPark/central-park-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #chelsea-market-hero{
-        background: url(resources/images/nyc/chelsea-market/Chelsea_Market_49052085186-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #chrysler-building-hero{
-        background: url(resources/images/nyc/chrysler-building/Chrysler_Building_2005_4-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #coney-island-hero{
-        background: url(resources/images/nyc/coney-island/Coney_Island_beach_and_amusement_parks_June_2016-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #dumbo-hero{
-        background: url(resources/images/nyc/dumbo/dumbo-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #edge-hero{
-        background: url(resources/images/nyc/edgeNY/nyc-empire-state-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #ellis-island-hero{
-        background: url(resources/images/nyc/ellis-island/Ellis_island_view-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #empire-state-hero{
-        background: url(resources/images/nyc/empire-state-building/NYC_Empire_State_Building-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #federal-hall-hero{
-        background: url(resources/images/nyc/federalHall/Federal_Hall_August_2017_01-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #flatiron-building-hero{
-        background: url(resources/images/nyc/flatiron-building/The_Flatiron_Building_3-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #fraunces-tavern-hero{
-        background: url(resources/images/nyc/fraunces-tavern/Fraunces_Tavern_Block-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #grand-central-terminal-hero{
-        background: url(resources/images/nyc/grand-central-terminal/Grand_Central_Terminal_ceiling_view-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #greenwich-village-hero{
-        background: url(resources/images/nyc/greenwich-village/Greenwich_Village_-_panoramio_1-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #high-line-hero{
-        background: url(resources/images/nyc/highLine/The_High_Line\,_New_York_17643199203-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #met-art-hero{
-        background: url(resources/images/nyc/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_4-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #moma-hero{
-        background: url(resources/images/nyc/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #nathans-famous-hero{
-        background: url(resources/images/nyc/nathans-famous/NathansHotDog-3_48034232387-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #new-york-city-hall-hero{
-        background: url(resources/images/nyc/new-york-city-hall/New_York_City_Hall_exterior\,_October_2016-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #nyc-hero{
-        background: url(resources/images/nyc/NYC-Top_of_the_Rock-Panoramic_view_of_Midtown_South_Central-Empire_State_Buildung-panoramio-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #ny-public-library-hero{
@@ -4073,6 +3987,126 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
   /* Large screen, retina, stuff to override above media query */
   #high-point-hero{
     background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-york-city-hero{
+    background: url(resources/images/new-york/new-york-city/NYC-Top-of-the-Rock-Panoramic-view-of-Midtown-South-Central-Empire-State-Buildung-panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#battery-hero{
+    background: url(resources/images/new-york/new-york-city/battery-ny/battery-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bowling-green-hero{
+    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#brooklyn-bridge-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge/brooklyn-bridge-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#brooklyn-bridge-park-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge-park/brooklyn-bridge-park-poles-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bronx-zoo-hero{
+    background: url(resources/images/new-york/new-york-city/bronx-zoo/Bronx_Zoo_001-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bryant-park-hero{
+    background: url(resources/images/new-york/new-york-city/bryant-park/Bryant_Park_-_NYC_\(51494551468\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#central-park-hero{
+    background: url(resources/images/new-york/new-york-city/central-park/central-park-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chelsea-market-hero{
+    background: url(resources/images/new-york/new-york-city/chelsea-market/Chelsea_Market_exterior_2015-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chrysler-building-hero{
+    background: url(resources/images/new-york/new-york-city/chrysler/Chrysler_Building_2005_4-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#coney-island-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_\(June_2016\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dumbo-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/dumbo/dumbo-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#edge-hero{
+    background: url(resources/images/new-york/new-york-city/edge-ny/nyc-empire-state-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ellis-island-hero{
+    background: url(resources/images/new-york/new-york-city/ellis-island/Ellis_Island_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#empire-state-hero{
+    background: url(resources/images/new-york/new-york-city/empire-state-building/EmpireStateNewYokCity-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#federal-hall-hero{
+    background: url(resources/images/new-york/new-york-city/federal-hall/federal-hall-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#flatiron-building-hero{
+    background: url(resources/images/new-york/new-york-city/flatiron-buiding/The_Flatiron_Building_\(3\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fraunces-tavern-hero{
+    background: url(resources/images/new-york/new-york-city/fraunces-tavern/Frauncestavern-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-central-terminal-hero{
+    background: url(resources/images/new-york/new-york-city/grand-central-terminal/Grand_Central_Terminal_Main_Concourse_2019-10-03_20-02-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#greenwich-village-hero{
+    background: url(resources/images/new-york/new-york-city/greenwich-village/Greenwich_Village_as_seen_from_Jefferson_Market_Library_tower-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#high-line-hero{
+    background: url(resources/images/new-york/new-york-city/high-line/High_Line_\(9072966463\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lincoln-center-hero{
+    background: url(resources/images/new-york/new-york-city/lincoln-center/Lincoln_Center_during_pride_at_dusk_\(93296p\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-island-pier-hero{
+    background: url(resources/images/new-york/new-york-city/little-island-nyc/Little_Island_opening_morn_\(1\_jeh-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lower-tenement-hero{
+    background: url(resources/images/new-york/new-york-city/lower-east-side-tenement-museum/The_Tenement_Museum_\(51624759160\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#met-art-hero{
+    background: url(resources/images/new-york/new-york-city/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_\(4\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#moma-hero{
+    background: url(resources/images/new-york/new-york-city/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nathans-famous-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/nathans/NathansHotDog-3_\(48034232387\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-york-city-hall-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-city-hall/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nine-one-one-hero{
+    background: url(resources/images/new-york/new-york-city/september-11-memorial-and-museum/911-memorial-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#thirty-rock-hero{
+    background: url(resources/images/new-york/new-york-city/30-rock/2258-NYC-NBC_Studios-3030.jpg) center no-repeat;
     background-size: cover;
 }
 }
