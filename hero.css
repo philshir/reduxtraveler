@@ -1311,7 +1311,7 @@
     background-size: cover;
 }
 #american-museum-natural-history-hero{
-    background: url(resources/images/nyc/american-museum-of-natural-history/Blue_Whale_Natl_Hist_Museum-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/museum-natural-history/American_Museum_of_Natural_History_AMNH_Manhattan_New_York_New_York_City_United_States_America__USA_US_50262006312-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 
@@ -1425,15 +1425,23 @@
 }
 
 #ny-public-library-hero{
-    background: url(resources/images/nyc/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2_\(cropped\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ny-transit-museum-hero{
-    background: url(resources/images/nyc/new-york-transit-museum/New_York_Transit_Museum_July_2013_007-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_\(15568324458\-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oculus-ny-hero{
+    background: url(resources/images/new-york/new-york-city/oculus/The_Oculus_-_Interior_-_NYC_51521769328-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#one-world-trade-hero{
+    background: url(resources/images/new-york/new-york-city/one-world-trade-center/One_World_Trade_Center_New_York-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #prospect-park-hero{
-    background: url(resources/images/nyc/prospect-park/Prospect_Park_New_York_October_2015_003-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/prospect-park/Prospect_Park_New_York_October_2015_003--1515.jpg) center no-repeat;
     background-size: cover;
 }
 #radio-city-music-hero{
@@ -1441,49 +1449,50 @@
     background-size: cover;
 }
 #rockefeller-center-hero{
-    background: url(resources/images/nyc/rockefeller-center/Rockefeller_Center-_Ice_Skating-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/rockefeller-center/Skating_at_Rockefeller_Plaza\,_New_York\,_New_York_LCCN2011634147-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #roosevelt-tramway-hero{
-    background: url(resources/images/nyc/roosevelt-island-tram/Roosevelt_Island_td_2019-11-03_040_-_Roosevelt_Island_Tramway_Station-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/roosevelt-island-tramway/Roosevelt_Island_Tramway_half-way_view_towards_Manhattan\,_2021-10-01-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #solomon-guggenheim-hero{
-    background: url(resources/images/nyc/solomon-guggenheim/Museo_Solomon_R-hero-1515.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/new-york-city/guggenheim-museum/NYC_-_Guggenheim_Museum-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #st-patricks-cathedral-hero{
-    background: url(resources/images/nyc/st-patricks-cathedral/NYC_-_St-hero-1515.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/new-york-city/st-patricks-cathedral/NYC_-_St_Patrick_Cathedral_-_Facade_and_Atlas-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #staten-ferry-hero{
-    background: url(resources/images/nyc/statenIsland/staten-island-ferry-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#st-patrick-ny-hero{
-    background: url(resources/images/nyc/st-patricks-cathedral/) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/staten-island/staten-island-ferry-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #statue-liberty-hero{
-    background: url(resources/images/nyc/statue-of-liberty/Liberty_Island_photo_D_Ramey_Logan-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/statue-of-lIberty/Liberty_Island_photo_D_Ramey_Logan-1515.jpg) center no-repeat;
     background-size: cover; 
 }
 #times-square-hero{
-    background: url(resources/images/nyc/timesSquareNY/times-square-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/times-square/times-square-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #trinity-church-hero{
-    background: url(resources/images/nyc/trinityChurch/NYC_-_Trinity_Church_-_Watts_statue-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/trinity-church/NYC_-_Trinity_Church_-_Watts_statue-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#united-nations-hero{
+    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_\(3\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #vessel-hero{
-    background: url(resources/images/nyc/vessel-one/vessel-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/vessel/vessel-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #washington-square-park-hero{
-    background: url(resources/images/nyc/washington-square-park/Washington_Square_Arch-Isabella-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/washington-square-park/NYC_-_Washington_Square_Park_-_Arch-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
+
 #mt-mitchell-hero{
     background: url(resources/images/northCarolina/mt-mitchell/mt-mitchell-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3193,65 +3202,8 @@
         background: url(resources/images/NewMexico/white-sands/white-sands-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    
-    #american-museum-natural-history-hero{
-        background: url(resources/images/nyc/american-museum-of-natural-history/Blue_Whale_Natl_Hist_Museum-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #ny-public-library-hero{
-        background: url(resources/images/nyc/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #ny-transit-museum-hero{
-        background: url(resources/images/nyc/new-york-transit-museum/New_York_Transit_Museum_July_2013_007-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #prospect-park-hero{
-        background: url(resources/images/nyc/prospect-park/Prospect_Park_New_York_October_2015_003-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #radio-city-music-hero{
         background: url(resources/images/nyc/radio-city-music-hall/Radio_City_Music_Hall\,_New_York\,_Manhattan\,_USA-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #rockefeller-center-hero{
-        background: url(resources/images/nyc/rockefeller-center/Rockefeller_Center-_Ice_Skating-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #roosevelt-tramway-hero{
-        background: url(resources/images/nyc/roosevelt-island-tram/Roosevelt_Island_td_2019-11-03_040_-_Roosevelt_Island_Tramway_Station-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #solomon-guggenheim-hero{
-        background: url(resources/images/nyc/solomon-guggenheim/Museo_Solomon_R-hero-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
-    #st-patricks-cathedral-hero{
-        background: url(resources/images/nyc/st-patricks-cathedral/NYC_-_St-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #staten-ferry-hero{
-        background: url(resources/images/nyc/statenIsland/staten-island-ferry-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #statue-liberty-hero{
-        background: url(resources/images/nyc/statue-of-liberty/Liberty_Island_photo_D_Ramey_Logan-hero-3030.jpg) center no-repeat;
-        background-size: cover; 
-    }
-    #times-square-hero{
-        background: url(resources/images/nyc/timesSquareNY/times-square-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #trinity-church-hero{
-        background: url(resources/images/nyc/trinityChurch/NYC_-_Trinity_Church_-_Watts_statue-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #vessel-hero{
-        background: url(resources/images/nyc/vessel-one/vessel-hero-2273wPortrait.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #washington-square-park-hero{
-        background: url(resources/images/nyc/washington-square-park/Washington_Square_Arch-Isabellahero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mt-mitchell-hero{
@@ -3993,6 +3945,10 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background: url(resources/images/new-york/new-york-city/NYC-Top-of-the-Rock-Panoramic-view-of-Midtown-South-Central-Empire-State-Buildung-panoramio-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#american-museum-natural-history-hero{
+    background: url(resources/images/new-york/new-york-city/museum-natural-history/American_Museum_of_Natural_History_AMNH_Manhattan_New_York_New_York_City_United_States_America__USA_US_50262006312-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
 #battery-hero{
     background: url(resources/images/new-york/new-york-city/battery-ny/battery-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -4101,14 +4057,80 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background: url(resources/images/new-york/new-york-city/new-york-city-hall/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#ny-public-library-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2_\(cropped\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ny-transit-museum-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_\(15568324458\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #nine-one-one-hero{
     background: url(resources/images/new-york/new-york-city/september-11-memorial-and-museum/911-memorial-hero-3030.jpg) center no-repeat;
     background-size: cover;
+}
+#oculus-ny-hero{
+    background: url(resources/images/new-york/new-york-city/oculus/The_Oculus_-_Interior_-_NYC_51521769328-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#one-world-trade-hero{
+    background: url(resources/images/new-york/new-york-city/one-world-trade-center/One_World_Trade_Center_New_York-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#prospect-park-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/prospect-park/Prospect_Park_New_York_October_2015_003--3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rockefeller-center-hero{
+    background: url(resources/images/new-york/new-york-city/rockefeller-center/Skating_at_Rockefeller_Plaza\,_New_York\,_New_York_LCCN2011634147-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#roosevelt-tramway-hero{
+    background: url(resources/images/new-york/new-york-city/roosevelt-island-tramway/Roosevelt_Island_Tramway_half-way_view_towards_Manhattan\,_2021-10-01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#solomon-guggenheim-hero{
+    background: url(resources/images/new-york/new-york-city/guggenheim-museum/NYC_-_Guggenheim_Museum-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#st-patricks-cathedral-hero{
+    background: url(resources/images/new-york/new-york-city/st-patricks-cathedral/NYC_-_St_Patrick_Cathedral_-_Facade_and_Atlas-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#staten-ferry-hero{
+    background: url(resources/images/new-york/new-york-city/staten-island/staten-island-ferry-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#statue-liberty-hero{
+    background: url(resources/images/new-york/new-york-city/statue-of-lIberty/Liberty_Island_photo_D_Ramey_Logan-3030.jpg) center no-repeat;
+    background-size: cover; 
 }
 #thirty-rock-hero{
     background: url(resources/images/new-york/new-york-city/30-rock/2258-NYC-NBC_Studios-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#times-square-hero{
+    background: url(resources/images/new-york/new-york-city/times-square/times-square-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#trinity-church-hero{
+    background: url(resources/images/new-york/new-york-city/trinity-church/NYC_-_Trinity_Church_-_Watts_statue-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#united-nations-hero{
+    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_\(3\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#vessel-hero{
+    background: url(resources/images/new-york/new-york-city/vessel/vessel-hero-2273wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-square-park-hero{
+    background: url(resources/images/new-york/new-york-city/washington-square-park/NYC_-_Washington_Square_Park_-_Arch-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+
 }
 
 
