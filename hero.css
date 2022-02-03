@@ -1298,6 +1298,57 @@
     background: url(resources/images/NewMexico/white-sands/white-sands-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* New York */
+#buttermilk-falls-hero{
+    background: url(resources/images/new-york/finger-lakes/buttermilk-falls/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ithaca-falls-hero{
+    background: url(resources/images/new-york/finger-lakes/ithaca-falls/Ithaca_Falls_-3-_August_4594566258_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#robert-treman-hero{
+    background: url(resources/images/new-york/finger-lakes/robert-treman-sp/Lucifer_Falls_232560709-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stony-brook-sp-hero{
+    background: url(resources/images/new-york/finger-lakes/stony-brook-sp/StonyBrookStatePark2020SwimmingAreaOpenSluiceLandscape-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taughannock-hero{
+    background: url(resources/images/new-york/finger-lakes/taughannock-falls/TaughannockFalls_Gorge-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#triphammer-hero{
+    background: url(resources/images/new-york/finger-lakes/triphammer-falls/Triphammer_Falls_Cornell_July_2015_002-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-stanwix-hero{
+    background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#letchworth-sp-hero{
+    background: url(resources/images/new-york/letchworth-state-park/Letchworthwiki-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hempstead-house-hero{
+    background: url(resources/images/new-york/long-island/hempstead-house/Hempstead_House\,_southern_façade-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oheka-castle-hero{
+    background: url(resources/images/new-york/long-island/oheka-castle/OHEKA_CASTLE_Courtyard_View-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-marcy-hero{
+    background: url(resources/images/new-york/mount-marcy/Mount_Marcy\,_Avalanche_Mountain\,_Mount_Colden_from_Algonquin_Peak-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ny-capitol{
+    background: url(resources/images/new-york/new-york-state-capitol/New_York_State_Capitol_building\,_close-up-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/*New York City*/
 #new-york-city-hero{
     background: url(resources/images/new-york/new-york-city/NYC-Top-of-the-Rock-Panoramic-view-of-Midtown-South-Central-Empire-State-Buildung-panoramio-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1490,6 +1541,58 @@
 }
 #washington-square-park-hero{
     background: url(resources/images/new-york/new-york-city/washington-square-park/NYC_-_Washington_Square_Park_-_Arch-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#niagara-falls-hero{
+    background: url(resources/images/new-york/niagara-falls/3Falls_Niagara-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#american-falls-hero{
+    background: url(resources/images/new-york/niagara-falls/american-falls/American_Falls_Niagara_Falls_USA_from_Skylon_Tower_on_2002-05-28-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cave-winds-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/cave-of-the-winds/Cave_of_the_Winds_21916677839-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#goat-island-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/goat-island/Viewgoatisland-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#horseshoe-falls-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/horseshoe-falls/Aerial_view_of_the_Canadian_Falls_Horseshoe_Falls_and_the_Hornblower_Niagara_Cruises_boat;_Niagara_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#maid-mist-hero{
+    background: url(resources/images/new-york/niagara-falls/maid-of-the-mist/Maidsofmist-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-falls-ny-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-falls-ny/Niagara_Falls\,_New_York_from_Skylon_Tower-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-sp-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-falls-sp/Niagara_Falls_and_Niagara_River-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-gorge-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-gorge/Niagara_Gorge_at_Niagara_Glen2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#prospect-observation-hero{
+    background: url(resources/images/new-york/niagara-falls/prospect-point/Look-out_point_viewing_platform_on_the_USA_side_27283584804-1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#whirlpool-sp-hero{
+    background: url(resources/images/new-york/niagara-falls/whirlpool-sp/Niagara_Whirlpool_2_8032275844-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#saratoga-nhp-hero{
+    background: url(resources/images/new-york/saratoga-nhp/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#vanderbilt-mansion-hero{
+    background: url(resources/images/new-york/vanderbilt-mansion/Vanderbilt_Mansion_National_Historic_Site_-_17-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -3941,6 +4044,55 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
+
+#buttermilk-falls-hero{
+    background: url(resources/images/new-york/finger-lakes/buttermilk-falls/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ithaca-falls-hero{
+    background: url(resources/images/new-york/finger-lakes/ithaca-falls/Ithaca_Falls_-3-_August_4594566258_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#robert-treman-hero{
+    background: url(resources/images/new-york/finger-lakes/robert-treman-sp/Lucifer_Falls_232560709-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#stony-brook-sp-hero{
+    background: url(resources/images/new-york/finger-lakes/stony-brook-sp/StonyBrookStatePark2020SwimmingAreaOpenSluiceLandscape-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#taughannock-hero{
+    background: url(resources/images/new-york/taughannock-falls/TaughannockFalls_Gorge-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#triphammer-hero{
+    background: url(resources/images/new-york/finger-lakes/triphammer-falls/Triphammer_Falls_Cornell_July_2015_002-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-stanwix-hero{
+    background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#letchworth-sp-hero{
+    background: url(resources/images/new-york/letchworth-state-park/Letchworthwiki-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hempstead-house-hero{
+    background: url(resources/images/new-york/long-island/hempstead-house/Hempstead_House\,_southern_façade-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oheka-castle-hero{
+    background: url(resources/images/new-york/long-island/oheka-castle/OHEKA_CASTLE_Courtyard_View-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-marcy-hero{
+    background: url(resources/images/new-york/mount-marcy/Mount_Marcy\,_Avalanche_Mountain\,_Mount_Colden_from_Algonquin_Peak-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ny-capitol{
+    background: url(resources/images/new-york/new-york-state-capitol/New_York_State_Capitol_building\,_close-up-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #new-york-city-hero{
     background: url(resources/images/new-york/new-york-city/NYC-Top-of-the-Rock-Panoramic-view-of-Midtown-South-Central-Empire-State-Buildung-panoramio-3030.jpg) center no-repeat;
     background-size: cover;
@@ -4130,7 +4282,58 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background: url(resources/images/new-york/new-york-city/washington-square-park/NYC_-_Washington_Square_Park_-_Arch-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
-
+#niagara-falls-hero{
+    background: url(resources/images/new-york/niagara-falls/3Falls_Niagara-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#american-falls-hero{
+    background: url(resources/images/new-york/niagara-falls/american-falls/American_Falls_Niagara_Falls_USA_from_Skylon_Tower_on_2002-05-28-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cave-winds-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/cave-of-the-winds/Cave_of_the_Winds_21916677839-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#goat-island-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/goat-island/Viewgoatisland-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#horseshoe-falls-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/horseshoe-falls/Aerial_view_of_the_Canadian_Falls_Horseshoe_Falls_and_the_Hornblower_Niagara_Cruises_boat;_Niagara_Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#maid-mist-hero{
+    background: url(resources/images/new-york/niagara-falls/maid-of-the-mist/Maidsofmist-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-falls-ny-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-falls-ny/Niagara_Falls\,_New_York_from_Skylon_Tower-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-sp-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-falls-sp/Niagara_Falls_and_Niagara_River-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-gorge-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-gorge/Niagara_Gorge_at_Niagara_Glen2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#prospect-observation-hero{
+    background: url(resources/images/new-york/niagara-falls/prospect-point/Look-out_point_viewing_platform_on_the_USA_side_27283584804-1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#whirlpool-sp-hero{
+    background: url(resources/images/new-york/niagara-falls/whirlpool-sp/Niagara_Whirlpool_2_8032275844-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#saratoga-nhp-hero{
+    background: url(resources/images/new-york/saratoga-nhp/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#vanderbilt-mansion-hero{
+    background: url(resources/images/new-york/vanderbilt-mansion/Vanderbilt_Mansion_National_Historic_Site_-_17-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 }
 
 
