@@ -1374,6 +1374,10 @@
     background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#broadway-ny-hero{
+    background: url(resources/images/new-york/new-york-city/broadway-theatre-district/Nederlander_Theatre_-_Pretty_Woman_48295956906-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
 #bronx-zoo-hero{
     background: url(resources/images/new-york/new-york-city/bronx-zoo/Bronx_Zoo_001-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1391,7 +1395,7 @@
     background-size: cover;
 }
 #central-park-hero{
-    background: url(resources/images/new-york/new-york-city/central-park/central-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #coney-island-hero{
@@ -1411,7 +1415,7 @@
     background-size: cover;
 }
 #edge-hero{
-    background: url(resources/images/new-york/new-york-city/edge-ny/nyc-empire-state-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/edge-ny/edge-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #ellis-island-hero{
@@ -1479,6 +1483,10 @@
     background: url(resources/images/new-york/new-york-city/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2_\(cropped\-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#new-york-city-subway-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-subway/NYC_Subway_R143_8283_Interior-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #ny-transit-museum-hero{
     background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_\(15568324458\-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1496,7 +1504,7 @@
     background-size: cover;
 }
 #radio-city-music-hero{
-    background: url(resources/images/nyc/radio-city-music-hall/Radio_City_Music_Hall\,_New_York\,_Manhattan\,_USA-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/radio-city-music-hall/Radio_City_Music_Hall_3a-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rockefeller-center-hero{
@@ -3306,7 +3314,7 @@
         background-size: cover;
     }
     #radio-city-music-hero{
-        background: url(resources/images/nyc/radio-city-music-hall/Radio_City_Music_Hall\,_New_York\,_Manhattan\,_USA-hero-3030.jpg) bottom no-repeat;
+        background: url(resources/images/new-york/new-york-city/radio-city-music-hall/Radio_City_Music_Hall_3a-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #mt-mitchell-hero{
@@ -4109,6 +4117,10 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#broadway-ny-hero{
+    background: url(resources/images/new-york/new-york-city/broadway-theatre-district/Nederlander_Theatre_-_Pretty_Woman_48295956906-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
 #brooklyn-bridge-hero{
     background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge/brooklyn-bridge-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -4126,7 +4138,7 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background-size: cover;
 }
 #central-park-hero{
-    background: url(resources/images/new-york/new-york-city/central-park/central-park-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #chelsea-market-hero{
@@ -4146,7 +4158,7 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background-size: cover;
 }
 #edge-hero{
-    background: url(resources/images/new-york/new-york-city/edge-ny/nyc-empire-state-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/edge-ny/edge-hero-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #ellis-island-hero{
@@ -4214,7 +4226,7 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background-size: cover;
 }
 #new-york-city-subway-hero{
-    background: url(resources/images/new-york/new-york-city/new-york-subway/) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/new-york-subway/NYC_Subway_R143_8283_Interior-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #ny-transit-museum-hero{
