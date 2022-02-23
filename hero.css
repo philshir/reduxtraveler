@@ -4213,6 +4213,10 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
     background: url(resources/images/new-york/new-york-city/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2_\(cropped\-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#new-york-city-subway-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-subway/) center no-repeat;
+    background-size: cover;
+}
 #ny-transit-museum-hero{
     background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_\(15568324458\-3030.jpg) center no-repeat;
     background-size: cover;
