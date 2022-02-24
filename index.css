@@ -9,6 +9,10 @@ html {
   box-sizing: inherit;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @font-face {
   font-family: "AvenirLTStd-Book";
   src: url("./AvenirLTStd-Book.ttf") format("opentype");
@@ -1453,6 +1457,9 @@ margin-bottom: 40px;
 }
 .main-article h4 {
   margin: 10px;
+}
+.fa-caret-up {
+  transform: scale(4.8) translate(6.25px, 4.8px);
 }
 .featured {
   margin: 62px 0 0;

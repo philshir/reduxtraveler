@@ -1491,6 +1491,10 @@
     background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_\(15568324458\-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#nyse-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-stock-exchange/NYSE_Building-1515.jpg) bottom no-repeat;
+    background-size: cover; 
+}
 #oculus-ny-hero{
     background: url(resources/images/new-york/new-york-city/oculus/The_Oculus_-_Interior_-_NYC_51521769328-1515.jpg) bottom no-repeat;
     background-size: cover;
@@ -4232,6 +4236,10 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 1300px)
 #ny-transit-museum-hero{
     background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_\(15568324458\-3030.jpg) center no-repeat;
     background-size: cover;
+}
+#nyse-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-stock-exchange/NYSE_Building-1515.jpg) bottom no-repeat;
+    background-size: cover; 
 }
 #nine-one-one-hero{
     background: url(resources/images/new-york/new-york-city/september-11-memorial-and-museum/911-memorial-hero-3030.jpg) center no-repeat;
