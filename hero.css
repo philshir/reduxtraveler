@@ -408,7 +408,7 @@
     background-size: cover;
 }
 #cabazon-hero{
-    background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #calico-hero{
@@ -2568,7 +2568,7 @@
         background-size: cover;
     }
     #cabazon-hero{
-        background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/californiaOne/cabazon-dinosaurs/2014\,_Brontosaurus_-_panoramio-hero-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #calico-hero{
