@@ -156,7 +156,7 @@ a.itin-menu {
 }
 .trail-description{
   text-align: left;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 24px;
 }
 .trail-description p {
@@ -1197,7 +1197,6 @@ body {
   align-self: center;
 }
 .hi-h3 {
-  padding: 10px 0 5px;
   margin: 0;
   text-align: center;
   font-size: 22px;
@@ -1264,15 +1263,25 @@ margin: 10px 0 0;
 width: 100%;
 text-align: center;
 }
+.main-article{
+  margin-top: 40px;
+}
 .main-article p {
   font-family: Arial, sans-serif;
 }
 .description-main p {
   font-family: Arial, sans-serif;
 }
+.featured.navy{
+  margin-top: 60px;
+}
+
 .featured p {
   font-size: 20px;
   margin: 5px 0px 20px;
+}
+.info {
+  margin-bottom: 40px;
 }
 .stats{
   font-size: 14px!important;
@@ -1291,6 +1300,7 @@ text-align: center;
   font-size: 20px;
   font-weight: 700;
   font-family: Arial, Helvetica, sans-serif !important;
+  margin: 20px 0 0;
 }
 h4.navy {
   color: black;
@@ -1301,8 +1311,9 @@ h4.navy {
 
 }
 .article-grid-title{
-  margin: 25px 0 5px;
+  margin: 60px 0 5px;
   text-align: center;
+  font-size: 18px;
   font-weight: 700;
   color: navy;
 }
@@ -1604,7 +1615,6 @@ margin: 25px;
   }
   .highlights {
     text-align: center;
-    padding: 15px 0px;
     font-size: 22px !important;
     
   }
@@ -1696,9 +1706,9 @@ article a {
   .trail-img {
     margin: 15px;
   }
-  .trail-description {
+ /*  .trail-description {
     padding: 10px;
-  }
+  } */
   .trail-description h2 {
     font-size: 24px;
 }
@@ -1935,6 +1945,7 @@ max-width: 1170px;
     grid-column-start: 1;
     grid-row-start: 1;
     grid-row-end: 4;
+    margin-top: 0;
   }
   .info {
     grid-column: 2 / 3;
@@ -2068,6 +2079,18 @@ article p:first-of-type {
  font-size: 30px;
 }
 }
+.featured .flex p {
+  font-size: 16px;
+  font-weight: 400;
+}
+.trail-description div {
+  font-size: 16px;
+}
+.info {
+  margin-bottom: 0;
+}
+
+
 @media only screen and (min-width: 1170px) {
   .flex {
     flex-direction: row;
