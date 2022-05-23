@@ -767,6 +767,94 @@
     background: url(resources/images/colorado-one/san-juan/san-juan-skyway-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* Connecticut */
+#avery-point-hero{
+    background: url(resources/images/connecticut/avery-point-light/Avery_Point_Light_House_in_Groton\,_CT_01-1515.jpg) center no-repeat;
+    background-size: cover;
+ }
+#branford-house-hero{
+    background: url(resources/images/connecticut/branford-house/Branford_House\,_UConn_Avery_Point\,_Groton\,_CT-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#castle-craig-hero{
+    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#devils-hopyard-hero{
+    background: url(resources/images/connecticut/devils-hopyard/Devils_Hopyard_Bridge_View_Kevin_Pepin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#five-mile-point-hero{
+    background: url(resources/images/connecticut/five-mile-point/Five_Mile_Point_Light_-_New_Haven_CT-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gillette-castle-hero{
+    background: url(resources/images/connecticut/gillette-castle/Gillete_Castle_Rear-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#hartford-hero{
+    background: url(resources/images/connecticut/hartford/Hartford_Connecticut_Skyline-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bushnell-park-hero{
+    background: url(resources/images/connecticut/hartford/bushnell-park/Prospect_Park_New_York_October_2015_003-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#church-good-shepherd-hero{
+    background: url(resources/images/connecticut/hartford/church-of-the-good-shepherd/Church_of_the_Good_Shepherd_Parish_House_-_Hartford\,_Connecticut_03-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#heublein-tower-hero{
+    background: url(resources/images/connecticut/heublein-tower/Heublein_Tower_on_Talcott_Mountain-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kent-falls-hero{
+    background: url(resources/images/connecticut/kent-falls/Kent\ Falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lighthouse-point-hero{
+    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Park_-_New_Haven\,_CT_14193945443-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lighthouse-carousel-hero{
+    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Carousel_in_Lighthouse_Point_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystic-ct-hero{
+    background: url(resources/images/connecticut/mystic/Joseph_Conrad\,_ship_moored_at_Mystic_Seaport_in_Connecticut\,_USA-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#mystic-bascule-hero{
+    background: url(resources/images/connecticut/mystic/mystic-bascule-bridge/Mystic_River_Bascule_Bridge_counter_weights-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystic-seaport-hero{
+    background: url(resources/images/connecticut/mystic/mystic-seaport/Mystic_Seaport-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-london-harbor-hero{
+    background: url(resources/images/connecticut/new-london-harbor/New_london_harbor_light_14422085964-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#penfield-reef-hero{
+    background: url(resources/images/connecticut/penfield-reef-light/Penfield_Reef_Light_CT_02_NRHP_89001473-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#southford-falls-hero{
+    background: url(resources/images/connecticut/southford-falls/Southford_Falls_II-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#stonington-harbor-hero{
+    background: url(resources/images/connecticut/stonington-harbor/Stonington_Harbor_Light-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wadsworth-falls-hero{
+    background: url(resources/images/connecticut/wadsworth-falls/Wadsworth_Falls_State_Park_-_falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* Florida */
 #florida-hero{
     background: url(resources/images/floridaOne/panamaCity/florida-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3289,10 +3377,7 @@
         background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-  /*   #high-point-hero{
-        background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
-        background-size: cover;
-    } */
+    
     #paterson-falls-hero{
         background: url(resources/images/newJersey/paterson-falls/paterson-falls-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -4048,14 +4133,105 @@
 }
 
 @media
-only screen and (                min-resolution: 192dpi) and (min-width: 1300px),
-only screen and (                min-resolution: 2dppx)  and (min-width: 1300px) { 
+only screen and (min-resolution: 192dpi) and (min-width: 1300px),
+only screen and (min-resolution: 2dppx)  and (min-width: 1300px) { 
 
   /* Large screen, retina, stuff to override above media query */
+ /*  Connecticut */
+ #avery-point-hero{
+    background: url(resources/images/connecticut/avery-point-light/Avery_Point_Light_House_in_Groton\,_CT_01-3030.jpg) center no-repeat;
+    background-size: cover;
+ }
+#branford-house-hero{
+    background: url(resources/images/connecticut/branford-house/Branford_House\,_UConn_Avery_Point\,_Groton\,_CT-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#castle-craig-hero{
+    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#devils-hopyard-hero{
+    background: url(resources/images/connecticut/devils-hopyard/Devils_Hopyard_Bridge_View_Kevin_Pepin-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#five-mile-point-hero{
+    background: url(resources/images/connecticut/five-mile-point/Five_Mile_Point_Light_-_New_Haven_CT-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gillette-castle-hero{
+    background: url(resources/images/connecticut/gillette-castle/Gillete_Castle_Rear-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#hartford-hero{
+    background: url(resources/images/connecticut/hartford/Hartford_Connecticut_Skyline-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bushnell-park-hero{
+    background: url(resources/images/connecticut/hartford/bushnell-park/Prospect_Park_New_York_October_2015_003-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#church-good-shepherd-hero{
+    background: url(resources/images/connecticut/hartford/church-of-the-good-shepherd/Church_of_the_Good_Shepherd_Parish_House_-_Hartford\,_Connecticut_03-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#heublein-tower-hero{
+    background: url(resources/images/connecticut/heublein-tower/Heublein_Tower_on_Talcott_Mountain-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kent-falls-hero{
+    background: url(resources/images/connecticut/kent-falls/Kent\ Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lighthouse-point-hero{
+    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Park_-_New_Haven\,_CT_14193945443-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lighthouse-carousel-hero{
+    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Carousel_in_Lighthouse_Point_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystic-ct-hero{
+    background: url(resources/images/connecticut/mystic/Joseph_Conrad\,_ship_moored_at_Mystic_Seaport_in_Connecticut\,_USA-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#mystic-bascule-hero{
+    background: url(resources/images/connecticut/mystic/mystic-bascule-bridge/Mystic_River_Bascule_Bridge_\counter_weights\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystic-seaport-hero{
+    background: url(resources/images/connecticut/mystic/mystic-seaport/Mystic_Seaport-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-london-harbor-hero{
+    background: url(resources/images/connecticut/new-london-harbor/New_london_harbor_light_14422085964-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#penfield-reef-hero{
+    background: url(resources/images/connecticut/penfield-reef-light/Penfield_Reef_Light_CT_02_NRHP_89001473-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#southford-falls-hero{
+    background: url(resources/images/connecticut/southford-falls/Southford_Falls_II-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#stonington-harbor-hero{
+    background: url(resources/images/connecticut/stonington-harbor/Stonington_Harbor_Light-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wadsworth-falls-hero{
+    background: url(resources/images/connecticut/wadsworth-falls/Wadsworth_Falls_State_Park_-_falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* New Jersey */
+
   #high-point-hero{
     background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* New York */
 
 #buttermilk-falls-hero{
     background: url(resources/images/new-york/finger-lakes/buttermilk-falls/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
