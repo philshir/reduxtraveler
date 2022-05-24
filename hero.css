@@ -1952,6 +1952,11 @@
     background: url(resources/images/texas-one/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* Utah */
+#antelope-island-hero{
+    background: url(resources/images/utah-one/antelope-island/Salt_Lake_-_White_Rock_Bay_-_výhled_z_Buffalo_Pointu\,_Antelope_Island_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #arches-hero{
     background: url(resources/images/utah-one/arches-one/delicate-arch/arches-delicate-arch-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1982,6 +1987,10 @@
 }
 #navajo-trail-hero{
     background: url(resources/images/utah-one/bryce/bryce-canyon-navajo-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bonneville-salt-hero{
+    background: url(resources/images/utah-one/bonneville/Bonneville_Salt_Flats\,_Utah_29466702726-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #buckskin-hero{
@@ -2020,8 +2029,20 @@
     background: url(resources/images/utah-one/capitol-reef-one/hickman-bridge/capitol-reef-hickman-bridge-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
+#cedar-breaks-hero{
+    background: url(resources/images/utah-one/cedar-breaks-national-monument/Utah\,_Cedar_Breaks_National_Monument\,_amphitheater-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #coral-pink-hero{
     background: url(resources/images/utah-one/coral-pink/coral-pink-sand-dunes-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dead-horse-point-hero{
+    background: url(resources/images/utah-one/dead-horse-point-state-park/Dead_Horse_Point\,_Colorado_River-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fisher-towers-hero{
+    background: url(resources/images/utah-one/fisher-tower/The_Titan-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #goblin-valley-hero{
@@ -2032,8 +2053,36 @@
     background: url(resources/images/utah-one/goosenecks/goosenecks-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#golden-spike-hero{
+    background: url(resources/images/utah-one/golden-spike-national-monument/A_meeting_of_the_engines_at_the_Golden_Spike_National_Historic_Site\,_Utah_angled_view-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-staircase-hero{
+    background: url(resources/images/utah-one/grand-staircase-escalante/Golden_Cathedral\,_Utah-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#paria-rimrocks-hero{
+    background: url(resources/images/utah-one/toadstool-hoodoos/Toadstool_Hoodoos_at_Grand_Staircase-Escalante_in_UT_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wahweap-hoodoos-hero{
+    background: url(resources/images/utah-one/wahweap-hoodoos/Frozen\ Cascade\ 8124819883-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grosvenor-arch-hero{
+    background: url(resources/images/utah-one/grosvenor-arch/GrosvenorArch5539-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #little-wild-horse-hero{
     background: url(resources/images/utah-one/little-wild-horse/little-wild-horse-canyon-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#kings-peak-hero{
+    background: url(resources/images/utah-one/kings-peak/Kings_Peak_with_Henrys_Fork_Basin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#moab-hero{
+    background: url(resources/images/utah-one/moab-ut/Moab_overlook_from_Arches-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #moki-hero{
@@ -2046,6 +2095,54 @@
 }
 #paria-hero{
     background: url(resources/images/utah-one/paria-ghost/paria-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#park-city-ut-hero{
+    background: url(resources/images/utah-one/park-city/Park_City_overview-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-cliffs-hero{
+    background: url(resources/images/utah-one/red-cliffs/Red_Cliffs_NCA_9422762557-1515.jpg) top no-repeat;
+    background-size: cover;
+}
+#salt-lake-city-hero{
+    background: url(resources/images/utah-one/salt-lake-city/Salt_Lake_City_-_July_16\,_2011-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#big-cottonwood-canyon-hero{
+    background: url(resources/images/utah-one/salt-lake-city/big-cottonwood-canyon/Big_Cottonwood_Canyon_9-26-21-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-madeleine-hero{
+    background: url(resources/images/utah-one/salt-lake-city/cathedral-madeleine/Cathedral_of_the_Madeline-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#city-creek-center-hero{
+    background: url(resources/images/utah-one/salt-lake-city/city-creek-center/City_Creek_Center_-_panoramio_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gilgal-sculpture-hero{
+    background: url(resources/images/utah-one/salt-lake-city/gilgal-garden/Gilgal_garden_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#liberty-park-slc-hero{
+    background: url(resources/images/utah-one/salt-lake-city/liberty-park/Tracy_Aviary-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#little-cottonwood-canyon-hero{
+    background: url(resources/images/utah-one/salt-lake-city/little-cottonwood-canyon/Little_Cottonwood_Canyon_Oct_2008-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-lake-temple-hero{
+    background: url(resources/images/utah-one/salt-lake-city/salt-lake-temple/Salt_Lake_Temple_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#temple-square-hero{
+    background: url(resources/images/utah-one/salt-lake-city/temple-square/Temple_Square_SLC-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-george-hero{
+    background: url(resources/images/utah-one/st-george-ut/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #valley-gods-hero{
@@ -4532,6 +4629,111 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
 }
 #vanderbilt-mansion-hero{
     background: url(resources/images/new-york/vanderbilt-mansion/Vanderbilt_Mansion_National_Historic_Site_-_17-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Utah */
+#antelope-island-hero{
+    background: url(resources/images/utah-one/antelope-island/Salt_Lake_-_White_Rock_Bay_-_výhled_z_Buffalo_Pointu\,_Antelope_Island_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bonneville-salt-hero{
+    background: url(resources/images/utah-one/bonneville/Bonneville_Salt_Flats\,_Utah_29466702726-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cedar-breaks-hero{
+    background: url(resources/images/utah-one/cedar-breaks-national-monument/Utah\,_Cedar_Breaks_National_Monument\,_amphitheater-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dead-horse-point-hero{
+    background: url(resources/images/utah-one/dead-horse-point-state-park/Dead_Horse_Point\,_Colorado_River-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fisher-towers-hero{
+    background: url(resources/images/utah-one/fisher-tower/The_Titan-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#golden-spike-hero{
+    background: url(resources/images/utah-one/golden-spike-national-monument/A_meeting_of_the_engines_at_the_Golden_Spike_National_Historic_Site\,_Utah_angled_view-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-staircase-hero{
+    background: url(resources/images/utah-one/grand-staircase-escalante/Golden_Cathedral\,_Utah-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#paria-rimrocks-hero{
+    background: url(resources/images/utah-one/toadstool-hoodoos/Toadstool_Hoodoos_at_Grand_Staircase-Escalante_in_UT_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wahweap-hoodoos-hero{
+    background: url(resources/images/utah-one/wahweap-hoodoos/Frozen\ Cascade\ 8124819883-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#grosvenor-arch-hero{
+    background: url(resources/images/utah-one/grosvenor-arch/GrosvenorArch5539-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kanab-hero{
+    background: url(resources/images/utah-one/kanab/) center no-repeat;
+    background-size: cover;
+}
+#kings-peak-hero{
+    background: url(resources/images/utah-one/kings-peak/Kings_Peak_with_Henrys_Fork_Basin-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#moab-hero{
+    background: url(resources/images/utah-one/moab-ut/Moab_overlook_from_Arches-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#park-city-ut-hero{
+    background: url(resources/images/utah-one/park-city/Park_City_overview-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-cliffs-hero{
+    background: url(resources/images/utah-one/red-cliffs/Red_Cliffs_NCA_9422762557-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#salt-lake-city-hero{
+    background: url(resources/images/utah-one/salt-lake-city/Salt_Lake_City_-_July_16\,_2011-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#big-cottonwood-canyon-hero{
+    background: url(resources/images/utah-one/salt-lake-city/big-cottonwood-canyon/Big_Cottonwood_Canyon_9-26-21-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-madeleine-hero{
+    background: url(resources/images/utah-one/salt-lake-city/cathedral-madeleine/Cathedral_of_the_Madeline-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#city-creek-center-hero{
+    background: url(resources/images/utah-one/salt-lake-city/city-creek-center/City_Creek_Center_-_panoramio_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gilgal-sculpture-hero{
+    background: url(resources/images/utah-one/salt-lake-city/gilgal-garden/Gilgal_garden_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#liberty-park-slc-hero{
+    background: url(resources/images/utah-one/salt-lake-city/liberty-park/Tracy_Aviary-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#little-cottonwood-canyon-hero{
+    background: url(resources/images/utah-one/salt-lake-city/little-cottonwood-canyon/Little_Cottonwood_Canyon_Oct_2008-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-lake-temple-hero{
+    background: url(resources/images/utah-one/salt-lake-city/salt-lake-temple/Salt_Lake_Temple_01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#temple-square-hero{
+    background: url(resources/images/utah-one/salt-lake-city/temple-square/Temple_Square_SLC-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#this-is-the-place-hero{
+    background: url(resources/images/utah-one/salt-lake-city/this-is-the-place-heritage-park/This_Is_the_Place_Heritage_Park_\6882555632\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-george-hero{
+    background: url(resources/images/utah-one/st-george-ut/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
     background-size: cover;
 }
 }
