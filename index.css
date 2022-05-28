@@ -162,12 +162,13 @@ a.itin-menu {
 }
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
 }
 .trail-description p:first-child {
-  font-size: 16px;
+  font-size: 13px;
 }
 .trail-description h2 {
-  font-size: 20px
+  font-size: 18px
 }
 .trail-description a {
   text-align: center;
@@ -1727,9 +1728,9 @@ article a {
   .trail-description div:first-child {
     margin: 0;
   }
-  .trail-description h2 {
+/*   .trail-description h2 {
     font-size: 24px;
-}
+} */
 
   .hero {
     height: 700px;
