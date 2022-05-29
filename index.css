@@ -177,6 +177,9 @@ a.itin-menu {
   color: #4c4c4c;
   font-size: 14px;
 }
+.trail-description h4{
+  text-align: center;
+}
 .nyc-regions-title {
   font-size: 22px;
   margin: 0;
