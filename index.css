@@ -1723,7 +1723,8 @@ article a {
     margin: 10px;
   }
   .trail-description p:first-child {
-    font-size: 16px;
+    font-size: 16px!important;
+    font-weight: 600!important;
   }
   .trail-description div:first-child {
     margin: 0;

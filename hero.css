@@ -8,13 +8,55 @@
     background-size: cover;
 }
 #cheaha-hero{
-    background: url(resources/images/cheaha-mountain/cheaha-mountain-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/alabama/cheaha-state-park/cheaha-mountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#arkansas-hero{
-    background: url(resources/images/ArkansasOne/hot-springs-np/arkansas-hero-1515.jpg) no-repeat center;
+#mobile-hero{
+    background: url(resources/images/alabama/mobile/uss-alabama-battleship-park/uss-alabama-battleship-park-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#battleship-memorial-park-hero{
+    background: url(resources/images/alabama/mobile/uss-alabama-battleship-park/uss-alabama-battleship-park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bienville-square-hero{
+    background: url(resources/images/alabama/mobile/bienville-square/bienville-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-immaculate-conception-hero{
+    background: url(resources/images/alabama/mobile/cathedral-square/cathedral-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dauphin-island-hero{
+    background: url(resources/images/alabama/dauphin-island/Dauphin_Island_06May2010_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#estuarium-dauphin-hero{
+    background: url(resources/images/alabama/dauphin-island/estuarium-at-dauphin-island-sea-lab/DauphinIslandSeaLabcropped-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-gaines-hero{
+    background: url(resources/images/alabama/dauphin-island/fort-gaines/fort-gaines-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-morgan-hero{
+    background: url(resources/images/alabama/gulf-shores/fort-morgan-state-historic-site/fort-morgan-state-historic-site-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gulf-shores-hero{
+    background: url(resources/images/alabama/gulf-shores/gulf-shores-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gulf-state-park-hero{
+    background: url(resources/images/alabama/orange-beach/gulf-state-park/gulf-state-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#orange-beach-hero{
+    background: url(resources/images/alabama/orange-beach/Orange_Beach\,_Alabama-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+
+
 #tennessee-hero{
     background: url(resources/images/tenneseeOne/gsmnp/great-smoky-mountain-hero-1515.jpg) no-repeat center;
     background-size: cover;
@@ -259,110 +301,170 @@
     background: url(resources/images/arizona-one/wupatki-nm/wupatki-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* Arkansas */
+#arkansas-hero{
+    background: url(resources/images/arkansas/hot-springs-national-park/hot-springs-buckstaff-bathhouse-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#arkansas-post-hero{
+    background: url(resources/images/arkansas/arkansas-post-national-memorial/Little_Post_Bayou_P6240050-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+
 #buffalo-hero{
-    background: url(resources/images/ArkansasOne/buffaloNR/buffalo-river-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/buffalo-national-river/Buffalo_National_River\,_Harrison\,_AR-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #centerpoint-hero{
-    background: url(resources/images/ArkansasOne/buffaloNR/centerpoint/buffalo-river-centerpoint-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/arkansas/buffalo-national-river/centerpoint-trail/buffalo-river-centerpoint-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#hemmed-hollow-hero{
+    background: url(resources/images/arkansas/buffalo-national-river/hemmed-in-hollow-falls/Hemmed-in_Hollow_Falls\,_Ponca_Wilderness_4c2414cb-b07a-4704-8a86-34c5ff297211-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lost-valley-hero{
-    background: url(resources/images/ArkansasOne/buffaloNR/lostValley/lost-valley-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/buffalo-national-river/lost-valley-trail/lost-valley-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#whitaker-point-hero{
-    background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/whitaker-point-hero-1515.jpg) center no-repeat;
+#eureka-springs-hero{
+    background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blue-springs-heritage-hero{
+    background: url(resources/images/arkansas/eureka-springs/blue-springs-heritage-center/Blue_Springs_Heritage_Center-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#christ-ozarks-hero{
+    background: url(resources/images/arkansas/eureka-springs/christ-of-the-ozark/christ-of-the-ozarks-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crescent-hotel-hero{
+    background: url(resources/images/arkansas/eureka-springs/crescent-hotel/crescent-hotel-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-leatherwood-hero{
+    background: url(resources/images/arkansas/eureka-springs/lake-leatherwood-park/Lake_Leatherwood\,_Eureka_Springs\,_AR.-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#thorncrown-chapel-hero{
+    background: url(resources/images/arkansas/eureka-springs/thorncrown-chapel/09-02-06-ThorncrownChapel1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ft-smith-nhs-hero{
+    background: url(resources/images/arkansas/fort-smith-national-historic-site/Barracks_of_Fort_Smith-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #glory-hole-hero{
-    background: url(resources/images/ArkansasOne/glory-hole-trail/glory-hole-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/glory-hole-trail/glory-hole-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hot-springs-hero{
-    background: url(resources/images/ArkansasOne/hot-springs-np/hot-springs-buckstaff-bathhouse-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/hot-springs-national-park/hot-springs-buckstaff-bathhouse-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #garvan-hero{
-    background: url(resources/images/ArkansasOne/garvan/garvan-gardens-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/garvan-gardens/garvan-gardens-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #little-rock-hero{
-    background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/big-dam-bridge/big-dam-bridge-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #big-dam-bridge-hero{
-    background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/big-dam-bridge/big-dam-bridge-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #central-high-hero{
-    background: url(resources/images/ArkansasOne/littleRock/central-high/central-high-school-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/little-rock-central-high-school-national-historic-site/central-high-school-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #old-mill-hero{
-    background: url(resources/images/ArkansasOne/littleRock/oldMill/old-mill-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/old-mill/old-mill-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#pinnacle-mountain-hero{
-    background: url(resources/images/ArkansasOne/littleRock/pinnacleMtn/pinnacle-mountain-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
+
 #river-market-hero{
-    background: url(resources/images/ArkansasOne/littleRock/riverMarket/river-market-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/river-market/river-market-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #riverfront-park-hero{
-    background: url(resources/images/ArkansasOne/littleRock/riverfrontPark/riverfront-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/riverfront-park/riverfront-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bill-clinton-library-hero{
-    background: url(resources/images/ArkansasOne/littleRock/clintonLibrary/clinton-library-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/william-j-clinton-library-and-museum/clinton-library-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#toltec-hero{
-    background: url(resources/images/ArkansasOne/toltec/toltec-mounds-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
+
 #two-rivers-hero{
-    background: url(resources/images/ArkansasOne/littleRock/two-rivers/two-rivers-bridge-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/two-rivers-park/two-rivers-bridge-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #willastein-hero{
-    background: url(resources/images/ArkansasOne/littleRock/willastein/lake-willastein-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/little-rock/lake-willastein-park/lake-willastein-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mt-magazine-hero{
-    background: url(resources/images/ArkansasOne/mt-magazine/mt-magazione-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/mount-magazine-state-park/mt-magazione-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nebo-hero{
-    background: url(resources/images/ArkansasOne/nebo/mt-nebo-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/mount-nebo-state-park/mt-nebo-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #petit-jean-hero{
-    background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/cedarCreek/petit-jean-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bear-cave-hero{
-    background: url(resources/images/ArkansasOne/petitJean/bearCave/petit-jeanbear-cave-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/bearCave/petit-jeanbear-cave-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cedar-creek-hero{
-    background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-cedar-creek-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/cedarCreek/petit-jean-cedar-creek-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cedar-falls-hero{
-    background: url(resources/images/ArkansasOne/petitJean/petit-jean-cedar-falls-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/petit-jean-cedar-falls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #seven-hollows-hero{
-    background: url(resources/images/ArkansasOne/petitJean/sevenHollows/petit-jean-seven-hollows-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/sevenHollows/petit-jean-seven-hollows-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pea-ridge-nmp-hero{
+    background: url(resources/images/arkansas/pea-ridge-national-military-park/Pea_Ridge_6-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pinnacle-mountain-hero{
+    background: url(resources/images/arkansas/pinnacle-mountain-state-park/pinnacle-mountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #plantation-agricultural-hero{
-    background: url(resources/images/ArkansasOne/plantation-museum/plantation-museum-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/plantation-agriculture-museum/plantation-museum-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#queen-wilhelmina-hero{
+    background: url(resources/images/arkansas/queen-wilhelmina-state-park/queen-wilhelmina-sp-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#talimena-scenic-hero{
+    background: url(resources/images/arkansas/talimena-scenic-drive/talimena-scenic-drive-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#toltec-hero{
+    background: url(resources/images/arkansas/toltec-mounds-state-park/toltec-mounds-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#whitaker-point-hero{
+    background: url(resources/images/arkansas/whitaker-point/buffalo-river-whitaker-point-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* California */
+
 #california-missions-hero {
     background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2462,10 +2564,56 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-3030.jpg) no-repeat center;
         background-size: cover;
     }
+/* Alabama */
     #cheaha-hero{
-        background: url(resources/images/cheaha-mountain/cheaha-mountain-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/alabama/cheaha-state-park/cheaha-mountain-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #mobile-hero{
+        background: url(resources/images/alabama/mobile/uss-alabama-battleship-park/uss-alabama-battleship-park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #battleship-memorial-park-hero{
+        background: url(resources/images/alabama/mobile/uss-alabama-battleship-park/uss-alabama-battleship-park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bienville-square-hero{
+        background: url(resources/images/alabama/mobile/bienville-square/bienville-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cathedral-immaculate-conception-hero{
+        background: url(resources/images/alabama/mobile/cathedral-square/cathedral-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #dauphin-island-hero{
+        background: url(resources/images/alabama/dauphin-island/Dauphin_Island_06May2010_01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #estuarium-dauphin-hero{
+        background: url(resources/images/alabama/dauphin-island/estuarium-at-dauphin-island-sea-lab/DauphinIslandSeaLabcropped-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-gaines-hero{
+        background: url(resources/images/alabama/dauphin-island/fort-gaines/fort-gaines-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-morgan-hero{
+        background: url(resources/images/alabama/gulf-shores/fort-morgan-state-historic-site/fort-morgan-state-historic-site-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gulf-shores-hero{
+        background: url(resources/images/alabama/gulf-shores/gulf-shores-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gulf-state-park-hero{
+        background: url(resources/images/alabama/orange-beach/gulf-state-park/gulf-state-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #orange-beach-hero{
+        background: url(resources/images/alabama/orange-beach/Orange_Beach\,_Alabama-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+
     #apache-hero{
         background: url(resources/images/arizona-one/Apache-Trail/apache-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -2711,112 +2859,164 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background: url(resources/images/arizona-one/phoenix-one/white-tank/white-tank-mountains-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    /* Arkansas */
     #arkansas-hero{
-        background: url(resources/images/ArkansasOne/hot-springs-np/arkansas-hero-3030.jpg) no-repeat center;
+        background: url(resources/images/arkansas/hot-springs-national-park/hot-springs-buckstaff-bathhouse-hero-3030.jpg) no-repeat center;
         background-size: cover;
     }
+    #arkansas-post-hero{
+        background: url(resources/images/arkansas/arkansas-post-national-memorial/Little_Post_Bayou_P6240050-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    
     #buffalo-hero{
-        background: url(resources/images/ArkansasOne/buffaloNR/buffalo-river-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/buffalo-national-river/Buffalo_National_River\,_Harrison\,_AR-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #centerpoint-hero{
-        background: url(resources/images/ArkansasOne/buffaloNR/centerpoint/buffalo-river-centerpoint-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/arkansas/buffalo-national-river/centerpoint-trail/buffalo-river-centerpoint-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hemmed-hollow-hero{
+        background: url(resources/images/arkansas/buffalo-national-river/hemmed-in-hollow-falls/Hemmed-in_Hollow_Falls\,_Ponca_Wilderness_4c2414cb-b07a-4704-8a86-34c5ff297211-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lost-valley-hero{
-        background: url(resources/images/ArkansasOne/buffaloNR/lostValley/lost-valley-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/buffalo-national-river/lost-valley-trail/lost-valley-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #whitaker-point-hero{
-        background: url(resources/images/ArkansasOne/buffaloNR/whitaker-point/whitaker-point-hero-3030.jpg) center no-repeat;
+    #eureka-springs-hero{
+        background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #blue-springs-heritage-hero{
+        background: url(resources/images/arkansas/eureka-springs/blue-springs-heritage-center/Blue_Springs_Heritage_Center-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #christ-ozarks-hero{
+        background: url(resources/images/arkansas/eureka-springs/christ-of-the-ozark/christ-of-the-ozarks-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #crescent-hotel-hero{
+        background: url(resources/images/arkansas/eureka-springs/crescent-hotel/crescent-hotel-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lake-leatherwood-hero{
+        background: url(resources/images/arkansas/eureka-springs/lake-leatherwood-park/Lake_Leatherwood\,_Eureka_Springs\,_AR.-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #thorncrown-chapel-hero{
+        background: url(resources/images/arkansas/eureka-springs/thorncrown-chapel/09-02-06-ThorncrownChapel1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ft-smith-nhs-hero{
+        background: url(resources/images/arkansas/fort-smith-national-historic-site/Barracks_of_Fort_Smith-1515.jpg) center no-repeat;
         background-size: cover;
     }
     #glory-hole-hero{
-        background: url(resources/images/ArkansasOne/glory-hole-trail/glory-hole-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/glory-hole-trail/glory-hole-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hot-springs-hero{
-        background: url(resources/images/ArkansasOne/hot-springs-np/hot-springs-buckstaff-bathhouse-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/hot-springs-national-park/hot-springs-buckstaff-bathhouse-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #garvan-hero{
-        background: url(resources/images/ArkansasOne/garvan/garvan-gardens-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/garvan-gardens/garvan-gardens-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #little-rock-hero{
-        background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/big-dam-bridge/big-dam-bridge-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #big-dam-bridge-hero{
-        background: url(resources/images/ArkansasOne/littleRock/bigDam/big-dam-bridge-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/big-dam-bridge/big-dam-bridge-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #central-high-hero{
-        background: url(resources/images/ArkansasOne/littleRock/central-high/central-high-school-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/little-rock-central-high-school-national-historic-site/central-high-school-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #old-mill-hero{
-        background: url(resources/images/ArkansasOne/littleRock/oldMill/old-mill-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/old-mill/old-mill-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #pinnacle-mountain-hero{
-        background: url(resources/images/ArkansasOne/littleRock/pinnacleMtn/pinnacle-mountain-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+    
     #river-market-hero{
-        background: url(resources/images/ArkansasOne/littleRock/riverMarket/river-market-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/river-market/river-market-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #riverfront-park-hero{
-        background: url(resources/images/ArkansasOne/littleRock/riverfrontPark/riverfront-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/riverfront-park/riverfront-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bill-clinton-library-hero{
-        background: url(resources/images/ArkansasOne/littleRock/clintonLibrary/clinton-library-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/william-j-clinton-library-and-museum/clinton-library-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #toltec-hero{
-        background: url(resources/images/ArkansasOne/toltec/toltec-mounds-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+    
     #two-rivers-hero{
-        background: url(resources/images/ArkansasOne/littleRock/two-rivers/two-rivers-bridge-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/two-rivers-park/two-rivers-bridge-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #willastein-hero{
-        background: url(resources/images/ArkansasOne/littleRock/willastein/lake-willastein-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/little-rock/lake-willastein-park/lake-willastein-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mt-magazine-hero{
-        background: url(resources/images/ArkansasOne/mt-magazine/mt-magazione-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/mount-magazine-state-park/mt-magazione-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #nebo-hero{
-        background: url(resources/images/ArkansasOne/nebo/mt-nebo-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/mount-nebo-state-park/mt-nebo-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #petit-jean-hero{
-        background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/cedarCreek/petit-jean-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bear-cave-hero{
-        background: url(resources/images/ArkansasOne/petitJean/bearCave/petit-jeanbear-cave-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/bearCave/petit-jeanbear-cave-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cedar-creek-hero{
-        background: url(resources/images/ArkansasOne/petitJean/cedarCreek/petit-jean-cedar-creek-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/cedarCreek/petit-jean-cedar-creek-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cedar-falls-hero{
-        background: url(resources/images/ArkansasOne/petitJean/petit-jean-cedar-falls-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/petit-jean-cedar-falls-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #seven-hollows-hero{
-        background: url(resources/images/ArkansasOne/petitJean/sevenHollows/petit-jean-seven-hollows-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/sevenHollows/petit-jean-seven-hollows-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pea-ridge-nmp-hero{
+        background: url(resources/images/arkansas/pea-ridge-national-military-park/Pea_Ridge_6-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pinnacle-mountain-hero{
+        background: url(resources/images/arkansas/pinnacle-mountain-state-park/pinnacle-mountain-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #plantation-agricultural-hero{
-        background: url(resources/images/ArkansasOne/plantation-museum/plantation-museum-hero3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/plantation-agriculture-museum/plantation-museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #queen-wilhelmina-hero{
+        background: url(resources/images/arkansas/queen-wilhelmina-state-park/queen-wilhelmina-sp-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #talimena-scenic-hero{
+        background: url(resources/images/arkansas/talimena-scenic-drive/talimena-scenic-drive-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #toltec-hero{
+        background: url(resources/images/arkansas/toltec-mounds-state-park/toltec-mounds-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #whitaker-point-hero{
+        background: url(resources/images/arkansas/whitaker-point/buffalo-river-whitaker-point-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #california-missions-hero {
