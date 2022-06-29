@@ -393,6 +393,10 @@
     background: url(resources/images/arkansas/little-rock/riverfront-park/riverfront-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#rock-creek-trail-hero{
+    background: url(resources/images/arkansas/little-rock/rock-creek-trail/rock-creek-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #bill-clinton-library-hero{
     background: url(resources/images/arkansas/little-rock/william-j-clinton-library-and-museum/clinton-library-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -419,11 +423,11 @@
     background-size: cover;
 }
 #bear-cave-hero{
-    background: url(resources/images/arkansas/petit-jean-state-park/bearCave/petit-jeanbear-cave-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/bear-cave-trail/petit-jeanbear-cave-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cedar-creek-hero{
-    background: url(resources/images/arkansas/petit-jean-state-park/cedarCreek/petit-jean-cedar-creek-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/cedar-creek-trail/petit-jean-cedar-creek-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cedar-falls-hero{
@@ -431,7 +435,7 @@
     background-size: cover;
 }
 #seven-hollows-hero{
-    background: url(resources/images/arkansas/petit-jean-state-park/sevenHollows/petit-jean-seven-hollows-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/seven-hollows-trail/petit-jean-seven-hollows-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #pea-ridge-nmp-hero{
@@ -2950,6 +2954,10 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background: url(resources/images/arkansas/little-rock/riverfront-park/riverfront-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #rock-creek-trail-hero{
+        background: url(resources/images/arkansas/little-rock/rock-creek-trail/rock-creek-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #bill-clinton-library-hero{
         background: url(resources/images/arkansas/little-rock/william-j-clinton-library-and-museum/clinton-library-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -2976,11 +2984,11 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background-size: cover;
     }
     #bear-cave-hero{
-        background: url(resources/images/arkansas/petit-jean-state-park/bearCave/petit-jeanbear-cave-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/bear-cave-trail/petit-jeanbear-cave-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cedar-creek-hero{
-        background: url(resources/images/arkansas/petit-jean-state-park/cedarCreek/petit-jean-cedar-creek-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/cedar-creek-trail/petit-jean-cedar-creek-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cedar-falls-hero{
@@ -2988,7 +2996,7 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background-size: cover;
     }
     #seven-hollows-hero{
-        background: url(resources/images/arkansas/petit-jean-state-park/sevenHollows/petit-jean-seven-hollows-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/petit-jean-state-park/seven-hollows-trail/petit-jean-seven-hollows-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #pea-ridge-nmp-hero{
