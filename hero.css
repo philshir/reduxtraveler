@@ -328,6 +328,10 @@
     background: url(resources/images/arkansas/buffalo-national-river/lost-valley-trail/lost-valley-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#crater-diamonds-hero{
+    background: url(resources/images/arkansas/crater-of-diamonds-state-park/Crater_of_Diamonds_State_Park_pano-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #eureka-springs-hero{
     background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-1515.jpg) center no-repeat;
     background-size: cover;
@@ -411,7 +415,7 @@
     background-size: cover;
 }
 #mt-magazine-hero{
-    background: url(resources/images/arkansas/mount-magazine-state-park/mt-magazione-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/mount-magazine-state-park/mt-magazine-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nebo-hero{
@@ -459,11 +463,11 @@
     background-size: cover;
 }
 #toltec-hero{
-    background: url(resources/images/arkansas/toltec-mounds-state-park/toltec-mounds-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/toltec-mounds-archeological-state-park/toltec-mounds-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #whitaker-point-hero{
-    background: url(resources/images/arkansas/whitaker-point/buffalo-river-whitaker-point-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/whitaker-point/whitaker-point-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -2889,6 +2893,10 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background: url(resources/images/arkansas/buffalo-national-river/lost-valley-trail/lost-valley-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #crater-diamonds-hero{
+        background: url(resources/images/arkansas/crater-of-diamonds-state-park/Crater_of_Diamonds_State_Park_pano-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
     #eureka-springs-hero{
         background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-3030.jpg) center no-repeat;
         background-size: cover;
@@ -2972,7 +2980,7 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background-size: cover;
     }
     #mt-magazine-hero{
-        background: url(resources/images/arkansas/mount-magazine-state-park/mt-magazione-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/mount-magazine-state-park/mt-magazine-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #nebo-hero{
@@ -3020,11 +3028,11 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background-size: cover;
     }
     #toltec-hero{
-        background: url(resources/images/arkansas/toltec-mounds-state-park/toltec-mounds-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/toltec-mounds-archeological-state-park/toltec-mounds-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #whitaker-point-hero{
-        background: url(resources/images/arkansas/whitaker-point/buffalo-river-whitaker-point-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/whitaker-point/whitaker-point-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #california-missions-hero {
