@@ -7,6 +7,7 @@
     background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-1515.jpg) no-repeat center;
     background-size: cover;
 }
+/* Alabama */
 #cheaha-hero{
     background: url(resources/images/alabama/cheaha-state-park/cheaha-mountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -56,11 +57,363 @@
     background-size: cover;
 }
 
-
-#tennessee-hero{
-    background: url(resources/images/tenneseeOne/gsmnp/great-smoky-mountain-hero-1515.jpg) no-repeat center;
+/* Alaska 
+Alaska Peninsula and Aleutian Islands*/
+#katmai-np-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-np/Katmai_Crater_1980-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* #brooks-camp-hero{
+
+}
+#brooks-falls-hero{
+
+}
+#hallo-bay-hero{
+
+}
+#king-salmon-hero{
+
+}
+#naknek-lake-hero{
+
+}
+#valley-ten-thousand-hero{
+
+} */
+#kodiak-island-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kodiak-ak-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#alaska-maritime-nwr-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/alaska-maritime-national-wildlife-refuge/Caribou_Herd_and_Isanotski_Peak-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#aleutian-islands-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/aleutian-islands/Cape_Promontory_Cape_Lutkes\,_Alaska._Cape_Lutkes_is_part_of_the_Aleutian_Islands-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#attu-island-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/attu-island/Attu_island_o_Donnell_valley-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #church-holy-ascension-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/unalaska-ak/) center no-repeat;
+    background-size: cover;
+} */
+#lake-clark-np-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/lake-clark-np/Chakachamna_Lake_near_Lake_Clark\,_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcneil-river-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/mcneil-river-state-game-sanctuary-and-refuge/Brown_bear_and_Chum_salmon-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#unalaska-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/unalaska-ak/Unalaska_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Anchorage and Matanuska Susitna Valley */
+/* #alaska-native-heritage-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/) center no-repeat;
+    background-size: cover;
+} */
+#alaska-railroad-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/alaska-railroad/Alaska_Railroad_train_to_Spencer_Glacier-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chugach-sp-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/chugach-sp/Parque_estatal_Chugach\,_Alaska\,_Estados_Unidos\,_2017-08-22\,_DD_94-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hatcher-pass-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/hatcher-pass/Pioneer_from_Hatcher_Pass-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#matanuska-ak-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/matanuska-susitna/Trimble_Glacier_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#turnagain-arm-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/turnagain-arm/Turnagain_Arm_and_Kenai_Mountains_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Alaska Bush */
+#arctic-nwr-hero{
+background: url(resources/images/alaska/alaska-bush/arctic-nwr/Caribou_and_Brooks_Range\,_Arctic_NWR_5124077710-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bethel-ak-hero{
+background: url(resources/images/alaska/alaska-bush/bethel/Lime_village-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dalton-hwy-hero{
+background: url(resources/images/alaska/alaska-bush/dalton-highway/My_Public_Lands_Roadtrip-_Dalton_Highway_in_Alaska_19123573838-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dillingham-hero{
+background: url(resources/images/alaska/alaska-bush/dillingham/Dillingham_Shore_4264523877-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gates-arctic-hero{
+background: url(resources/images/alaska/alaska-bush/gates-of-the-arctic-np/Arctic_national_park_landscape-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kobuk-valley-hero{
+background: url(resources/images/alaska/alaska-bush/kobuk-valley-np/Kobuk_River_8029774281-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kotzebue-hero{
+background: url(resources/images/alaska/alaska-bush/kotzebue/Kotzebue_Waterfront_and_Whale_Skull-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nome-ak-hero{
+background: url(resources/images/alaska/alaska-bush/nome/Iditarod_finish_line-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#utqiagvik-hero{
+background: url(resources/images/alaska/alaska-bush/utqiagvik/Arctic_Shore_at_Barrow_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Interior Alaska */
+#chena-hot-hero{
+background: url(resources/images/alaska/interior-ak/chena-hot-springs/Rock_Pool_at_Chena_Hot_Springs-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#denali-hwy-hero{
+background: url(resources/images/alaska/interior-ak/denali-highway/Denali_Highway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#denali-np-hero{
+background: url(resources/images/alaska/interior-ak/denali-np/Every_Road-_Denali_7945497984-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#denali-hero{
+background: url(resources/images/alaska/interior-ak/denali-np/denali/Mount_McKinley_and_Denali_National_Park_Road_2048px-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#elliot-hwy-hero{
+background: url(resources/images/alaska/interior-ak/elliott-highway/Elliott_Highway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fairbanks-hero{
+background: url(resources/images/alaska/interior-ak/fairbanks/Aerial_view_of_Fairbanks_Alaska_skyline_Quintin_Soloviev-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #hurricane-turn-hero{
+background: url(resources/images/alaska/interior-ak/) center no-repeat;
+    background-size: cover;
+} 
+#kantishna-hero{
+background: url(resources/images/alaska/interior-ak) center no-repeat;
+    background-size: cover;
+}
+#murie-science-hero{
+background: url(resources/images/alaska/interior-ak) center no-repeat;
+    background-size: cover;
+}*/
+#nenana-river-hero{
+background: url(resources/images/alaska/interior-ak/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nenana-ak-hero{
+background: url(resources/images/alaska/interior-ak/nenana/Nenana_Alaska-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#parks-highway-hero{
+background: url(resources/images/alaska/interior-ak/parks-highway/Hurricane_Gulch\,_Parks_Highway\,_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#steese-hwy-hero{
+background: url(resources/images/alaska/interior-ak/steese-highway/Steese_NCA-Birch_Ck_print-96_23480267490-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #talkeetna-roadhouse-hero{
+background: url(resources/images/alaska/interior-ak/talkeetna/) center no-repeat;
+    background-size: cover;
+} */
+#talkeetna-hero{
+background: url(resources/images/alaska/interior-ak/talkeetna/Northern_lights_in_Talkeetna\,_Alaska_33576487241-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #teklanika-river-hero{
+background: url(resources/images/alaska/interior-ak/) center no-repeat;
+    background-size: cover;
+}
+#tolkat-river-hero{
+background: url(resources/images/alaska/interior-ak) center no-repeat;
+    background-size: cover;
+} */
+/* Kenai Peninsula */
+#kenai-peninsula-hero{
+background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_the_Kenai_Peninsula-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #caines-head-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+    background-size: cover;
+} */
+#exit-glacier-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/exit-glacier/Exit_Glacier_Jul09-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #fort-mcgilvray-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+} */
+#harding-icefield-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/harding-icefield/Harding_Icefield-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#homer-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/homer/Homer_Alaska_Spit_Panorama-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kachemak-hero{
+background: url(resources/images/alaska/kenai-peninsula/kachemak-bay/Kachemak_Bay_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kenai-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-ak/Holy_Assumption_of_the_Virgen_Mary_Churchl_-_Kenai\,_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kenai-np-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/Harding_Icefield_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #mount-marathon-hero{
+background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+    background-size: cover;
+} 
+#resurrection-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+}
+#seward-hwy-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+}*/
+#seward-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/seward/Seward_harbor-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #van-gilder-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+} */
+/* Prince William Sound and Surrounding Areas */
+#prince-wiliiam-sound-hero{
+background: url(resources/images/alaska/prince-william-sound/Prince_William_Sound\,_Alaska_LCCN2010630257.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #copper-river-hero{
+background: url(resources/images/alaska/prince-william-sound/) center no-repeat;
+    background-size: cover;
+} */
+#cordova-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/cordova/Cordova_Alaska_aerial-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kennecott-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/kennecott/Kennecott_Hospital-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #mccarthy-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/) center no-repeat;
+    background-size: cover;
+} */
+#richardson-hwy-hero{
+background: url(resources/images/alaska/prince-william-sound/richardson-highway/Richardson_Highway_ENBLA04-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#valdez-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/valdez/Valdez\,_Alaska_Harbor_Panorama-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wrangell-st-elais-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/Wrangell_St_Elias_National_Park\,_McCarthy_Road\,_Chitina\,_Alaska\,_USA_28_June_2009-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Southeast Alaska */
+#se-alaska-hero{
+    background: url(resources/images/alaska/southeast-ak/Downtown_Juneau_and_Douglas_Island-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#admiralty-hero{
+    background: url(resources/images/alaska/southeast-ak/admiralty-island/Admiralty_Island_6994341869-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#alaska-marine-hero{
+background: url(resources/images/alaska/southeast-ak/alaska-maritime-highway/Malaspina_At_Skagway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #alaska-state-hero{
+background: url(resources/images/alaska/southeast-ak/juneau/) center no-repeat;
+    background-size: cover;
+} */
+#glacier-bay-hero{
+background: url(resources/images/alaska/southeast-ak/glacier-bay-national-park-and-preserve/Marjorie_Glacier\,_Glacier_Bay_National_Park_&_Preserve_6808651843-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#haines-ak-hero{
+background: url(resources/images/alaska/southeast-ak/haines/Haines_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#inside-passage-hero{
+background: url(resources/images/alaska/southeast-ak/inside-passage/Inside_Passage_Jpg_212361921-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#juneau-hero{
+background: url(resources/images/alaska/southeast-ak/juneau/Downtown_Juneau_with_Mount_Juneau_rising_in_the_background-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ketchikan-hero{
+background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_June_2009-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#klondike-nhp-hero{
+background: url(resources/images/alaska/southeast-ak/klondike-nhp/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_29-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #mendenhall-hero{
+background: url(resources/images/alaska/southeast-ak/) center no-repeat;
+    background-size: cover;
+} */
+#misty-fjords-hero{
+background: url(resources/images/alaska/southeast-ak/misty-fjords-national-monument/One_of_the_many_ocean_inlets_in_Misty_Fjords_National_Monument-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#petersburg-ak-hero{
+background: url(resources/images/alaska/southeast-ak/petersburg/Petersburg_Alaska_Wikingerschiff_Valhalla-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sitka-hero{
+background: url(resources/images/alaska/southeast-ak/sitka/Sitka_84_Elev_135-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-pass-hero{
+background: url(resources/images/alaska/southeast-ak/white-pass-yukon/Skagway-Hoonah-Angoon_Census_Area\,_In_to_the_Tunnel-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#skagway-hero{
+background: url(resources/images/alaska/southeast-ak/skagway/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_41-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #sons-norway-hero{
+background: url(resources/images/alaska/southeast-ak) center no-repeat;
+    background-size: cover;
+} */
+#wrangell-ak-hero{
+background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+
+/* Arizona */
 #meteor-hero{
     background: url(resources/images/arizona-one/meteorCrater/meteor-crater--hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1894,6 +2247,12 @@
     background: url(resources/images/southDakota/sd-wind-cave/wind-cave-sd-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* Tennessee */
+#tennessee-hero{
+    background: url(resources/images/tenneseeOne/gsmnp/great-smoky-mountain-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
 #gsmnp-hero{
     background: url(resources/images/tenneseeOne/gsmnp/great-smoky-mountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2622,6 +2981,362 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background-size: cover;
     }
 
+    /* Alaska 
+Alaska Peninsula and Aleutian Islands*/
+#katmai-np-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-np/Katmai_Crater_1980-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #brooks-camp-hero{
+
+}
+#brooks-falls-hero{
+
+}
+#hallo-bay-hero{
+
+}
+#king-salmon-hero{
+
+}
+#naknek-lake-hero{
+
+}
+#valley-ten-thousand-hero{
+
+} */
+#kodiak-island-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kodiak-ak-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#alaska-maritime-nwr-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/alaska-maritime-national-wildlife-refuge/Caribou_Herd_and_Isanotski_Peak-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#aleutian-islands-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/aleutian-islands/Cape_Promontory_Cape_Lutkes\,_Alaska._Cape_Lutkes_is_part_of_the_Aleutian_Islands-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#attu-island-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/attu-island/Attu_island_o_Donnell_valley-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #church-holy-ascension-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/unalaska-ak/) center no-repeat;
+    background-size: cover;
+} */
+#lake-clark-np-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/lake-clark-np/Chakachamna_Lake_near_Lake_Clark\,_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcneil-river-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/mcneil-river-state-game-sanctuary-and-refuge/Brown_bear_and_Chum_salmon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#unalaska-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/unalaska-ak/Unalaska_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Anchorage and Matanuska Susitna Valley */
+/* #alaska-native-heritage-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/) center no-repeat;
+    background-size: cover;
+} */
+#alaska-railroad-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/alaska-railroad/Alaska_Railroad_train_to_Spencer_Glacier-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chugach-sp-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/chugach-sp/Parque_estatal_Chugach\,_Alaska\,_Estados_Unidos\,_2017-08-22\,_DD_94-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hatcher-pass-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/hatcher-pass/Pioneer_from_Hatcher_Pass-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#matanuska-ak-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/matanuska-susitna/Trimble_Glacier_3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#turnagain-arm-hero{
+background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/turnagain-arm/Turnagain_Arm_and_Kenai_Mountains_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Alaska Bush */
+#arctic-nwr-hero{
+background: url(resources/images/alaska/alaska-bush/arctic-nwr/Caribou_and_Brooks_Range\,_Arctic_NWR_5124077710-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bethel-ak-hero{
+background: url(resources/images/alaska/alaska-bush/bethel/Lime_village-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dalton-hwy-hero{
+background: url(resources/images/alaska/alaska-bush/dalton-highway/My_Public_Lands_Roadtrip-_Dalton_Highway_in_Alaska_19123573838-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dillingham-hero{
+background: url(resources/images/alaska/alaska-bush/dillingham/Dillingham_Shore_4264523877-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gates-arctic-hero{
+background: url(resources/images/alaska/alaska-bush/gates-of-the-arctic-np/Arctic_national_park_landscape-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kobuk-valley-hero{
+background: url(resources/images/alaska/alaska-bush/kobuk-valley-np/Kobuk_River_8029774281-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kotzebue-hero{
+background: url(resources/images/alaska/alaska-bush/kotzebue/Kotzebue_Waterfront_and_Whale_Skull-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nome-ak-hero{
+background: url(resources/images/alaska/alaska-bush/nome/Iditarod_finish_line-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#utqiagvik-hero{
+background: url(resources/images/alaska/alaska-bush/utqiagvik/Arctic_Shore_at_Barrow_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Interior Alaska */
+#chena-hot-hero{
+background: url(resources/images/alaska/interior-ak/chena-hot-springs/Rock_Pool_at_Chena_Hot_Springs-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#denali-hwy-hero{
+background: url(resources/images/alaska/interior-ak/denali-highway/Denali_Highway-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#denali-np-hero{
+background: url(resources/images/alaska/interior-ak/denali-np/Every_Road-_Denali_7945497984-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#denali-hero{
+background: url(resources/images/alaska/interior-ak/denali-np/denali/Mount_McKinley_and_Denali_National_Park_Road_2048px-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#elliot-hwy-hero{
+background: url(resources/images/alaska/interior-ak/elliott-highway/Elliott_Highway-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fairbanks-hero{
+background: url(resources/images/alaska/interior-ak/fairbanks/Aerial_view_of_Fairbanks_Alaska_skyline_Quintin_Soloviev-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #hurricane-turn-hero{
+background: url(resources/images/alaska/interior-ak/) center no-repeat;
+    background-size: cover;
+} 
+#kantishna-hero{
+background: url(resources/images/alaska/interior-ak) center no-repeat;
+    background-size: cover;
+}
+#murie-science-hero{
+background: url(resources/images/alaska/interior-ak) center no-repeat;
+    background-size: cover;
+}*/
+#nenana-river-hero{
+background: url(resources/images/alaska/interior-ak/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nenana-ak-hero{
+background: url(resources/images/alaska/interior-ak/nenana/Nenana_Alaska-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#parks-highway-hero{
+background: url(resources/images/alaska/interior-ak/parks-highway/Hurricane_Gulch\,_Parks_Highway\,_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#steese-hwy-hero{
+background: url(resources/images/alaska/interior-ak/steese-highway/Steese_NCA-Birch_Ck_print-96_23480267490-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #talkeetna-roadhouse-hero{
+background: url(resources/images/alaska/interior-ak/talkeetna/) center no-repeat;
+    background-size: cover;
+} */
+#talkeetna-hero{
+background: url(resources/images/alaska/interior-ak/talkeetna/Northern_lights_in_Talkeetna\,_Alaska_33576487241-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #teklanika-river-hero{
+background: url(resources/images/alaska/interior-ak/) center no-repeat;
+    background-size: cover;
+}
+#tolkat-river-hero{
+background: url(resources/images/alaska/interior-ak) center no-repeat;
+    background-size: cover;
+} */
+/* Kenai Peninsula */
+#kenai-peninsula-hero{
+background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_the_Kenai_Peninsula-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #caines-head-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+    background-size: cover;
+} */
+#exit-glacier-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/exit-glacier/Exit_Glacier_Jul09-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #fort-mcgilvray-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+} */
+#harding-icefield-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/harding-icefield/Harding_Icefield-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#homer-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/homer/Homer_Alaska_Spit_Panorama-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kachemak-hero{
+background: url(resources/images/alaska/kenai-peninsula/kachemak-bay/Kachemak_Bay_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kenai-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-ak/Holy_Assumption_of_the_Virgen_Mary_Churchl_-_Kenai\,_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kenai-np-hero{
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/Harding_Icefield_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #mount-marathon-hero{
+background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+    background-size: cover;
+} 
+#resurrection-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+}
+#seward-hwy-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+}*/
+#seward-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/seward/Seward_harbor-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #van-gilder-hero{
+background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+    background-size: cover;
+} */
+/* Prince William Sound and Surrounding Areas */
+#prince-wiliiam-sound-hero{
+background: url(resources/images/alaska/prince-william-sound/Prince_William_Sound\,_Alaska_LCCN2010630257.tif-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #copper-river-hero{
+background: url(resources/images/alaska/prince-william-sound/) center no-repeat;
+    background-size: cover;
+} */
+#cordova-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/cordova/Cordova_Alaska_aerial-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kennecott-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/kennecott/Kennecott_Hospital-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #mccarthy-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/) center no-repeat;
+    background-size: cover;
+} */
+#richardson-hwy-hero{
+background: url(resources/images/alaska/prince-william-sound/richardson-highway/Richardson_Highway_ENBLA04-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#valdez-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/valdez/Valdez\,_Alaska_Harbor_Panorama-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wrangell-st-elais-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/Wrangell_St_Elias_National_Park\,_McCarthy_Road\,_Chitina\,_Alaska\,_USA_28_June_2009-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Southeast Alaska */
+#se-alaska-hero{
+    background: url(resources/images/alaska/southeast-ak/Downtown_Juneau_and_Douglas_Island-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#admiralty-hero{
+    background: url(resources/images/alaska/southeast-ak/admiralty-island/Admiralty_Island_6994341869-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#alaska-marine-hero{
+background: url(resources/images/alaska/southeast-ak/alaska-maritime-highway/Malaspina_At_Skagway-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #alaska-state-hero{
+background: url(resources/images/alaska/southeast-ak/juneau/) center no-repeat;
+    background-size: cover;
+} */
+#glacier-bay-hero{
+background: url(resources/images/alaska/southeast-ak/glacier-bay-national-park-and-preserve/Marjorie_Glacier\,_Glacier_Bay_National_Park_&_Preserve_6808651843-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#haines-ak-hero{
+background: url(resources/images/alaska/southeast-ak/haines/Haines_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#inside-passage-hero{
+background: url(resources/images/alaska/southeast-ak/inside-passage/Inside_Passage_Jpg_212361921-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#juneau-hero{
+background: url(resources/images/alaska/southeast-ak/juneau/Downtown_Juneau_with_Mount_Juneau_rising_in_the_background-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ketchikan-hero{
+background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_June_2009-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#klondike-nhp-hero{
+background: url(resources/images/alaska/southeast-ak/klondike-nhp/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_29-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #mendenhall-hero{
+background: url(resources/images/alaska/southeast-ak/) center no-repeat;
+    background-size: cover;
+} */
+#misty-fjords-hero{
+background: url(resources/images/alaska/southeast-ak/misty-fjords-national-monument/One_of_the_many_ocean_inlets_in_Misty_Fjords_National_Monument-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#petersburg-ak-hero{
+background: url(resources/images/alaska/southeast-ak/petersburg/Petersburg_Alaska_Wikingerschiff_Valhalla-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#sitka-hero{
+background: url(resources/images/alaska/southeast-ak/sitka/Sitka_84_Elev_135-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-pass-hero{
+background: url(resources/images/alaska/southeast-ak/white-pass-yukon/Skagway-Hoonah-Angoon_Census_Area\,_In_to_the_Tunnel-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#skagway-hero{
+background: url(resources/images/alaska/southeast-ak/skagway/Centro_historico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_41-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #sons-norway-hero{
+background: url(resources/images/alaska/southeast-ak) center no-repeat;
+    background-size: cover;
+} */
+#wrangell-ak-hero{
+background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+    /* Arizona */
     #apache-hero{
         background: url(resources/images/arizona-one/Apache-Trail/apache-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -3035,6 +3750,8 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background: url(resources/images/arkansas/whitaker-point/whitaker-point-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+    /* California */
     #california-missions-hero {
         background: url(resources/images/californiaOne/california-missions/mission-san-luis-rey/california-missions-hero-3030.jpg) center no-repeat;
         background-size: cover;
