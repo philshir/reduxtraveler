@@ -4,7 +4,7 @@
     background-size: cover;
 }
 #itinerary-hero {
-    background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-1515.jpg) no-repeat center;
+    background: url(resources/images/arizona/sedona/sedona-road-hero-1515.jpg) no-repeat center;
     background-size: cover;
 }
 /* Alabama */
@@ -415,243 +415,365 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
 
 /* Arizona */
 #meteor-hero{
-    background: url(resources/images/arizona-one/meteorCrater/meteor-crater--hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/meteor-crater-natural-landmark/meteor-crater--hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #picacho-hero{
-    background: url(resources/images/arizona-one/picacho/picacho-peak-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/picacho-peak-state-park/picacho-peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #antelope-canyon-hero{
-    background: url(resources/images/arizona-one/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #arcosanti-hero{
-    background: url(resources/images/arizona-one/arcosanti/Arcosanti-Cliff_-View-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/arcosanti/Arcosanti-Cliff_-View-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #aqua-hero{
-    background: url(resources/images/arizona-one/Aqua-Fria/aqua-fria-nm-hero-1515h1136w.jpg) center no-repeat;
+    background: url(resources/images/arizona/aqua-fria-national-monument/aqua-fria-nm-hero-1515h1136w.jpg) center no-repeat;
     background-size: cover;
 } 
 #apache-hero{
-    background: url(resources/images/arizona-one/Apache-Trail/apache-trail-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/apache-trail/apache-trail-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#bisbee-hero{
+    background: url(resources/images/arizona/bisbee/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bartlett-lake-hero{
+    background: url(resources/images/arizona/phoenix/bartlett-lake/Bartlett_Lake_SW01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#heard-museum-hero{
+background: url(resources/images/arizona/phoenix/heard-museum/Heard_SW01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-pleasant-hero{
+background: url(resources/images/arizona/phoenix/lake-pleasant-regional-park/Lake_Pleasant_SW02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystery-castle-hero{
+background: url(resources/images/arizona/phoenix/mystery-castle/Phoenix-Mystery_Castle-6-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-rock-state-hero{
+background: url(resources/images/arizona/sedona/red-rock-state-park/Red_Rock_State_Park-001_8344384474-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#slide-rock-hero{
+background: url(resources/images/arizona/sedona/slide-rock-state-park/Oak_Creek_at_Slide_Rock\,_AZ_9-15_24464180395-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#catalina-state-park-hero{
+background: url(resources/images/arizona/tucson/catalina-state-park/Catalina_Arizona_State_Park_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tohono-chul-hero{
+background: url(resources/images/arizona/tucson/tohono-chul-park/Moorish_Garden\,_Desert_Living_Courtyard_at_Tohono_Chul\,_Tucson-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bird-cage-hero{
+background: url(resources/images/arizona/tombstone/Gunfight_at_the_OK_Corral_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flagstaff-hero{
+background: url(resources/images/arizona/flagstaff/_A_Road_to_Look_Forward_To__state_road_Flagstaff\,_Arizona-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#page-az-hero{
+background: url(resources/images/arizona/page/glen-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tombstone-hero{
+background: url(resources/images/arizona/tombstone/Gunfight_at_the_OK_Corral_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#boyce-thompson-hero{
+background: url(resources/images/arizona/boyce-thompson-arboretum/Flowers-_bta_-_t._stone_1024x768-1000-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kartchner-hero{
+background: url(resources/images/arizona/kartchner-caverns-state-park/Kartchner_Big_Room-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#madera-canyon-hero{
+background: url(resources/images/arizona/madera-canyon/MADERA_CANYON_AREA_-001_3682634388-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coronado-nm-hero{
+background: url(resources/images/arizona/coronado-national-monument/ApachePassAZ-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-bowie-hero{
+background: url(resources/images/arizona/fort-bowie-national-historic-site/FortBowieSiteAZ2009-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#navajo-nm-hero{
+background: url(resources/images/arizona/navajo-national-monument/Betatakin_Ruin_Navajo_National_Monument-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pipe-springs-hero{
+background: url(resources/images/arizona/pipe-spring-national-monument/Pipe_Spring_NM01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tumacacori-hero{
+background: url(resources/images/arizona/tumacacori-national-historical-park/Tumacacori_NHP_church_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tuzigoot-hero{
+background: url(resources/images/arizona/tuzigoot-national-monument/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lees-ferry-hero{
+background: url(resources/images/arizona/glen-canyon-national-recreation-area/lees-ferry/Grand_Canyon_National_Park_Lees_Ferry_Launch_Ramp_0608_6176486711-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gc-north-rim-hero{
+background: url(resources/images/arizona/grand-canyon-national-park/north-rim/Arizona\,_Grand_Canyon_National_Park\,_Grand_Canyon\,_view_from_the_North_Rim-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#north-kaibab-hero{
+background: url(resources/images/arizona/grand-canyon-national-park/north-rim/north-kaibab-trail/North_Kaibab_Trail_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hermit-trail-hero{
+background: url(resources/images/arizona/grand-canyon-national-park/south-rim/hermit-trail/Grand_Canyon_National_Park_Hermit_Trail__Red_Top__3886_7441926168-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-kaibab-hero{
+background: url(resources/images/arizona/grand-canyon-national-park/south-rim/south-kaibab/Colorado_River_view_from_South_Kaibab_Trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tuweep-hero{
+background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Grand_Canyon_Toroweap_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rincon-mtn-hero{
+background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/Saguaro_National_Park_East-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #chelly-hero{
-    background: url(resources/images/arizona-one/canyon-de-chelly/canyon-de-chelly-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/canyon-de-chelly-national-monument/canyon-de-chelly-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #horseshoe-hero{
-    background: url(resources/images/arizona-one/horseshoe/horseshoe-bend-hero-1137wPortrait.jpg) center no-repeat;
+    background: url(resources/images/arizona/glen-canyon-national-recreation-area/horseshoe-bend/horseshoe-bend-hero-1137wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #humphreys-hero{
-    background: url(resources/images/arizona-one/humphreys/humphreys-peak-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/humphreys-peak/humphreys-peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #jerome-hero{
-    background: url(resources/images/arizona-one/jerome/jerome-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/jerome/jerome-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lake-havasu-hero{
-    background: url(resources/images/arizona-one/havasu/lake-havasu-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/lake-havasu/lake-havasu-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #glen-canyon-hero{
-    background: url(resources/images/arizona-one/glen-canyon-nra/glen-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/glen-canyon-national-recreation-area/Glen_Canyon_National_Recreation_Area_-_Lake_Powell_-_Reflection_Canyon-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #montezuma-hero{
-    background: url(resources/images/arizona-one/montezuma-castle/montezuma-castle-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/montezuma-castle-national-monument/montezuma-castle-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lemmon-hero{
-    background: url(resources/images/arizona-one/lemmon/mt-lemmon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/mount-lemmon/mt-lemmon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #organ-pipe-hero{
-    background: url(resources/images/arizona-one/organ-cactus/organ-pipe-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/organ-pipe-cactus-national-monument/organ-pipe-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #black-mountain-hero{
-    background: url(resources/images/arizona-one/phoenix-one/black-mountain/black-mountain-az-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/black-mountain/black-mountain-az-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #camelback-hero{
-    background: url(resources/images/arizona-one/phoenix-one/camelback/camelback-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/camelback-mountain/camelback-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #casa-grande-hero{
-    background: url(resources/images/arizona-one/casa-grande/casa-grande-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/casa-grande-national-monument/casa-grande-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#desert-botanical-hero{
+    background: url(resources/images/arizona/phoenix/desert-botanical-garden/Desert_Botanical_Garden_Phoenix_Arizona_51-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #first-christian-hero{
-    background: url(resources/images/arizona-one/phoenix-one/first-christian/first-christian-church-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/first-christian-church/first-christian-church-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #goldfield-hero{
-    background: url(resources/images/arizona-one/phoenix-one/goldfield/goldfield-ghost-town-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/goldfield-ghost-town/goldfield-ghost-town-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hayden-hero{
-    background: url(resources/images/arizona-one/phoenix-one/hayden-butte/hayden-butte-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/hayden-butte/hayden-butte-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mcdowell-mountains-hero{
-    background: url(resources/images/arizona-one/phoenix-one/toms-thumb/mcdowell-mountains-toms-thumb-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/mcdowell-mountain-regional-park/mcdowell-mountains-toms-thumb-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #papago-hero{
-    background: url(resources/images/arizona-one/phoenix-one/papago/papago-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/papago-park/papago-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #piestewa-hero{
-    background: url(resources/images/arizona-one/phoenix-one/piestewa/piestewa-peak-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/piestewa-peak-park/piestewa-peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-tan-hero{
-    background: url(resources/images/arizona-one/phoenix-one/san-tan/san-tan-mountains-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/san-tan-mountain-regional-park/san-tan-mountains-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #south-mountain-hero{
-    background: url(resources/images/arizona-one/phoenix-one/south-mountain/south-mountain-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/south-mountain-park-and-preserve/south-mountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #spook-hero{
-    background: url(resources/images/arizona-one/phoenix-one/spook/spook-hill-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/spook-hill/spook-hill-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #superstition-hero{
-    background: url(resources/images/arizona-one/phoenix-one/superstition/superstition-mountains-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/superstition-mountains/superstition-mountains-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #usery-hero{
-    background: url(resources/images/arizona-one/phoenix-one/wind-cave/usery-mountains-wind-cave-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/wind-cave/usery-mountains-wind-cave-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #white-tank-hero{
-    background: url(resources/images/arizona-one/phoenix-one/white-tank/white-tank-mountains-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/phoenix/white-tank/white-tank-mountains-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chiricahau-hero{
-    background: url(resources/images/arizona-one/chiricahau/chiricahau-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/chiricahau-national-monument/chiricahau-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sugarloaf-hero{
-    background: url(resources/images/arizona-one/chiricahau/sugarloaf/sugarloaf-mountain-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/chiricahau-national-monument/sugarloaf/sugarloaf-mountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #gc-hero{
-    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bright-angel-hero{
-    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-bright-angel-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/grand-canyon-national-park/south-rim/bright-angel-trail/grand-canyon-bright-angel-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #gc-south-rim-hero{
-    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-south-rim-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/grand-canyon-national-park/south-rim/grand-canyon-south-rim-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #skywalk-hero{
-    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-west-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-skywalk/Grand_Canyon_Skywalk\,_AZ\,_USA_9533971923-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #havasu-hero{
-    background: url(resources/images/arizona-one/grand-canyon/grand-canyon-west-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/grand-canyon-national-park/havasu-creek/Beaver_falls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #monument-valley-hero{
-    background: url(resources/images/arizona-one/monument-valley/monument-valley-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/monument-valley/monument-valley-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wrightson-hero{
-    background: url(resources/images/arizona-one/wrightson/mt-wrightson-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/mount-wrightson/mt-wrightson-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #petrified-hero{
-    background: url(resources/images/arizona-one/petrified/petrified-forest-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/petrified-forest-national-park/petrified-forest-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sabino-hero{
-    background: url(resources/images/arizona-one/sabino/sabino-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/tucson/sabino-canyon-recreation-area/sabino-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #saguaro-hero{
-    background: url(resources/images/arizona-one/saguaro/saguaro-np-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/saguaro-national-park/saguaro-np-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cathedral-hero{
-    background: url(resources/images/arizona-one/sedona-one/cathedral/sedona-cathedral-rock-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/cathedral-rock/Cathedral_rock_sedona_arizona_3-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bell-courthouse-hero{
-    background: url(resources/images/arizona-one/sedona-one/courthouse-bell/sedona-courthouse-bell-rock-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/courthouse-butte-and-bell-rock-loop/sedona-courthouse-bell-rock-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chapel-hero{
-        background: url(resources/images/arizona-one/sedona-one/chapel-holy-cross/sedona-chapel-holy-cross-hero-1515.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/chapel-of-the-holy-cross/sedona-chapel-holy-cross-hero-1515.jpg) center no-repeat;
         background-size: cover;
 }
 #devils-bridge-hero{
-    background: url(resources/images/arizona-one/sedona-one/devils-bridge/sedona-devils-bridge-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/devils-bridge-trail/sedona-devils-bridge-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #fay-hero{
-    background: url(resources/images/arizona-one/sedona-one/fay-canyon/sedona-fay-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/fay-canyon-trail/sedona-fay-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #airport-mesa-hero{
-    background: url(resources/images/arizona-one/sedona-one/airportMesa/sedona-scenic-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/airport-mesa/sedona-scenic-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #airport-scenic-hero{
-    background: url(resources/images/arizona-one/sedona-one/airportScenicLookout/sedona-scenic-lookout-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/airport-scenic-lookout/sedona-scenic-lookout-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #west-fork-hero{
-    background: url(resources/images/arizona-one/sedona-one/west-fork/sedona-west-fork-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/west-fork-of-oak-creek/West_Fork_of_Oak_Creek\,_reflections-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sonora-museum-hero{
-    background: url(resources/images/arizona-one/sonoran-museum/sonora-museum-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/arizona-sonoran-desert-museum/sonora-museum-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #salt-river-hero{
-    background: url(resources/images/arizona-one/salt-river-canyon/salt-river-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/salt-river-canyon/salt-river-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sunset-crater-hero{
-    background: url(resources/images/arizona-one/sunset-crater/sunset-crater-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sunset-crater-national-monument/sunset-crater-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #theodore-dam-hero{
-    background: url(resources/images/arizona-one/roosevelt-dam/theodore-roosevelt-dam-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/theodore-roosevelt-lake/theodore-roosevelt-dam-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tonto-hero{
-    background: url(resources/images/arizona-one/tonto-nm/tonto-nm-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/tonto-national-monument/tonto-nm-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #vermilion-hero {
-    background: url(resources/images/arizona-one/vermilionCliffs/vermilion-cliffs-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/vermilion-cliffs-national-monument/vermilion-cliffs-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wave-az-hero {
-    background: url(resources/images/arizona-one/wave/TheWave-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/coyote-buttes/wave/TheWave-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #walnut-hero{
-    background: url(resources/images/arizona-one/walnut-canyon/walnut-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/walnut-canyon-national-monument/walnut-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #winslow-hero{
-    background: url(resources/images/arizona-one/winslow/winslow-hero-1136w.jpg) center no-repeat;
+    background: url(resources/images/arizona/winslow/winslow-hero-1136w.jpg) center no-repeat;
     background-size: cover;
 }
 #wupatki-hero{
-    background: url(resources/images/arizona-one/wupatki-nm/wupatki-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/wupatki-national-monument/wupatki-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -2928,7 +3050,7 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
 
   /* Large screen, retina, stuff to override above media query */ 
     #itinerary-hero {
-        background: url(resources/images/arizona-one/sedona-one/sedona-road-hero-3030.jpg) no-repeat center;
+        background: url(resources/images/arizona/sedona/sedona-road-hero-3030.jpg) no-repeat center;
         background-size: cover;
     }
 /* Alabama */
@@ -2988,7 +3110,8 @@ Alaska Peninsula and Aleutian Islands*/
     background-size: cover;
 }
 /* #brooks-camp-hero{
-
+background: url(resources/images/arizona/phoenix/bartlett-lake/Bartlett_Lake_SW01-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #brooks-falls-hero{
 
@@ -3338,248 +3461,373 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
 
     /* Arizona */
     #apache-hero{
-        background: url(resources/images/arizona-one/Apache-Trail/apache-trail-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/apache-trail/apache-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #bisbee-hero{
+        background: url(resources/images/arizona/bisbee/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bartlett-lake-hero{
+        background: url(resources/images/arizona/phoenix/bartlett-lake/Bartlett_Lake_SW01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #heard-museum-hero{
+    background: url(resources/images/arizona/phoenix/heard-museum/Heard_SW01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lake-pleasant-hero{
+    background: url(resources/images/arizona/phoenix/lake-pleasant-regional-park/Lake_Pleasant_SW02-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mystery-castle-hero{
+    background: url(resources/images/arizona/phoenix/mystery-castle/Phoenix-Mystery_Castle-6-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #red-rock-state-hero{
+    background: url(resources/images/arizona/sedona/red-rock-state-park/Red_Rock_State_Park-001_8344384474-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #slide-rock-hero{
+    background: url(resources/images/arizona/sedona/slide-rock-state-park/Oak_Creek_at_Slide_Rock\,_AZ_9-15_24464180395-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #catalina-state-park-hero{
+    background: url(resources/images/arizona/tucson/catalina-state-park/Catalina_Arizona_State_Park_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tohono-chul-hero{
+    background: url(resources/images/arizona/tucson/tohono-chul-park/Moorish_Garden\,_Desert_Living_Courtyard_at_Tohono_Chul\,_Tucson-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bird-cage-hero{
+    background: url(resources/images/arizona/tombstone/Gunfight_at_the_OK_Corral_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #flagstaff-hero{
+    background: url(resources/images/arizona/flagstaff/_A_Road_to_Look_Forward_To__state_road_Flagstaff\,_Arizona-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #page-az-hero{
+    background: url(resources/images/arizona/page/glen-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tombstone-hero{
+    background: url(resources/images/arizona/tombstone/Gunfight_at_the_OK_Corral_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #boyce-thompson-hero{
+    background: url(resources/images/arizona/boyce-thompson-arboretum/Flowers-_bta_-_t._stone_1024x768-1000-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kartchner-hero{
+    background: url(resources/images/arizona/kartchner-caverns-state-park/Kartchner_Big_Room-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #madera-canyon-hero{
+    background: url(resources/images/arizona/madera-canyon/MADERA_CANYON_AREA_-001_3682634388-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #coronado-nm-hero{
+    background: url(resources/images/arizona/coronado-national-monument/ApachePassAZ-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-bowie-hero{
+    background: url(resources/images/arizona/fort-bowie-national-historic-site/FortBowieSiteAZ2009-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #navajo-nm-hero{
+    background: url(resources/images/arizona/navajo-national-monument/Betatakin_Ruin_Navajo_National_Monument-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pipe-springs-hero{
+    background: url(resources/images/arizona/pipe-spring-national-monument/Pipe_Spring_NM01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tumacacori-hero{
+    background: url(resources/images/arizona/tumacacori-national-historical-park/Tumacacori_NHP_church_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tuzigoot-hero{
+    background: url(resources/images/arizona/tuzigoot-national-monument/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lees-ferry-hero{
+    background: url(resources/images/arizona/glen-canyon-national-recreation-area/lees-ferry/Grand_Canyon_National_Park_Lees_Ferry_Launch_Ramp_0608_6176486711-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gc-north-rim-hero{
+    background: url(resources/images/arizona/grand-canyon-national-park/north-rim/Arizona\,_Grand_Canyon_National_Park\,_Grand_Canyon\,_view_from_the_North_Rim-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #north-kaibab-hero{
+    background: url(resources/images/arizona/grand-canyon-national-park/north-rim/north-kaibab-trail/North_Kaibab_Trail_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hermit-trail-hero{
+    background: url(resources/images/arizona/grand-canyon-national-park/south-rim/hermit-trail/Grand_Canyon_National_Park_Hermit_Trail__Red_Top__3886_7441926168-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-kaibab-hero{
+    background: url(resources/images/arizona/grand-canyon-national-park/south-rim/south-kaibab/Colorado_River_view_from_South_Kaibab_Trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tuweep-hero{
+    background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Grand_Canyon_Toroweap_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rincon-mtn-hero{
+    background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/Saguaro_National_Park_East-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    /* #tucson-mtn-hero{
+        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/) center no-repeat;
+        background-size: cover;
+    } */
+    
     #aqua-hero{
-        background: url(resources/images/arizona-one/Aqua-Fria/agua-fria-nm-hero-3300h2475w.jpg) center no-repeat;
+        background: url(resources/images/arizona/aqua-fria-national-monument/agua-fria-nm-hero-3300h2475w.jpg) center no-repeat;
         background-size: cover;
     } 
     #chelly-hero{
-        background: url(resources/images/arizona-one/canyon-de-chelly/canyon-de-chelly-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/canyon-de-chelly-national-monument/canyon-de-chelly-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #casa-grande-hero{
-        background: url(resources/images/arizona-one/casa-grande/casa-grande-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/casa-grande-national-monument/casa-grande-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #desert-botanical-hero{
+        background: url(resources/images/arizona/phoenix/desert-botanical-garden/Desert_Botanical_Garden_Phoenix_Arizona_51-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #chiricahau-hero{
-        background: url(resources/images/arizona-one/chiricahau/chiricahau-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/chiricahau/chiricahau-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #sugarloaf-hero{
-        background: url(resources/images/arizona-one/chiricahau/sugarloaf/sugarloaf-mountain-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/chiricahau/sugarloaf/sugarloaf-mountain-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #four-corners-hero{
-        background: url(resources/images/arizona-one/four-corners/Four_Corners_Monument_-_panoramio-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/four-corners/Four_Corners_Monument_-_panoramio-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #montezuma-hero{
-        background: url(resources/images/arizona-one/montezuma-castle/montezuma-castle-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/montezuma-castle-national-monument/montezuma-castle-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #organ-pipe-hero{
-        background: url(resources/images/arizona-one/organ-cactus/organ-pipe-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/organ-pipe-cactus-national-monument/organ-pipe-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #sunset-crater-hero{
-        background: url(resources/images/arizona-one/sunset-crater/sunset-crater-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sunset-crater-national-monument/sunset-crater-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #tonto-hero{
-        background: url(resources/images/arizona-one/tonto-nm/tonto-nm-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/tonto-national-monument/tonto-nm-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #vermilion-hero {
-        background: url(resources/images/arizona-one/vermilionCliffs/vermilion-cliffs-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/vermilion-cliffs-national-monument/vermilion-cliffs-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #wave-az-hero {
-        background: url(resources/images/arizona-one/wave/TheWave-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/coyote-buttes/wave/TheWave-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #walnut-hero{
-        background: url(resources/images/arizona-one/walnut-canyon/walnut-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/walnut-canyon-national-monument/walnut-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #wupatki-hero{
-        background: url(resources/images/arizona-one/wupatki-nm/wupatki-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/wupatki-national-monument/wupatki-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #horseshoe-hero{
-        background: url(resources/images/arizona-one/horseshoe/horseshoe-bend-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/arizona/glen-canyon-national-recreation-area/horseshoe-bend/horseshoe-bend-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
     #jerome-hero{
-        background: url(resources/images/arizona-one/jerome/jerome-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/jerome/jerome-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #humphreys-hero{
-        background: url(resources/images/arizona-one/humphreys/humphreys-peak-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/humphreys-peak/humphreys-peak-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lake-havasu-hero{
-        background: url(resources/images/arizona-one/havasu/lake-havasu-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/lake-havasu/lake-havasu-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lemmon-hero{
-        background: url(resources/images/arizona-one/lemmon/mt-lemmon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/mount-lemmon/mt-lemmon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #meteor-hero{
-        background: url(resources/images/arizona-one/meteorCrater/meteor-crater--hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/meteor-crater-natural-landmark/meteor-crater--hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #wrightson-hero{
-        background: url(resources/images/arizona-one/wrightson/mt-wrightson-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/mount-wrightson/mt-wrightson-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #picacho-hero{
-        background: url(resources/images/arizona-one/picacho/picacho-peak-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/picacho-peak-state-park/picacho-peak-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #antelope-canyon-hero{
-        background: url(resources/images/arizona-one/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/antelope-canyon/Lower_Antelope_Canyon_November_2018_017-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #arcosanti-hero{
-        background: url(resources/images/arizona-one/arcosanti/Arcosanti-Cliff_-View-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/arcosanti/Arcosanti-Cliff_-View-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #theodore-dam-hero{
-        background: url(resources/images/arizona-one/roosevelt-dam/theodore-roosevelt-dam-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/theodore-roosevelt-lake/theodore-roosevelt-dam-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #sabino-hero{
-        background: url(resources/images/arizona-one/sabino/sabino-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/tucson/sabino-canyon-recreation-area/sabino-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #salt-river-hero{
-        background: url(resources/images/arizona-one/salt-river-canyon/salt-river-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/salt-river-canyon/salt-river-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #sonora-museum-hero{
-        background: url(resources/images/arizona-one/sonoran-museum/sonora-museum-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/arizona-sonoran-desert-museum/sonora-museum-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #winslow-hero{
-        background: url(resources/images/arizona-one/winslow/winslow-hero-2273w.jpg) center no-repeat;
+        background: url(resources/images/arizona/winslow/winslow-hero-2273w.jpg) center no-repeat;
         background-size: cover;
     }
     #saguaro-hero{
-        background: url(resources/images/arizona-one/saguaro/saguaro-np-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/saguaro-national-park/saguaro-np-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #petrified-hero{
-        background: url(resources/images/arizona-one/petrified/petrified-forest-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/petrified-forest-national-park/petrified-forest-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #glen-canyon-hero{
-        background: url(resources/images/arizona-one/glen-canyon-nra/glen-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/glen-canyon-national-recreation-area/Glen_Canyon_National_Recreation_Area_-_Lake_Powell_-_Reflection_Canyon-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #gc-hero{
-        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bright-angel-hero{
-        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-bright-angel-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-bright-angel-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #gc-south-rim-hero{
-        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-south-rim-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-south-rim-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #skywalk-hero{
-        background: url(resources/images/arizona-one/grand-canyon/havasu-creek/Beaver_falls-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/grand-canyon-national-park/havasu-creek/Beaver_falls-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #havasu-hero{
-        background: url(resources/images/arizona-one/grand-canyon/grand-canyon-west-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-west-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     
 #monument-valley-hero{
-    background: url(resources/images/arizona-one/monument-valley/monument-valley-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/arizona/monument-valley/monument-valley-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
     #cathedral-hero{
-        background: url(resources/images/arizona-one/sedona-one/cathedral/sedona-cathedral-rock-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/cathedral-rock/Cathedral_rock_sedona_arizona_3-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bell-courthouse-hero{
-        background: url(resources/images/arizona-one/sedona-one/courthouse-bell/sedona-courthouse-bell-rock-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/courthouse-butte-and-bell-rock-loop/sedona-courthouse-bell-rock-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #chapel-hero{
-            background: url(resources/images/arizona-one/sedona-one/chapel-holy-cross/sedona-chapel-holy-cross-hero-3030.jpg) center no-repeat;
+            background: url(resources/images/arizona/sedona/chapel-of-the-holy-cross/sedona-chapel-holy-cross-hero-3030.jpg) center no-repeat;
             background-size: cover;
     }
     #devils-bridge-hero{
-        background: url(resources/images/arizona-one/sedona-one/devils-bridge/sedona-devils-bridge-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/devils-bridge-trail/sedona-devils-bridge-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #fay-hero{
-        background: url(resources/images/arizona-one/sedona-one/fay-canyon/sedona-fay-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/fay-canyon-trail/sedona-fay-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #airport-mesa-hero{
-        background: url(resources/images/arizona-one/sedona-one/airportMesa/sedona-scenic-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/airport-mesa/sedona-scenic-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #airport-scenic-hero{
-        background: url(resources/images/arizona-one/sedona-one/airportScenicLookout/sedona-scenic-lookout-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/airport-scenic-lookout/sedona-scenic-lookout-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #west-fork-hero{
-        background: url(resources/images/arizona-one/sedona-one/west-fork/sedona-west-fork-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/west-fork-of-oak-creek/West_Fork_of_Oak_Creek\,_reflections-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #black-mountain-hero{
-        background: url(resources/images/arizona-one/phoenix-one/black-mountain/black-mountain-az-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/black-mountain/black-mountain-az-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #camelback-hero{
-        background: url(resources/images/arizona-one/phoenix-one/camelback/camelback-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/camelback-mountain/camelback-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #first-christian-hero{
-        background: url(resources/images/arizona-one/phoenix-one/first-christian/first-christian-church-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/first-christian-church/first-christian-church-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #goldfield-hero{
-        background: url(resources/images/arizona-one/phoenix-one/goldfield/goldfield-ghost-town-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/goldfield-ghost-town/goldfield-ghost-town-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hayden-hero{
-        background: url(resources/images/arizona-one/phoenix-one/hayden-butte/hayden-butte-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/hayden-butte/hayden-butte-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mcdowell-mountains-hero{
-        background: url(resources/images/arizona-one/phoenix-one/toms-thumb/mcdowell-mountains-toms-thumb-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/mcdowell-mountain-regional-park/mcdowell-mountains-toms-thumb-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #papago-hero{
-        background: url(resources/images/arizona-one/phoenix-one/papago/papago-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/papago-park/papago-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #piestewa-hero{
-        background: url(resources/images/arizona-one/phoenix-one/piestewa/piestewa-peak-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/piestewa-peak-park/piestewa-peak-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #san-tan-hero{
-        background: url(resources/images/arizona-one/phoenix-one/san-tan/san-tan-mountains-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/san-tan-mountain-regional-park/san-tan-mountains-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #south-mountain-hero{
-        background: url(resources/images/arizona-one/phoenix-one/south-mountain/south-mountain-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/south-mountain-park-and-preserve/south-mountain-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #spook-hero{
-        background: url(resources/images/arizona-one/phoenix-one/spook/spook-hill-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/spook-hill/spook-hill-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #superstition-hero{
-        background: url(resources/images/arizona-one/phoenix-one/superstition/superstition-mountains-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/superstition-mountains/superstition-mountains-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #usery-hero{
-        background: url(resources/images/arizona-one/phoenix-one/wind-cave/usery-mountains-wind-cave-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/wind-cave/usery-mountains-wind-cave-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #white-tank-hero{
-        background: url(resources/images/arizona-one/phoenix-one/white-tank/white-tank-mountains-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/phoenix/white-tank/white-tank-mountains-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     /* Arkansas */
