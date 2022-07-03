@@ -953,29 +953,91 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #mission-san-diego-hero {
-    background: url(resources/images/california/california-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/california-spanish-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mission-san-carlos-borromeo-hero {
-    background: url(resources/images/california/california-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/california-spanish-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-gabriel-hero {
-    background: url(resources/images/california/california-missions/mission-san-gabriel/san-gabriel-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/california-spanish-missions/mission-san-gabriel/san-gabriel-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-fernando-hero {
-    background: url(resources/images/california/california-missions/mission-san-fernando-rey/2007_Mission_San_Fernando-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/california-spanish-missions/mission-san-fernando-rey/2007_Mission_San_Fernando-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-juan-bautista-hero {
-    background: url(resources/images/california/california-missions/mission-san-juan-bautista/san-juan-bautista-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/california-spanish-missions/mission-san-juan-bautista/san-juan-bautista-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-juan-capistrano-hero {
-    background: url(resources/images/california/california-missions/mission-san-juan-capistrano/Mission_San_Juan_Capistrano_California-1515.jpg) center no-repeat;
+    background: url(resources/images/california/california-spanish-missions/mission-san-juan-capistrano/Mission_San_Juan_Capistrano_California-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#mission-la-purisima-hero{
+background: url(resources/images/california/california-spanish-missions/mission-la-purisima-concepcion/La_Purisima_Mission_-_Lompoc\,_CA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-nuestra-hero{
+background: url(resources/images/california/california-spanish-missions/mission-nuestra-senora-del-la-soledad/Nuestra_Senora_del_la_Soledad_chapel-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-antonio-padua{
+background: url(resources/images/california/california-spanish-missions/mission-san-antonio-de-padua/lossless-page1-7170px-Mission_San_Antonio_de_Padua\,_California-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-buenaventura-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-buenaventura/Mission_San_Buenaventura_courtyard_and_fountain-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-francisco-de-asis-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-francisco-de-asis/San_Francisco_de_Asis--Mission_Dolores-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-francisco-solano-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-francisco-solano/Mission_San_Francisco_Solano._Sonoma_State_Historic_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-jose-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-jose/Mission_San_Jose_April_2011_001-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-luis-obispo-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-luis-obispo-de-tolosa/Mission_San_Luis_Obispo-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-luis-rey-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-luis-rey/california-missions-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-miguel-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-miguel-arcangel/Mission_San_Miguel_4043733528-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-san-rafael-hero{
+background: url(resources/images/california/california-spanish-missions/mission-san-rafael-arcangel/Mission_San_Rafael_Arcángel\,_San_Rafael_CA_USA_-_panoramio_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-santa-barbara-hero{
+background: url(resources/images/california/california-spanish-missions/mission-santa-barbara/Santa_Barbara_Mission\,_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-santa-clara-hero{
+background: url(resources/images/california/california-spanish-missions/mission-santa-clara-de-asis/lossy-page1-2560px-Mission_Santa_Clara_de_Asís\,_Santa_Clara\,_California_LCCN2013633507.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-santa-cruz-hero{
+background: url(resources/images/california/california-spanish-missions/mission-santa-cruz/mission-santa-cruz-building-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-santa-ines-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-santa-ines/Mission_StInes_cropped-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #algodones-hero{
     background: url(resources/images/california/algodones/algodones-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1001,15 +1063,15 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #calico-hero{
-    background: url(resources/images/california/calico/calico-ghost-town-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/calico-ghost-town/calico-ghost-town-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #carmel-hero{
-    background: url(resources/images/california/carmelBeach/carmel-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/carmel-by-the-sea/carmel-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #devils-postpile-hero{
-    background: url(resources/images/california/devils-postpile/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #death-valley-hero{
@@ -1045,7 +1107,7 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #hearst-hero {
-    background: url(resources/images/california/hearst/hearst-castle-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/hearst-castle/hearst-castle-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #joshua-tree-hero{
@@ -1109,23 +1171,159 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #broad-hero{
-    background: url(resources/images/california/LAOne/broad/broad-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+
+
+#chinatown-la-hero{
+background: url(resources/images/california/los-angeles/chinatown-los-angeles/chinatown-la-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-central-market-la-hero{
+background: url(resources/images/california/los-angeles/grand-central-market-la/Grand_Central_Market\,_Los_Angeles\,_Interior_view_20110807_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-park-hero{
+background: url(resources/images/california/los-angeles/grand-park/grand-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-city-hall-hero{
+background: url(resources/images/california/los-angeles/los-angeles-city-hall/los-angeles-city-hall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#moca-hero{
+background: url(resources/images/california/los-angeles/museum-of-contemporary-art-los-angeles-moca/moca-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#olvera-st-hero{
+background: url(resources/images/california/los-angeles/olvera-street/Olvera_Street\,_Los_Angeles-1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chateau-marmont-hero{
+background: url(resources/images/california/los-angeles/sunset-strip/chateau-marmont/Chateau_Marmont_West_Hollywood_51017770156-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#comedy-store-hero{
+background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rainbow-la-hero{
+background: url(resources/images/california/los-angeles/sunset-strip/rainbow-bar-and-grill/The_Rainbow_Bar_&_Grill-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#roxy-hero{
+background: url(resources/images/california/los-angeles/sunset-strip/roxy/Holly_Humberstone_@_The_Roxy_10_06_2021_51782663437-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sunset-tower-hero{
+background: url(resources/images/california/los-angeles/sunset-strip/sunset-tower/Sunset_Tower\,_8358_Sunset_Blvd._West_Hollywood_2365-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#viper-room-hero{
+background: url(resources/images/california/los-angeles/sunset-strip/viper-room/Viper_Room-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#whiskey-go-hero{
+background: url(resources/images/california/los-angeles/sunset-strip/whiskey-a-go-go/Whisky_a_Go-Go-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hollywood-hero{
+background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mulholland-drive-hero{
+background: url(resources/images/california/los-angeles/mulholland-drive/Aerial_view_of_Mulholland_Drive\,_Los_Angeles\,_California_LCCN2013632627.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#paramount-pictures-hero{
+background: url(resources/images/california/los-angeles/paramount-studios/Paramountpicturesmelrosegate-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#runyon-canyon-hero{
+background: url(resources/images/california/los-angeles/runyon-canyon-park/South_view_from_Runyon_Canyon-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sunset-blvd-hero{
+background: url(resources/images/california/los-angeles/sunset-boulevard/Sunset_Tower\,_8358_Sunset_Blvd._West_Hollywood_2370-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tlc-chinese-hero{
+background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#echo-park-hero{
+background: url(resources/images/california/los-angeles/echo-park/20190616154621!Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gamble-house-hero{
+background: url(resources/images/california/los-angeles/gamble-house/Gamble_House_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#korean-bell-of-friendship-hero{
+background: url(resources/images/california/los-angeles/korean-friendship-bell/Korean_friendship_bell_2010-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-brea-tar-pits-hero{
+background: url(resources/images/california/los-angeles/la-brea-tar-pits/La_Brea_Tar_Pits_January_2021-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lacma-hero{
+background: url(resources/images/california/los-angeles/los-angeles-county-museum-of-art-lacma/los-angeles-countu-museum-of-art-lacma-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#melrose-ave-hero{
+background: url(resources/images/california/los-angeles/melrose-avenue/Clothing\ store\ on\ Melrose\ Avenue\ in\ Los\ Angeles\,\ California\ LCCN2013631598.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#norton-museum-hero{
+background: url(resources/images/california/los-angeles/norton-simon-museum/Norton_Simon_Museum_Pasadena_CA_51081778692-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#petersen-museum-hero{
+background: url(resources/images/california/los-angeles/petersen-automotive-museum/Petersen_Automotive_Museum-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rodeo-drive-hero{
+background: url(resources/images/california/los-angeles/rodeo-drive/Via_Rodeo\,_Beverly_Hills-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sony-pictures-hero{
+background: url(resources/images/california/los-angeles/sony-pictures-studio/Sony_Pictures_Studios_Motor_Gate-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#third-street-promenade-hero{
+background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_-_Third_Street_Promenade_a_06_Sept_2017-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-iowa-hero{
+background: url(resources/images/california/los-angeles/uss-iowa-museum/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#venice-canal-hero{
+background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#warner-bros-hero{
+    background: url(resources/images/california/los-angeles/warner-studios-tour/WarnerBros-Studio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #getty-museum-hero{
-    background: url(resources/images/california/LAOne/getty-museum/getty-museum-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/getty-museum/getty-museum-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #getty-villa-hero{
-    background: url(resources/images/california/LAOne/getty-villa/getty-villa-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/getty-villa/getty-villa-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #griffith-hero{
-    background: url(resources/images/california/LAOne/griffith/griffith-observatory-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/griffithgriffith-park-and-observatory/griffith-observatory-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #grove-farmers-hero{
-    background: url(resources/images/california/LAOne/grove-farmers/grove-farmers-market-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/grove-and-farmers-market/grove-farmers-market-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hollywood-boulevard-hero{
@@ -1137,23 +1335,23 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #queen-mary-hero{
-    background: url(resources/images/california/LAOne/queen-mary/queen-mary-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/queen-mary/queen-mary-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #santa-monica-hero{
-    background: url(resources/images/california/LAOne/santa-monica/santa-monica-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/santa-monica-beach-and-pier/santa-monica-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #union-station-hero{
-    background: url(resources/images/california/LAOne/union-station/union-station-la-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/union-station-los-angeles/union-station-la-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #venice-beach-hero{
-    background: url(resources/images/california/LAOne/venice-beach/venice-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #walt-concert-hero{
-    background: url(resources/images/california/LAOne/walt-disney-concert-hall/walt-disney-concert-hall-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/walt-disney-concert-hall/walt-disney-concert-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mono-lakes-hero{
@@ -1164,6 +1362,36 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background: url(resources/images/california/muirWoods/muir-woods-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#anaheim-hero{
+background: url(resources/images/california/orange-county/anaheim/Anaheim_Convention_Center_33006385903-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#disneyland-hero{
+background: url(resources/images/california/orange-county/anaheim/disneyland/Cinderella_Castle_January_2021-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#huntington-beach-hero{
+background: url(resources/images/california/orange-county/huntington-beach/HB_Pier_Photo_D_Ramey_Logan-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#knotts-berry-hero{
+background: url(resources/images/california/orange-county/anaheim/knotts-berry-farm/Knotts_Gate-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#laguna-hero{
+background: url(resources/images/california/orange-county/laguna-beach/laguna-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#newport-beach-hero{
+background: url(resources/images/california/orange-county/newport-beach/Newport_Beach_aerial_photo_D_Ramey_Logan_Feb_14_2015-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-clemente-hero{
+    background: url(resources/images/california/orange-county/san-clemente/Sanclemente3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #pinnacles-hero{
     background: url(resources/images/california/pinnacles/pinnacles-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1234,6 +1462,10 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
 }
 #midway-hero{
     background: url(resources/images/california/san-diego/ussMidway/uss-midway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-fran-hero{
+    background: url(resources/images/california/san-francisco/GGBridge_Old_Coast_Guard_Station-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #alcatraz-hero{
@@ -3122,13 +3354,16 @@ background: url(resources/images/arizona/phoenix/bartlett-lake/Bartlett_Lake_SW0
     background-size: cover;
 }
 #brooks-falls-hero{
-
+background: url(resources/images/california/algodones/algodones-dunes-hero-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #hallo-bay-hero{
-
+background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #king-salmon-hero{
-
+background: url(resources/images/california/muirWoods/muir-woods-hero-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #naknek-lake-hero{
 
@@ -4013,27 +4248,88 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #mission-san-diego-hero {
-        background: url(resources/images/california/california-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/california-spanish-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mission-san-carlos-borromeo-hero {
-        background: url(resources/images/california/california-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/california-spanish-missions/mission-san-carlos-borromeo/mission-san-carlos-borromeo-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #san-gabriel-hero {
-        background: url(resources/images/california/california-missions/mission-san-gabriel/san-gabriel-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/california-spanish-missions/mission-san-gabriel/san-gabriel-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #san-fernando-hero {
-        background: url(resources/images/california/california-missions/mission-san-fernando-rey/2007_Mission_San_Fernando-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/california-spanish-missions/mission-san-fernando-rey/2007_Mission_San_Fernando-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #san-juan-baustista-hero {
-        background: url(resources/images/california/california-missions/mission-san-juan-bautista/san-juan-bautista-hero-3030.jpg) center no-repeat;
+    #san-juan-bautista-hero {
+        background: url(resources/images/california/california-spanish-missions/mission-san-juan-bautista/san-juan-bautista-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #san-juan-capistrano-hero {
-        background: url(resources/images/california/california-missions/mission-san-juan-capistrano/Mission_San_Juan_Capistrano_California-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/california-spanish-missions/mission-san-juan-capistrano/Mission_San_Juan_Capistrano_California-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
+    #mission-la-purisima-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-la-purisima-concepcion/La_Purisima_Mission_-_Lompoc\,_CA-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-nuestra-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-nuestra-senora-del-la-soledad/Nuestra_Senora_del_la_Soledad_chapel-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-antonio-padua{
+    background: url(resources/images/california/california-spanish-missions/mission-san-antonio-de-padua/lossless-page1-7170px-Mission_San_Antonio_de_Padua\,_California-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-buenaventura-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-buenaventura/Mission_San_Buenaventura_courtyard_and_fountain-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-francisco-de-asis-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-francisco-de-asis/San_Francisco_de_Asis--Mission_Dolores-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-francisco-solano-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-francisco-solano/Mission_San_Francisco_Solano._Sonoma_State_Historic_Park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-jose-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-jose/Mission_San_Jose_April_2011_001-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-luis-obispo-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-luis-obispo-de-tolosa/Mission_San_Luis_Obispo-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-luis-rey-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-luis-rey/california-missions-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-miguel-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-miguel-arcangel/Mission_San_Miguel_4043733528-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-san-rafael-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-san-rafael-arcangel/Mission_San_Rafael_Arcángel\,_San_Rafael_CA_USA_-_panoramio_3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-santa-barbara-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-santa-barbara/Santa_Barbara_Mission\,_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-santa-clara-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-santa-clara-de-asis/lossy-page1-2560px-Mission_Santa_Clara_de_Asís\,_Santa_Clara\,_California_LCCN2013633507.tif-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-santa-cruz-hero{
+    background: url(resources/images/california/california-spanish-missions/mission-santa-cruz/mission-santa-cruz-building-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-santa-ines-hero{
+        background: url(resources/images/california/california-spanish-missions/mission-santa-ines/Mission_StInes_cropped-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #algodones-hero{
@@ -4061,7 +4357,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #calico-hero{
-        background: url(resources/images/california/calico/calico-ghost-town-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/calico-ghost-town/calico-ghost-town-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #carmel-hero{
@@ -4069,7 +4365,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #devils-postpile-hero{
-        background: url(resources/images/california/devils-postpile/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #death-valley-hero{
@@ -4169,23 +4465,157 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #broad-hero{
-        background: url(resources/images/california/LAOne/broad/broad-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/broad/broad-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    
+#chinatown-la-hero{
+    background: url(resources/images/california/los-angeles/chinatown-los-angeles/chinatown-la-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grand-central-market-la-hero{
+    background: url(resources/images/california/los-angeles/grand-central-market-la/Grand_Central_Market\,_Los_Angeles\,_Interior_view_20110807_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grand-park-hero{
+    background: url(resources/images/california/los-angeles/grand-park/grand-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #la-city-hall-hero{
+    background: url(resources/images/california/los-angeles/los-angeles-city-hall/los-angeles-city-hall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #moca-hero{
+    background: url(resources/images/california/los-angeles/museum-of-contemporary-art-los-angeles-moca/moca-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #olvera-st-hero{
+    background: url(resources/images/california/los-angeles/olvera-street/Olvera_Street\,_Los_Angeles-1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chateau-marmont-hero{
+    background: url(resources/images/california/los-angeles/sunset-strip/chateau-marmont/Chateau_Marmont_West_Hollywood_51017770156-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #comedy-store-hero{
+    background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rainbow-la-hero{
+    background: url(resources/images/california/los-angeles/sunset-strip/rainbow-bar-and-grill/The_Rainbow_Bar_&_Grill-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #roxy-hero{
+    background: url(resources/images/california/los-angeles/sunset-strip/roxy/Holly_Humberstone_@_The_Roxy_10_06_2021_51782663437-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sunset-tower-hero{
+    background: url(resources/images/california/los-angeles/sunset-strip/sunset-tower/Sunset_Tower\,_8358_Sunset_Blvd._West_Hollywood_2365-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #viper-room-hero{
+    background: url(resources/images/california/los-angeles/sunset-strip/viper-room/Viper_Room-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #whiskey-go-hero{
+    background: url(resources/images/california/los-angeles/sunset-strip/whiskey-a-go-go/Whisky_a_Go-Go-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hollywood-hero{
+    background: url(resources/images/california/los-angeles/broad/broad-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mulholland-drive-hero{
+    background: url(resources/images/california/los-angeles/mulholland-drive/Aerial_view_of_Mulholland_Drive\,_Los_Angeles\,_California_LCCN2013632627.tif-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #paramount-pictures-hero{
+    background: url(resources/images/california/los-angeles/paramount-studios/Paramountpicturesmelrosegate-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #runyon-canyon-hero{
+    background: url(resources/images/california/los-angeles/runyon-canyon-park/South_view_from_Runyon_Canyon-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sunset-blvd-hero{
+    background: url(resources/images/california/los-angeles/sunset-boulevard/Sunset_Tower\,_8358_Sunset_Blvd._West_Hollywood_2370-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tlc-chinese-hero{
+    background: url(resources/images/california/los-angeles/broad/broad-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #echo-park-hero{
+    background: url(resources/images/california/los-angeles/echo-park/20190616154621!Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gamble-house-hero{
+    background: url(resources/images/california/los-angeles/gamble-house/Gamble_House_4-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #korean-bell-of-friendship-hero{
+    background: url(resources/images/california/los-angeles/korean-friendship-bell/Korean_friendship_bell_2010-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #la-brea-tar-pits-hero{
+    background: url(resources/images/california/los-angeles/la-brea-tar-pits/La_Brea_Tar_Pits_January_2021-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lacma-hero{
+    background: url(resources/images/california/los-angeles/los-angeles-county-museum-of-art-lacma/los-angeles-countu-museum-of-art-lacma-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #melrose-ave-hero{
+    background: url(resources/images/california/los-angeles/melrose-avenue/Clothing\ store\ on\ Melrose\ Avenue\ in\ Los\ Angeles\,\ California\ LCCN2013631598.tif-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #norton-museum-hero{
+    background: url(resources/images/california/los-angeles/norton-simon-museum/Norton_Simon_Museum_Pasadena_CA_51081778692-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #petersen-museum-hero{
+    background: url(resources/images/california/los-angeles/petersen-automotive-museum/Petersen_Automotive_Museum-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rodeo-drive-hero{
+    background: url(resources/images/california/los-angeles/rodeo-drive/Via_Rodeo\,_Beverly_Hills-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sony-pictures-hero{
+    background: url(resources/images/california/los-angeles/sony-pictures-studio/Sony_Pictures_Studios_Motor_Gate-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #third-street-promenade-hero{
+    background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_-_Third_Street_Promenade_a_06_Sept_2017-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #uss-iowa-hero{
+    background: url(resources/images/california/los-angeles/uss-iowa-museum/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #venice-canal-hero{
+    background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #warner-bros-hero{
+        background: url(resources/images/california/los-angeles/warner-studios-tour/WarnerBros-Studio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
     #getty-museum-hero{
-        background: url(resources/images/california/LAOne/getty-museum/getty-museum-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/getty-museum/getty-museum-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #getty-villa-hero{
-        background: url(resources/images/california/LAOne/getty-villa/getty-villa-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/getty-villa/getty-villa-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #griffith-hero{
-        background: url(resources/images/california/LAOne/griffith/griffith-observatory-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/griffith-park-and-observatory/griffith-observatory-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #grove-farmers-hero{
-        background: url(resources/images/california/LAOne/grove-farmers/grove-farmers-market-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/grove-and-farmers-market/grove-farmers-market-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hollywood-boulevard-hero{
@@ -4197,23 +4627,23 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #queen-mary-hero{
-        background: url(resources/images/california/LAOne/queen-mary/queen-mary-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/queen-mary/queen-mary-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #santa-monica-hero{
-        background: url(resources/images/california/LAOne/santa-monica/santa-monica-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/santa-monica/santa-monica-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #union-station-hero{
-        background: url(resources/images/california/LAOne/union-station/union-station-la-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/union-station-los-angeles/union-station-la-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #venice-beach-hero{
-        background: url(resources/images/california/LAOne/venice-beach/venice-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #walt-concert-hero{
-        background: url(resources/images/california/LAOne/walt-disney-concert-hall/walt-disney-concert-hall-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/walt-disney-concert-hall/walt-disney-concert-hall-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mono-lakes-hero{
@@ -4224,6 +4654,36 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/muirWoods/muir-woods-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+    #anaheim-hero{
+        background: url(resources/images/california/orange-county/anaheim/Anaheim_Convention_Center_33006385903-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #disneyland-hero{
+        background: url(resources/images/california/orange-county/anaheim/disneyland/Cinderella_Castle_January_2021-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #huntington-beach-hero{
+        background: url(resources/images/california/orange-county/huntington-beach/HB_Pier_Photo_D_Ramey_Logan-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #knotts-berry-hero{
+        background: url(resources/images/california/orange-county/anaheim/knotts-berry-farm/Knotts_Gate-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #laguna-hero{
+        background: url(resources/images/california/orange-county/laguna-beach/laguna-beach-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #newport-beach-hero{
+        background: url(resources/images/california/orange-county/newport-beach/Newport_Beach_aerial_photo_D_Ramey_Logan_Feb_14_2015-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #san-clemente-hero{
+            background: url(resources/images/california/orange-county/san-clemente/Sanclemente3-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+
     #pinnacles-hero{
         background: url(resources/images/california/pinnacles/pinnacles-hero-3030.jpg) center no-repeat;
         background-size: cover;
