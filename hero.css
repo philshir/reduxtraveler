@@ -1038,12 +1038,25 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background-size: cover;
 }
 
+
+#mojave-national-hero{
+
+}
+#cima-dome-hero{
+
+}
+#kelso-dunes-hero{
+
+}
+
+
+
 #algodones-hero{
-    background: url(resources/images/california/algodones/algodones-dunes-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #amboy-hero{
-    background: url(resources/images/california/amboy/amboy-crater-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/amboy-crater-national-natural-landmark/amboy-crater-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ancient-bristlecone-hero{
@@ -1174,9 +1187,6 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
-
-
 #chinatown-la-hero{
 background: url(resources/images/california/los-angeles/chinatown-los-angeles/chinatown-la-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3354,7 +3364,7 @@ background: url(resources/images/arizona/phoenix/bartlett-lake/Bartlett_Lake_SW0
     background-size: cover;
 }
 #brooks-falls-hero{
-background: url(resources/images/california/algodones/algodones-dunes-hero-1515.jpg) center no-repeat;
+background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hallo-bay-hero{
@@ -4333,11 +4343,11 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #algodones-hero{
-        background: url(resources/images/california/algodones/algodones-dunes-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #amboy-hero{
-        background: url(resources/images/california/amboy/amboy-crater-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/amboy-crater-national-natural-landmark/amboy-crater-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #ancient-bristlecone-hero{

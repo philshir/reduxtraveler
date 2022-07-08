@@ -991,7 +991,7 @@ footer ul li{
   bottom: 0
 }
 .itinerary-specs {
-  font-weight: 800;
+  font-weight: 600!important;
 }
 /*hide fullscreen navbar*/
 .navbar {
@@ -1334,6 +1334,9 @@ h4.navy {
   font-weight: 500;
   color: navy;
 } */
+.itineraries .trail-description p {
+  font-weight: 500;
+  }
 .itinerary-margin {
   margin-top: 28px;
 }
@@ -1342,7 +1345,9 @@ margin-bottom: 40px;
 }
 .itineraries h4 {
   margin: 20px 0 0 0;
+  font-size: 16px;
 }
+
 
 .about-title {
   text-align: center;
@@ -1428,7 +1433,14 @@ margin-bottom: 40px;
   }
 }
 
-
+/* Where was that picture taken */
+/* .where-was p.highlights {
+  margin: 20px;
+} */
+.where-was-title {
+  position: absolute;
+  top: 50px;
+}
 
 @media only screen and (min-width: 460px) {
   
@@ -1927,6 +1939,9 @@ max-width: 1170px;
     display: block;
   }
 
+  .itineraries .trail-description {
+  margin: 10px 30px;
+  }
   .itinerary-text {
     font-size: 22px;
   }
@@ -1938,6 +1953,7 @@ max-width: 1170px;
   }
   .itineraries h4 {
     margin: 0;
+    font-size: 22px;
   }
   .info-itinerary {
     margin: 0;
@@ -2204,5 +2220,10 @@ font-weight: 600;
   font-size: 22px;
   font-weight: 600;
   }
+
+  /* Where was that picture taken */
+.where-was p.highlights {
+  margin: 40px;
+}
 
 }
