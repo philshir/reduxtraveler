@@ -1038,19 +1038,6 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background-size: cover;
 }
 
-
-#mojave-national-hero{
-
-}
-#cima-dome-hero{
-
-}
-#kelso-dunes-hero{
-
-}
-
-
-
 #algodones-hero{
     background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1083,32 +1070,62 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background: url(resources/images/california/carmel-by-the-sea/carmel-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#anacapa-hero{
+    background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#santa-cruz-island-hero{
+    background: url(resources/images/california/channel-islands-national-park/santa-cruz/Channel_Islands_National_Park_-_Santa_Cruz_Island_-_beach_area_with_kayakers-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #devils-postpile-hero{
     background: url(resources/images/california/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #death-valley-hero{
-    background: url(resources/images/california/deathValleyOne/dantes-view/death-valley-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #dantes-hero{
-    background: url(resources/images/california/deathValleyOne/dantes-view/death-valley-dantes-view-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-dantes-view-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #badwater-hero{
-    background: url(resources/images/california/deathValleyOne/badwater/death-valley-badwater-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/badwater-basin/death-valley-badwater-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#devils-golf-hero{
+    background: url(resources/images/california/death-valley-national-park/devils-golf-course/Death_Valley_Devils_Golf_Course_7-10-2012_13-32-12-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#golden-canyon-hero{
+    background: url(resources/images/california/death-valley-national-park/golden-canyon-gower-gulch-badlands/Golden_Canyon_-_Death_Valley_National_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mesquite-flat-hero{
+    background: url(resources/images/california/death-valley-national-park/mesquite-flat-dunes/Death_Valley_Mesquite_Flats_Sand_Dunes_2013-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#telescope-peak-hero{
+    background: url(resources/images/california/death-valley-national-park/telescope-peak/TelescopePeak031411-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wildrose-peak-hero{
+    background: url(resources/images/california/death-valley-national-park/wildrose-peak/Wildrose_Peak_3812550920-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #zabriske-hero{
-    background: url(resources/images/california/deathValleyOne/zabriske/death-valley-zabriske-point-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/zabriske-point/death-valley-zabriske-point-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #twenty-mule-hero{
-    background: url(resources/images/california/deathValleyOne/twenty-mule/death-valley-twenty-mule-team-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/twenty-mule-team-canyon/death-valley-twenty-mule-team-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ubehebe-hero{
-    background: url(resources/images/california/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/ubehebe-crater/death-valley-ubehebe-crater-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #donner-memorial-hero{
@@ -1124,25 +1141,90 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background-size: cover;
 }
 #joshua-tree-hero{
-    background: url(resources/images/california/joshuaTree/hiddenValley/joshua-tree-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/joshua-tree-national-park/joshua-tree-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#arch-rock-joshua-hero{
+    background: url(resources/images/california/joshua-tree-national-park/arch-rock-nature-trail/arch-rock-nature-trail-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barker-dam-hero{
+    background: url(resources/images/california/joshua-tree-national-park/barker-dam-trail/Barker_Dam_Joshua_Tree_December_2013_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cholla-cactus-hero{
+    background: url(resources/images/california/joshua-tree-national-park/cholla-cactus-garden/cholla-cactus-garden-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cottonwood-spring-hero{
+    background: url(resources/images/california/joshua-tree-national-park/cottonwood-spring/cottonwood-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#geology-tour-road-hero{
+    background: url(resources/images/california/joshua-tree-national-park/geology-tour-road/Geology_Tour_Road\,_Joshua_Tree_National_Park\,_California_23743150170-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hidden-valley-hero{
+    background: url(resources/images/california/joshua-tree-national-park/hidden-valley-trail/Trail_to_Hidden_Valley\,_Joshua_Tree_NP_4-13_15363599239-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jumbo-rocks-hero{
+    background: url(resources/images/california/joshua-tree-national-park/jumbo-rocks/jumbo-rocks-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#keys-ranch-hero{
+    background: url(resources/images/california/joshua-tree-national-park/keys-ranch/Keys_Desert_Queen_Ranch_Homestead-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#keys-view-hero{
+    background: url(resources/images/california/joshua-tree-national-park/keys-view/keys-view-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oasis-mara-hero{
+    background: url(resources/images/california/joshua-tree-national-park/oasis-of-mara/Sunset_at_Oasis_of_Mara_38037934022-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #lost-oasis-hero{
-    background: url(resources/images/california/joshuaTree/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/joshua-tree-national-park/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #kings-canyon-hero{
-    background: url(resources/images/california/kingsCanyon/kings-canyon-panoramic-point-hero-1515-.jpg) center no-repeat;
+    background: url(resources/images/california/kings-canyon-national-park/kings-canyon-panoramic-point-hero-1515-.jpg) center no-repeat;
     background-size: cover;
 }
 #grants-grove-hero{
-    background: url(resources/images/california/kingsCanyon/general-grant/kings-canyon-grant-grove-hero-1515-.jpg) center no-repeat;
+    background: url(resources/images/california/kings-canyon-national-park/grant-grove/kings-canyon-grant-grove-hero-1515-.jpg) center no-repeat;
     background-size: cover;
 }
 #big-stump-hero{
-    background: url(resources/images/california/kingsCanyon/big-stump-trail/kings-canyon-big-stump-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/kings-canyon-national-park/big-stump-trail/kings-canyon-big-stump-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cedar-grove-hero{
+    background: url(resources/images/california/kings-canyon-national-park/cedar-grove/Kings_Canyon_National_Park_-_51712671873-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kings-byway-hero{
+    background: url(resources/images/california/kings-canyon-national-park/kings-canyon-national-byway/Morning_on_kings_canyon_scenic_byway_kings_canyon_national_park_-_Flickr_-_Mferbfriske-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#roaring-river-hero{
+    background: url(resources/images/california/kings-canyon-national-park/roaring-river-falls/Roaring_River_Falls_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-fork-kings-hero{
+    background: url(resources/images/california/kings-canyon-national-park/south-fork-kings-river/South_Fork_Kings_River-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#zumwalt-meadow-hero{
+    background: url(resources/images/california/kings-canyon-national-park/zumwalt-meadow/Zumwalt_Meadow_Kings_Canyon-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+
+
+
 #la-jolla-hero{
     background: url(resources/images/california/lajolla/lajolla-cove-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1152,31 +1234,31 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background-size: cover;
 }
 #tahoe-hero{
-    background: url(resources/images/california/tahoe/lake-tahoe-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lake-tahoe/lake-tahoe-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lassen-hero{
-    background: url(resources/images/california/lassenOne/lassen-volcanic-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lassen-volcanic-national-park/lassen-volcanic-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sulphur-works-hero{
-    background: url(resources/images/california/lassenOne/lassen-volcanic-sulphur-works-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lassen-volcanic-national-park/sulphur-works/lassen-volcanic-sulphur-works-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chaos-crags-hero{
-    background: url(resources/images/california/lassenOne/lassen-volcanic-chaos-crags-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lassen-volcanic-national-park/chaos-crags/lassen-volcanic-chaos-crags-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cinder-hero{
-    background: url(resources/images/california/lassenOne/cinderCone/cinder-cone-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lassen-volcanic-national-park/cinder-cone/cinder-cone-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lassen-peak-hero{
-    background: url(resources/images/california/lassenOne/lassenPeak/lassen-volcanic-scenic-drive-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lassen-volcanic-national-park/lassen-peak/lassen-volcanic-scenic-drive-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bumpass-hero{
-    background: url(resources/images/california/lassenOne/bumpass/bumpass-hell-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lassen-volcanic-national-park/bumpass-hell/bumpass-hell-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #los-angeles-hero{
@@ -1368,6 +1450,18 @@ background: url(resources/images/california/los-angeles/venice-beach/venice-beac
     background: url(resources/images/california/mono-lake/Mono_Lake_Tufa-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cima-dome-hero{
+    background: url(resources/images/california/mojave-national-preserve/cima-dome/Cima_Dome_landscape_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kelso-dunes-hero{
+    background: url(resources/images/california/mojave-national-preserve/kelso-dunes/Kelso_Dunes\,_2012-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#teutonia-peak-hero{
+    background: url(resources/images/california/mojave-national-preserve/teutonia-peak/Teutonia_Peak_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #muir-woods-hero{
     background: url(resources/images/california/muirWoods/muir-woods-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1403,11 +1497,11 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
 }
 
 #pinnacles-hero{
-    background: url(resources/images/california/pinnacles/pinnacles-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #high-peaks-hero{
-    background: url(resources/images/california/pinnacles/pinnacles-high-peaks-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/pinnacles-national-park/pinnacles-high-peaks-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #pch-hero{
@@ -1426,20 +1520,24 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background: url(resources/images/california/rainbow-basin/rainbow-basin-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#redwood-hero{
-    background: url(resources/images/california/redwoodOne/simpson-reed/redwood-hero-1515.jpg) center no-repeat;
+#big-tree-wayside-hero{
+    background: url(resources/images/california/redwood-national-and-state-parks/big-tree-wayside/) center no-repeat;
+    background-size: cover;
+}
+#simpson-reed-hero{
+    background: url(resources/images/california/redwood-national-and-state-parks/simpson-reed-trail/redwood-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hidden-beach-hero{
-    background: url(resources/images/california/redwoodOne/hidden-beach/redwood-hidden-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/redwood-national-and-state-parks/hidden-beach-trail/redwood-hidden-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lady-bird-hero{
-    background: url(resources/images/california/redwoodOne/lady-bird/redwood-lady--bird-johnson-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/redwood-national-and-state-parks/lady-bird-johnson-grove-trail/redwood-lady--bird-johnson-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #stout-hero{
-    background: url(resources/images/california/redwoodOne/stout/redwood-stout-grove-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/redwood-national-and-state-parks/stout-grove-trail/redwood-stout-grove-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #salton-hero{
@@ -1523,21 +1621,42 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background-size: cover;
 }
 #sequoia-hero{
-    background: url(resources/images/california/sequoiaOne/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #congress-hero{
-    background: url(resources/images/california/sequoiaOne/sherman/sequoia-general-sherman-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/sequoia-national-park/sherman/sequoia-general-sherman-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #moro-hero{
-    background: url(resources/images/california/sequoiaOne/moro/moro-rock-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/sequoia-national-park/moro-rock/moro-rock-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #giant-forest-hero{
-    background: url(resources/images/california/sequoiaOne/parker-group/sequoia-giant-trees-parker-group-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-giant-trees-parker-group-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
+#crystal-cave-hero{
+    background: url(resources/images/california/sequoia-national-park/crystal-cave/CrystalCave_vgane-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#general-sherman-hero{
+    background: url(resources/images/california/sequoia-national-park/general-sherman-tree/sequoia-general-sherman-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hospital-rock-hero{
+    background: url(resources/images/california/sequoia-national-park/hospital-rock/Hospital_Rock_2021-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-baldy-hero{
+    background: url(resources/images/california/sequoia-national-park/little-baldy/Little_Baldy-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-whitney-hero{
+background: url(resources/images/california/sequoia-national-park/mount-whitney/Good_Morning_from_Mount_Whitney_Unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #white-mountain-hero{
     background: url(resources/images/california/white-mountain/White_Mountain_Peak_View_to_southwest\,_California-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4374,32 +4493,61 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/carmelBeach/carmel-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #anacapa-hero{
+        background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #santa-cruz-island-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-cruz/Channel_Islands_National_Park_-_Santa_Cruz_Island_-_beach_area_with_kayakers-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #devils-postpile-hero{
         background: url(resources/images/california/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #death-valley-hero{
-        background: url(resources/images/california/deathValleyOne/dantes-view/death-valley-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #dantes-hero{
-        background: url(resources/images/california/deathValleyOne/dantes-view/death-valley-dantes-view-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-dantes-view-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #badwater-hero{
-        background: url(resources/images/california/deathValleyOne/badwater/death-valley-badwater-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/badwater-basin/death-valley-badwater-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #devils-golf-hero{
+        background: url(resources/images/california/death-valley-national-park/devils-golf-course/Death_Valley_Devils_Golf_Course_7-10-2012_13-32-12-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #golden-canyon-hero{
+        background: url(resources/images/california/death-valley-national-park/golden-canyon-gower-gulch-badlands/Golden_Canyon_-_Death_Valley_National_Park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mesquite-flat-hero{
+        background: url(resources/images/california/death-valley-national-park/mesquite-flat-dunes/Death_Valley_Mesquite_Flats_Sand_Dunes_2013-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #telescope-peak-hero{
+        background: url(resources/images/california/death-valley-national-park/telescope-peak/TelescopePeak031411-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wildrose-peak-hero{
+        background: url(resources/images/california/death-valley-national-park/wildrose-peak/Wildrose_Peak_3812550920-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
     #zabriske-hero{
-        background: url(resources/images/california/deathValleyOne/zabriske/death-valley-zabriske-point-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/zabriske-point/death-valley-zabriske-point-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #twenty-mule-hero{
-        background: url(resources/images/california/deathValleyOne/twenty-mule/death-valley-twenty-mule-team-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/twenty-mule-team-canyon/death-valley-twenty-mule-team-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #ubehebe-hero{
-        background: url(resources/images/california/deathValleyOne/ubehebe/death-valley-ubehebe-crater-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/ubehebe-crater/death-valley-ubehebe-crater-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #donner-memorial-hero{
@@ -4415,25 +4563,86 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #joshua-tree-hero{
-        background: url(resources/images/california/joshuaTree/hiddenValley/joshua-tree-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/joshua-tree-national-park/joshua-tree-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #arch-rock-joshua-hero{
+        background: url(resources/images/california/joshua-tree-national-park/arch-rock-nature-trail/arch-rock-nature-trail-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #barker-dam-hero{
+        background: url(resources/images/california/joshua-tree-national-park/barker-dam-trail/Barker_Dam_Joshua_Tree_December_2013_003-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cholla-cactus-hero{
+        background: url(resources/images/california/joshua-tree-national-park/cholla-cactus-garden/cholla-cactus-garden-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cottonwood-spring-hero{
+        background: url(resources/images/california/joshua-tree-national-park/cottonwood-spring/cottonwood-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #geology-tour-road-hero{
+        background: url(resources/images/california/joshua-tree-national-park/geology-tour-road/Geology_Tour_Road\,_Joshua_Tree_National_Park\,_California_23743150170-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hidden-valley-hero{
+        background: url(resources/images/california/joshua-tree-national-park/hidden-valley-trail/Trail_to_Hidden_Valley\,_Joshua_Tree_NP_4-13_15363599239-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jumbo-rocks-hero{
+        background: url(resources/images/california/joshua-tree-national-park/jumbo-rocks/jumbo-rocks-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #keys-ranch-hero{
+        background: url(resources/images/california/joshua-tree-national-park/keys-ranch/Keys_Desert_Queen_Ranch_Homestead-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #keys-view-hero{
+        background: url(resources/images/california/joshua-tree-national-park/keys-view/keys-view-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #oasis-mara-hero{
+        background: url(resources/images/california/joshua-tree-national-park/oasis-of-mara/Sunset_at_Oasis_of_Mara_38037934022-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lost-oasis-hero{
-        background: url(resources/images/california/joshuaTree/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/joshua-tree-national-park/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #kings-canyon-hero{
-        background: url(resources/images/california/kingsCanyon/kings-canyon-panoramic-point-hero-3030-.jpg) center no-repeat;
+        background: url(resources/images/california/kings-canyon-national-park/kings-canyon-panoramic-point-hero-3030-.jpg) center no-repeat;
         background-size: cover;
     }
     #grants-grove-hero{
-        background: url(resources/images/california/kingsCanyon/general-grant/kings-canyon-grant-grove-hero-3030-.jpg) center no-repeat;
+        background: url(resources/images/california/kings-canyon-national-park/grant-grove/kings-canyon-grant-grove-hero-3030-.jpg) center no-repeat;
         background-size: cover;
     }
     #big-stump-hero{
-        background: url(resources/images/california/kingsCanyon/big-stump-trail/kings-canyon-big-stump-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/kings-canyon-national-park/big-stump-trail/kings-canyon-big-stump-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #cedar-grove-hero{
+        background: url(resources/images/california/kings-canyon-national-park/cedar-grove/Kings_Canyon_National_Park_-_51712671873-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kings-byway-hero{
+        background: url(resources/images/california/kings-canyon-national-park/kings-canyon-national-byway/Morning_on_kings_canyon_scenic_byway_kings_canyon_national_park_-_Flickr_-_Mferbfriske-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #roaring-river-hero{
+        background: url(resources/images/california/kings-canyon-national-park/roaring-river-falls/Roaring_River_Falls_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-fork-kings-hero{
+        background: url(resources/images/california/kings-canyon-national-park/south-fork-kings-river/South_Fork_Kings_River-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #zumwalt-meadow-hero{
+        background: url(resources/images/california/kings-canyon-national-park/zumwalt-meadow/Zumwalt_Meadow_Kings_Canyon-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
     #la-jolla-hero{
         background: url(resources/images/california/lajolla/lajolla-cove-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -4443,31 +4652,31 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #tahoe-hero{
-        background: url(resources/images/california/tahoe/lake-tahoe-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lake-tahoe/lake-tahoe-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lassen-hero{
-        background: url(resources/images/california/lassenOne/lassen-volcanic-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lassen-volcanic-national-park/lassen-volcanic-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #sulphur-works-hero{
-        background: url(resources/images/california/lassenOne/lassen-volcanic-sulphur-works-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lassen-volcanic-national-park/sulphur-works/lassen-volcanic-sulphur-works-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #chaos-crags-hero{
-        background: url(resources/images/california/lassenOne/lassen-volcanic-chaos-crags-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lassen-volcanic-national-park/chaos-crags/lassen-volcanic-chaos-crags-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cinder-hero{
-        background: url(resources/images/california/lassenOne/cinderCone/cinder-cone-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lassen-volcanic-national-park/cinder-cone/cinder-cone-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lassen-peak-hero{
-        background: url(resources/images/california/lassenOne/lassenPeak/lassen-volcanic-scenic-drive-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lassen-volcanic-national-park/lassen-peak/lassen-volcanic-scenic-drive-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bumpass-hero{
-        background: url(resources/images/california/lassenOne/bumpass/bumpass-hell-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lassen-volcanic-national-park/bumpass-hell/bumpass-hell-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #los-angeles-hero{
@@ -4660,6 +4869,21 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/mono-lake/Mono_Lake_Tufa-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    
+#cima-dome-hero{
+    background: url(resources/images/california/mojave-national-preserve/cima-dome/Cima_Dome_landscape_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kelso-dunes-hero{
+    background: url(resources/images/california/mojave-national-preserve/kelso-dunes/Kelso_Dunes\,_2012-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#teutonia-peak-hero{
+    background: url(resources/images/california/mojave-national-preserve/teutonia-peak/Teutonia_Peak_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+
     #muir-woods-hero{
         background: url(resources/images/california/muirWoods/muir-woods-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -4695,11 +4919,11 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         }
 
     #pinnacles-hero{
-        background: url(resources/images/california/pinnacles/pinnacles-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #high-peaks-hero{
-        background: url(resources/images/california/pinnacles/pinnacles-high-peaks-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/pinnacles-national-park/pinnacles-high-peaks-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #pch-hero{
@@ -4718,20 +4942,20 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/rainbow-basin/rainbow-basin-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #redwood-hero{
-        background: url(resources/images/california/redwoodOne/simpson-reed/redwood-hero-3030.jpg) center no-repeat;
+    #simpson-reed-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/simpson-reed-trail/redwood-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hidden-beach-hero{
-        background: url(resources/images/california/redwoodOne/hidden-beach/redwood-hidden-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/redwood-national-and-state-parks/hidden-beach-trail/redwood-hidden-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lady-bird-hero{
-        background: url(resources/images/california/redwoodOne/lady-bird/redwood-lady--bird-johnson-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/redwood-national-and-state-parks/lady-bird-johnson-grove-trail/redwood-lady--bird-johnson-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #stout-hero{
-        background: url(resources/images/california/redwoodOne/stout/redwood-stout-grove-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/redwood-national-and-state-parks/stout-grove-trail/redwood-stout-grove-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #salton-hero{
@@ -4812,19 +5036,39 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-position-y: -100px;
     }
     #sequoia-hero{
-        background: url(resources/images/california/sequoiaOne/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
+        background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
     #congress-hero{
-        background: url(resources/images/california/sequoiaOne/sherman/sequoia-general-sherman-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/sequoia-national-park/sherman/sequoia-general-sherman-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #moro-hero{
-        background: url(resources/images/california/sequoiaOne/moro/moro-rock-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/sequoia-national-park/moro-rock/moro-rock-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #giant-forest-hero{
-        background: url(resources/images/california/sequoiaOne/parker-group/sequoia-giant-trees-parker-group-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-giant-trees-parker-group-hero-2273wPortrait.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #crystal-cave-hero{
+        background: url(resources/images/california/sequoia-national-park/crystal-cave/CrystalCave_vgane-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #general-sherman-hero{
+        background: url(resources/images/california/sequoia-national-park/general-sherman-tree/sequoia-general-sherman-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hospital-rock-hero{
+        background: url(resources/images/california/sequoia-national-park/hospital-rock/Hospital_Rock_2021-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #little-baldy-hero{
+        background: url(resources/images/california/sequoia-national-park/little-baldy/Little_Baldy-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-whitney-hero{
+    background: url(resources/images/california/sequoia-national-park/mount-whitney/Good_Morning_from_Mount_Whitney_Unsplash-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #white-mountain-hero{
