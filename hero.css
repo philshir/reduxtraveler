@@ -1222,13 +1222,6 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background-size: cover;
 }
 
-
-
-
-#la-jolla-hero{
-    background: url(resources/images/california/lajolla/lajolla-cove-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #laguna-hero{
     background: url(resources/images/california/laguna/laguna-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1237,6 +1230,43 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background: url(resources/images/california/lake-tahoe/lake-tahoe-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cave-rock-hero{
+    background: url(resources/images/california/lake-tahoe/cave-rock/Caverock-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dl-bliss-hero{
+    background: url(resources/images/california/lake-tahoe/d-l-bliss-state-park/Bliss_State_Park\,_CA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#emerald-bay-hero{
+    background: url(resources/images/california/lake-tahoe/emerald-bay-state-park/Emerald_Bay_State_Park_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ed-zberg-sp-hero{
+    background: url(resources/images/california/lake-tahoe/) center no-repeat;
+    background-size: cover;
+}
+#heavenly-mountain-hero{
+    background: url(resources/images/california/lake-tahoe/heavenly-mountain-resort/Heavenly_Gondola_Base-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-aloha-hero{
+    background: url(resources/images/california/lake-tahoe/lake-aloha/Lake_Aloha_3076427948-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-tallac-hero{
+    background: url(resources/images/california/lake-tahoe/mount-tallac/Lake_Tahoe_from_Mount_Tallac_Summit-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palisades-tahoe-hero{
+    background: url(resources/images/california/lake-tahoe/palisades-tahoe-squaw-valley/Squaw_Valley_Gondola-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-lake-tahoe-hero{
+    background: url(resources/images/california/lake-tahoe/) center no-repeat;
+    background-size: cover;
+}
+
 #lassen-hero{
     background: url(resources/images/california/lassen-volcanic-national-park/lassen-volcanic-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1261,10 +1291,36 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background: url(resources/images/california/lassen-volcanic-national-park/bumpass-hell/bumpass-hell-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* Los Angeles */
 #los-angeles-hero{
     background: url(resources/images/california/los-angeles/Los_Angeles_with_Mount_Baldy-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bradbury-building-hero{
+    background: url(resources/images/california/los-angeles/bradbury-building/BradburyInterior2014-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#aquarium-pacific-hero{
+    background: url(resources/images/california/los-angeles/aquarium-of-the-pacific/aquarium-pacific-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#beverly-hills-hero{
+    background: url(resources/images/california/los-angeles/beverly-hills/HSY-_Beverly_Hills_House-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ca-science-center-hero{
+    background: url(resources/images/california/los-angeles/california-science-center/Endeavour_at_California_Science_Center-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#huntington-library-hero{
+    background: url(resources/images/california/los-angeles/huntington-library/Librairie_Huntington_Library._3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#universal-studios-hollywood-hero{
+    background: url(resources/images/california/los-angeles/universal-studios-hollywood/Hogwarts_-_Wizarding_World_of_Harry_Potter_-_Hollywood-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #broad-hero{
     background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1341,7 +1397,7 @@ background: url(resources/images/california/los-angeles/runyon-canyon-park/South
 background: url(resources/images/california/los-angeles/sunset-boulevard/Sunset_Tower\,_8358_Sunset_Blvd._West_Hollywood_2370-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#tlc-chinese-hero{
+#tcl-chinese-hero{
 background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -1446,6 +1502,56 @@ background: url(resources/images/california/los-angeles/venice-beach/venice-beac
     background: url(resources/images/california/los-angeles/walt-disney-concert-hall/walt-disney-concert-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#malibu-hero{
+    background: url(resources/images/california/malibu/Malibu_beach_and_pier_2012_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#el-matador-beach-hero{
+    background: url(resources/images/california/malibu/el-matador-state-beach/El_Matador_State_Beach_23776434158-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#point-dume-hero{
+    background: url(resources/images/california/malibu/point-dume/View_north_from_Point_Dume_State_Beach-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#asilomar-beach-hero{
+    background: url(resources/images/california/monterey/asilomar-state-beach/Asilomar_State_Beach_-_DSC06567-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cannery-row-hero{
+    background: url(resources/images/california/monterey/cannery-row/Cannery_Row\,_Monterey_7_2017-11-21-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#catehdral-san-carlos-borromeo-hero{
+    background: url(resources/images/california/monterey/cathedral-of-san-carlos-borromeo/Monterey\,_California_-_Cathedral_of_San_Carlos_Borromeo_Royal_Presidio_Chapel_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#monterey-bay-aquarium-hero{
+    background: url(resources/images/california/monterey/monterey-bay-aquarium/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#monterey-state-historic-park-hero{
+    background: url(resources/images/california/monterey/monterey-state-historic-park/Colton_Hall\,_Monterey.-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-fishermans-wharf-hero{
+    background: url(resources/images/california/monterey/old-fishermans-wharf/Fishermans_Wharf_Monterey3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pebble-beach-hero{
+    background: url(resources/images/california/monterey/pebble-beach/Pebble_Beach\,_Del_Monte_Forest\,_CA\,_USA_-_panoramio_14-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#point-pinos-lighthouse-hero{
+    background: url(resources/images/california/monterey/point-pinos-lighthouse/Point_Pinos_Lighthouse-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seventeen-mile-hero{
+    background: url(resources/images/california/monterey/seventeen-mile-drive/17_mile_drive_cypress-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #mono-lakes-hero{
     background: url(resources/images/california/mono-lake/Mono_Lake_Tufa-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1495,6 +1601,10 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background: url(resources/images/california/orange-county/san-clemente/Sanclemente3-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#seal-beach-hero{
+    background: url(resources/images/california/orange-county/seal-beach/Sealbeachcrowd-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 #pinnacles-hero{
     background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-1515.jpg) center no-repeat;
@@ -1505,15 +1615,42 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background-size: cover;
 }
 #pch-hero{
-    background: url(resources/images/california/pch/pacific-coast-highway-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/pacific-coast-highway-big-sur/pacific-coast-highway-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#andrew-molera-hero{
+    background: url(resources/images/california/pacific-coast-highway-big-sur/andrew-molera-state-park/Central_coast\,_Andrew_Molera_State_Park_31514397001-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bixby-bridge-hero{
+    background: url(resources/images/california/pacific-coast-highway-big-sur/bixby-creek-bridge/Bixby_Creek_Bridge\,_California\,_USA_-_May_2013-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#garrapata-hero{
+    background: url(resources/images/california/pacific-coast-highway-big-sur/garrapata-state-park/Garrapata_Creek_California_2006_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#limekiln-hero{
+    background: url(resources/images/california/pacific-coast-highway-big-sur/limekiln-state-park/Limekiln_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#point-lobos-hero{
+    background: url(resources/images/california/pacific-coast-highway-big-sur/point-lobos-state-natural-reserve/Whalers_Cove\,_Point_Lobos\,_CA\,_US_-_May_2013-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#point-sur-hero{
+    background: url(resources/images/california/pacific-coast-highway-big-sur/point-sur-state-historic-park/Point_Sur_Light_Station_-_the_rock-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+
+
 #julia-pfeiffer-hero{
-    background: url(resources/images/california/pch/mcwayFalls/pacific-coast-highway-julia-pfeiffer-burns-sp-mcway-falls-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/pacific-coast-highway-big-sur/julia-pfeiffer-burns-state-park/mcway-falls/pacific-coast-highway-julia-pfeiffer-burns-sp-mcway-falls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #pfeiffer-beach-hero{
-    background: url(resources/images/california/pch/pfeifferBeach/pfeiffer-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/pacific-coast-highway-big-sur/pfeiffer-beach/pfeiffer-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rainbow-basin-hero{
@@ -1552,6 +1689,108 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#museum-us-hero{
+    background: url(resources/images/california/san-diego/balboa-park/museum-of-us/Aerial_-_San_Diego\,_CA_-_Museum_of_Man_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-art-space-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-art-and-space-museum/San_Diego_Air_&_Space_Museum_entrance_2009-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-museum-art{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-museum-of-art/San_Diego_Museum_of_Art_04-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-natural-history-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-museum-of-natural-history/San_Diego_Museum_of_Natural_History_third_floor_7-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#belmont-park-hero{
+    background: url(resources/images/california/san-diego/belmont-park/Giant_Dipper_Roller_Coaster-10-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blacks-beach-hero{
+background: url(resources/images/california/san-diego/bl) center no-repeat;
+    background-size: cover;
+}
+#cowles-mtn-hero{
+background: url(resources/images/california/san-diego/cowles-mountain/Cowles_Mountain-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gaslamp-hero{
+background: url(resources/images/california/san-diego/gaslamp-quarter/Gaslamp_Quarter_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-jolla-hero{
+    background: url(resources/images/california/san-diego/la-jolla-cove/lajolla-cove-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-italy-san-diego-hero{
+background: url(resources/images/california/san-diego/little-italy-san-diego/San_Diego_Little_Italy_17748354360-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#manchester-grand-hero{
+background: url(resources/images/california/san-diego/manchester-grand-hyatt-hotel/High-rises_in_San_Diego\,_California_5_2014-03-06-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-bay-hero{
+background: url(resources/images/california/san-diego/mission-bay/MissionBayByPhilKonstantin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-beach-hero{
+background: url(resources/images/california/san-diego/mission-beach/San_Diego_Strand_Mission_Beach_125419187-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mission-trails-mtn-hero{
+background: url(resources/images/california/san-diego/mission-trails-regional-park/Mission-trails-regional-park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-soledad-national-hero{
+background: url(resources/images/california/san-diego/mt-soledad-national-veterans-memorial/2019_Mt._Soledad_National_Veterans_Memorial_at_dusk_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#north-park-sd-hero{
+background: url(resources/images/california/san-diego/north-park/North_Park_San_Diego\,_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ocean-beach-san-diego-hero{
+background: url(resources/images/california/san-diego/ocean-beach-sd/Ocean_Beach_north_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-town-san-diego-hero{
+background: url(resources/images/california/san-diego/old-town-san-diego-state-historic-park/San_Diego_Old_town_2006_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pacific-beach-hero{
+background: url(resources/images/california/san-diego/pacific-beach/Pacific_Beach_Skyline-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-central-library-hero{
+background: url(resources/images/california/san-diego/san-diego-central-library/San_Diego_Central_Library-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-zoo-hero{
+background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seaport-village-hero{
+background: url(resources/images/california/san-diego/seaport-village/Seaport_Village_24_2014-03-06-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spruce-suspension-hero{
+background: url(resources/images/california/san-diego/spruce-street-suspension-bridge/Bankers_Hill_Spruce_St_bridge_San_Diego-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stuart-collection-hero{
+background: url(resources/images/california/san-diego/stuart-collection/Bear\,_UC_San_Diego-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sunset-cliffs-hero{
+    background: url(resources/images/california/san-diego/sunset-cliffs/Sunset_Cliffs\,_San_Diego\,_CA_92107\,_USA_-_panoramio_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #cabrillo-hero{
     background: url(resources/images/california/san-diego/cabrillo-national-monument/cabrillo-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1569,13 +1808,175 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background-size: cover;
 }
 #midway-hero{
-    background: url(resources/images/california/san-diego/ussMidway/uss-midway-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/uss-midway-museum/uss-midway-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-fran-hero{
     background: url(resources/images/california/san-francisco/GGBridge_Old_Coast_Guard_Station-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#battery-spencer-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/battery-spencer-overlook/BatterySpencer-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#battery-townsley-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/battery-townsley/Battery_Townsley\,_Fort_Cronkhite\,_Marin_Headlands\,_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-baker-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-baker/Fort_Baker_and_the_Golden_Gate_Bridge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-barry-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-barry/Fort-Barry-Marin-Headlands-Florin-WLM-05-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-cronkhite{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-cronkhite/Fort_Cronkhite_Sausalito\,_CA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hawk-hill-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/hawk-hill/San_Francisco_from_Hawk_Hill-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hill-88-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/hill-88/Hill_88_3231002878-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kirby-cove-camp-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/kirby-cove/Golden_Gate_Bridge_and_San_Francisco_from_Kirby_Cove_bluff-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nike-missle-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/nike-missile-site-sf-88/SF-88_3090947656-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#olema-bolinas-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/bolinas-ridge/Bolinas_Lagoo_and_Mt._Tam-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#point-bonita-lighthouse-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/point-bonita-lighthouse/Point_Bonita_Lighthouse_in_May_2018-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rodeo-beach-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/rodeo-beach/Marin_headlands_164007076-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#slacker-ridge-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/slacker-ridge/Golden_Gate_Bridge_from_Slacker_Ridge_in_Marin_Headlands-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stinson-beach-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/stinson-beach/Stinson_Beach_boulders-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tennessee-valley-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/tennessee-valley/Tennessee-valley_trail_facing-east-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #battery-chamberlin-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/) center no-repeat;
+    background-size: cover;
+} */
+#china-beach-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/china-beach/Laika_ac_China_Beach_6419558385-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crissy-field-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/crissy-field/Golden_gate_bridge_from_crissy_field\ 1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-funston-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/fort-funston/Funston_overlook_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-mason-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/fort-mason/View_from_Fort_Mason_-_March_2018_0086-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-point-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/fort-point-national-historic-site/Golden_Gate_Bridge_deck_-_Fort_Point_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lands-end-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/lands-end/Panorama_at_Lands_End_San_Francisco-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ocean-beach-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/ocean-beach/Cliff_House_from_Ocean_Beach-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#presidio-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/presidio-of-san-francisco/Presidio_gun_turrets_and_the_golden_gate_bridge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sutro-baths-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/sutro-baths/Sutro_baths_sunset_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mori-point-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/mori-point/Mori_Point_54-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rancho-corral-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/rancho-corral-de-tierra/Goga_Rancho_Corral_de_Tierra_IMG_2333-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sweeney-ridge-hero{
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/Sweeney_Ridge\,_Portola_Discovery_Site_marker-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#angel-island-hero{
+background: url(resources/images/california/san-francisco/angel-island/Angel_Island_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#balmy-ally-hero{
+background: url(resources/images/california/san-francisco/balmy-alley/Mission_Mural_-_Political_Art_-_39364787244-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coit-tower-hero{
+background: url(resources/images/california/san-francisco/coit-tower/Coit_Tower_from_Westin_St_Francis_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fishermans-wharf-hero{
+background: url(resources/images/california/san-francisco/fishermans-wharf/The_Embarcadero\,_San_Francisco-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ghiradelli-hero{
+background: url(resources/images/california/san-francisco/ghirardelli-square/Ghirardelli_Square_36100760401-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#golden-gate-park-hero{
+background: url(resources/images/california/san-francisco/golden-gate-park/Golden_Gate_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#haight-ashbury-hero{
+background: url(resources/images/california/san-francisco/haight-ashbury/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pier-39-hero{
+background: url(resources/images/california/san-francisco/pier-39/Pier_39_in_2021-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-francisco-cable-car-hero{
+background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/San_Francisco_California\,_USA\,_Cable_Car_--_2012_--_4180-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-francisco-maritime-park-hero{
+background: url(resources/images/california/san-francisco/san-francisco-maritime-national-historical-park/Aquatic_Cove_Cityscape_San_Francisco-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#twin-peaks-park-her{
+background: url(resources/images/california/san-francisco/twin-peaks/San_Francisco_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#union-square-hero{
+    background: url(resources/images/california/san-francisco/union-square/San_Francisco_Union_Square-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #alcatraz-hero{
     background: url(resources/images/california/san-francisco/alcatraz/alcatraz-island-hero-two-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1613,13 +2014,196 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background-size: cover;
 }
 #palm-springs-hero{
-    background: url(resources/images/california/palmSprings/palm-springs-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/palm-springs/palm-springs-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-san-jacinto-hero{
+    background: url(resources/images/california/palm-springs/mount-san-jacinto/Santa_Rosa_and_San_Jacinto_Mountains_NM_9417743168-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palm-springs-aerial-hero{
+    background: url(resources/images/california/palm-springs/palm-springs-aerial-tram/Palm_Springs_Aerial_Tram\,_CA_4-15_24022767713-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palm-canyon{
+    background: url(resources/images/california/palm-springs/palm-canyon/Washingtonia_filifera_in_Palm_Canyon-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mt-shasta-hero{
-    background: url(resources/images/california/shasta/Mount_Shasta_34774661494-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/mount-shasta/Mount_Shasta_34774661494-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#avalon-hero{
+    background: url(resources/images/california/santa-catalina-island/avalon/Avalon\,_Santa_Catalina_Island\,_California_8658958857-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#catalina-casino-hero{
+    background: url(resources/images/california/santa-catalina-island/catalina-casino/Catalina_160-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#santa-catalina-island-hero{
+    background: url(resources/images/california/santa-catalina-island/Avalon\,_Catalina_Island_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#trans-catalina-trail-hero{
+    background: url(resources/images/california/santa-catalina-island/trans-catalina-trail/Fenceline_Road_31892022912-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#two-harbors-hero{
+    background: url(resources/images/california/santa-catalina-island/two-harbors/Two_harbors_Catalina_south_side_of_the_island_2_by_Don_Ramey_Logan-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wrigley-botanical-hero{
+    background: url(resources/images/california/santa-catalina-island/wrigley-botanical-garden/Wrigley_Memorial-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#alabama-hills-hero{
+    background: url(resources/images/california/alabama-hills-national-scenic-area/Alabama_Hills_National_Scenic_Area_-_50657772358-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#anza-borrego-valley-hero{
+background: url(resources/images/california/anza-borrego-desert-state-park/Blair_Valley-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-pine-lakes-hero{
+background: url(resources/images/california/big-pine-lakes/Explorer_21243483680-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bishop-ca-hero{
+background: url(resources/images/california/bishop/Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#carrizo-plain-hero{
+background: url(resources/images/california/carrizo-plain-national-monument/My_Public_Lands_Roadtrip-_Carrizo_Plain_National_Monument_in_California_18896277195-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#elephant-vista-hero{
+background: url(resources/images/california/elephant-seal-vista-point/elephant-seal-vista-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-ord-dunes-hero{
+background: url(resources/images/california/fort-ord-dunes-state-park/NorCal2018_Fort_Ord_Dunes_State_Park_Monterey_Bay_S0571089-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-ord-nm-hero{
+background: url(resources/images/california/fort-ord-national-monument/Fort_Ord_NM_9302539654-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lava-beds-nm-hero{
+background: url(resources/images/california/lava-beds-national-monument/Lava_Beds_National_Monument_with_Mt_Shasta_15121699451-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lost-coast-hero{
+background: url(resources/images/california/lost-coast/Lost_Coast-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mackerricher-sp-hero{
+background: url(resources/images/california/mackerricher-state-park/Ten_Mile_Haul_Road_-_Facing_North-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mammoth-lakes-hero{
+background: url(resources/images/california/mammoth-lakes/Mammoth_Mtn_ski_area_16126219736-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcarthur-burney-hero{
+background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burney_Falls_Memorial_State_Park\,_California_22693439683-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mendocino-headlands-hero{
+background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#onion-valley-hero{
+background: url(resources/images/california/onion-valley/Kearsarge_Lakes_Twilight_6068372199-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#panum-crater-hero{
+background: url(resources/images/california/mono-lake/panum-crater/Panum_Crater_plug_18778010004-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#point-reyes-hero{
+background: url(resources/images/california/point-reyes-national-seashore/Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#alamere-falls-hero{
+background: url(resources/images/california/point-reyes-national-seashore/alamere-falls/Alamere_Falls_30187309-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wildcat-beach-hero{
+background: url(resources/images/california/point-reyes-national-seashore/wildcat-beach/Wildcat_beach_at_Point_Reyes_National_Seashore_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#russian-gulch-hero{
+background: url(resources/images/california/russian-gulch-state-park/Russian_Gulch_State_Park_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#angeles-crest-hero{
+background: url(resources/images/california/san-gabriel-mountains/angeles-crest-highway/Angeles_National_Forest_Marker-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bridge-nowhere-hero{
+background: url(resources/images/california/san-gabriel-mountains/bridge-to-nowhere/The_Bridge_to_Nowhere_San_Gabriel_Mountains-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-baden-powell-hero{
+background: url(resources/images/california/san-gabriel-mountains/mount-baden-powell/Mt_Baden-Powell_as_seen_from_the_Angeles_Crest_Highway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-san-antonio-hero{
+background: url(resources/images/california/san-gabriel-mountains/mount-san-antonio-mount-baldy/Mt._Baldy_OTL_hike-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-wilson-hero{
+background: url(resources/images/california/san-gabriel-mountains/mount-wilson-san-gabriel/Mt_Wilson_Seen_From_Strawberry_Peak_Trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#leo-carrillo-sp-hero{
+background: url(resources/images/california/santa-monica-national-recreation-area/leo-carrillo-state-park/What_a_day_-_Beach_at_Leo_Carrillo_State_Park\,_California_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#malibu-creek-sp-hero{
+background: url(resources/images/california/santa-monica-national-recreation-area/malibu-creek-state-park/Malibu_creek1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#point-mugu-sp-hero{
+background: url(resources/images/california/santa-monica-national-recreation-area/point-mugu-state-park/Point_Mugu_September_2013_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#topango-sp-hero{
+background: url(resources/images/california/santa-monica-national-recreation-area/topanga-state-park/Topanga_Canyon_Los_Angeles-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#silicon-valley-hero{
+background: url(resources/images/california/silicon-valley/Aerial_view_of_Apple_Park_dllu-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-tamalpais-hero{
+background: url(resources/images/california/mount-tamalpais/Alexander_Avenue_Bridge_with_Mt._Tamalpais-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pisgah-crater-hero{
+background: url(resources/images/california/pisgah-crater/Inside_one_of_the_Lava_Tube_Caves_at_Pisgah._This_one_is_SPJ-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#potato-chip-rock-hero{
+background: url(resources/images/california/potato-chip-rock/Line_of_People_at_Potato_Chip_Rock-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vasquez-rocks-hero{
+background: url(resources/images/california/vasquez-rocks-natural-area-and-nature-center/Vasquez_Rocks_15256385224-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#walker-canyon{
+background: url(resources/images/california/walker-canyon/walker-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#will-rogers-state-beach-hero{
+    background: url(resources/images/california/will-rogers-state-beach/Will_Rogers_State_Beach_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #sequoia-hero{
     background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
@@ -1662,33 +2246,130 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-size: cover;
 }
 #yosemite-hero{
-    background: url(resources/images/california/yosemite-one/tunnel-view/yosemite-tunnel-view-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bridalveil-fall-hero{
-    background: url(resources/images/california/yosemite-one/bridalveil-yosemite/yosemite-bridalveil-fall-mist-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/bridalveil-falls-yosemite/yosemite-bridalveil-fall-mist-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #clouds-rest-hero{
-    background: url(resources/images/california/yosemite-one/) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/clouds-rest/Yosemite_Valley_From_Clouds_Rest-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #glacier-point-hero{
-    background: url(resources/images/california/yosemite-one/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #el-capitan-hero{
-    background: url(resources/images/california/yosemite-one/el-capitan/yosemite-el-capitan-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/el-capitan/yosemite-el-capitan-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hiking-yosemite-hero{
-    background: url(resources/images/california/yosemite-one/half-dome/yosemite-half-dome-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/half-dome/yosemite-half-dome-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#lower-yosemite-hero{
-    background: url(resources/images/california/yosemite-one/yosemite-falls/yosemite-falls-hero-1136wPortrait.jpg) center no-repeat;
+#sentinel-dome-hero{
+    background: url(resources/images/california/yosemite-national-park/glacier-point/sentinel-dome/Sentinel_Dome\,_Yosemite_NP-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#taft-point-hero{
+    background: url(resources/images/california/yosemite-national-park/glacier-point/taft-point/Taft_Point_Panorama-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hetch-hetchy-hero{
+    background: url(resources/images/california/yosemite-national-park/hetch-hetchy/Leaving_Hetch_Hetchy_4640765636-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#laurel-vernon-hero{
+    background: url(resources/images/california/yosemite-national-park/hetch-hetchy/lake-vernon-rancheria-falls-trail/Lake_Vernon_Yosemite-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wapama-falls-hero{
+    background: url(resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Wapama_Falls_at_Hetch_Hetchy-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-lakes-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/cathedral-lakes/Cathedral_Lakes_Trek_20_4246260676-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dog-lake-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/dog-lake/034.DogLakeHike-a-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gaylor-lakes-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/gaylor-lakes/Gaylor_lakes-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glen-aulin-hero{
+    background: url(resources/images/california/yosemite-national-park/half-dome/yosemite-half-dome-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lembert-dome-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lyell-canyon-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/lyell-canyon/Lyell_Canyon-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mono-pass-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/mono-pass/View_from_12\,000ft_Mono_Pass\,_Eastern_Sierra\,_CA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-dana-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount_Dana_Panorama-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#olmstead-point-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/olmstead-point/Olmstead_Point_-_panoramio_\(1\)-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tenaya-lake-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/tenaya-lake/Tenaya_Lake_-_Flickr_-_romainguy-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tioga-road-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tuolumne-meadows-hero{
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/112.TuolumnneMeadows-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#four-mile-hero{
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/four-mile-trail/West_Yosemite_Valley_from_Four_MIle_Trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#half-dome-hero{
+    background: url(resources/images/california/yosemite-national-park/half-dome/yosemite-half-dome-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mirror-lake-trail-hero{
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/mirror-lake/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mist-trail-hero{
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal\ and\ Nevada\ Falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yosemite-falls-hero{
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/Yosemite_Falls_from_trail\,_Yosemite_NP\,_CA\,_US_-_Diliff-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yosemite-village-hero{
+    background: url(resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/yosemite-village-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mariposa-grove-hero{
+    background: url(resources/images/california/yosemite-national-park/mariposa-grove/Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wawona-hero{
+    background: url(resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #black-canyon-hero{
     background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4490,7 +5171,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #carmel-hero{
-        background: url(resources/images/california/carmelBeach/carmel-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/carmel-by-the-sea/carmel-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #anacapa-hero{
@@ -4550,6 +5231,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/death-valley-national-park/ubehebe-crater/death-valley-ubehebe-crater-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
     #donner-memorial-hero{
         background: url(resources/images/california/donner-memorial/Donner_Memorial_State_Park_-_Flickr_-_Joe_Parks-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -4643,16 +5325,48 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     
-    #la-jolla-hero{
-        background: url(resources/images/california/lajolla/lajolla-cove-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #laguna-hero{
         background: url(resources/images/california/laguna/laguna-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #tahoe-hero{
         background: url(resources/images/california/lake-tahoe/lake-tahoe-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cave-rock-hero{
+        background: url(resources/images/california/lake-tahoe/cave-rock/Caverock-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #dl-bliss-hero{
+        background: url(resources/images/california/lake-tahoe/d-l-bliss-state-park/Bliss_State_Park\,_CA-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #emerald-bay-hero{
+        background: url(resources/images/california/lake-tahoe/emerald-bay-state-park/Emerald_Bay_State_Park_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ed-zberg-sp-hero{
+        background: url(resources/images/california/lake-tahoe/) center no-repeat;
+        background-size: cover;
+    }
+    #heavenly-mountain-hero{
+        background: url(resources/images/california/lake-tahoe/heavenly-mountain-resort/Heavenly_Gondola_Base-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lake-aloha-hero{
+        background: url(resources/images/california/lake-tahoe/lake-aloha/Lake_Aloha_3076427948-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mount-tallac-hero{
+        background: url(resources/images/california/lake-tahoe/mount-tallac/Lake_Tahoe_from_Mount_Tallac_Summit-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palisades-tahoe-hero{
+        background: url(resources/images/california/lake-tahoe/palisades-tahoe-squaw-valley/Squaw_Valley_Gondola-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-lake-tahoe-hero{
+        background: url(resources/images/california/lake-tahoe/) center no-repeat;
         background-size: cover;
     }
     #lassen-hero{
@@ -4681,6 +5395,30 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     }
     #los-angeles-hero{
         background: url(resources/images/california/los-angeles/Los_Angeles_with_Mount_Baldy-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bradbury-building-hero{
+        background: url(resources/images/california/los-angeles/bradbury-building/BradburyInterior2014-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #aquarium-pacific-hero{
+        background: url(resources/images/california/los-angeles/aquarium-of-the-pacific/aquarium-pacific-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #beverly-hills-hero{
+        background: url(resources/images/california/los-angeles/beverly-hills/HSY-_Beverly_Hills_House-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ca-science-center-hero{
+        background: url(resources/images/california/los-angeles/california-science-center/Endeavour_at_California_Science_Center-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #huntington-library-hero{
+        background: url(resources/images/california/los-angeles/huntington-library/Librairie_Huntington_Library._3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #universal-studios-hollywood-hero{
+        background: url(resources/images/california/los-angeles/universal-studios-hollywood/Hogwarts_-_Wizarding_World_of_Harry_Potter_-_Hollywood-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #broad-hero{
@@ -4865,6 +5603,54 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/los-angeles/walt-disney-concert-hall/walt-disney-concert-hall-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #malibu-hero{
+        background: url(resources/images/california/malibu/Malibu_beach_and_pier_2012_01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #el-matador-beach-hero{
+        background: url(resources/images/california/malibu/el-matador-state-beach/El_Matador_State_Beach_23776434158-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #point-dume-hero{
+        background: url(resources/images/california/malibu/point-dume/View_north_from_Point_Dume_State_Beach-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #asilomar-beach-hero{
+        background: url(resources/images/california/monterey/asilomar-state-beach/Asilomar_State_Beach_-_DSC06567-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cannery-row-hero{
+        background: url(resources/images/california/monterey/cannery-row/Cannery_Row\,_Monterey_7_2017-11-21-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #catehdral-san-carlos-borromeo-hero{
+        background: url(resources/images/california/monterey/cathedral-of-san-carlos-borromeo/Monterey\,_California_-_Cathedral_of_San_Carlos_Borromeo_Royal_Presidio_Chapel_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #monterey-bay-aquarium-hero{
+        background: url(resources/images/california/monterey/monterey-bay-aquarium/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #monterey-state-historic-park-hero{
+        background: url(resources/images/california/monterey/monterey-state-historic-park/Colton_Hall\,_Monterey.-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-fishermans-wharf-hero{
+        background: url(resources/images/california/monterey/old-fishermans-wharf/Fishermans_Wharf_Monterey3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pebble-beach-hero{
+        background: url(resources/images/california/monterey/pebble-beach/Pebble_Beach\,_Del_Monte_Forest\,_CA\,_USA_-_panoramio_14-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #point-pinos-lighthouse-hero{
+        background: url(resources/images/california/monterey/point-pinos-lighthouse/Point_Pinos_Lighthouse-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seventeen-mile-hero{
+        background: url(resources/images/california/monterey/seventeen-mile-drive/17_mile_drive_cypress-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #mono-lakes-hero{
         background: url(resources/images/california/mono-lake/Mono_Lake_Tufa-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -4917,6 +5703,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
             background: url(resources/images/california/orange-county/san-clemente/Sanclemente3-3030.jpg) center no-repeat;
             background-size: cover;
         }
+        #seal-beach-hero{
+            background: url(resources/images/california/orange-county/seal-beach/Sealbeachcrowd-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
 
     #pinnacles-hero{
         background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-3030.jpg) center no-repeat;
@@ -4927,15 +5717,39 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #pch-hero{
-        background: url(resources/images/california/pch/pacific-coast-highway-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/pacific-coast-highway-big-sur/pacific-coast-highway-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #andrew-molera-hero{
+        background: url(resources/images/california/pacific-coast-highway-big-sur/andrew-molera-state-park/Central_coast\,_Andrew_Molera_State_Park_31514397001-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bixby-bridge-hero{
+        background: url(resources/images/california/pacific-coast-highway-big-sur/bixby-creek-bridge/Bixby_Creek_Bridge\,_California\,_USA_-_May_2013-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #garrapata-hero{
+        background: url(resources/images/california/pacific-coast-highway-big-sur/garrapata-state-park/Garrapata_Creek_California_2006_01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #limekiln-hero{
+        background: url(resources/images/california/pacific-coast-highway-big-sur/limekiln-state-park/Limekiln_State_Park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #point-lobos-hero{
+        background: url(resources/images/california/pacific-coast-highway-big-sur/point-lobos-state-natural-reserve/Whalers_Cove\,_Point_Lobos\,_CA\,_US_-_May_2013-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #point-sur-hero{
+        background: url(resources/images/california/pacific-coast-highway-big-sur/point-sur-state-historic-park/Point_Sur_Light_Station_-_the_rock-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #julia-pfeiffer-hero{
-        background: url(resources/images/california/pch/mcwayFalls/pacific-coast-highway-julia-pfeiffer-burns-sp-mcway-falls-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/pacific-coast-highway-big-sur/julia-pfeiffer-burns-state-park/mcway-falls/pacific-coast-highway-julia-pfeiffer-burns-sp-mcway-falls-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #pfeiffer-beach-hero{
-        background: url(resources/images/california/pch/pfeifferBeach/pfeiffer-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/pacific-coast-highway-big-sur/pfeiffer-beach/pfeiffer-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #rainbow-basin-hero{
@@ -4970,6 +5784,107 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/san-diego/balboa-park/san-diego-balboa-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #museum-us-hero{
+        background: url(resources/images/california/san-diego/balboa-park/museum-of-us/Aerial_-_San_Diego\,_CA_-_Museum_of_Man_02-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-diego-art-space-hero{
+        background: url(resources/images/california/san-diego/balboa-park/san-diego-art-and-space-museum/San_Diego_Air_&_Space_Museum_entrance_2009-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-diego-museum-art{
+        background: url(resources/images/california/san-diego/balboa-park/san-diego-museum-of-art/San_Diego_Museum_of_Art_04-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-diego-natural-history-hero{
+        background: url(resources/images/california/san-diego/balboa-park/san-diego-museum-of-natural-history/San_Diego_Museum_of_Natural_History_third_floor_7-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #belmont-park-hero{
+        background: url(resources/images/california/san-diego/belmont-park/Giant_Dipper_Roller_Coaster-10-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #blacks-beach-hero{
+    background: url(resources/images/california/san-diego/bl) center no-repeat;
+        background-size: cover;
+    }
+    #cowles-mtn-hero{
+    background: url(resources/images/california/san-diego/cowles-mountain/Cowles_Mountain-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gaslamp-hero{
+    background: url(resources/images/california/san-diego/gaslamp-quarter/Gaslamp_Quarter_01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #la-jolla-hero{
+        background: url(resources/images/california/san-diego/la-jolla-cove/lajolla-cove-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #little-italy-san-diego-hero{
+    background: url(resources/images/california/san-diego/little-italy-san-diego/San_Diego_Little_Italy_17748354360-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #manchester-grand-hero{
+    background: url(resources/images/california/san-diego/manchester-grand-hyatt-hotel/High-rises_in_San_Diego\,_California_5_2014-03-06-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-bay-hero{
+    background: url(resources/images/california/san-diego/mission-bay/MissionBayByPhilKonstantin-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-beach-hero{
+    background: url(resources/images/california/san-diego/mission-beach/San_Diego_Strand_Mission_Beach_125419187-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mission-trails-mtn-hero{
+    background: url(resources/images/california/san-diego/mission-trails-regional-park/Mission-trails-regional-park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-soledad-national-hero{
+    background: url(resources/images/california/san-diego/mt-soledad-national-veterans-memorial/2019_Mt._Soledad_National_Veterans_Memorial_at_dusk_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #north-park-sd-hero{
+    background: url(resources/images/california/san-diego/north-park/North_Park_San_Diego\,_California-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ocean-beach-san-diego-hero{
+    background: url(resources/images/california/san-diego/ocean-beach-sd/Ocean_Beach_north_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-town-san-diego-hero{
+    background: url(resources/images/california/san-diego/old-town-san-diego-state-historic-park/San_Diego_Old_town_2006_01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pacific-beach-hero{
+    background: url(resources/images/california/san-diego/pacific-beach/Pacific_Beach_Skyline-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-diego-central-library-hero{
+    background: url(resources/images/california/san-diego/san-diego-central-library/San_Diego_Central_Library-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-diego-zoo-hero{
+    background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #seaport-village-hero{
+    background: url(resources/images/california/san-diego/seaport-village/Seaport_Village_24_2014-03-06-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #spruce-suspension-hero{
+    background: url(resources/images/california/san-diego/spruce-street-suspension-bridge/Bankers_Hill_Spruce_St_bridge_San_Diego-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #stuart-collection-hero{
+    background: url(resources/images/california/san-diego/stuart-collection/Bear\,_UC_San_Diego-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sunset-cliffs-hero{
+        background: url(resources/images/california/san-diego/sunset-cliffs/Sunset_Cliffs\,_San_Diego\,_CA_92107\,_USA_-_panoramio_3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
     #cabrillo-hero{
         background: url(resources/images/california/san-diego/cabrillo/cabrillo-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -4987,9 +5902,177 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #midway-hero{
-        background: url(resources/images/california/san-diego/ussMidway/uss-midway-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-diego/uss-midway-museum/uss-midway-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+    #san-fran-hero{
+        background: url(resources/images/california/san-francisco/GGBridge_Old_Coast_Guard_Station-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
+    #battery-spencer-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/battery-spencer-overlook/BatterySpencer-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #battery-townsley-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/battery-townsley/Battery_Townsley\,_Fort_Cronkhite\,_Marin_Headlands\,_California-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fort-baker-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-baker/Fort_Baker_and_the_Golden_Gate_Bridge-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fort-barry-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-barry/Fort-Barry-Marin-Headlands-Florin-WLM-05-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fort-cronkhite{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-cronkhite/Fort_Cronkhite_Sausalito\,_CA-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hawk-hill-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/hawk-hill/San_Francisco_from_Hawk_Hill-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hill-88-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/hill-88/Hill_88_3231002878-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #kirby-cove-camp-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/kirby-cove/Golden_Gate_Bridge_and_San_Francisco_from_Kirby_Cove_bluff-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #nike-missle-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/nike-missile-site-sf-88/SF-88_3090947656-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #olema-bolinas-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/bolinas-ridge/Bolinas_Lagoo_and_Mt._Tam-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #point-bonita-lighthouse-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/point-bonita-lighthouse/Point_Bonita_Lighthouse_in_May_2018-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #rodeo-beach-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/rodeo-beach/Marin_headlands_164007076-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #slacker-ridge-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/slacker-ridge/Golden_Gate_Bridge_from_Slacker_Ridge_in_Marin_Headlands-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #stinson-beach-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/stinson-beach/Stinson_Beach_boulders-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #tennessee-valley-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/tennessee-valley/Tennessee-valley_trail_facing-east-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #battery-chamberlin-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/) center no-repeat;
+            background-size: cover;
+        } */
+        #china-beach-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/china-beach/Laika_ac_China_Beach_6419558385-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #crissy-field-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/crissy-field/Golden_gate_bridge_from_crissy_field\ 1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fort-funston-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/fort-funston/Funston_overlook_2-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fort-mason-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/fort-mason/View_from_Fort_Mason_-_March_2018_0086-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fort-point-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/fort-point-national-historic-site/Golden_Gate_Bridge_deck_-_Fort_Point_01-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lands-end-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/lands-end/Panorama_at_Lands_End_San_Francisco-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ocean-beach-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/ocean-beach/Cliff_House_from_Ocean_Beach-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #presidio-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/presidio-of-san-francisco/Presidio_gun_turrets_and_the_golden_gate_bridge-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sutro-baths-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/sutro-baths/Sutro_baths_sunset_2-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #mori-point-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/mori-point/Mori_Point_54-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #rancho-corral-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/rancho-corral-de-tierra/Goga_Rancho_Corral_de_Tierra_IMG_2333-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sweeney-ridge-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/Sweeney_Ridge\,_Portola_Discovery_Site_marker-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #angel-island-hero{
+        background: url(resources/images/california/san-francisco/angel-island/Angel_Island_California-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #balmy-ally-hero{
+        background: url(resources/images/california/san-francisco/balmy-alley/Mission_Mural_-_Political_Art_-_39364787244-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #coit-tower-hero{
+        background: url(resources/images/california/san-francisco/coit-tower/Coit_Tower_from_Westin_St_Francis_01-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fishermans-wharf-hero{
+        background: url(resources/images/california/san-francisco/fishermans-wharf/The_Embarcadero\,_San_Francisco-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ghiradelli-hero{
+        background: url(resources/images/california/san-francisco/ghirardelli-square/Ghirardelli_Square_36100760401-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #golden-gate-park-hero{
+        background: url(resources/images/california/san-francisco/golden-gate-park/Golden_Gate_Park-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #haight-ashbury-hero{
+        background: url(resources/images/california/san-francisco/haight-ashbury/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #pier-39-hero{
+        background: url(resources/images/california/san-francisco/pier-39/Pier_39_in_2021-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #san-francisco-cable-car-hero{
+        background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/San_Francisco_California\,_USA\,_Cable_Car_--_2012_--_4180-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #san-francisco-maritime-park-hero{
+        background: url(resources/images/california/san-francisco/san-francisco-maritime-national-historical-park/Aquatic_Cove_Cityscape_San_Francisco-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #twin-peaks-park-her{
+        background: url(resources/images/california/san-francisco/twin-peaks/San_Francisco_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #union-square-hero{
+            background: url(resources/images/california/san-francisco/union-square/San_Francisco_Union_Square-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+
+
     #alcatraz-hero{
         background: url(resources/images/california/san-francisco/alcatraz-one/alcatraz-island-hero-two-3030.jpg) center no-repeat;
         background-size: cover;
@@ -5027,16 +6110,199 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #palm-springs-hero{
-        background: url(resources/images/california/palmSprings/palm-springs-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/palm-springs/palm-springs-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mount-san-jacinto-hero{
+        background: url(resources/images/california/palm-springs/mount-san-jacinto/Santa_Rosa_and_San_Jacinto_Mountains_NM_9417743168-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palm-springs-aerial-hero{
+        background: url(resources/images/california/palm-springs/palm-springs-aerial-tram/Palm_Springs_Aerial_Tram\,_CA_4-15_24022767713-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palm-canyon{
+        background: url(resources/images/california/palm-springs/palm-canyon/Washingtonia_filifera_in_Palm_Canyon-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mt-shasta-hero{
-        background: url(resources/images/california/shasta/Mount_Shasta_34774661494-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/mount-shasta/Mount_Shasta_34774661494-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position-y: -100px;
     }
+    #avalon-hero{
+        background: url(resources/images/california/santa-catalina-island/avalon/Avalon\,_Santa_Catalina_Island\,_California_8658958857-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #catalina-casino-hero{
+        background: url(resources/images/california/santa-catalina-island/catalina-casino/Catalina_160-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #santa-catalina-island-hero{
+        background: url(resources/images/california/santa-catalina-island/Avalon\,_Catalina_Island_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #trans-catalina-trail-hero{
+        background: url(resources/images/california/santa-catalina-island/trans-catalina-trail/Fenceline_Road_31892022912-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #two-harbors-hero{
+        background: url(resources/images/california/santa-catalina-island/two-harbors/Two_harbors_Catalina_south_side_of_the_island_2_by_Don_Ramey_Logan-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wrigley-botanical-hero{
+        background: url(resources/images/california/santa-catalina-island/wrigley-botanical-garden/Wrigley_Memorial-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
+    #alabama-hills-hero{
+        background: url(resources/images/california/alabama-hills-national-scenic-area/Alabama_Hills_National_Scenic_Area_-_50657772358-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #anza-borrego-valley-hero{
+    background: url(resources/images/california/anza-borrego-desert-state-park/Blair_Valley-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #big-pine-lakes-hero{
+    background: url(resources/images/california/big-pine-lakes/Explorer_21243483680-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bishop-ca-hero{
+    background: url(resources/images/california/bishop/Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #carrizo-plain-hero{
+    background: url(resources/images/california/carrizo-plain-national-monument/My_Public_Lands_Roadtrip-_Carrizo_Plain_National_Monument_in_California_18896277195-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #elephant-vista-hero{
+    background: url(resources/images/california/elephant-seal-vista-point/elephant-seal-vista-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-ord-dunes-hero{
+    background: url(resources/images/california/fort-ord-dunes-state-park/NorCal2018_Fort_Ord_Dunes_State_Park_Monterey_Bay_S0571089-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-ord-nm-hero{
+    background: url(resources/images/california/fort-ord-national-monument/Fort_Ord_NM_9302539654-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lava-beds-nm-hero{
+    background: url(resources/images/california/lava-beds-national-monument/Lava_Beds_National_Monument_with_Mt_Shasta_15121699451-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lost-coast-hero{
+    background: url(resources/images/california/lost-coast/Lost_Coast-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mackerricher-sp-hero{
+    background: url(resources/images/california/mackerricher-state-park/Ten_Mile_Haul_Road_-_Facing_North-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mammoth-lakes-hero{
+    background: url(resources/images/california/mammoth-lakes/Mammoth_Mtn_ski_area_16126219736-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mcarthur-burney-hero{
+    background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burney_Falls_Memorial_State_Park\,_California_22693439683-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mendocino-headlands-hero{
+    background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #onion-valley-hero{
+    background: url(resources/images/california/onion-valley/Kearsarge_Lakes_Twilight_6068372199-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #panum-crater-hero{
+    background: url(resources/images/california/mono-lake/panum-crater/Panum_Crater_plug_18778010004-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #point-reyes-hero{
+    background: url(resources/images/california/point-reyes-national-seashore/Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #alamere-falls-hero{
+    background: url(resources/images/california/point-reyes-national-seashore/alamere-falls/Alamere_Falls_30187309-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wildcat-beach-hero{
+    background: url(resources/images/california/point-reyes-national-seashore/wildcat-beach/Wildcat_beach_at_Point_Reyes_National_Seashore_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #russian-gulch-hero{
+    background: url(resources/images/california/russian-gulch-state-park/Russian_Gulch_State_Park_4-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
+    #angeles-crest-hero{
+    background: url(resources/images/california/san-gabriel-mountains/angeles-crest-highway/Angeles_National_Forest_Marker-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bridge-nowhere-hero{
+    background: url(resources/images/california/san-gabriel-mountains/bridge-to-nowhere/The_Bridge_to_Nowhere_San_Gabriel_Mountains-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mount-baden-powell-hero{
+    background: url(resources/images/california/san-gabriel-mountains/mount-baden-powell/Mt_Baden-Powell_as_seen_from_the_Angeles_Crest_Highway-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mount-san-antonio-hero{
+    background: url(resources/images/california/san-gabriel-mountains/mount-san-antonio-mount-baldy/Mt._Baldy_OTL_hike-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mount-wilson-hero{
+    background: url(resources/images/california/san-gabriel-mountains/mount-wilson-san-gabriel/Mt_Wilson_Seen_From_Strawberry_Peak_Trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #leo-carrillo-sp-hero{
+    background: url(resources/images/california/santa-monica-national-recreation-area/leo-carrillo-state-park/What_a_day_-_Beach_at_Leo_Carrillo_State_Park\,_California_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #malibu-creek-sp-hero{
+    background: url(resources/images/california/santa-monica-national-recreation-area/malibu-creek-state-park/Malibu_creek1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #point-mugu-sp-hero{
+    background: url(resources/images/california/santa-monica-national-recreation-area/point-mugu-state-park/Point_Mugu_September_2013_003-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #topango-sp-hero{
+    background: url(resources/images/california/santa-monica-national-recreation-area/topanga-state-park/Topanga_Canyon_Los_Angeles-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #silicon-valley-hero{
+    background: url(resources/images/california/silicon-valley/Aerial_view_of_Apple_Park_dllu-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mount-tamalpais-hero{
+    background: url(resources/images/california/mount-tamalpais/Alexander_Avenue_Bridge_with_Mt._Tamalpais-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pisgah-crater-hero{
+    background: url(resources/images/california/pisgah-crater/Inside_one_of_the_Lava_Tube_Caves_at_Pisgah._This_one_is_SPJ-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #potato-chip-rock-hero{
+    background: url(resources/images/california/potato-chip-rock/Line_of_People_at_Potato_Chip_Rock-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #vasquez-rocks-hero{
+    background: url(resources/images/california/vasquez-rocks-natural-area-and-nature-center/Vasquez_Rocks_15256385224-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #walker-canyon{
+    background: url(resources/images/california/walker-canyon/walker-canyon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #will-rogers-state-beach-hero{
+        background: url(resources/images/california/will-rogers-state-beach/Will_Rogers_State_Beach_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
     #sequoia-hero{
-        background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
+        background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-giant-trees-parker-group-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
     #congress-hero{
@@ -5076,30 +6342,129 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #yosemite-hero{
-        background: url(resources/images/california/yosemite-one/tunnel-view/yosemite-tunnel-view-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bridalveil-fall-hero{
-        background: url(resources/images/california/yosemite-one/bridalveil-yosemite/yosemite-bridalveil-fall-mist-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/bridalveil-falls-yosemite/yosemite-bridalveil-fall-mist-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #clouds-rest-hero{
+        background: url(resources/images/california/yosemite-national-park/clouds-rest/Yosemite_Valley_From_Clouds_Rest-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #glacier-point-hero{
-        background: url(resources/images/california/yosemite-one/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #el-capitan-hero{
-        background: url(resources/images/california/yosemite-one/el-capitan/yosemite-el-capitan-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/el-capitan/yosemite-el-capitan-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hiking-yosemite-hero{
-        background: url(resources/images/california/yosemite-one/half-dome/yosemite-half-dome-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/half-dome/yosemite-half-dome-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #lower-yosemite-hero{
-        background: url(resources/images/california/yosemite-one/yosemite-falls/yosemite-falls-hero-2273wPortrait.jpg) center no-repeat;
+    #sentinel-dome-hero{
+        background: url(resources/images/california/yosemite-national-park/glacier-point/sentinel-dome/Sentinel_Dome\,_Yosemite_NP-3030.jpg) center no-repeat;
         background-size: cover;
     }
-  
+    #taft-point-hero{
+        background: url(resources/images/california/yosemite-national-park/glacier-point/taft-point/Taft_Point_Panorama-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hetch-hetchy-hero{
+        background: url(resources/images/california/yosemite-national-park/hetch-hetchy/Leaving_Hetch_Hetchy_4640765636-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #laurel-vernon-hero{
+        background: url(resources/images/california/yosemite-national-park/hetch-hetchy/lake-vernon-rancheria-falls-trail/Lake_Vernon_Yosemite-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wapama-falls-hero{
+        background: url(resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Wapama_Falls_at_Hetch_Hetchy-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cathedral-lakes-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/cathedral-lakes/Cathedral_Lakes_Trek_20_4246260676-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #dog-lake-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/dog-lake/034.DogLakeHike-a-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gaylor-lakes-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/gaylor-lakes/Gaylor_lakes-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glen-aulin-hero{
+        background: url(resources/images/california/yosemite-national-park/half-dome/yosemite-half-dome-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lembert-dome-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lyell-canyon-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/lyell-canyon/Lyell_Canyon-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mono-pass-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/mono-pass/View_from_12\,000ft_Mono_Pass\,_Eastern_Sierra\,_CA-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mount-dana-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount_Dana_Panorama-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #olmstead-point-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/olmstead-point/Olmstead_Point_-_panoramio_\(1\)-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tenaya-lake-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/tenaya-lake/Tenaya_Lake_-_Flickr_-_romainguy-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tioga-road-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tuolumne-meadows-hero{
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/112.TuolumnneMeadows-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #four-mile-hero{
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/four-mile-trail/West_Yosemite_Valley_from_Four_MIle_Trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #half-dome-hero{
+        background: url(resources/images/california/yosemite-national-park/half-dome/yosemite-half-dome-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mirror-lake-trail-hero{
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/mirror-lake/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mist-trail-hero{
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal\ and\ Nevada\ Falls-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yosemite-falls-hero{
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/Yosemite_Falls_from_trail\,_Yosemite_NP\,_CA\,_US_-_Diliff-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yosemite-village-hero{
+        background: url(resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/yosemite-village-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mariposa-grove-hero{
+        background: url(resources/images/california/yosemite-national-park/mariposa-grove/Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wawona-hero{
+        background: url(resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #black-canyon-hero{
         background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-3030.jpg) center no-repeat;
         background-size: cover;
