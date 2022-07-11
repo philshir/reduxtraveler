@@ -1070,6 +1070,10 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background: url(resources/images/california/carmel-by-the-sea/carmel-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#clinton-walker-hero {
+    background: url(resources/images/california/carmel-by-the-sea/clinton-walker-house/clinton-walker-house-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #anacapa-hero{
     background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1398,7 +1402,7 @@ background: url(resources/images/california/los-angeles/sunset-boulevard/Sunset_
     background-size: cover;
 }
 #tcl-chinese-hero{
-background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/tcl-chinese-theatre/2013\,_Hollywood_Boulevard\,_TCL_Chinese_Theatre_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #echo-park-hero{
@@ -1442,7 +1446,7 @@ background: url(resources/images/california/los-angeles/sony-pictures-studio/Son
     background-size: cover;
 }
 #third-street-promenade-hero{
-background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_-_Third_Street_Promenade_a_06_Sept_2017-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_–_Third_Street_Promenade_a_06_Sept_2017-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #uss-iowa-hero{
@@ -1450,9 +1454,9 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Prospect
     background-size: cover;
 }
 #venice-canal-hero{
-background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
+    background: url(resources/images/california/los-angeles/venice-canals-historic-district/Highsmithvenicecanals-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #warner-bros-hero{
     background: url(resources/images/california/los-angeles/warner-studios-tour/WarnerBros-Studio-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1467,7 +1471,7 @@ background: url(resources/images/california/los-angeles/venice-beach/venice-beac
     background-size: cover;
 }
 #griffith-hero{
-    background: url(resources/images/california/los-angeles/griffithgriffith-park-and-observatory/griffith-observatory-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/griffith-park-and-observatory/griffith-observatory-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #grove-farmers-hero{
@@ -1482,8 +1486,12 @@ background: url(resources/images/california/los-angeles/venice-beach/venice-beac
     background: url(resources/images/california/los-angeles/hollywood-sign/hollywood-sign-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#hollywood-walk-hero{
+    background: url(resources/images/california/los-angeles/hollywood-walk-of-fame/Hollywood_Highland_Walk_of_Fame-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #queen-mary-hero{
-    background: url(resources/images/california/los-angeles/queen-mary/queen-mary-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/queen-mary/R.M.S._Queen_Mary_in_Long_Beach\,_California;_October_2019-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #santa-monica-hero{
@@ -1572,6 +1580,10 @@ background: url(resources/images/california/los-angeles/venice-beach/venice-beac
     background: url(resources/images/california/muirWoods/muir-woods-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#morro-bay-hero{
+    background: url(resources/images/california/morro-bay/Morro_Bay_City_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 #anaheim-hero{
 background: url(resources/images/california/orange-county/anaheim/Anaheim_Convention_Center_33006385903-1515.jpg) center no-repeat;
@@ -1615,7 +1627,7 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background-size: cover;
 }
 #pch-hero{
-    background: url(resources/images/california/pacific-coast-highway-big-sur/pacific-coast-highway-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/pacific-coast-highway-big-sur/Highway_1_Big_Sur_California-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #andrew-molera-hero{
@@ -1694,11 +1706,11 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background: url(resources/images/california/san-diego/balboa-park/museum-of-us/Aerial_-_San_Diego\,_CA_-_Museum_of_Man_02-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#san-diego-art-space-hero{
-    background: url(resources/images/california/san-diego/balboa-park/san-diego-art-and-space-museum/San_Diego_Air_&_Space_Museum_entrance_2009-1515.jpg) center no-repeat;
+#san-diego-air-space-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-air-and-space-museum/San_Diego_Air_&_Space_Museum_entrance_2009-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#san-diego-museum-art{
+#san-diego-museum-art-hero{
     background: url(resources/images/california/san-diego/balboa-park/san-diego-museum-of-art/San_Diego_Museum_of_Art_04-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -1723,7 +1735,7 @@ background: url(resources/images/california/san-diego/gaslamp-quarter/Gaslamp_Qu
     background-size: cover;
 }
 #la-jolla-hero{
-    background: url(resources/images/california/san-diego/la-jolla-cove/lajolla-cove-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/la-jolla-cove/La_Jolla_Cove_from_the_south-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #little-italy-san-diego-hero{
@@ -1796,7 +1808,7 @@ background: url(resources/images/california/san-diego/stuart-collection/Bear\,_U
     background-size: cover;
 }
 #coronado-beach-hero{
-    background: url(resources/images/california/san-diego/coronado-beach/coronado-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/coronado-beach/Hotel_del_Coronado-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #maritime-hero{
@@ -2025,7 +2037,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background: url(resources/images/california/palm-springs/palm-springs-aerial-tram/Palm_Springs_Aerial_Tram\,_CA_4-15_24022767713-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#palm-canyon{
+#palm-canyon-hero{
     background: url(resources/images/california/palm-springs/palm-canyon/Washingtonia_filifera_in_Palm_Canyon-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -2243,6 +2255,10 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
 
 #white-mountain-hero{
     background: url(resources/images/california/white-mountain/White_Mountain_Peak_View_to_southwest\,_California-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wine-country-hero{
+    background: url(resources/images/california/wine-country/Sonomamtnvineyard-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yosemite-hero{
@@ -5174,6 +5190,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/carmel-by-the-sea/carmel-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #clinton-walker-hero {
+        background: url(resources/images/california/carmel-by-the-sea/clinton-walker-house/clinton-walker-house-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #anacapa-hero{
         background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-3030.jpg) center no-repeat;
         background-size: cover;
@@ -5450,6 +5470,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/california/los-angeles/olvera-street/Olvera_Street\,_Los_Angeles-1-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    
     #chateau-marmont-hero{
     background: url(resources/images/california/los-angeles/sunset-strip/chateau-marmont/Chateau_Marmont_West_Hollywood_51017770156-3030.jpg) center no-repeat;
         background-size: cover;
@@ -5498,10 +5519,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/california/los-angeles/sunset-boulevard/Sunset_Tower\,_8358_Sunset_Blvd._West_Hollywood_2370-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #tlc-chinese-hero{
-    background: url(resources/images/california/los-angeles/broad/broad-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+    #tcl-chinese-hero{
+        background: url(resources/images/california/los-angeles/tcl-chinese-theatre/2013\,_Hollywood_Boulevard\,_TCL_Chinese_Theatre_-_panoramio-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #echo-park-hero{
     background: url(resources/images/california/los-angeles/echo-park/20190616154621!Echo_Park_Lake_with_Downtown_Los_Angeles_Skyline-3030.jpg) center no-repeat;
         background-size: cover;
@@ -5543,15 +5564,15 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #third-street-promenade-hero{
-    background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_-_Third_Street_Promenade_a_06_Sept_2017-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+        background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_–_Third_Street_Promenade_a_06_Sept_2017-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #uss-iowa-hero{
     background: url(resources/images/california/los-angeles/uss-iowa-museum/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #venice-canal-hero{
-    background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/venice-canals-historic-district/Highsmithvenicecanals-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #warner-bros-hero{
@@ -5583,8 +5604,12 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/los-angeles/hollywood-sign/hollywood-sign-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #hollywood-walk-hero{
+        background: url(resources/images/california/los-angeles/hollywood-walk-of-fame/Hollywood_Highland_Walk_of_Fame-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #queen-mary-hero{
-        background: url(resources/images/california/los-angeles/queen-mary/queen-mary-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/queen-mary/R.M.S._Queen_Mary_in_Long_Beach\,_California;_October_2019-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #santa-monica-hero{
@@ -5668,7 +5693,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/california/mojave-national-preserve/teutonia-peak/Teutonia_Peak_2-3030.jpg) center no-repeat;
     background-size: cover;
 }
-
+#morro-bay-hero{
+    background: url(resources/images/california/morro-bay/Morro_Bay_City_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 
     #muir-woods-hero{
         background: url(resources/images/california/muirWoods/muir-woods-hero-3030.jpg) center no-repeat;
@@ -5717,7 +5745,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #pch-hero{
-        background: url(resources/images/california/pacific-coast-highway-big-sur/pacific-coast-highway-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/pacific-coast-highway-big-sur/Highway_1_Big_Sur_California-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #andrew-molera-hero{
@@ -5788,11 +5816,11 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/san-diego/balboa-park/museum-of-us/Aerial_-_San_Diego\,_CA_-_Museum_of_Man_02-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #san-diego-art-space-hero{
-        background: url(resources/images/california/san-diego/balboa-park/san-diego-art-and-space-museum/San_Diego_Air_&_Space_Museum_entrance_2009-3030.jpg) center no-repeat;
+    #san-diego-air-space-hero{
+        background: url(resources/images/california/san-diego/balboa-park/san-diego-air-and-space-museum/San_Diego_Air_&_Space_Museum_entrance_2009-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #san-diego-museum-art{
+    #san-diego-museum-art-hero{
         background: url(resources/images/california/san-diego/balboa-park/san-diego-museum-of-art/San_Diego_Museum_of_Art_04-3030.jpg) center no-repeat;
         background-size: cover;
     }
@@ -5817,7 +5845,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #la-jolla-hero{
-        background: url(resources/images/california/san-diego/la-jolla-cove/lajolla-cove-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-diego/la-jolla-cove/La_Jolla_Cove_from_the_south-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #little-italy-san-diego-hero{
@@ -5890,7 +5918,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #coronado-beach-hero{
-        background: url(resources/images/california/san-diego/coronado/coronado-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-diego/coronado-beach/Hotel_del_Coronado-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #maritime-hero{
@@ -6121,7 +6149,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/palm-springs/palm-springs-aerial-tram/Palm_Springs_Aerial_Tram\,_CA_4-15_24022767713-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #palm-canyon{
+    #palm-canyon-hero{
         background: url(resources/images/california/palm-springs/palm-canyon/Washingtonia_filifera_in_Palm_Canyon-3030.jpg) center no-repeat;
         background-size: cover;
     }
@@ -6339,6 +6367,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     }
     #white-mountain-hero{
         background: url(resources/images/california/white-mountain/White_Mountain_Peak_View_to_southwest\,_California-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wine-country-hero{
+        background: url(resources/images/california/wine-country/Sonomamtnvineyard-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yosemite-hero{
