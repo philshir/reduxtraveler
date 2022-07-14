@@ -2907,105 +2907,110 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background: url(resources/images/branson/table-rock-mo/table-rock-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* Nevada */
 #wheeler-peak-scenic-hero{
-    background: url(resources/images/nevada-one/great-basin/Baker_Peak-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin/Baker_Peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lehman-caves-hero{
-    background: url(resources/images/nevada-one/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bristlecone-glacier-hero{
-    background: url(resources/images/nevada-one/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wheeler-peak-nv-hero{
-    background: url(resources/images/nevada-one/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
 #hoover-dam-hero{
-    background: url(resources/images/nevada-one/hoover/hoover-dam-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/hoover/hoover-dam-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#las-vegas-hero{
+    background: url(resources/images/nevada/las-vegas/Las_Vegas_from_Eiffel_Tower_replica-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bellagio-hero{
-    background: url(resources/images/nevada-one/LasVegas/belagioNV/bellagio-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/belagioNV/bellagio-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #caesars-hero{
-    background: url(resources/images/nevada-one/LasVegas/caesars/caesars-palace-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/caesars-palace/caesars-palace-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cosmo-hero{
-    background: url(resources/images/nevada-one/LasVegas/cosmo/cosmo-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/cosmo/cosmo-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #excalibur-hero{
-    background: url(resources/images/nevada-one/LasVegas/excaliburNV/excalibur-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/excaliburNV/excalibur-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #fremont-street-hero{
-    background: url(resources/images/nevada-one/LasVegas/fremont/fremont-street-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/fremont/fremont-street-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #luxor-hero{
-    background: url(resources/images/nevada-one/LasVegas/luxorNV/luxor-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/luxorNV/luxor-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mandalay-hero{
-    background: url(resources/images/nevada-one/LasVegas/mandalay/mandalay-bay-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/mandalay/mandalay-bay-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mgm-hero{
-    background: url(resources/images/nevada-one/LasVegas/mgm/mgm-grand-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/mgm/mgm-grand-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mirage-hero{
-    background: url(resources/images/nevada-one/LasVegas/mirageNV/mirage-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/mirageNV/mirage-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nyny-hero{
-    background: url(resources/images/nevada-one/LasVegas/newYorkNV/new-york-new-york-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/newYorkNV/new-york-new-york-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #paris-hero{
-    background: url(resources/images/nevada-one/LasVegas/parisNV/paris-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/parisNV/paris-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #planet-hollywood-hero{
-    background: url(resources/images/nevada-one/LasVegas/planetHollywood/planet-hollywood-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/planetHollywood/planet-hollywood-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #strat-hero{
-    background: url(resources/images/nevada-one/LasVegas/stratNV/strat-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/stratNV/strat-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #treasure-island-hero{
-    background: url(resources/images/nevada-one/LasVegas/treasureIsland/treasure-island-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/treasureIsland/treasure-island-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #venetian-hero{
-    background: url(resources/images/nevada-one/LasVegas/venetianNV/venetian-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/venetianNV/venetian-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wynn-hero{
-    background: url(resources/images/nevada-one/LasVegas/wynnNV/wynn-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/wynnNV/wynn-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #red-rock-canyon-hero{
-    background: url(resources/images/nevada-one/red-rock-canyon/red-rock-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/red-rock-canyon/red-rock-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #valley-fire-hero{
-    background: url(resources/images/nevada-one/valley-fire/valley-of-fire-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/valley-fire/valley-of-fire-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #valley-scenic-hero{
-    background: url(resources/images/nevada-one/valley-fire/valley-of-fire-scenic-drive-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/valley-fire/valley-of-fire-scenic-drive-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #white-domes-hero{
-    background: url(resources/images/nevada-one/valley-fire/white-domes/valley-of-fire-white-domes-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/valley-fire/white-domes/valley-of-fire-white-domes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -6793,104 +6798,108 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #wheeler-peak-scenic-hero{
-        background: url(resources/images/nevada-one/great-basin/Baker_Peak-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/great-basin/Baker_Peak-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lehman-caves-hero{
-        background: url(resources/images/nevada-one/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bristlecone-glacier-hero{
-        background: url(resources/images/nevada-one/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #wheeler-peak-nv-hero{
-        background: url(resources/images/nevada-one/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position-y: -100px;
     }
     #hoover-dam-hero{
-        background: url(resources/images/nevada-one/hoover/hoover-dam-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/hoover/hoover-dam-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #las-vegas-hero{
+        background: url(resources/images/nevada/las-vegas/Las_Vegas_from_Eiffel_Tower_replica-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bellagio-hero{
-        background: url(resources/images/nevada-one/LasVegas/belagioNV/bellagio-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/belagioNV/bellagio-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #caesars-hero{
-        background: url(resources/images/nevada-one/LasVegas/caesars/caesars-palace-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/caesars-palace/caesars-palace-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cosmo-hero{
-        background: url(resources/images/nevada-one/LasVegas/cosmo/cosmo-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/cosmo/cosmo-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #excalibur-hero{
-        background: url(resources/images/nevada-one/LasVegas/excaliburNV/excalibur-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/excaliburNV/excalibur-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #fremont-street-hero{
-        background: url(resources/images/nevada-one/LasVegas/fremont/fremont-street-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/fremont/fremont-street-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #luxor-hero{
-        background: url(resources/images/nevada-one/LasVegas/luxorNV/luxor-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/luxorNV/luxor-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mandalay-hero{
-        background: url(resources/images/nevada-one/LasVegas/mandalay/mandalay-bay-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/mandalay/mandalay-bay-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mgm-hero{
-        background: url(resources/images/nevada-one/LasVegas/mgm/mgm-grand-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/mgm/mgm-grand-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mirage-hero{
-        background: url(resources/images/nevada-one/LasVegas/mirageNV/mirage-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/mirageNV/mirage-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #nyny-hero{
-        background: url(resources/images/nevada-one/LasVegas/newYorkNV/new-york-new-york-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/newYorkNV/new-york-new-york-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #paris-hero{
-        background: url(resources/images/nevada-one/LasVegas/parisNV/paris-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/parisNV/paris-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #planet-hollywood-hero{
-        background: url(resources/images/nevada-one/LasVegas/planetHollywood/planet-hollywood-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/planetHollywood/planet-hollywood-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #strat-hero{
-        background: url(resources/images/nevada-one/LasVegas/stratNV/strat-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/stratNV/strat-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #treasure-island-hero{
-        background: url(resources/images/nevada-one/LasVegas/treasureIsland/treasure-island-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/treasureIsland/treasure-island-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #venetian-hero{
-        background: url(resources/images/nevada-one/LasVegas/venetianNV/venetian-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/venetianNV/venetian-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #wynn-hero{
-        background: url(resources/images/nevada-one/LasVegas/wynnNV/wynn-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/las-vegas/wynnNV/wynn-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #red-rock-canyon-hero{
-        background: url(resources/images/nevada-one/red-rock-canyon/red-rock-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/red-rock-canyon/red-rock-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #valley-fire-hero{
-        background: url(resources/images/nevada-one/valley-fire/valley-of-fire-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/valley-fire/valley-of-fire-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #valley-scenic-hero{
-        background: url(resources/images/nevada-one/valley-fire/valley-of-fire-scenic-drive-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/valley-fire/valley-of-fire-scenic-drive-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #white-domes-hero{
-        background: url(resources/images/nevada-one/valley-fire/white-domes/valley-of-fire-white-domes-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/nevada/valley-fire/white-domes/valley-of-fire-white-domes-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #new-jersey-hero{
