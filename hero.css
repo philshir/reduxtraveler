@@ -2386,6 +2386,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-size: cover;
 }
 
+/* Colorado */
 #black-canyon-hero{
     background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2727,18 +2728,8 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background: url(resources/images/floridaOne/stAugustine/zero-milestone/st-augustine-zero-milestone-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
-#kentucky-hero{
-    background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
-    background-size: cover;
-}
-#black-mountain-ky-hero{
-    background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#mammoth-hero{
-    background: url(resources/images/kentuckyOne/mammoth/mammoth-cave-1136wPortrait.jpg) center no-repeat;
-    background-size: cover;
-}
+
+/* Georgia */
 #savannah-hero{
     background: url(resources/images/savannah-one/savannah-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2759,6 +2750,235 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background: url(resources/images/savannah-one/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* Illinois */
+/* Chicago */
+#art-institute-chicago-hero{
+background: url(resources/images/chicago/chicago-loop/art-institute-of-chicago/Art_Institute_of_Chicago_Fachada_01-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-board-trade-hero{
+background: url(resources/images/chicago/chicago-loop/chicago-board-of-trade-building/Chicago_Board_of_Trade_Building\,_Chicago\,_Illinois_11045690454-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-cultural-hero{
+background: url(resources/images/chicago/chicago-loop/chicago-cultural-center/Chicago_Cultural_Center_and_Chicago_Public_Library\,_Chicago_June_30\,_2012-42-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-loop-hero{
+background: url(resources/images/chicago/chicago-loop/) no-repeat center;
+    background-size: cover;
+}
+#chicago-riverwalk-hero{
+background: url(resources/images/chicago/chicago-loop/chicago-riverwalk/The_Chicago_Riverwalk-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#dearborn-station-hero{
+background: url(resources/images/chicago/chicago-loop/dearborn-station/Dearborn_station\,_Chicago_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#fine-arts-chicago-hero{
+background: url(resources/images/chicago/chicago-loop/fine-arts-building/Fine_Arts_Building_-_Chicago_51575569360-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#flamingo-loop-hero{
+background: url(resources/images/chicago/chicago-loop/flamingo-sculpture/Chicago_Loop\,_Chicago\,_IL\,_USA_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#harold-washington-hero{
+background: url(resources/images/chicago/chicago-loop/harold-washington-library/Harold_Washington_Library_-_Chicago_Public_Library_51574883428-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#hilton-chicago-hero{
+background: url(resources/images/chicago/chicago-loop/hilton-chicago/Stevens_Hotel--Hilton_Chicago_2020-0444-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#historic-michigan-hero{
+background: url(resources/images/chicago/chicago-loop/historic-michigan-boulevard-district/Historic_Michigan_Boulevard_District_from_Grant_Park\,_Chicago\,_Illinois_9179528683-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#marquette-building-hero{
+background: url(resources/images/chicago/chicago-loop/marquette-building/Marquette_Building_4_14805119130-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#monadnock-building-hero{
+background: url(resources/images/chicago/chicago-loop/monadnock-building/Monadnock_Building_East_Facade-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#rookery-blg-hero{
+background: url(resources/images/chicago/chicago-loop/rookery-building/Rookery_Building_Spiral_Stairs-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#willis-tower-hero{
+background: url(resources/images/chicago/chicago-loop/willis-tower/Sears_Tower2-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-history-museum-hero{
+background: url(resources/images/chicago/lincoln-park/chicago-history-museum/Chicago_History-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#lincoln-park-zoo-hero{
+background: url(resources/images/chicago/lincoln-park/lincoln-park-zoo/Lincoln_Park_01-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#lincoln-park-hero{
+background: url(resources/images/chicago/lincoln-park/Lincoln_Park_South_2_4-1-22-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-water-tower-hero{
+background: url(resources/images/chicago/magnificent-mile/chicago-water-tower/View_of_Chicago_Water_Tower_from_the_table_32580255030-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#drake-chicago-hero{
+background: url(resources/images/chicago/magnificent-mile/drake-hotel/Drake_Hotel_Chicago_nord-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#dusable-bridge-hero{
+background: url(resources/images/chicago/magnificent-mile/dusable-bridge/Michigan_Avenue_Bridge-01-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#john-hancock-center-hero{
+background: url(resources/images/chicago/magnificent-mile/john-hancock-center/Looking_North_from_John_Hancock_Center_Observatory\,_Chicago\,_Illinois_11004295515-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#magnificent-mile-hero{
+background: url(resources/images/chicago/magnificent-mile/Wrigley_Building\,_Chicago\,_Illinois_9181661098-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#tribune-tower-hero{
+background: url(resources/images/chicago/magnificent-mile/tribune-tower/Tribune_Tower\,_Chicago\,_Illinois_9181671784-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#wrigley-building-hero{
+background: url(resources/images/chicago/magnificent-mile/wrigley-building/Wrigley_Building_Chicago_12_3224303379-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#adler-hero{
+background: url(resources/images/chicago/adler-planetarium/Alder_Planetarium-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#alinea-hero{
+background: url(resources/images/chicago/alinea/Alinea_2012_-_Blueberry_7303672688-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#burnham-park-hero{
+background: url(resources/images/chicago/burnham-park/Burnham_Park_lake_2004-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-l-hero{
+background: url(resources/images/chicago/chicago-l/El_track_tunnel_at_Illinois_Institute_of_Technology\,_Chicago-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-lakefront-hero{
+background: url(resources/images/chicago/chicago-lakefront-trail/Calumet_Park_Fieldhouse-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#chicago-hero{
+background: url(resources/images/chicago/Chicago-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#ernest-hemingway-birthplace-hero{
+background: url(resources/images/chicago/ernest-hemingway-birthplace/Hemingway_House_Museum_Oak_Park-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#field-museum-hero{
+background: url(resources/images/chicago/field-museum-of-natural-history/20031231_31_Field_Museum_of_Natural_History-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#robie-house-hero{
+background: url(resources/images/chicago/frederick-c-robie-house/Robie_House_Exterior_23-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#graceland-cemetery-hero{
+background: url(resources/images/chicago/graceland-cemetery/Marshall_Field_Monument_Graceland_Cemetery_Chicago_2019-1596-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#grant-park-hero{
+background: url(resources/images/chicago/grant-park/Buckingham_Fountain_with_Skyline-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#jackson-park-hero{
+background: url(resources/images/chicago/jackson-park/Garden_of_the_Phoenix_Jackson_Park_Chicago-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#leaning-tower-niles-hero{
+background: url(resources/images/chicago/leaning-tower-of-niles/Leaning_Tower_of_Niles_Illinois_2019-2731-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#midway-plaisance-hero{
+background: url(resources/images/chicago/midway-plaisance/Panorama_of_the_Fountain_of_Time-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#millennium-park-hero{
+background: url(resources/images/chicago/millennium-park/The_Bean_-_Cloud_Gate_35031895994-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#morton-arboretum-hero{
+background: url(resources/images/chicago/morton-arboretum/Morton_arboretum-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#museum-science-industry-hero{
+background: url(resources/images/chicago/museum-of-science-and-industry/Museum_of_Science+Industry_8091779951-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#navy-pier-hero{
+background: url(resources/images/chicago/navy-pier/Navy_Pier_2_15616477865-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#oriental-institute-hero{
+background: url(resources/images/chicago/oriental-institute-museum/Interior_view_-_Oriental_Institute_Museum\,_University_of_Chicago_-_DSC06925-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#pullman-nm-hero{
+background: url(resources/images/chicago/pullman-national-monument/Chicago-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#driehaus-museum-hero{
+background: url(resources/images/chicago/richard-h-driehaus-museum/Nickerson_Mansion_and_Murphy_Auditorium-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#rockefeller-chapel-hero{
+background: url(resources/images/chicago/rockefeller-chapel/Rockefeller_Memorial_Chapel_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#shedd-aquarium-hero{
+background: url(resources/images/chicago/shedd-aquarium/John_G_Shedd_Aquarium_15613710221-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#unity-temple-hero{
+background: url(resources/images/chicago/unity-temple/Unity_34752362240-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#waterfall-glen-hero{
+background: url(resources/images/chicago/waterfall-glen-forest-preserve/Creek_in_Spring_49696757766-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#wrigley-field-hero{
+background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+
+/* Indiana */
+#indiana-dunes-hero{
+    background: url(resources/images/indiana-dunes-national-park/Indiana_Dunes_National_Lakeshore\,_Michigan_City\,_Indiana\,_Estados_Unidos\,_2012-10-20\,_DD_03-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+
+/* Kentucky */
+#kentucky-hero{
+    background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#black-mountain-ky-hero{
+    background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mammoth-hero{
+    background: url(resources/images/kentuckyOne/mammoth/mammoth-cave-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* Louisiana */
 #bayou-coquille-hero{
     background: url(resources/images/louisiana/barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2883,6 +3103,8 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* Mississippi */
 #vicksburg-nmp-hero{
     background: url(resources/images/vicksburg-national-military-park/vicksburg-nmp-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2899,6 +3121,8 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* Missouri */
 #branson-landing-hero{
     background: url(resources/images/branson/branson-landing/branson-landing-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3014,6 +3238,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-size: cover;
 }
 
+/* New Jersey */
 #new-jersey-hero{
     background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3030,6 +3255,8 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background: url(resources/images/newJersey/seaside-heights/seaside-heights-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* New Mexico */
 #new-mexico-hero{
     background: url(resources/images/NewMexico/Las_Cruses\,_New_Mexico-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3113,7 +3340,6 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background: url(resources/images/new-york/new-york-city/museum-natural-history/American_Museum_of_Natural_History_AMNH_Manhattan_New_York_New_York_City_United_States_America__USA_US_50262006312-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
-
 #battery-hero{
     background: url(resources/images/new-york/new-york-city/battery-ny/battery-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4197,7 +4423,8 @@ background: url(resources/images/california/muirWoods/muir-woods-hero-1515.jpg) 
     background-size: cover;
 }
 #naknek-lake-hero{
-
+background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
+    background-size: cover;
 }
 #valley-ten-thousand-hero{
 
@@ -6761,6 +6988,220 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/floridaOne/stAugustine/zero-milestone/st-augustine-zero-milestone-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
+
+    /* Illinois */
+/* Chicago */
+#art-institute-chicago-hero{
+    background: url(resources/images/chicago/chicago-loop/art-institute-of-chicago/Art_Institute_of_Chicago_Fachada_01-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-board-trade-hero{
+    background: url(resources/images/chicago/chicago-loop/chicago-board-of-trade-building/Chicago_Board_of_Trade_Building\,_Chicago\,_Illinois_11045690454-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-cultural-hero{
+    background: url(resources/images/chicago/chicago-loop/chicago-cultural-center/Chicago_Cultural_Center_and_Chicago_Public_Library\,_Chicago_June_30\,_2012-42-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-loop-hero{
+    background: url(resources/images/chicago/chicago-loop/) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-riverwalk-hero{
+    background: url(resources/images/chicago/chicago-loop/chicago-riverwalk/The_Chicago_Riverwalk-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #dearborn-station-hero{
+    background: url(resources/images/chicago/chicago-loop/dearborn-station/Dearborn_station\,_Chicago_-_panoramio-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #fine-arts-chicago-hero{
+    background: url(resources/images/chicago/chicago-loop/fine-arts-building/Fine_Arts_Building_-_Chicago_51575569360-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #flamingo-loop-hero{
+    background: url(resources/images/chicago/chicago-loop/flamingo-sculpture/Chicago_Loop\,_Chicago\,_IL\,_USA_-_panoramio-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #harold-washington-hero{
+    background: url(resources/images/chicago/chicago-loop/harold-washington-library/Harold_Washington_Library_-_Chicago_Public_Library_51574883428-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #hilton-chicago-hero{
+    background: url(resources/images/chicago/chicago-loop/hilton-chicago/Stevens_Hotel--Hilton_Chicago_2020-0444-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #historic-michigan-hero{
+    background: url(resources/images/chicago/chicago-loop/historic-michigan-boulevard-district/Historic_Michigan_Boulevard_District_from_Grant_Park\,_Chicago\,_Illinois_9179528683-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #marquette-building-hero{
+    background: url(resources/images/chicago/chicago-loop/marquette-building/Marquette_Building_4_14805119130-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #monadnock-building-hero{
+    background: url(resources/images/chicago/chicago-loop/monadnock-building/Monadnock_Building_East_Facade-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #rookery-blg-hero{
+    background: url(resources/images/chicago/chicago-loop/rookery-building/Rookery_Building_Spiral_Stairs-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #willis-tower-hero{
+    background: url(resources/images/chicago/chicago-loop/willis-tower/Sears_Tower2-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-history-museum-hero{
+    background: url(resources/images/chicago/lincoln-park/chicago-history-museum/Chicago_History-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #lincoln-park-zoo-hero{
+    background: url(resources/images/chicago/lincoln-park/lincoln-park-zoo/Lincoln_Park_01-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #lincoln-park-hero{
+    background: url(resources/images/chicago/lincoln-park/Lincoln_Park_South_2_4-1-22-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-water-tower-hero{
+    background: url(resources/images/chicago/magnificent-mile/chicago-water-tower/View_of_Chicago_Water_Tower_from_the_table_32580255030-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #drake-chicago-hero{
+    background: url(resources/images/chicago/magnificent-mile/drake-hotel/Drake_Hotel_Chicago_nord-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #dusable-bridge-hero{
+    background: url(resources/images/chicago/magnificent-mile/dusable-bridge/Michigan_Avenue_Bridge-01-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #john-hancock-center-hero{
+    background: url(resources/images/chicago/magnificent-mile/john-hancock-center/Looking_North_from_John_Hancock_Center_Observatory\,_Chicago\,_Illinois_11004295515-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #magnificent-mile-hero{
+    background: url(resources/images/chicago/magnificent-mile/Wrigley_Building\,_Chicago\,_Illinois_9181661098-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #tribune-tower-hero{
+    background: url(resources/images/chicago/magnificent-mile/tribune-tower/Tribune_Tower\,_Chicago\,_Illinois_9181671784-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #wrigley-building-hero{
+    background: url(resources/images/chicago/magnificent-mile/wrigley-building/Wrigley_Building_Chicago_12_3224303379-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #adler-hero{
+    background: url(resources/images/chicago/adler-planetarium/Alder_Planetarium-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #alinea-hero{
+    background: url(resources/images/chicago/alinea/Alinea_2012_-_Blueberry_7303672688-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #burnham-park-hero{
+    background: url(resources/images/chicago/burnham-park/Burnham_Park_lake_2004-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-l-hero{
+    background: url(resources/images/chicago/chicago-l/El_track_tunnel_at_Illinois_Institute_of_Technology\,_Chicago-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-lakefront-hero{
+    background: url(resources/images/chicago/chicago-lakefront-trail/Calumet_Park_Fieldhouse-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #chicago-hero{
+    background: url(resources/images/chicago/Chicago-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #ernest-hemingway-birthplace-hero{
+    background: url(resources/images/chicago/ernest-hemingway-birthplace/Hemingway_House_Museum_Oak_Park-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #field-museum-hero{
+    background: url(resources/images/chicago/field-museum-of-natural-history/20031231_31_Field_Museum_of_Natural_History-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #robie-house-hero{
+    background: url(resources/images/chicago/frederick-c-robie-house/Robie_House_Exterior_23-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #graceland-cemetery-hero{
+    background: url(resources/images/chicago/graceland-cemetery/Marshall_Field_Monument_Graceland_Cemetery_Chicago_2019-1596-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #grant-park-hero{
+    background: url(resources/images/chicago/grant-park/Buckingham_Fountain_with_Skyline-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #jackson-park-hero{
+    background: url(resources/images/chicago/jackson-park/Garden_of_the_Phoenix_Jackson_Park_Chicago-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #leaning-tower-niles-hero{
+    background: url(resources/images/chicago/leaning-tower-of-niles/Leaning_Tower_of_Niles_Illinois_2019-2731-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #midway-plaisance-hero{
+    background: url(resources/images/chicago/midway-plaisance/Panorama_of_the_Fountain_of_Time-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #millennium-park-hero{
+    background: url(resources/images/chicago/millennium-park/The_Bean_-_Cloud_Gate_35031895994-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #morton-arboretum-hero{
+    background: url(resources/images/chicago/morton-arboretum/Morton_arboretum-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #museum-science-industry-hero{
+    background: url(resources/images/chicago/museum-of-science-and-industry/Museum_of_Science+Industry_8091779951-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #navy-pier-hero{
+    background: url(resources/images/chicago/navy-pier/Navy_Pier_2_15616477865-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #oriental-institute-hero{
+    background: url(resources/images/chicago/oriental-institute-museum/Interior_view_-_Oriental_Institute_Museum\,_University_of_Chicago_-_DSC06925-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #pullman-nm-hero{
+    background: url(resources/images/chicago/pullman-national-monument/Chicago-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #driehaus-museum-hero{
+    background: url(resources/images/chicago/richard-h-driehaus-museum/Nickerson_Mansion_and_Murphy_Auditorium-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #rockefeller-chapel-hero{
+    background: url(resources/images/chicago/rockefeller-chapel/Rockefeller_Memorial_Chapel_-_panoramio-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #shedd-aquarium-hero{
+    background: url(resources/images/chicago/shedd-aquarium/John_G_Shedd_Aquarium_15613710221-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #unity-temple-hero{
+    background: url(resources/images/chicago/unity-temple/Unity_34752362240-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #waterfall-glen-hero{
+    background: url(resources/images/chicago/waterfall-glen-forest-preserve/Creek_in_Spring_49696757766-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #wrigley-field-hero{
+    background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    
+    /* Indiana */
+    #indiana-dunes-hero{
+        background: url(resources/images/indiana-dunes-national-park/Indiana_Dunes_National_Lakeshore\,_Michigan_City\,_Indiana\,_Estados_Unidos\,_2012-10-20\,_DD_03-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    
     #kentucky-hero{
         background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-3030.jpg) no-repeat center;
         background-size: cover;
