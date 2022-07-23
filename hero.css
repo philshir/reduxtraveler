@@ -7,7 +7,7 @@
     background: url(resources/images/arizona/sedona/sedona-road-hero-1515.jpg) no-repeat center;
     background-size: cover;
 }
-/* Alabama */
+/* ------------------------------Alabama----------------------- */
 #cheaha-hero{
     background: url(resources/images/alabama/cheaha-state-park/cheaha-mountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2729,25 +2729,89 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-size: cover;
 }
 
-/* Georgia */
+/* -------------------------Georgia */
+#cathedral-st-john-savannah-hero{
+background: url(resources/images/georgia/savannah/cathedral-basilica-of-st-john-the-baptist/cathedral-basilica-of-st-john-the-baptist-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#colonial-park-cemetery-hero{
+background: url(resources/images/georgia/savannah/colonial-park-cemetery/colonial-park-cemetery-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mickve-israel-hero{
+background: url(resources/images/georgia/savannah/congregation-mickve-israel/congregation-mickve-israel-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#emmet-park-hero{
+background: url(resources/images/georgia/savannah/emmet-park/emmet-park-monument-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#olde-pink-hero{
+background: url(resources/images/georgia/savannah/olde-pink-house/olde-pink-house-thumbnail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#river-street-savannah-hero{
+background: url(resources/images/georgia/savannah/river-street/river-street-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#savannah-city-hall-hero{
+background: url(resources/images/georgia/savannah/savannah-city-hall/City_Hall\,_Savannah_GA\,_South_view_20160705_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#skidaway-island-hero{
+background: url(resources/images/georgia/savannah/sk) center no-repeat;
+    background-size: cover;
+}
+#squares-savannah-hero{
+background: url(resources/images/georgia/savannah/savannah-squares/savannah-squares-monterey-square-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#telfair-museums-hero{
+background: url(resources/images/georgia/savannah/telfair-academy-of-arts-and-sciences/telfair-academy-of-arts-and-sciences-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wormsloe-hero{
+background: url(resources/images/georgia/savannah/wormsloe-historic-site/Worlsolme-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jekyll-island-hero{
+background: url(resources/images/georgia/jekyll-island/jekyll-island-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#okefenokee-nwr-hero{
+background: url(resources/images/georgia/okefenokee-national-wildlife-refuge/Taxodium_ascendens_Okefenokee_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#okefenokee-swamp-park-hero{
+background: url(resources/images/georgia/okefenokee-swamp-park/Alligators_au_refuge_national_dOkefenokee-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-simons-hero{
+background: url(resources/images/georgia/st-simons-island/st-simons-island-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stephen-foster-park-hero{
+    background: url(resources/images/georgia/stephen-c-foster-state-park/Cypresses_on_the_water-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #savannah-hero{
-    background: url(resources/images/savannah-one/savannah-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/savannah-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bonaventure-hero{
-    background: url(resources/images/savannah-one/bonaventure/bonaventure-cemetery-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/bonaventure/bonaventure-cemetery-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #forsyth-park-hero{
-    background: url(resources/images/savannah-one/forsyth-park/forsyth-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/forsyth-park/forsyth-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ft-pulaski-hero{
-    background: url(resources/images/savannah-one/ft-pulaski/ft-pulaski-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/ft-pulaski/ft-pulaski-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tybee-hero{
-    background: url(resources/images/savannah-one/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -2978,17 +3042,29 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
     background-size: cover;
 }
 
-/* Louisiana */
+/* ---------------------------------Louisiana --------------------*/
+#lafayette-cemetery-hero{
+    background: url(resources/images/louisiana/new-orleans/lafayette-cemetery/lafayette-cemetery-no1-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-louis-cemetery-hero{
+    background: url(resources/images/louisiana/new-orleans/st-louis-cemetery/Saint_Louis_Cemetery_1_New_Orleans_1_Nov_2017_11-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oak-alley-plantation-hero{
+    background: url(resources/images/louisiana/oak-alley-plantation/Oak_alley_-_view_from_front-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #bayou-coquille-hero{
-    background: url(resources/images/louisiana/barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/jean-lafitte-national-historical-park-and-preserve-barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #barataria-marsh-overlook-hero{
-    background: url(resources/images/louisiana/barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/jean-lafitte-national-historical-park-and-preserve-barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #barataria-visitor-center-trail-hero{
-    background: url(resources/images/louisiana/barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/jean-lafitte-national-historical-park-and-preserve-barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #galvez-plaza-hero{
@@ -2996,11 +3072,11 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
     background-size: cover;
 }
 #louisiana-state-capitol-hero{
-    background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/baton-rouge/louisiana-state-capitol/louisiana-state-capitol-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #old-louisiana-state-capitol-hero{
-    background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/baton-rouge/louisiana-old-state-capitol/old-state-capitol-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #riverfront-plaza-hero{
@@ -3008,19 +3084,19 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
     background-size: cover;
 }
 #uss-kidd-hero{
-    background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/baton-rouge/uss-kidd/uss-kidd-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cane-river-creole-hero{
-    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/cane-river-creole-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/cane-river-creole-national-historical-park/cane-river-creole-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #oakland-plantation-hero{
-    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/oakland-plantation-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/cane-river-creole-national-historical-park/oakland-plantation-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #magnolia-plantation-hero{
-    background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/magnolia-plantation/magnolia-plantation-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/cane-river-creole-national-historical-park/magnolia-plantation/magnolia-plantation-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mardi-gras-hero{
@@ -3048,7 +3124,7 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
     background-size: cover;
 }
 #french-quarter-hero{
-    background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-orleans/french-quarter/french-quarter-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #antoines-hero{
@@ -3104,21 +3180,324 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
     background-size: cover;
 }
 
+/* Michigan */
+#brockway-mountain-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/brockway-mountain-drive/Brockway_Mountain_Drive_east_overlook-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#calumet-mi-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/calumet-mi/Calumet-Michigan3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#copper-country-trail-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/copper-country-trail/Copper_Country_Trail_-_Fall_Foliage_-_NARA_-_7717796-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#copper-harbor-mi-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/copper-harbor/Copper_Harbor_Lighthouse_Michigan_2020-1521-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#delaware-mine-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/delaware-mine/Delaware_Copper_Mine_P8230001_72_Shaft_-1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ft-wilkins-sp-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/fort-wilkins-historic-state-park/Up_fort_wilkins_01_m1_screen-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#keweenaw-nhp-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#keweenaw-peninsula-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mclain-sp-hero{
+background: url(resources/images/michigan/keweenaw-peninsula/mclain-state-park/Gfp-michigan-mclain-state-park-lighthouse-and-people-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#arch-rock-mackinac-hero{
+background: url(resources/images/michigan/mackinac-island/arch-rock/Arch_Rock_at_Mackinac_Island-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ft-mackinac-hero{
+background: url(resources/images/michigan/mackinac-island/fort-mackinac/Fort_Mackinac_2008-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-hotel-mackinac-hero{
+background: url(resources/images/michigan/mackinac-island/grand-hotel/Grand_Hotel\,_Mackinac_Island\,_Michigan-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mackinac-island-hero{
+background: url(resources/images/michigan/mackinac-island/MackinacIsland_Port-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-clouds-hero{
+background: url(resources/images/michigan/porcupine-mountains/lake-of-the-clouds/Pond_at_Lakes_of_the_Clouds-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#manido-falls-hero{
+background: url(resources/images/michigan/porcupine-mountains/manido-falls/Manido_Falls_Neutral_Density_PLC-WF-17-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nawadaha-falls-hero{
+background: url(resources/images/michigan/porcupine-mountains/nawadaha-falls/Nawadaha_Falls_Neutral_Density_PLC-WF-18-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#porcupine-mountains-hero{
+background: url(resources/images/michigan/porcupine-mountains/Gfp-michigan-porcupine-mountains-state-park-overview-of-lake-of-the-clouds-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#presque-isle-hero{
+background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/pierce-stocking-scenic-drive/Pierce_Stocking_Scenic_Drive_ba2b311b-a0d2-442b-9a88-d8317f324d7f-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bond-falls-hero{
+background: url(resources/images/michigan/bond-falls/Bond_Falls_2020_-_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-island-nra-hero{
+background: url(resources/images/michigan/grand-isle-national-recreation-area/Grand_Island_East_Channel_Lighthouse-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mackinac-bridge-hero{
+background: url(resources/images/michigan/mackinac-bridge/Mackinac_Bridge_from_Mackinaw_City-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#michigan-hero{
+background: url(resources/images/michigan/) center no-repeat;
+    background-size: cover;
+}
+#palms-book-hero{
+background: url(resources/images/michigan/palms-book-state-park/Kitch_raft-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pictured-rocks-hero{
+background: url(resources/images/michigan/pictured-rocks-national-lakeshore/Pictured_Rocks_National_Lakeshore_arch-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pierce-stocking-hero{
+background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/pierce-stocking-scenic-drive/Pierce_Stocking_Scenic_Drive_ba2b311b-a0d2-442b-9a88-d8317f324d7f-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sleeping-bear-dunes-hero{
+background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/Dune_Overlook_in_the_Sleeping_Bear_Dunes_National_Lakeshore-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tahquamenon-falls-hero{
+    background: url(resources/images/michigan/tahquamenon-falls-state-park/Tahquamenon_falls_upper-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#traverse-city-hero{
+    background: url(resources/images/michigan/traverse-city/Traverse_City_Clinch_Park_Beach-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/*---------------------------- Minnesota --------------------------*/
+#aerial-lift-bridge-hero{
+ background: url(resources/images/minnesota/duluth/aerial-lift-brdige/AerialLiftBridgeNight-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#canal-park-hero{
+ background: url(resources/images/minnesota/duluth/canal-park/Duluth_Canal_Park_Lakewalk-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#duluth-hero{
+ background: url(resources/images/minnesota/duluth/Duluth_Drone-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#enger-tower-hero{
+ background: url(resources/images/minnesota/duluth/enger-tower/Enger_Observation_Tower_2014-10-06_-_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-superior-railroad-hero{
+ background: url(resources/images/minnesota/duluth/lake-superior-railroad-museum/Duluth_Depot-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#minnesota-point-hero{
+ background: url(resources/images/minnesota/duluth/Duluth_Drone-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#american-swedish-institute-hero{
+ background: url(resources/images/minnesota/minneapolis/american-swedish-institute/American_Swedish_Institute_08-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bde-maka-ska-institute-hero{
+ background: url(resources/images/minnesota/minneapolis/bde-maka-ska/Lake_Calhoun_refectory_and_downtown_Minneapolis_skyline_2017-12-02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#first-avenue-hero{
+ background: url(resources/images/minnesota/minneapolis/first-avenue/7th_Street_Entry_First_Avenue_Minneapolis_Stars_14989769928-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-rounds-hero{
+ background: url(resources/images/minnesota/minneapolis/grand-rounds-national-scenic-byway/Grand_Rounds_Scenic_Byway_-_The_Stone_Arch_Bridge_and_the_City_of_Minneapolis_-_NARA_-_7718745-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gutherie-theater-hero{
+ background: url(resources/images/minnesota/minneapolis/guthrie-theater/Guthrie_Theater_15806025861-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-harriet-hero{
+ background: url(resources/images/minnesota/minneapolis/lake-harriet/Hennepin_county_MN_Lake_Harriet_IMG_1768_from_east-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-isles-hero{
+ background: url(resources/images/minnesota/minneapolis/lake-of-the-isles/Minneapolis_skyline\,_Lake_of_the_Isles_Oct_2017-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mall-america-hero{
+ background: url(resources/images/minnesota/minneapolis/mall-of-america/Mall_of_America_Floors_&_Escalators-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mill-ruins-park-hero{
+ background: url(resources/images/minnesota/minneapolis/mill-ruins-park/Mill_Ruins_Park_21461436203-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#minneapolis-sculpture-garden-hero{
+ background: url(resources/images/minnesota/minneapolis/minneapolis-sculpture-garden/Minneapolis_Sculpture_Garden-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#minneapolis-hero{
+ background: url(resources/images/minnesota/minneapolis/Minneapolis_skyline_151-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#minnehaha-park-hero{
+ background: url(resources/images/minnesota/minneapolis/minnehaha-park/View_of_Minnehaha_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#prospect-park-water-hero{
+ background: url(resources/images/minnesota/minneapolis/prospect-park-water-tower/Prospect_park_witchs_hat_fall-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stone-arch-bridge-hero{
+ background: url(resources/images/minnesota/minneapolis/stone-arch-bridge/Minneapolis_stone_arch_bridge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blue-mounds-hero{
+ background: url(resources/images/minnesota/blue-mounds-state-park/Blue_Mounds_State_Park_outcrop-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#boundary-waters-hero{
+ background: url(resources/images/minnesota/boundary-waters-canoe-area/Rainy_River-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-saint-paul-hero{
+ background: url(resources/images/minnesota/cathedral-of-st-paul/Saint_Paul_Cathedral-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#eagle-mountain-hero{
+ background: url(resources/images/minnesota/eagle-mountain/Eagle_Mountain\,_Minnesota-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#excelsior-mn-hero{
+ background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#franconia-sculpture-hero{
+ background: url(resources/images/minnesota/franconia-sculpture-park/Franconia_Sculpture_Park_9341152348-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gooseberry-falls-hero{
+ background: url(resources/images/minnesota/gooseberry-falls-state-park/Gfp-minnesota-gooseberry-falls-the-full-falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-marais-hero{
+ background: url(resources/images/minnesota/grand-marais/BreakwaterGrandMaraisMN-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-portage-nm-hero{
+ background: url(resources/images/minnesota/grand-portage-national-monument/The_Grand_Portage\,_Minnesota_35809048050-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-portage-sp-hero{
+ background: url(resources/images/minnesota/grand-portage-state-park/HighFallsPigeonRiver-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gunflint-trail-hero{
+ background: url(resources/images/minnesota/gunflint-trail/Blueberry_Hill_hiking_Gunflint_Trail_Minnesota_2693516501_o-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#interstate-park-hero{
+ background: url(resources/images/minnesota/interstate-park/Lake_O_the_Dalles_Interstate_Park_Wisconsin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#judge-magney-sp-hero{
+ background: url(resources/images/minnesota/judge-magney-state-park/JudgeCRMagneyStateParkDevilsKettleFalls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-minnetonka-hero{
+ background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palisade-head-hero{
+ background: url(resources/images/minnesota/palisade-head/Palisade\,_Shovel_Point-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pipestone-nm-hero{
+ background: url(resources/images/minnesota/pipestone-national-monument/Pipe_lake_hiawatha_F7DC5A58-155D-4519-3E6B31161E05A077-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#silver-bay-hero{
+ background: url(resources/images/minnesota/silver-bay-mn/Split_Rock\,_Silver_Bay_18685280138-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#split-rock-light-hero{
+ background: url(resources/images/minnesota/split-rock-lighthouse-state-park/Split_Rock_Lighthouse_7-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#superior-hiking-trail-hero{
+ background: url(resources/images/minnesota/superior-hiking-trail/Superior_Hiking_Trail_Morning_Rainbow_54930225-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tettegouche-hero{
+ background: url(resources/images/minnesota/tettegouche-state-park/Tettegouche_State_Park_-_Minnesota_-_15653322510-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#two-harbors-mn-hero{
+ background: url(resources/images/minnesota/two-harbors-mn/Agate_Bay\,_Two_Harbors\,_Minnesota-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wayzata-hero{
+    background: url(resources/images/minnesota/lake-minnetonka/wayzata-mn/Grays_Bay\,_Wayzata_1511835077-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 /* Mississippi */
+#mississippi-gulf-coast-hero{
+    background: url(resources/images/mississippi/mississippi-gulf-coast/The_Beau_Rivage_Hotel_in_Biloxi\,_Mississippi-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#natchez-ms-hero{
+    background: url(resources/images/mississippi/natchez/Longwood_in_Natchez-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#natchez-nhp-hero{
+    background: url(resources/images/mississippi/natchez/natchez-national-historical-park/Melrose-492-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ohr-okeefe-hero{
+    background: url(resources/images/mississippi/mississippi-gulf-coast/ohr-okeefe-museum-of-art/Ohr_Pod_Pavilion-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ship-island-hero{
+    background: url(resources/images/mississippi/ship-island/FortMass20020410-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #vicksburg-nmp-hero{
-    background: url(resources/images/vicksburg-national-military-park/vicksburg-nmp-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/mississippi//vicksburg-national-military-park/vicksburg-nmp-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #uss-cairo-hero{
-    background: url(resources/images/vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/mississippi//vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #vicksburg-illinois-memorial-hero{
-    background: url(resources/images/vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/mississippi//vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #vicksburg-memorials-hero{
-    background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/mississippi//vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -3582,18 +3961,140 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
     background-size: cover;
 }
 
+/* North Carolina */
+#bodie-lighthouse-hero{
+background: url(resources/images/north-carolina/outer-banks/bodie-island-lighthouse/bodie-island-lighthouse-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cape-hatteras-lighthouse-hero{
+background: url(resources/images/north-carolina/outer-banks/cape-hatteras-lighthouse/cape-hatteras-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#corolla-hero{
+background: url(resources/images/north-carolina/outer-banks/corolla-nc/CorollaPanorama-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-raleigh-nhs-hero{
+background: url(resources/images/north-carolina/outer-banks/fort-raleigh-national-historic-site/fort-raleigh-nhs-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jennettes-pier-hero{
+background: url(resources/images/north-carolina/outer-banks/jennettes-pier/jennettes-pier-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jockeys-ridge-hero{
+background: url(resources/images/north-carolina/outer-banks/jockeys-ridge-state-park/Jockeys_Ridge-3936_36679426073-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oregon-inlet-hero{
+background: url(resources/images/north-carolina/outer-banks/oregon-inlet-life-saving-station/oregon-inlet-life-saving-station-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pea-island-hero{
+background: url(resources/images/north-carolina/outer-banks/pea-island-national-wildlife-refuge/pea-ridge-nwr-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wright-memorial-hero{
+background: url(resources/images/north-carolina/outer-banks/wright-brothers-national-memorial/wright-brothers-nm-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#asheville-river-arts-hero{
+background: url(resources/images/north-carolina/asheville-nc/asheville-river-arts-district/asheville-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#basilica-st-lawrence-hero{
+background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrence/basilica-st-laurance-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#biltmore-estate-asheville-hero{
+    background: url(resources/images/north-carolina/asheville-nc/biltmore-estate/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #mt-mitchell-hero{
-    background: url(resources/images/northCarolina/mt-mitchell/mt-mitchell-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/mount-mitchell-state-park/mt-mitchell-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #blue-ridge-hero{
-    background: url(resources/images/northCarolina/blue-ridge/blue-ridge-parkway-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #asheville-hero{
-    background: url(resources/images/northCarolina/asheville/asheville-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/asheville-nc/asheville-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* ---------------------Oklahoma */
+#bricktown-okc-hero{
+    background: url(resources/images/oklahoma/oklahoma-city/bricktown-okc/Bricktown_May_2016_31_canal-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#milk-bottle-grocery-hero{
+background: url(resources/images/oklahoma/oklahoma-city/milk-bottle-grocery/Braums_Milk_on_Route_66\,_Oklahoma_City\,_Oklahoma_LCCN2010646309.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#museum-osteology-hero{
+background: url(resources/images/oklahoma/oklahoma-city/museum-of-osteology/Museum_of_Osteology\,_Oklahoma_City\,_Oklahoma\,_USA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#okc-nm-hero{
+background: url(resources/images/oklahoma/oklahoma-city/oklahoma-city-national-memorial/Oklahoma_City_memorial-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#okc-hero{
+background: url(resources/images/oklahoma/oklahoma-city/Oklahoma_City_May_2016_36_skyline-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#beavers-bend-hero{
+background: url(resources/images/oklahoma/beavers-bend-resort-park/Broken-bow-spillway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-mesa-hero{
+background: url(resources/images/oklahoma/black-mesa/Black_Mesa\,_Oklahoma_high_point-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blue-whale-catoosa-hero{
+background: url(resources/images/oklahoma/blue-whale-of-catoosa/Catoosa_Blue_Whale_2008_No._2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chickasaw-nra-hero{
+background: url(resources/images/oklahoma/chickasaw-national-recreation-area/Travertine_Creek_Swimming_Area\,_Sulfur_Oklahoma_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-scott-hero{
+background: url(resources/images/oklahoma/wichita-mountains-wildlife-refuge/mount-scott/Rocky_surface_of_Mount_Scott_\(OK\)_IMG_7008-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#museum-great-plains-hero{
+background: url(resources/images/oklahoma/great-plains-museum/Great_Plains_Museum_Lawton\,_Oklahoma-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#natural-falls-sp-hero{
+background: url(resources/images/oklahoma/natural-falls-state-park/Natural_Falls_State_Park_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pops-restaurant-hero{
+background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Route_66\,_Arcadia\,_Oklahoma\,_04404a-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-plains-nwr-hero{
+    background: url(resources/images/oklahoma/salt-plains-national-wildlife-refuge/Salt_Plains_National_Wildlife_Refuge_Oklahoma-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#turner-falls-hero{
+    background: url(resources/images/oklahoma/turner-falls/Turner_Falls_Park_with_the_Pool-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#washita-battlefield-hero{
+background: url(resources/images/oklahoma/washita-national-battlefield/Washita_Battlefield_Site-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wichita-mountains-hero{
+    background: url(resources/images/oklahoma/wichita-mountains-wildlife-refuge/Springtime\,Wichita_Mountains_Wildlife_Refuge\,_SW_Oklahoma\,_U.S-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* ------------------------------Oregon */
 #crater-lake-hero{
     background: url(resources/images/crater-lake/crater-lake-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3614,30 +4115,118 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
     background: url(resources/images/liberty-hall/independance-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#south-carolina-hero{
-    background: url(resources/images/SouthCarolina/charleston-one/south-carolina-carriage-hero-1515.jpg) center no-repeat;
+
+/* ---------------------------South Carolina */
+#arthur-ravenel-hero{
+background: url(resources/images/south-carolina/charleston-sc/arthur-ravenel-bridge/Arthur_Ravenel_Jr_Bridge\,_West_View_of_Road_Deck_and_Tower_20160704_1-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#charleston-hero{
-    background: url(resources/images/SouthCarolina/charleston-one/charleston-pineapple-fountain-hero-1515.jpg) center no-repeat;
+#battery-charleston-her{
+background: url(resources/images/south-carolina/charleston-sc/battery-charleston/East_Battery_Street_Charleston_Aug2010-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-st-john-charleston-hero{
+background: url(resources/images/south-carolina/charleston-sc/cathedral-of-st-john-the-baptist/) center no-repeat;
+    background-size: cover;
+}
+#charles-town-landing-hero{
+background: url(resources/images/south-carolina/charleston-sc/charles-towne-landing/Adventure_ship_at_Charles_Towne_Landing\,_South_Carolina-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#city-market-charleston-hero{
+background: url(resources/images/south-carolina/charleston-sc/charleston-city-market/historic-charleston-city-market-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#folly-beach-hero{
+background: url(resources/images/south-carolina/charleston-sc/folly-beach/folly-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-moultrie-hero{
+background: url(resources/images/south-carolina/charleston-sc/fort-moultrie/fort-moultrie-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-sumter-hero{
+background: url(resources/images/south-carolina/charleston-sc/fort-sumter/Fort_Sumter_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#french-hugenot-hero{
+background: url(resources/images/south-carolina/charleston-sc/french-hugenot-church/) center no-repeat;
+    background-size: cover;
+}
+#magnolia-plantation-hero{
+background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#exchange-provost-hero{
+background: url(resources/images/south-carolina/charleston-sc/old-exchange-and-provost-dungeon/old-exchange-and-provost-dungeon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-slave-museum{
+background: url(resources/images/south-carolina/charleston-sc/old-slave-mart-museum/old-slave-mart-museum-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rainbow-row-hero{
+background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#unitarian-church-charleston-hero{
+background: url(resources/images/south-carolina/charleston-sc/unitarian-church-in-charleston/unitarian-church-in-charleston-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-square-charleston-hero{
+background: url(resources/images/south-carolina/charleston-sc/washington-park/washington-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#waterfront-park-hero{
+background: url(resources/images/south-carolina/charleston-sc/waterfront-park/charleston-pineapple-fountain-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-point-garden-hero{
+background: url(resources/images/south-carolina/charleston-sc/white-point-garden/white-point-garden-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#broadway-beach-hero{
+background: url(resources/images/south-carolina/myrtle-beach/broadway-at-the-beach/broadway-at-the-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hilton-head-hero{
+background: url(resources/images/south-carolina/hilton-head-island/Hilton_Head_Island-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#murrells-inlet-hero{
+background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#myrtle-beach-hero{
+    background: url(resources/images/south-carolina/myrtle-beach/myrtle-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-carolina-hero{
+    background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#charleston-sc-hero{
+    background: url(resources/images/south-carolina/charleston-sc/waterfront-park/charleston-pineapple-fountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #angel-oak-hero{
-    background: url(resources/images/SouthCarolina/charleston-one/angel-oak/angel-oak-tree-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/angel-oak-tree/angel-oak-tree-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #st-phillips-hero{
-    background: url(resources/images/SouthCarolina/charleston-one/stPhillips/st-phillips-interior-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/st-philips-church/st-phillips-interior-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #congaree-hero{
-    background: url(resources/images/SouthCarolina/congaree/congaree-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-carolina/congaree-national-park/congaree-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mt-sassafras-hero{
-    background: url(resources/images/SouthCarolina/sassafras/mt-sassafras-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-carolina/sassafras-mountain/mt-sassafras-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* ----------------------South Dakota */
 #south-dakota-hero{
     background: url(resources/images/southDakota/badlands-one/south-dakota-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4427,7 +5016,7 @@ background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-h
     background-size: cover;
 }
 #valley-ten-thousand-hero{
-
+    
 } */
 #kodiak-island-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-3030.jpg) center no-repeat;
@@ -6989,6 +7578,92 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
 
+    /* -------------------------Georgia */
+#cathedral-st-john-savannah-hero{
+    background: url(resources/images/georgia/savannah/cathedral-basilica-of-st-john-the-baptist/cathedral-basilica-of-st-john-the-baptist-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #colonial-park-cemetery-hero{
+    background: url(resources/images/georgia/savannah/colonial-park-cemetery/colonial-park-cemetery-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mickve-israel-hero{
+    background: url(resources/images/georgia/savannah/congregation-mickve-israel/congregation-mickve-israel-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #emmet-park-hero{
+    background: url(resources/images/georgia/savannah/emmet-park/emmet-park-monument-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #olde-pink-hero{
+    background: url(resources/images/georgia/savannah/olde-pink-house/olde-pink-house-thumbnail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #river-street-savannah-hero{
+    background: url(resources/images/georgia/savannah/river-street/river-street-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #savannah-city-hall-hero{
+    background: url(resources/images/georgia/savannah/savannah-city-hall/City_Hall\,_Savannah_GA\,_South_view_20160705_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #skidaway-island-hero{
+    background: url(resources/images/georgia/savannah/sk) center no-repeat;
+        background-size: cover;
+    }
+    #squares-savannah-hero{
+    background: url(resources/images/georgia/savannah/savannah-squares/savannah-squares-monterey-square-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #telfair-museums-hero{
+    background: url(resources/images/georgia/savannah/telfair-academy-of-arts-and-sciences/telfair-academy-of-arts-and-sciences-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wormsloe-hero{
+    background: url(resources/images/georgia/savannah/wormsloe-historic-site/Worlsolme-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jekyll-island-hero{
+    background: url(resources/images/georgia/jekyll-island/jekyll-island-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #okefenokee-nwr-hero{
+    background: url(resources/images/georgia/okefenokee-national-wildlife-refuge/Taxodium_ascendens_Okefenokee_4-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #okefenokee-swamp-park-hero{
+    background: url(resources/images/georgia/okefenokee-swamp-park/Alligators_au_refuge_national_dOkefenokee-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-simons-hero{
+    background: url(resources/images/georgia/st-simons-island/st-simons-island-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #stephen-foster-park-hero{
+        background: url(resources/images/georgia/stephen-c-foster-state-park/Cypresses_on_the_water-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #savannah-hero{
+        background: url(resources/images/georgia/savannah/savannah-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bonaventure-hero{
+        background: url(resources/images/georgia/savannah/bonaventure/bonaventure-cemetery-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #forsyth-park-hero{
+        background: url(resources/images/georgia/savannah/forsyth-park/forsyth-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ft-pulaski-hero{
+        background: url(resources/images/georgia/savannah/ft-pulaski/ft-pulaski-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tybee-hero{
+        background: url(resources/images/georgia/savannah/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
     /* Illinois */
 /* Chicago */
 #art-institute-chicago-hero{
@@ -7214,22 +7889,215 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/kentuckyOne/mammoth/mammoth-cave-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
-    #vicksburg-nmp-hero{
-        background: url(resources/images/vicksburg-national-military-park/vicksburg-nmp-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #uss-cairo-hero{
-        background: url(resources/images/vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #vicksburg-illinois-memorial-hero{
-        background: url(resources/images/vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #vicksburg-memorials-hero{
-        background: url(resources/images/vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+
+    /*---------------------------- Minnesota --------------------------*/
+#aerial-lift-bridge-hero{
+    background: url(resources/images/minnesota/duluth/aerial-lift-brdige/AerialLiftBridgeNight-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #canal-park-hero{
+    background: url(resources/images/minnesota/duluth/canal-park/Duluth_Canal_Park_Lakewalk-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #duluth-hero{
+    background: url(resources/images/minnesota/duluth/Duluth_Drone-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #enger-tower-hero{
+    background: url(resources/images/minnesota/duluth/enger-tower/Enger_Observation_Tower_2014-10-06_-_4-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #lake-superior-railroad-hero{
+    background: url(resources/images/minnesota/duluth/lake-superior-railroad-museum/Duluth_Depot-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #minnesota-point-hero{
+    background: url(resources/images/minnesota/duluth/Duluth_Drone-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #american-swedish-institute-hero{
+    background: url(resources/images/minnesota/minneapolis/american-swedish-institute/American_Swedish_Institute_08-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #bde-maka-ska-institute-hero{
+    background: url(resources/images/minnesota/minneapolis/bde-maka-ska/Lake_Calhoun_refectory_and_downtown_Minneapolis_skyline_2017-12-02-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #first-avenue-hero{
+    background: url(resources/images/minnesota/minneapolis/first-avenue/7th_Street_Entry_First_Avenue_Minneapolis_Stars_14989769928-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #grand-rounds-hero{
+    background: url(resources/images/minnesota/minneapolis/grand-rounds-national-scenic-byway/Grand_Rounds_Scenic_Byway_-_The_Stone_Arch_Bridge_and_the_City_of_Minneapolis_-_NARA_-_7718745-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #gutherie-theater-hero{
+    background: url(resources/images/minnesota/minneapolis/guthrie-theater/Guthrie_Theater_15806025861-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #lake-harriet-hero{
+    background: url(resources/images/minnesota/minneapolis/lake-harriet/Hennepin_county_MN_Lake_Harriet_IMG_1768_from_east-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #lake-isles-hero{
+    background: url(resources/images/minnesota/minneapolis/lake-of-the-isles/Minneapolis_skyline\,_Lake_of_the_Isles_Oct_2017-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #mall-america-hero{
+    background: url(resources/images/minnesota/minneapolis/mall-of-america/Mall_of_America_Floors_&_Escalators-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #mill-ruins-park-hero{
+    background: url(resources/images/minnesota/minneapolis/mill-ruins-park/Mill_Ruins_Park_21461436203-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #minneapolis-sculpture-garden-hero{
+    background: url(resources/images/minnesota/minneapolis/minneapolis-sculpture-garden/Minneapolis_Sculpture_Garden-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #minneapolis-hero{
+    background: url(resources/images/minnesota/minneapolis/Minneapolis_skyline_151-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #minnehaha-park-hero{
+    background: url(resources/images/minnesota/minneapolis/minnehaha-park/View_of_Minnehaha_Falls-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #prospect-park-water-hero{
+    background: url(resources/images/minnesota/minneapolis/prospect-park-water-tower/Prospect_park_witchs_hat_fall-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #stone-arch-bridge-hero{
+    background: url(resources/images/minnesota/minneapolis/stone-arch-bridge/Minneapolis_stone_arch_bridge-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #blue-mounds-hero{
+    background: url(resources/images/minnesota/blue-mounds-state-park/Blue_Mounds_State_Park_outcrop-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #boundary-waters-hero{
+    background: url(resources/images/minnesota/boundary-waters-canoe-area/Rainy_River-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #cathedral-saint-paul-hero{
+    background: url(resources/images/minnesota/cathedral-of-st-paul/Saint_Paul_Cathedral-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #eagle-mountain-hero{
+    background: url(resources/images/minnesota/eagle-mountain/Eagle_Mountain\,_Minnesota-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #excelsior-mn-hero{
+    background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #franconia-sculpture-hero{
+    background: url(resources/images/minnesota/franconia-sculpture-park/Franconia_Sculpture_Park_9341152348-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #gooseberry-falls-hero{
+    background: url(resources/images/minnesota/gooseberry-falls-state-park/Gfp-minnesota-gooseberry-falls-the-full-falls-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #grand-marais-hero{
+    background: url(resources/images/minnesota/grand-marais/BreakwaterGrandMaraisMN-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #grand-portage-nm-hero{
+    background: url(resources/images/minnesota/grand-portage-national-monument/The_Grand_Portage\,_Minnesota_35809048050-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #grand-portage-sp-hero{
+    background: url(resources/images/minnesota/grand-portage-state-park/HighFallsPigeonRiver-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #gunflint-trail-hero{
+    background: url(resources/images/minnesota/gunflint-trail/Blueberry_Hill_hiking_Gunflint_Trail_Minnesota_2693516501_o-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #interstate-park-hero{
+    background: url(resources/images/minnesota/interstate-park/Lake_O_the_Dalles_Interstate_Park_Wisconsin-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #judge-magney-sp-hero{
+    background: url(resources/images/minnesota/judge-magney-state-park/JudgeCRMagneyStateParkDevilsKettleFalls-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #lake-minnetonka-hero{
+    background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #palisade-head-hero{
+    background: url(resources/images/minnesota/palisade-head/Palisade\,_Shovel_Point-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #pipestone-nm-hero{
+    background: url(resources/images/minnesota/pipestone-national-monument/Pipe_lake_hiawatha_F7DC5A58-155D-4519-3E6B31161E05A077-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #silver-bay-hero{
+    background: url(resources/images/minnesota/silver-bay-mn/Split_Rock\,_Silver_Bay_18685280138-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #split-rock-light-hero{
+    background: url(resources/images/minnesota/split-rock-lighthouse-state-park/Split_Rock_Lighthouse_7-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #superior-hiking-trail-hero{
+    background: url(resources/images/minnesota/superior-hiking-trail/Superior_Hiking_Trail_Morning_Rainbow_54930225-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #tettegouche-hero{
+    background: url(resources/images/minnesota/tettegouche-state-park/Tettegouche_State_Park_-_Minnesota_-_15653322510-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #two-harbors-mn-hero{
+    background: url(resources/images/minnesota/two-harbors-mn/Agate_Bay\,_Two_Harbors\,_Minnesota-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   #wayzata-hero{
+       background: url(resources/images/minnesota/lake-minnetonka/wayzata-mn/Grays_Bay\,_Wayzata_1511835077-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
+   
+  /* Mississippi */
+#mississippi-gulf-coast-hero{
+    background: url(resources/images/mississippi/mississippi-gulf-coast/The_Beau_Rivage_Hotel_in_Biloxi\,_Mississippi-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#natchez-ms-hero{
+    background: url(resources/images/mississippi/natchez/Longwood_in_Natchez-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#natchez-nhp-hero{
+    background: url(resources/images/mississippi/natchez/natchez-national-historical-park/Melrose-492-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ohr-okeefe-hero{
+    background: url(resources/images/mississippi/mississippi-gulf-coast/ohr-okeefe-museum-of-art/Ohr_Pod_Pavilion-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ship-island-hero{
+    background: url(resources/images/mississippi/ship-island/FortMass20020410-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-nmp-hero{
+    background: url(resources/images/mississippi//vicksburg-national-military-park/vicksburg-nmp-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-cairo-hero{
+    background: url(resources/images/mississippi//vicksburg-national-military-park/uss-cairo-museum/uss-cairo-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-illinois-memorial-hero{
+    background: url(resources/images/mississippi//vicksburg-national-military-park/vicksburg-illinois-memorial/illinois-memorial-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vicksburg-memorials-hero{
+    background: url(resources/images/mississippi//vicksburg-national-military-park/vicksburg-memorials/vicksburg-nmp-memorial-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
     #branson-landing-hero{
         background: url(resources/images/branson/branson-landing/branson-landing-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -7376,18 +8244,139 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/new-york/new-york-city/radio-city-music-hall/Radio_City_Music_Hall_3a-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
+
+/* North Carolina */
+#bodie-lighthouse-hero{
+    background: url(resources/images/north-carolina/outer-banks/bodie-island-lighthouse/bodie-island-lighthouse-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cape-hatteras-lighthouse-hero{
+    background: url(resources/images/north-carolina/outer-banks/cape-hatteras-lighthouse/cape-hatteras-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #corolla-hero{
+    background: url(resources/images/north-carolina/outer-banks/corolla-nc/CorollaPanorama-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-raleigh-nhs-hero{
+    background: url(resources/images/north-carolina/outer-banks/fort-raleigh-national-historic-site/fort-raleigh-nhs-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jennettes-pier-hero{
+    background: url(resources/images/north-carolina/outer-banks/jennettes-pier/jennettes-pier-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jockeys-ridge-hero{
+    background: url(resources/images/north-carolina/outer-banks/jockeys-ridge-state-park/Jockeys_Ridge-3936_36679426073-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #oregon-inlet-hero{
+    background: url(resources/images/north-carolina/outer-banks/oregon-inlet-life-saving-station/oregon-inlet-life-saving-station-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pea-island-hero{
+    background: url(resources/images/north-carolina/outer-banks/pea-island-national-wildlife-refuge/pea-ridge-nwr-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wright-memorial-hero{
+    background: url(resources/images/north-carolina/outer-banks/wright-brothers-national-memorial/wright-brothers-nm-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #asheville-river-arts-hero{
+    background: url(resources/images/north-carolina/asheville-nc/asheville-river-arts-district/asheville-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #basilica-st-lawrence-hero{
+    background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrence/basilica-st-laurance-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #biltmore-estate-asheville-hero{
+        background: url(resources/images/north-carolina/asheville-nc/biltmore-estate/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #mt-mitchell-hero{
-        background: url(resources/images/northCarolina/mt-mitchell/mt-mitchell-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/north-carolina/mount-mitchell-state-park/mt-mitchell-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #blue-ridge-hero{
-        background: url(resources/images/northCarolina/blue-ridge/blue-ridge-parkway-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #asheville-hero{
-        background: url(resources/images/northCarolina/asheville/asheville-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/north-carolina/asheville-nc/asheville-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+    /* ---------------------Oklahoma */
+#bricktown-okc-hero{
+    background: url(resources/images/oklahoma/oklahoma-city/bricktown-okc/Bricktown_May_2016_31_canal-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#milk-bottle-grocery-hero{
+background: url(resources/images/oklahoma/oklahoma-city/milk-bottle-grocery/Braums_Milk_on_Route_66\,_Oklahoma_City\,_Oklahoma_LCCN2010646309.tif-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#museum-osteology-hero{
+background: url(resources/images/oklahoma/oklahoma-city/museum-of-osteology/Museum_of_Osteology\,_Oklahoma_City\,_Oklahoma\,_USA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#okc-nm-hero{
+background: url(resources/images/oklahoma/oklahoma-city/oklahoma-city-national-memorial/Oklahoma_City_memorial-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#okc-hero{
+background: url(resources/images/oklahoma/oklahoma-city/Oklahoma_City_May_2016_36_skyline-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#beavers-bend-hero{
+background: url(resources/images/oklahoma/beavers-bend-resort-park/Broken-bow-spillway-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-mesa-hero{
+background: url(resources/images/oklahoma/black-mesa/Black_Mesa\,_Oklahoma_high_point-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#blue-whale-catoosa-hero{
+background: url(resources/images/oklahoma/blue-whale-of-catoosa/Catoosa_Blue_Whale_2008_No._2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chickasaw-nra-hero{
+background: url(resources/images/oklahoma/chickasaw-national-recreation-area/Travertine_Creek_Swimming_Area\,_Sulfur_Oklahoma_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-scott-hero{
+background: url(resources/images/oklahoma/wichita-mountains-wildlife-refuge/mount-scott/Rocky_surface_of_Mount_Scott_\(OK\)_IMG_7008-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#museum-great-plains-hero{
+background: url(resources/images/oklahoma/great-plains-museum/Great_Plains_Museum_Lawton\,_Oklahoma-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#natural-falls-sp-hero{
+background: url(resources/images/oklahoma/natural-falls-state-park/Natural_Falls_State_Park_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#pops-restaurant-hero{
+background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Route_66\,_Arcadia\,_Oklahoma\,_04404a-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-plains-nwr-hero{
+    background: url(resources/images/oklahoma/salt-plains-national-wildlife-refuge/Salt_Plains_National_Wildlife_Refuge_Oklahoma-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#turner-falls-hero{
+    background: url(resources/images/oklahoma/turner-falls/Turner_Falls_Park_with_the_Pool-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#washita-battlefield-hero{
+background: url(resources/images/oklahoma/washita-national-battlefield/Washita_Battlefield_Site-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wichita-mountains-hero{
+    background: url(resources/images/oklahoma/wichita-mountains-wildlife-refuge/Springtime\,Wichita_Mountains_Wildlife_Refuge\,_SW_Oklahoma\,_U.S-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
     #crater-lake-hero{
         background: url(resources/images/crater-lake/crater-lake-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -7409,39 +8398,53 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #savannah-hero{
-        background: url(resources/images/savannah-one/savannah-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/georgia/savannah/savannah-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bonaventure-hero{
-        background: url(resources/images/savannah-one/bonaventure/bonaventure-cemetery-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/georgia/savannah/bonaventure/bonaventure-cemetery-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #forsyth-park-hero{
-        background: url(resources/images/savannah-one/forsyth-park/forsyth-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/georgia/savannah/forsyth-park/forsyth-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #ft-pulaski-hero{
-        background: url(resources/images/savannah-one/ft-pulaski/ft-pulaski-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/georgia/savannah/ft-pulaski/ft-pulaski-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #tybee-hero{
-        background: url(resources/images/savannah-one/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/georgia/savannah/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #mardi-gras-hero{
+
+/*  ------------------------------- Louisiana ------------------------*/
+#lafayette-cemetery-hero{
+    background: url(resources/images/louisiana/new-orleans/lafayette-cemetery/lafayette-cemetery-no1-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-louis-cemetery-hero{
+    background: url(resources/images/louisiana/new-orleans/st-louis-cemetery/Saint_Louis_Cemetery_1_New_Orleans_1_Nov_2017_11-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oak-alley-plantation-hero{
+    background: url(resources/images/louisiana/oak-alley-plantation/Oak_alley_-_view_from_front-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mardi-gras-hero{
         background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bayou-coquille-hero{
-        background: url(resources/images/louisiana/barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/jean-lafitte-national-historical-park-and-preserve-barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #barataria-marsh-overlook-hero{
-        background: url(resources/images/louisiana/barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/jean-lafitte-national-historical-park-and-preserve-barataria-preserve/barataria-marsh-overlook-trail/barataria-marsh-overlook-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #barataria-visitor-center-trail-hero{
-        background: url(resources/images/louisiana/barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/jean-lafitte-national-historical-park-and-preserve-barataria-preserve/barataria-visitor-center-trail/barataria-visitors-center-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #galvez-plaza-hero{
@@ -7449,11 +8452,11 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #louisiana-state-capitol-hero{
-        background: url(resources/images/louisiana/baton-rouge/LouisianaStateCapitol/louisiana-state-capitol-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/baton-rouge/louisiana-state-capitol/louisiana-state-capitol-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #old-louisiana-state-capitol-hero{
-        background: url(resources/images/louisiana/baton-rouge/louisianaOldStateCapitol/old-state-capitol-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/baton-rouge/louisiana-old-state-capitol/old-state-capitol-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #riverfront-plaza-hero{
@@ -7461,23 +8464,23 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #uss-kidd-hero{
-        background: url(resources/images/louisiana/baton-rouge/ussKidd/uss-kidd-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/baton-rouge/uss-kidd/uss-kidd-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cane-river-creole-hero{
-        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/cane-river-creole-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/cane-river-creole-national-historical-park/cane-river-creole-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #oakland-plantation-hero{
-        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/oakland-plantation-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/cane-river-creole-national-historical-park/oakland-plantation-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #magnolia-plantation-hero{
-        background: url(resources/images/louisiana/cane-river-creole-heritage-nhp/magnolia-plantation/magnolia-plantation-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/cane-river-creole-national-historical-park/magnolia-plantation/magnolia-plantation-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #new-orleans-hero{
-        background: url(resources/images/NewOrleans/french-quarter/new-orleans-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/new-orleans/french-quarter/new-orleans-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #algiers-point-hero{
@@ -7502,7 +8505,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #french-quarter-hero{
-        background: url(resources/images/NewOrleans/french-quarter/french-quarter-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/new-orleans/french-quarter/french-quarter-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #antoines-hero{
@@ -7560,30 +8563,231 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #south-carolina-hero{
-        background: url(resources/images/SouthCarolina/charleston-one/south-carolina-carriage-hero-3030.jpg) center no-repeat;
+
+    /* Michigan */
+#brockway-mountain-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/brockway-mountain-drive/Brockway_Mountain_Drive_east_overlook-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #charleston-hero{
-        background: url(resources/images/SouthCarolina/charleston-one/charleston-pineapple-fountain-hero-3030.jpg) center no-repeat;
+    #calumet-mi-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/calumet-mi/Calumet-Michigan3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #copper-country-trail-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/copper-country-trail/Copper_Country_Trail_-_Fall_Foliage_-_NARA_-_7717796-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #copper-harbor-mi-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/copper-harbor/Copper_Harbor_Lighthouse_Michigan_2020-1521-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #delaware-mine-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/delaware-mine/Delaware_Copper_Mine_P8230001_72_Shaft_-1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ft-wilkins-sp-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/fort-wilkins-historic-state-park/Up_fort_wilkins_01_m1_screen-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #keweenaw-nhp-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #keweenaw-peninsula-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mclain-sp-hero{
+    background: url(resources/images/michigan/keweenaw-peninsula/mclain-state-park/Gfp-michigan-mclain-state-park-lighthouse-and-people-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #arch-rock-mackinac-hero{
+    background: url(resources/images/michigan/mackinac-island/arch-rock/Arch_Rock_at_Mackinac_Island-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ft-mackinac-hero{
+    background: url(resources/images/michigan/mackinac-island/fort-mackinac/Fort_Mackinac_2008-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grand-hotel-mackinac-hero{
+    background: url(resources/images/michigan/mackinac-island/grand-hotel/Grand_Hotel\,_Mackinac_Island\,_Michigan-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mackinac-island-hero{
+    background: url(resources/images/michigan/mackinac-island/MackinacIsland_Port-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lake-clouds-hero{
+    background: url(resources/images/michigan/porcupine-mountains/lake-of-the-clouds/Pond_at_Lakes_of_the_Clouds-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #manido-falls-hero{
+    background: url(resources/images/michigan/porcupine-mountains/manido-falls/Manido_Falls_Neutral_Density_PLC-WF-17-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #nawadaha-falls-hero{
+    background: url(resources/images/michigan/porcupine-mountains/nawadaha-falls/Nawadaha_Falls_Neutral_Density_PLC-WF-18-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #porcupine-mountains-hero{
+    background: url(resources/images/michigan/porcupine-mountains/Gfp-michigan-porcupine-mountains-state-park-overview-of-lake-of-the-clouds-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #presque-isle-hero{
+    background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/pierce-stocking-scenic-drive/Pierce_Stocking_Scenic_Drive_ba2b311b-a0d2-442b-9a88-d8317f324d7f-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bond-falls-hero{
+    background: url(resources/images/michigan/bond-falls/Bond_Falls_2020_-_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grand-island-nra-hero{
+    background: url(resources/images/michigan/grand-isle-national-recreation-area/Grand_Island_East_Channel_Lighthouse-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mackinac-bridge-hero{
+    background: url(resources/images/michigan/mackinac-bridge/Mackinac_Bridge_from_Mackinaw_City-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #michigan-hero{
+    background: url(resources/images/michigan/) center no-repeat;
+        background-size: cover;
+    }
+    #palms-book-hero{
+    background: url(resources/images/michigan/palms-book-state-park/Kitch_raft-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pictured-rocks-hero{
+    background: url(resources/images/michigan/pictured-rocks-national-lakeshore/Pictured_Rocks_National_Lakeshore_arch-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pierce-stocking-hero{
+    background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/pierce-stocking-scenic-drive/Pierce_Stocking_Scenic_Drive_ba2b311b-a0d2-442b-9a88-d8317f324d7f-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sleeping-bear-dunes-hero{
+    background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/Dune_Overlook_in_the_Sleeping_Bear_Dunes_National_Lakeshore-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tahquamenon-falls-hero{
+        background: url(resources/images/michigan/tahquamenon-falls-state-park/Tahquamenon_falls_upper-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #traverse-city-hero{
+        background: url(resources/images/michigan/traverse-city/Traverse_City_Clinch_Park_Beach-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
+/* ---------------------------South Carolina */
+#arthur-ravenel-hero{
+    background: url(resources/images/south-carolina/charleston-sc/arthur-ravenel-bridge/Arthur_Ravenel_Jr_Bridge\,_West_View_of_Road_Deck_and_Tower_20160704_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #battery-charleston-her{
+    background: url(resources/images/south-carolina/charleston-sc/battery-charleston/East_Battery_Street_Charleston_Aug2010-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cathedral-st-john-charleston-hero{
+    background: url(resources/images/south-carolina/charleston-sc/cathedral-of-st-john-the-baptist/) center no-repeat;
+        background-size: cover;
+    }
+    #charles-town-landing-hero{
+    background: url(resources/images/south-carolina/charleston-sc/charles-towne-landing/Adventure_ship_at_Charles_Towne_Landing\,_South_Carolina-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #city-market-charleston-hero{
+    background: url(resources/images/south-carolina/charleston-sc/charleston-city-market/historic-charleston-city-market-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #folly-beach-hero{
+    background: url(resources/images/south-carolina/charleston-sc/folly-beach/folly-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-moultrie-hero{
+    background: url(resources/images/south-carolina/charleston-sc/fort-moultrie/fort-moultrie-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-sumter-hero{
+    background: url(resources/images/south-carolina/charleston-sc/fort-sumter/Fort_Sumter_3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #french-hugenot-hero{
+    background: url(resources/images/south-carolina/charleston-sc/french-hugenot-church/) center no-repeat;
+        background-size: cover;
+    }
+    #magnolia-plantation-hero{
+    background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #exchange-provost-hero{
+    background: url(resources/images/south-carolina/charleston-sc/old-exchange-and-provost-dungeon/old-exchange-and-provost-dungeon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-slave-museum{
+    background: url(resources/images/south-carolina/charleston-sc/old-slave-mart-museum/old-slave-mart-museum-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rainbow-row-hero{
+    background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #unitarian-church-charleston-hero{
+    background: url(resources/images/south-carolina/charleston-sc/unitarian-church-in-charleston/unitarian-church-in-charleston-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #washington-square-charleston-hero{
+    background: url(resources/images/south-carolina/charleston-sc/washington-park/washington-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #waterfront-park-hero{
+    background: url(resources/images/south-carolina/charleston-sc/waterfront-park/charleston-pineapple-fountain-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #white-point-garden-hero{
+    background: url(resources/images/south-carolina/charleston-sc/white-point-garden/white-point-garden-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #broadway-beach-hero{
+    background: url(resources/images/south-carolina/myrtle-beach/broadway-at-the-beach/broadway-at-the-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hilton-head-hero{
+    background: url(resources/images/south-carolina/hilton-head-island/Hilton_Head_Island-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #murrells-inlet-hero{
+    background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #myrtle-beach-hero{
+        background: url(resources/images/south-carolina/myrtle-beach/myrtle-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #south-carolina-hero{
+        background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #charleston-sc-hero{
+        background: url(resources/images/south-carolina/charleston-sc/waterfront-park/charleston-pineapple-fountain-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #angel-oak-hero{
-        background: url(resources/images/SouthCarolina/charleston-one/angel-oak/angel-oak-tree-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/south-carolina/charleston-sc/angel-oak-tree/angel-oak-tree-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #st-phillips-hero{
-        background: url(resources/images/SouthCarolina/charleston-one/stPhillips/st-phillips-interior-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/south-carolina/charleston-sc/st-philips-church/st-phillips-interior-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #congaree-hero{
-        background: url(resources/images/SouthCarolina/congaree/congaree-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/south-carolina/congaree-national-park/congaree-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mt-sassafras-hero{
-        background: url(resources/images/SouthCarolina/sassafras/mt-sassafras-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/south-carolina/sassafras-mountain/mt-sassafras-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    
     #south-dakota-hero{
         background: url(resources/images/southDakota/badlands-one/south-dakota-hero-3030.jpg) center no-repeat;
         background-size: cover;
