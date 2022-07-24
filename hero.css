@@ -2387,40 +2387,132 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
 }
 
 /* Colorado */
+#colorado-springs-hero{
+background: url(resources/images/colorado/colorado-springs/CC_COSPRINGS-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#broadmoor-cog-hero{
+background: url(resources/images/colorado/colorado-springs/broadmoor-manitou-and-pikes-peak-cog-railway/Pikes_Peak_Cog_Railway_car_25_at_summit_of_Pikes_Peak-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#manitou-incline-hero{
+background: url(resources/images/colorado/colorado-springs/manitou-incline/Looking_down_the_Manitou_Springs_Incline_from_Barr_Trail_Bailout-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pikes-peak-hero{
+background: url(resources/images/colorado/colorado-springs/pikes-peak/Pikes_Peak4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#denver-hero{
+background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#aspen-hero{
+background: url(resources/images/colorado/aspen/Aspen_south_Galena_street-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#durango-hero{
+background: url(resources/images/colorado/durango-co/Historic_Main_in_Downtown_Durango-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ouray-hero{
+background: url(resources/images/colorado/ouray/ouray-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#silverton-hero{
+background: url(resources/images/colorado/silverton-co/Downtown_Silverton\,_Colorado-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#telluride-hero{
+background: url(resources/images/colorado/telluride/Tellurides_main_street-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#maroon-bells-hero{
+background: url(resources/images/colorado/maroon-bells/Aspen-maroon-bells-colorado-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-elbert-hero{
+background: url(resources/images/colorado/mount-elbert/Mount_Elbert_and_horses-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-causeway-hero{
+background: url(resources/images/colorado/devils-causeway/Devils_Causeway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#durango-silverton-narrow-gauge-hero{
+background: url(resources/images/colorado/durango-silverton-narrow-gauge-railroad/Durango-Silverton_Highline_2012-10-25-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pawnee-buttes-hero{
+background: url(resources/images/colorado/pawnee-buttes/Pawnee_Buttes2010-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-rock-amphitheatre-hero{
+background: url(resources/images/colorado/red-rocks-park-and-amphitheatre/Red\ Rocks\ Amphitheatre\ in\ February-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rifle-falls-hero{
+background: url(resources/images/colorado/rifle-falls-state-park/Rifle_Falls_State_Park\,_Colorado_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#royal-gorge-hero{
+background: url(resources/images/colorado/royal-gorge-bridge-and-park/Royal_Gorge_Bridge_looking_west-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-juan-mountains-hero{
+background: url(resources/images/colorado/san-juan-mountains/Sheep_Mountain\,_San_Juan_Mountains-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#canyon-ancients-hero{
+background: url(resources/images/colorado/canyon-of-the-ancients-national-monument/CANM_Escalante_McPhee_Reservoir-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chimney-rock-co-hero{
+background: url(resources/images/colorado/chimney-rock-national-monument/Chimney_Rock_National_Monument-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#florissant-co-hero{
+background: url(resources/images/colorado/florissant-fossil-beds-national-monument/Florissant_Fossil_Beds_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hovenweep-hero{
+    background: url(resources/images/colorado/hovenweep-national-monument/Cutthroat_Castle_9474544388\ -1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #black-canyon-hero{
-    background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/black-canyon-of-the-gunnison-national-park/black-canyon-gunnison-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #colorado-nm-hero{
-    background: url(resources/images/colorado-one/colorado-nm/colorado-nm-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/colorado-national-monument/colorado-nm-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #garden-gods-hero{
-    background: url(resources/images/colorado-one/garden-gods/garden-of-the-gods-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/colorado-springs/garden-of-the-gods-visitor-and-nature-center/Garden_of_the_Gods_Cathedral_Valley_by_David_Shankbone-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #grays-torreys-hero{
-    background: url(resources/images/colorado-one/grays-torrey/grays-torreys-peaks-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/grays-and-torreys-peaks/grays-torreys-peaks-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #great-sand-hero{
-    background: url(resources/images/colorado-one/great-sand/great-sand-dunes-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/great-sand-dunes-national-park/great-sand-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mesa-verde-hero{
-    background: url(resources/images/colorado-one/mesa-verde/mesa-verde-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/mesa-verde/mesa-verde-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #painted-mines-hero{
-    background: url(resources/images/colorado-one/painted-mine/painted-mines-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/painted-mine-interpretive-park/painted-mines-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rocky-mountains-hero{
-    background: url(resources/images/colorado-one/rocky-mountain/rocky-mountains-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/rocky-mountain/rocky-mountains-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-juan-skyway-hero{
-    background: url(resources/images/colorado-one/san-juan/san-juan-skyway-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/san-juan/san-juan-skyway-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* Connecticut */
@@ -2869,7 +2961,8 @@ background: url(resources/images/chicago/chicago-loop/marquette-building/Marquet
 background: url(resources/images/chicago/chicago-loop/monadnock-building/Monadnock_Building_East_Facade-1515.jpg) no-repeat center;
     background-size: cover;
 }
-#rookery-blg-hero{
+
+#rookery-bldg-hero{
 background: url(resources/images/chicago/chicago-loop/rookery-building/Rookery_Building_Spiral_Stairs-1515.jpg) no-repeat center;
     background-size: cover;
 }
@@ -3025,6 +3118,98 @@ background: url(resources/images/chicago/wrigley-field/Wrigley_Field_7391848828-
 /* Indiana */
 #indiana-dunes-hero{
     background: url(resources/images/indiana-dunes-national-park/Indiana_Dunes_National_Lakeshore\,_Michigan_City\,_Indiana\,_Estados_Unidos\,_2012-10-20\,_DD_03-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+
+/*--------------------- Iowa ------------------*/
+#cedar-bridge-hero{
+background: url(resources/images/iowa/bridges-of-madison-county/cedar-covered-bridge/Cedar_Covered_Bridge_1-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#cutler-bridge-hero{
+background: url(resources/images/iowa/bridges-of-madison-county/cutler-donahoe-bridge/Cutler–Donahoe_Bridge_3-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#hogback-bridge-hero{
+background: url(resources/images/iowa/bridges-of-madison-county/hogback-covered-bridge/Hogback_Covered_Bridge_in_Madison_County\,_Iowa-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#holliwell-bridge-hero{
+background: url(resources/images/iowa/bridges-of-madison-county/holliwell-covered-bridge/Holliwell_Covered_Bridge-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#imes-bridge-hero{
+background: url(resources/images/iowa/bridges-of-madison-county/imes-covered-bridge/Imes_covered_bridge_3-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#roseman-bridge-hero{
+background: url(resources/images/iowa/bridges-of-madison-county/roseman-covered-bridge/Roseman_Covered_Bridge_of_Madison_County\,_Iowa-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#des-moines-art-center-hero{
+background: url(resources/images/iowa/des-moines/des-moines-art-center/Des_Moines_106-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#des-moines-hero{
+background: url(resources/images/iowa/des-moines/Skyline_downtown_Des_Moines-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#iowa-capitol-hero{
+background: url(resources/images/iowa/des-moines/Skyline_downtown_Des_Moines-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#pappajohn-sculpture-hero{
+background: url(resources/images/iowa/des-moines/pappajohn-sculpture-park/View_from_the_Pappajohn_Sculpture_Park-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#terrace-hill-hero{
+background: url(resources/images/iowa/des-moines/terrace-hill/TerraceHill-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#effigy-mounds-hero{
+background: url(resources/images/iowa/effigy-mounds-national-monument/Effigy_Mounds_National_Monument_-_50209872771-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#field-of-dreams-hero{
+background: url(resources/images/iowa/field-of-dreams/Field_of_Dreams_Movie_Site\,_Dyersville\,_Iowa_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#floyds-bluff-hero{
+background: url(resources/images/iowa/floyd-monument/Sgt_Floyd_Monument_PA140782-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#grotto-redemption-hero{
+background: url(resources/images/iowa/grotto-of-the-redemption/The_Grotto_of_the_Redemption_Pic2-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#high-trestle-trail-hero{
+background: url(resources/images/iowa/high-trestle-trail/High_Trestle_Trail_Bridge_in_Winter_Madrid\,_Iowa_24551294845-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#iowa-80-hero{
+background: url(resources/images/iowa/iowa-eighty/Iowa80exterior_wide-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#maquoketa-caves-hero{
+background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves_04-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#pella-ia-hero{
+    background: url(resources/images/iowa/pella-ia/Information_Center_in_Pella_IA_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+
+/* ----------------------------------------Kansas------------------------------ */
+#castle-rock-hero{
+    background: url(resources/images/kansas/castle-rock/Chalk_Smoky_Hill_Chalk_Member\,_Niobrara_Formation\,_Upper_Cretaceous;_Castle_Rock\,_south_of_Quinter\,_Kansas\,_USA_4_19871643196-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#little-jerusalem-badlands-hero{
+    background: url(resources/images/kansas/little-jerusalem-badlands-state-park/Little_Jerusalem_Badlands_Kansas-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#monument-rocks-hero{
+    background: url(resources/images/kansas/monument-rocks/Monument_Rocks_1-1515.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -3510,54 +3695,87 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background: url(resources/images/branson/table-rock-mo/table-rock-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
 /* Nevada */
 #wheeler-peak-scenic-hero{
-    background: url(resources/images/nevada/great-basin/Baker_Peak-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin-national-park/Baker_Peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lehman-caves-hero{
-    background: url(resources/images/nevada/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin-national-park/lehman-caves/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bristlecone-glacier-hero{
-    background: url(resources/images/nevada/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin-national-park/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wheeler-peak-nv-hero{
-    background: url(resources/images/nevada/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/great-basin-national-park/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
 #hoover-dam-hero{
-    background: url(resources/images/nevada/hoover/hoover-dam-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/hoover-dam/View_of_Hoover_Dam_from_Mike_OCallaghan–Pat_Tillman_Memorial_Bridge-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #las-vegas-hero{
     background: url(resources/images/nevada/las-vegas/Las_Vegas_from_Eiffel_Tower_replica-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#aria-hero{
+    background: url(resources/images/nevada/las-vegas/aria-resort-and-casino/Aria_Resort_&_Casino_Casino_2019-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ballys-hero{
+    background: url(resources/images/nevada/las-vegas/ballys-las-vegas-hotel-and-casino/Ballyshotelcasino-lv_cropped-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #bellagio-hero{
-    background: url(resources/images/nevada/las-vegas/belagioNV/bellagio-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/bellagio-hotel-and-casino/lossy-page1-2560px-Bellagio_Hotel_fountains\,_Las_Vegas\,_Nevada_LCCN2010630600.tif-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #caesars-hero{
-    background: url(resources/images/nevada/las-vegas/caesars-palace/caesars-palace-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/caesars-palace/Ceasars_Palace-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#circus-circus-hero{
+    background: url(resources/images/nevada/las-vegas/circus-circus-hotel-and-casino/Circus_Circus_Las_Vegas_-_001-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cosmo-hero{
     background: url(resources/images/nevada/las-vegas/cosmo/cosmo-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#encore-hero{
+    background: url(resources/images/nevada/las-vegas/encore-at-wynn-las-vegas/Encore-wynn-towers-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #excalibur-hero{
-    background: url(resources/images/nevada/las-vegas/excaliburNV/excalibur-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/excalibur-hotel-and-casino/excalibur-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flamingo-hero{
+    background: url(resources/images/nevada/las-vegas/flamingo-las-vegas-hotel-and-casino/Flamingo_hotel_Las_Vegas_Front_Entrance-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #fremont-street-hero{
-    background: url(resources/images/nevada/las-vegas/fremont/fremont-street-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/fremont-street/fremont-street-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#high-roller-hero{
+    background: url(resources/images/nevada/las-vegas/high-roller/The_High_Roller_-_View_From_The_Linq_2-1515.jpg) center no-repeat;
+    background-size: cover;  
+}
+#linq-hero{
+    background: url(resources/images/nevada/las-vegas/linq-hotel-and-experience/View_from_the_High_Roller_Ferris_wheel_-_Las_Vegas_10-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#lou-ruvo-center-hero{
+    background: url(resources/images/nevada/las-vegas/lou-ruovo-center-for-brain-health/Lou_Ruovo_Center_for_Brain_Health-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
 #luxor-hero{
-    background: url(resources/images/nevada/las-vegas/luxorNV/luxor-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/luxor-hotel-casino/luxor-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mandalay-hero{
@@ -3565,55 +3783,149 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 #mgm-hero{
-    background: url(resources/images/nevada/las-vegas/mgm/mgm-grand-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/mgm-grand/mgm-grand-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mirage-hero{
-    background: url(resources/images/nevada/las-vegas/mirageNV/mirage-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/mirage/mirage-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mob-museum-hero{
+    background: url(resources/images/nevada/las-vegas/mob-museum/Las_Vegas_Mob_Museum_Wall_of_Mobsters-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#neon-museum-hero{
+    background: url(resources/images/nevada/las-vegas/neon-museum/Neon_Museum_12625695275-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nyny-hero{
-    background: url(resources/images/nevada/las-vegas/newYorkNV/new-york-new-york-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/new-york-new-york-casino/new-york-new-york-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #paris-hero{
-    background: url(resources/images/nevada/las-vegas/parisNV/paris-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/paris-las-vegas/paris-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #planet-hollywood-hero{
-    background: url(resources/images/nevada/las-vegas/planetHollywood/planet-hollywood-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/planet-hollywood-las-vegas-resort-and-casino/planet-hollywood-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#shark-reef-mandalay-hero{
+    background: url(resources/images/nevada/las-vegas/mandalay-bay/shark-reef-aquarium-at-mandalay-bay/Tunnel_at_Mandalay_Bay_aquarium-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #strat-hero{
-    background: url(resources/images/nevada/las-vegas/stratNV/strat-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/strat-hotel-casino-and-skypod/StratosphereBelow-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #treasure-island-hero{
-    background: url(resources/images/nevada/las-vegas/treasureIsland/treasure-island-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/treasure-Island-ti-hotel-and-casino/Treasure_Island_4068177090-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tropicana-hero{
+    background: url(resources/images/nevada/las-vegas/tropicana-las-vegas/Tropicana_hotel\,_Las_Vegas_by_night-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #venetian-hero{
-    background: url(resources/images/nevada/las-vegas/venetianNV/venetian-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/venetian-resort-las-vegas/venetian-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#las-vegas-sign-hero{
+    background: url(resources/images/nevada/las-vegas/welcome-to-fabulous-las-vegas-sign/Welcome_to_Fabulous_Las_Vegas-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wynn-hero{
-    background: url(resources/images/nevada/las-vegas/wynnNV/wynn-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/wynn-las-vegas/wynn-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#boundary-peak-hero{
+background: url(resources/images/nevada/boundary-peak/2015-05-03_11_30_54_View_of_Boundary_Peak\,_Nevada_from_about_12820_feet_on_the_ridgeline_to_the_northeast-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-mead-hero{
+background: url(resources/images/nevada/lake-mead-national-recreation-area/Lake_Mead_Nat._Recreation_Area\,_S_of_the_Hoover_Dam\,_Ariz….Panorama-3_7334039824-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#loneliest-road-hero{
+background: url(resources/images/nevada/loniest-road-in-america/Aerial_view_of_U.S._Route_50_in_eastern_Nevada_37812809525-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-charleston-hero{
+background: url(resources/images/nevada/mount-charleston/Mount_Charleston_and_Trout_Canyon_aerial-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seven-magic-mountains-hero{
+    background: url(resources/images/nevada/seven-magic-mountains/One_Magic_Mountain_\(Unsplash\)-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #red-rock-canyon-hero{
-    background: url(resources/images/nevada/red-rock-canyon/red-rock-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/red-rock-canyon-national-conservation-area/red-rock-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #valley-fire-hero{
-    background: url(resources/images/nevada/valley-fire/valley-of-fire-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/valley-of-fire-state-park/valley-of-fire-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #valley-scenic-hero{
-    background: url(resources/images/nevada/valley-fire/valley-of-fire-scenic-drive-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/valley-of-fire-state-park/valley-of-fire-scenic-drive/valley-of-fire-scenic-drive-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #white-domes-hero{
-    background: url(resources/images/nevada/valley-fire/white-domes/valley-of-fire-white-domes-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/valley-of-fire-state-park/valley-of-fire-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* ---------------------------Nebraska ----------------------------*/
+#agate-fossil-hero{
+background: url(resources/images/nebraska/agate-fossil-beds-national-monument/Bone_Cabin\,_Agate_Fossil_Beds_NM_long_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ash-hollow-hero{
+background: url(resources/images/nebraska/ash-hollow-state-historic-park/Ash_Hollow_P7170177-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chadron-sp-hero{
+background: url(resources/images/nebraska/chadron-state-park/Chadron_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chimney-rock-nhs-hero{
+background: url(resources/images/nebraska/chimney-rock-national-historic-site/Chimney_Rock_NE-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#courthouse-jail-hero{
+background: url(resources/images/nebraska/courthouse-and-jail-rocks/Courthouse_Rock_Nebraska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-robinson-hero{
+background: url(resources/images/nebraska/fort-robinson/Fort_Robinson_State_Park_Museum-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#great-platte-monument-hero{
+background: url(resources/images/nebraska/great-platte-river-road-archway/The_Great_Platte_River_Road_Archway_Monument_from_the_west\,_Kearney\,_Nebraska\,_USA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#homestead-nhp-hero{
+background: url(resources/images/nebraska/homestead-national-historical-park/Homestead_Freeman_School-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nebraska-state-capitol-hero{
+background: url(resources/images/nebraska/) center no-repeat;
+    background-size: cover;
+}
+#scotts-bluff-hero{
+background: url(resources/images/nebraska/scotts-bluff-national-monument/Scotts_Bluff_National_Monument_-_Nebraska_14254319427-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#smith-falls-hero{
+background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_Nebraska_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#toadstool-geologic-park-hero{
+    background: url(resources/images/nebraska/toadstool-geologic-park/Toadstool_Geologic_Park\,_6_July_2005\,_no._46-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wildcat-hills-hero{
+    background: url(resources/images/nebraska/wildcat-hills/Wildcat_hills_butte-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -4021,6 +4333,31 @@ background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrenc
 }
 #asheville-hero{
     background: url(resources/images/north-carolina/asheville-nc/asheville-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* ----------------------------North Dakota ----------------------------*/
+#bismarck-hero{
+    background: url(resources/images/north-dakota/bismarck-nd/2009-0521-ND-StateCapitol_cropped-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fargo-hero{
+    background: url(resources/images/north-dakota/fargo-nd/Fargo_North_Dakota_Broadway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#knife-river-hero{
+background: url(resources/images/north-dakota/knife-river-indian-villages-nhs/Knife_River_Indian_Villages_National_Historic_Site_73c8b3c5-38c2-4f16-8c2a-32f31a0dc6ef-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#medora-hero{
+background: url(resources/images/north-dakota/theodore-roosevelt-np/medora-nd/Chimney_Park_from_Theodore_Roosevelt_National_Park_Medora_ND1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-butte-hero{
+background: url(resources/images/north-dakota/white-butte/White_butte_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#worlds-buffalo-hero{
+    background: url(resources/images/north-dakota/worlds-largest-buffalo/Buffalo_statue_jamestown_north_dakota-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -4868,28 +5205,134 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
     background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* West Virginia */
 #west-virginia-hero{
-    background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/west-virginia/new-river-gorge-national-park/west-virginia-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #german-valley-hero{
-    background: url(resources/images/WestVirginia/german-valley/german-valley-wv-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/west-virginia/german-valley/german-valley-wv-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #glade-creek-hero{
-    background: url(resources/images/WestVirginia/glade-creek/glade-creek-grist-mill-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/west-virginia/glade-creek-grist-mill/glade-creek-grist-mill-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #new-river-hero{
-    background: url(resources/images/WestVirginia/new-river-gorge/new-river-gorge-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-national-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #spruce-knob-hero{
-    background: url(resources/images/WestVirginia/spruce-knob/spruce-knob-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/west-virginia/spruce-knob/spruce-knob-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* --------------------Wisconsin --------------------------------*/
+#baileys-harbor-hero{
+background: url(resources/images/wisconsin/door-county/baileys-harbor/The_Baileys_Harbor\,_Wisconsin_area_is_a_vacationland_for_people_from_California_to_Chicago-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cana-island-hero{
+background: url(resources/images/wisconsin/door-county/cana-island/Door_County_Trip_-_July_2013_-_Cana_Island_Light_9234087363-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ephraim-wi-hero{
+background: url(resources/images/wisconsin/door-county/ephraim-wi/Ephraim_Water_St_County_Rd_42_2019-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#peninsula-sp-hero{
+background: url(resources/images/wisconsin/door-county/peninsula-state-park/Gfp-wisconsin-peninsula-state-park-islands-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ridges-sanctuary-hero{
+background: url(resources/images/wisconsin/grand-teton-national-park/wyoming-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sister-bay-hero{
+background: url(resources/images/wisconsin/door-county/sister-bay-wi/) center no-repeat;
+    background-size: cover;
+}
+#washington-island-hero{
+background: url(resources/images/wisconsin/door-county/washington-island-wi/Stavkirke_Washington_Island_Wisconsin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#whitefish-dunes-sp-hero{
+background: url(resources/images/wisconsin/door-county/whitefish-dunes-state-park/Beach_at_Whitefish_Dunes_State_Park\,_Door_County\,_Wisconsin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#herbert-jacobs-first-hero{
+background: url(resources/images/wisconsin/madison-wi/herbert-and-katherine-jacobs-first-house/Jacobs_First_House_-_back_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#herbert-jacobs-second-hero{
+background: url(resources/images/wisconsin/madison-wi/herbert-and-katherine-jacobs-second-house/Herbert_and_Katherine_Jacobs_Second_House_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#madison-museum-art-hero{
+background: url(resources/images/wisconsin/madison-wi/madison-museum-of-contemporary-art/Madison_Museum_of_Contemporary_Art-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#madison-wi-hero{
+background: url(resources/images/wisconsin/madison-wi/Gfp-wisconsin-madison-city-skyline-in-the-winter-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#olbrich-botanical-hero{
+background: url(resources/images/wisconsin/madison-wi/olbrich-botanical-gardens/Olbrich_Botanical_Gardens_-_panoramio_24-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wisconsin-capitol-hero{
+background: url(resources/images/wisconsin/madison-wi/wisconsin-state-capitol/Wisconsin_State_Capitol_Aerial-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#milwaukee-hero{
+background: url(resources/images/wisconsin/milwaukee/Downtown_Milwaukee_from_Pier_Wisconsin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#apostle-islands-hero{
+background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#apostle-islands-hero{
+background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-lake-sp-hero{
+background: url(resources/images/wisconsin/devils-lake-state-park/Devils_Lake_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#geneva-lake-hero{
+background: url(resources/images/wisconsin/geneva-lake/Gfp-wisconsin-lake-geneva-docks-at-dusk-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gov-dodge-sp-hero{
+background: url(resources/images/wisconsin/governor-dodge-state-park/Governor_Dodge_State_Park_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#holy-hill-shrine-hero{
+background: url(resources/images/wisconsin/holy-hill-national-shrine-of-mary/Holy_Hill-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taliesin-wi-hero{
+background: url(resources/images/wisconsin/taliesan/Taliesin_08-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#timms-hill-hero{
+background: url(resources/images/wisconsin/timms-hill/Timms_Hill\,_Wisconsin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#willow-river-sp-hero{
+background: url(resources/images/wisconsin/willow-river-state-park/02WillowFalls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wisconsin-dells-hero{
+    background: url(resources/images/wisconsin/wisconsin-dells/Wisconsin_Dells\,_WI\,_USA_-_panoramio_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* ------------------------------Wyoming-------------------------- */
 #wyoming-hero{
-    background: url(resources/images/wyoming/grand-teton-one/wyoming-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/grand-teton-national-park/wyoming-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #devils-tower-hero{
@@ -4897,35 +5340,35 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
     background-size: cover;
 }
 #grand-teton-hero{
-    background: url(resources/images/wyoming/grand-teton-one/grand-teton-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/grand-teton-national-park/grand-teton-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-hero {
-    background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-southwest-hero {
-    background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/morning-glory-pool-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-northwest-hero {
-    background: url(resources/images/wyoming/yellowstone-one/norris-geyser/norris-basin-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/norris-geyser-basin/norris-basin-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-upper-basin-hero {
-    background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/morning-glory-pool-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-midway-basin-hero {
-    background: url(resources/images/wyoming/yellowstone-one/midway-basin/grand-prismatic/midway-basin-grand-prismatic-spring-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/midway-geyser-basin/grand-prismatic/midway-basin-grand-prismatic-spring-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-lower-basin-hero {
-    background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-grand-canyon-hero {
-    background: url(resources/images/wyoming/yellowstone-one/grand-canyon-yellowstone/grand-canyon-yellowstone-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/grand-canyon-yellowstone-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -7318,40 +7761,221 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+     /*  Connecticut */
+ #avery-point-hero{
+    background: url(resources/images/connecticut/avery-point-light/Avery_Point_Light_House_in_Groton\,_CT_01-3030.jpg) center no-repeat;
+    background-size: cover;
+ }
+#branford-house-hero{
+    background: url(resources/images/connecticut/branford-house/Branford_House\,_UConn_Avery_Point\,_Groton\,_CT-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#castle-craig-hero{
+    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#devils-hopyard-hero{
+    background: url(resources/images/connecticut/devils-hopyard/Devils_Hopyard_Bridge_View_Kevin_Pepin-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#five-mile-point-hero{
+    background: url(resources/images/connecticut/five-mile-point/Five_Mile_Point_Light_-_New_Haven_CT-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gillette-castle-hero{
+    background: url(resources/images/connecticut/gillette-castle/Gillete_Castle_Rear-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#hartford-hero{
+    background: url(resources/images/connecticut/hartford/Hartford_Connecticut_Skyline-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bushnell-park-hero{
+    background: url(resources/images/connecticut/hartford/bushnell-park/Prospect_Park_New_York_October_2015_003-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#church-good-shepherd-hero{
+    background: url(resources/images/connecticut/hartford/church-of-the-good-shepherd/Church_of_the_Good_Shepherd_Parish_House_-_Hartford\,_Connecticut_03-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#heublein-tower-hero{
+    background: url(resources/images/connecticut/heublein-tower/Heublein_Tower_on_Talcott_Mountain-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kent-falls-hero{
+    background: url(resources/images/connecticut/kent-falls/Kent\ Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lighthouse-point-hero{
+    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Park_-_New_Haven\,_CT_14193945443-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lighthouse-carousel-hero{
+    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Carousel_in_Lighthouse_Point_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystic-ct-hero{
+    background: url(resources/images/connecticut/mystic/Joseph_Conrad\,_ship_moored_at_Mystic_Seaport_in_Connecticut\,_USA-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#mystic-bascule-hero{
+    background: url(resources/images/connecticut/mystic/mystic-bascule-bridge/Mystic_River_Bascule_Bridge_\counter_weights\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystic-seaport-hero{
+    background: url(resources/images/connecticut/mystic/mystic-seaport/Mystic_Seaport-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-london-harbor-hero{
+    background: url(resources/images/connecticut/new-london-harbor/New_london_harbor_light_14422085964-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#penfield-reef-hero{
+    background: url(resources/images/connecticut/penfield-reef-light/Penfield_Reef_Light_CT_02_NRHP_89001473-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#southford-falls-hero{
+    background: url(resources/images/connecticut/southford-falls/Southford_Falls_II-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#stonington-harbor-hero{
+    background: url(resources/images/connecticut/stonington-harbor/Stonington_Harbor_Light-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wadsworth-falls-hero{
+    background: url(resources/images/connecticut/wadsworth-falls/Wadsworth_Falls_State_Park_-_falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* Colorado */
+#colorado-springs-hero{
+    background: url(resources/images/colorado/colorado-springs/CC_COSPRINGS-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #broadmoor-cog-hero{
+    background: url(resources/images/colorado/colorado-springs/broadmoor-manitou-and-pikes-peak-cog-railway/Pikes_Peak_Cog_Railway_car_25_at_summit_of_Pikes_Peak-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #manitou-incline-hero{
+    background: url(resources/images/colorado/colorado-springs/manitou-incline/Looking_down_the_Manitou_Springs_Incline_from_Barr_Trail_Bailout-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pikes-peak-hero{
+    background: url(resources/images/colorado/colorado-springs/pikes-peak/Pikes_Peak4-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #denver-hero{
+    background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #aspen-hero{
+    background: url(resources/images/colorado/aspen/Aspen_south_Galena_street-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #durango-hero{
+    background: url(resources/images/colorado/durango-co/Historic_Main_in_Downtown_Durango-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ouray-hero{
+    background: url(resources/images/colorado/ouray/ouray-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #silverton-hero{
+    background: url(resources/images/colorado/silverton-co/Downtown_Silverton\,_Colorado-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #telluride-hero{
+    background: url(resources/images/colorado/telluride/Tellurides_main_street-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #maroon-bells-hero{
+    background: url(resources/images/colorado/maroon-bells/Aspen-maroon-bells-colorado-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mt-elbert-hero{
+    background: url(resources/images/colorado/mount-elbert/Mount_Elbert_and_horses-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #devils-causeway-hero{
+    background: url(resources/images/colorado/devils-causeway/Devils_Causeway-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #durango-silverton-narrow-gauge-hero{
+    background: url(resources/images/colorado/durango-silverton-narrow-gauge-railroad/Durango-Silverton_Highline_2012-10-25-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pawnee-buttes-hero{
+    background: url(resources/images/colorado/pawnee-buttes/Pawnee_Buttes2010-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #red-rock-amphitheatre-hero{
+    background: url(resources/images/colorado/red-rocks-park-and-amphitheatre/Red\ Rocks\ Amphitheatre\ in\ February-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rifle-falls-hero{
+    background: url(resources/images/colorado/rifle-falls-state-park/Rifle_Falls_State_Park\,_Colorado_01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #royal-gorge-hero{
+    background: url(resources/images/colorado/royal-gorge-bridge-and-park/Royal_Gorge_Bridge_looking_west-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-juan-mountains-hero{
+    background: url(resources/images/colorado/san-juan-mountains/Sheep_Mountain\,_San_Juan_Mountains-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #canyon-ancients-hero{
+    background: url(resources/images/colorado/canyon-of-the-ancients-national-monument/CANM_Escalante_McPhee_Reservoir-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chimney-rock-co-hero{
+    background: url(resources/images/colorado/chimney-rock-national-monument/Chimney_Rock_National_Monument-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #florissant-co-hero{
+    background: url(resources/images/colorado/florissant-fossil-beds-national-monument/Florissant_Fossil_Beds_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hovenweep-hero{
+        background: url(resources/images/colorado/hovenweep-national-monument/Cutthroat_Castle_9474544388\ -3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #black-canyon-hero{
-        background: url(resources/images/colorado-one/black-canyon/black-canyon-gunnison-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/black-canyon-of-the-gunnison-national-park/black-canyon-gunnison-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #colorado-nm-hero{
-        background: url(resources/images/colorado-one/colorado-nm/colorado-nm-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/colorado-national-monument/colorado-nm-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #garden-gods-hero{
-        background: url(resources/images/colorado-one/garden-gods/garden-of-the-gods-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/colorado-springs/garden-of-the-gods-visitor-and-nature-center/Garden_of_the_Gods_Cathedral_Valley_by_David_Shankbone-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #grays-torreys-hero{
-        background: url(resources/images/colorado-one/grays-torrey/grays-torreys-peaks-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/grays-and-torreys-peaks/grays-torreys-peaks-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #great-sand-hero{
-        background: url(resources/images/colorado-one/great-sand/great-sand-dunes-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/great-sand-dunes-national-park/great-sand-dunes-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mesa-verde-hero{
-        background: url(resources/images/colorado-one/mesa-verde/mesa-verde-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/mesa-verde/mesa-verde-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #painted-mines-hero{
-        background: url(resources/images/colorado-one/painted-mine/painted-mines-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/painted-mine-interpretive-park/painted-mines-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #rocky-mountains-hero{
-        background: url(resources/images/colorado-one/rocky-mountain/rocky-mountains-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/rocky-mountain/rocky-mountains-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #san-juan-skyway-hero{
-        background: url(resources/images/colorado-one/san-juan/san-juan-skyway-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/san-juan/san-juan-skyway-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #florida-hero{
@@ -7718,7 +8342,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/chicago/chicago-loop/monadnock-building/Monadnock_Building_East_Facade-3030.jpg) no-repeat center;
         background-size: cover;
     }
-    #rookery-blg-hero{
+    #rookery-bldg-hero{
     background: url(resources/images/chicago/chicago-loop/rookery-building/Rookery_Building_Spiral_Stairs-3030.jpg) no-repeat center;
         background-size: cover;
     }
@@ -7876,7 +8500,99 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/indiana-dunes-national-park/Indiana_Dunes_National_Lakeshore\,_Michigan_City\,_Indiana\,_Estados_Unidos\,_2012-10-20\,_DD_03-3030.jpg) no-repeat center;
         background-size: cover;
     }
+
+    /*--------------------- Iowa ------------------*/
+#cedar-bridge-hero{
+    background: url(resources/images/iowa/bridges-of-madison-county/cedar-covered-bridge/Cedar_Covered_Bridge_1-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #cutler-bridge-hero{
+    background: url(resources/images/iowa/bridges-of-madison-county/cutler-donahoe-bridge/Cutler–Donahoe_Bridge_3-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #hogback-bridge-hero{
+    background: url(resources/images/iowa/bridges-of-madison-county/hogback-covered-bridge/Hogback_Covered_Bridge_in_Madison_County\,_Iowa-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #holliwell-bridge-hero{
+    background: url(resources/images/iowa/bridges-of-madison-county/holliwell-covered-bridge/Holliwell_Covered_Bridge-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #imes-bridge-hero{
+    background: url(resources/images/iowa/bridges-of-madison-county/imes-covered-bridge/Imes_covered_bridge_3-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #roseman-bridge-hero{
+    background: url(resources/images/iowa/bridges-of-madison-county/roseman-covered-bridge/Roseman_Covered_Bridge_of_Madison_County\,_Iowa-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #des-moines-art-center-hero{
+    background: url(resources/images/iowa/des-moines/des-moines-art-center/Des_Moines_106-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #des-moines-hero{
+    background: url(resources/images/iowa/des-moines/Skyline_downtown_Des_Moines-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #iowa-capitol-hero{
+    background: url(resources/images/iowa/des-moines/Skyline_downtown_Des_Moines-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #pappajohn-sculpture-hero{
+    background: url(resources/images/iowa/des-moines/pappajohn-sculpture-park/View_from_the_Pappajohn_Sculpture_Park-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #terrace-hill-hero{
+    background: url(resources/images/iowa/des-moines/terrace-hill/TerraceHill-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #effigy-mounds-hero{
+    background: url(resources/images/iowa/effigy-mounds-national-monument/Effigy_Mounds_National_Monument_-_50209872771-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #field-of-dreams-hero{
+    background: url(resources/images/iowa/field-of-dreams/Field_of_Dreams_Movie_Site\,_Dyersville\,_Iowa_-_panoramio-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #floyds-bluff-hero{
+    background: url(resources/images/iowa/floyd-monument/Sgt_Floyd_Monument_PA140782-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #grotto-redemption-hero{
+    background: url(resources/images/iowa/grotto-of-the-redemption/The_Grotto_of_the_Redemption_Pic2-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #high-trestle-trail-hero{
+    background: url(resources/images/iowa/high-trestle-trail/High_Trestle_Trail_Bridge_in_Winter_Madrid\,_Iowa_24551294845-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #iowa-80-hero{
+    background: url(resources/images/iowa/iowa-eighty/Iowa80exterior_wide-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #maquoketa-caves-hero{
+    background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves_04-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #pella-ia-hero{
+        background: url(resources/images/iowa/pella-ia/Information_Center_in_Pella_IA_-_panoramio-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
     
+    #castle-rock-hero{
+        background: url(resources/images/kansas/castle-rock/Chalk_Smoky_Hill_Chalk_Member\,_Niobrara_Formation\,_Upper_Cretaceous;_Castle_Rock\,_south_of_Quinter\,_Kansas\,_USA_4_19871643196-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #little-jerusalem-badlands-hero{
+        background: url(resources/images/kansas/little-jerusalem-badlands-state-park/Little_Jerusalem_Badlands_Kansas-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #monument-rocks-hero{
+        background: url(resources/images/kansas/monument-rocks/Monument_Rocks_1-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+
+    /* Kentucky */
     #kentucky-hero{
         background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-3030.jpg) no-repeat center;
         background-size: cover;
@@ -8106,111 +8822,242 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/branson/table-rock-mo/table-rock-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #wheeler-peak-scenic-hero{
-        background: url(resources/images/nevada/great-basin/Baker_Peak-hero-3030.jpg) center no-repeat;
+
+
+/* ----------------------Nevada ----------------------------------*/
+#wheeler-peak-scenic-hero{
+    background: url(resources/images/nevada/great-basin-national-park/Baker_Peak-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lehman-caves-hero{
+    background: url(resources/images/nevada/great-basin-national-park/lehman-caves/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bristlecone-glacier-hero{
+    background: url(resources/images/nevada/great-basin-national-park/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wheeler-peak-nv-hero{
+    background: url(resources/images/nevada/great-basin-national-park/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#hoover-dam-hero{
+    background: url(resources/images/nevada/hoover-dam/View_of_Hoover_Dam_from_Mike_OCallaghan–Pat_Tillman_Memorial_Bridge-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#las-vegas-hero{
+    background: url(resources/images/nevada/las-vegas/Las_Vegas_from_Eiffel_Tower_replica-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#aria-hero{
+    background: url(resources/images/nevada/las-vegas/aria-resort-and-casino/Aria_Resort_&_Casino_Casino_2019-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ballys-hero{
+    background: url(resources/images/nevada/las-vegas/ballys-las-vegas-hotel-and-casino/Ballyshotelcasino-lv_cropped-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bellagio-hero{
+    background: url(resources/images/nevada/las-vegas/bellagio-hotel-and-casino/lossy-page1-2560px-Bellagio_Hotel_fountains\,_Las_Vegas\,_Nevada_LCCN2010630600.tif-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#caesars-hero{
+    background: url(resources/images/nevada/las-vegas/caesars-palace/Ceasars_Palace-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#circus-circus-hero{
+    background: url(resources/images/nevada/las-vegas/circus-circus-hotel-and-casino/Circus_Circus_Las_Vegas_-_001-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cosmo-hero{
+    background: url(resources/images/nevada/las-vegas/cosmo/cosmo-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#encore-hero{
+    background: url(resources/images/nevada/las-vegas/encore-at-wynn-las-vegas/Encore-wynn-towers-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#excalibur-hero{
+    background: url(resources/images/nevada/las-vegas/excalibur-hotel-and-casino/excalibur-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#flamingo-hero{
+    background: url(resources/images/nevada/las-vegas/flamingo-las-vegas-hotel-and-casino/Flamingo_hotel_Las_Vegas_Front_Entrance-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fremont-street-hero{
+    background: url(resources/images/nevada/las-vegas/fremont-street/fremont-street-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#high-roller-hero{
+    background: url(resources/images/nevada/las-vegas/high-roller/The_High_Roller_-_View_From_The_Linq_2-3030.jpg) center no-repeat;
+    background-size: cover;  
+}
+#linq-hero{
+    background: url(resources/images/nevada/las-vegas/linq-hotel-and-experience/View_from_the_High_Roller_Ferris_wheel_-_Las_Vegas_10-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#lou-ruvo-center-hero{
+    background: url(resources/images/nevada/las-vegas/lou-ruovo-center-for-brain-health/Lou_Ruovo_Center_for_Brain_Health-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#luxor-hero{
+    background: url(resources/images/nevada/las-vegas/luxor-hotel-casino/luxor-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mandalay-hero{
+    background: url(resources/images/nevada/las-vegas/mandalay/mandalay-bay-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mgm-hero{
+    background: url(resources/images/nevada/las-vegas/mgm-grand/mgm-grand-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mirage-hero{
+    background: url(resources/images/nevada/las-vegas/mirage/mirage-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mob-museum-hero{
+    background: url(resources/images/nevada/las-vegas/mob-museum/Las_Vegas_Mob_Museum_Wall_of_Mobsters-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#neon-museum-hero{
+    background: url(resources/images/nevada/las-vegas/neon-museum/Neon_Museum_12625695275-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nyny-hero{
+    background: url(resources/images/nevada/las-vegas/new-york-new-york-casino/new-york-new-york-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#paris-hero{
+    background: url(resources/images/nevada/las-vegas/paris-las-vegas/paris-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#planet-hollywood-hero{
+    background: url(resources/images/nevada/las-vegas/planet-hollywood-las-vegas-resort-and-casino/planet-hollywood-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#shark-reef-mandalay-hero{
+    background: url(resources/images/nevada/las-vegas/mandalay-bay/shark-reef-aquarium-at-mandalay-bay/Tunnel_at_Mandalay_Bay_aquarium-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#strat-hero{
+    background: url(resources/images/nevada/las-vegas/strat-hotel-casino-and-skypod/StratosphereBelow-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#treasure-island-hero{
+    background: url(resources/images/nevada/las-vegas/treasure-Island-ti-hotel-and-casino/Treasure_Island_4068177090-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#tropicana-hero{
+    background: url(resources/images/nevada/las-vegas/tropicana-las-vegas/Tropicana_hotel\,_Las_Vegas_by_night-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#venetian-hero{
+    background: url(resources/images/nevada/las-vegas/venetian-resort-las-vegas/venetian-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#las-vegas-sign-hero{
+    background: url(resources/images/nevada/las-vegas/welcome-to-fabulous-las-vegas-sign/Welcome_to_Fabulous_Las_Vegas-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wynn-hero{
+    background: url(resources/images/nevada/las-vegas/wynn-las-vegas/wynn-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boundary-peak-hero{
+background: url(resources/images/nevada/boundary-peak/2015-05-03_11_30_54_View_of_Boundary_Peak\,_Nevada_from_about_12820_feet_on_the_ridgeline_to_the_northeast-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-mead-hero{
+background: url(resources/images/nevada/lake-mead-national-recreation-area/Lake_Mead_Nat._Recreation_Area\,_S_of_the_Hoover_Dam\,_Ariz….Panorama-3_7334039824-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#loneliest-road-hero{
+background: url(resources/images/nevada/loniest-road-in-america/Aerial_view_of_U.S._Route_50_in_eastern_Nevada_37812809525-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mt-charleston-hero{
+background: url(resources/images/nevada/mount-charleston/Mount_Charleston_and_Trout_Canyon_aerial-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#seven-magic-mountains-hero{
+    background: url(resources/images/nevada/seven-magic-mountains/One_Magic_Mountain_\(Unsplash\)-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-rock-canyon-hero{
+    background: url(resources/images/nevada/red-rock-canyon-national-conservation-area/red-rock-canyon-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#valley-fire-hero{
+    background: url(resources/images/nevada/valley-of-fire-state-park/valley-of-fire-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#valley-scenic-hero{
+    background: url(resources/images/nevada/valley-of-fire-state-park/valley-of-fire-scenic-drive/valley-of-fire-scenic-drive-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-domes-hero{
+    background: url(resources/images/nevada/valley-of-fire-state-park/valley-of-fire-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* ---------------------------Nebraska ----------------------------*/
+#agate-fossil-hero{
+    background: url(resources/images/nebraska/agate-fossil-beds-national-monument/Bone_Cabin\,_Agate_Fossil_Beds_NM_long_1-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #lehman-caves-hero{
-        background: url(resources/images/nevada/great-basin/lehman-cave/2015-01-14_13_52_48_Rock_formations_within_Lehman_Caves_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+    #ash-hollow-hero{
+    background: url(resources/images/nebraska/ash-hollow-state-historic-park/Ash_Hollow_P7170177-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #bristlecone-glacier-hero{
-        background: url(resources/images/nevada/great-basin/bristlecone-trail/2014-09-15_11_34_14_View_up_the_Glacier_Trail_towards_Wheeler_Peak_in_Great_Basin_National_Park\,_Nevada-hero-3030.jpg) center no-repeat;
+    #chadron-sp-hero{
+    background: url(resources/images/nebraska/chadron-state-park/Chadron_State_Park-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #wheeler-peak-nv-hero{
-        background: url(resources/images/nevada/great-basin/wheeler-peak/Mount_Wheeler_peak_-_Flickr_-_pellaea-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-        background-position-y: -100px;
-    }
-    #hoover-dam-hero{
-        background: url(resources/images/nevada/hoover/hoover-dam-3030.jpg) center no-repeat;
+    #chimney-rock-nhs-hero{
+    background: url(resources/images/nebraska/chimney-rock-national-historic-site/Chimney_Rock_NE-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #las-vegas-hero{
-        background: url(resources/images/nevada/las-vegas/Las_Vegas_from_Eiffel_Tower_replica-3030.jpg) center no-repeat;
+    #courthouse-jail-hero{
+    background: url(resources/images/nebraska/courthouse-and-jail-rocks/Courthouse_Rock_Nebraska-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #bellagio-hero{
-        background: url(resources/images/nevada/las-vegas/belagioNV/bellagio-hero-3030.jpg) center no-repeat;
+    #fort-robinson-hero{
+    background: url(resources/images/nebraska/fort-robinson/Fort_Robinson_State_Park_Museum-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #caesars-hero{
-        background: url(resources/images/nevada/las-vegas/caesars-palace/caesars-palace-hero-3030.jpg) center no-repeat;
+    #great-platte-monument-hero{
+    background: url(resources/images/nebraska/great-platte-river-road-archway/The_Great_Platte_River_Road_Archway_Monument_from_the_west\,_Kearney\,_Nebraska\,_USA-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #cosmo-hero{
-        background: url(resources/images/nevada/las-vegas/cosmo/cosmo-hero-3030.jpg) center no-repeat;
+    #homestead-nhp-hero{
+    background: url(resources/images/nebraska/homestead-national-historical-park/Homestead_Freeman_School-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #excalibur-hero{
-        background: url(resources/images/nevada/las-vegas/excaliburNV/excalibur-hero-3030.jpg) center no-repeat;
+    #nebraska-state-capitol-hero{
+    background: url(resources/images/nebraska/) center no-repeat;
         background-size: cover;
     }
-    #fremont-street-hero{
-        background: url(resources/images/nevada/las-vegas/fremont/fremont-street-hero-3030.jpg) center no-repeat;
+    #scotts-bluff-hero{
+    background: url(resources/images/nebraska/scotts-bluff-national-monument/Scotts_Bluff_National_Monument_-_Nebraska_14254319427-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #luxor-hero{
-        background: url(resources/images/nevada/las-vegas/luxorNV/luxor-hero-3030.jpg) center no-repeat;
+    #smith-falls-hero{
+    background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_Nebraska_1-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #mandalay-hero{
-        background: url(resources/images/nevada/las-vegas/mandalay/mandalay-bay-hero-3030.jpg) center no-repeat;
+    #toadstool-geologic-park-hero{
+        background: url(resources/images/nebraska/toadstool-geologic-park/Toadstool_Geologic_Park\,_6_July_2005\,_no._46-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #mgm-hero{
-        background: url(resources/images/nevada/las-vegas/mgm/mgm-grand-hero-3030.jpg) center no-repeat;
+    #wildcat-hills-hero{
+        background: url(resources/images/nebraska/wildcat-hills/Wildcat_hills_butte-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #mirage-hero{
-        background: url(resources/images/nevada/las-vegas/mirageNV/mirage-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #nyny-hero{
-        background: url(resources/images/nevada/las-vegas/newYorkNV/new-york-new-york-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #paris-hero{
-        background: url(resources/images/nevada/las-vegas/parisNV/paris-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #planet-hollywood-hero{
-        background: url(resources/images/nevada/las-vegas/planetHollywood/planet-hollywood-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #strat-hero{
-        background: url(resources/images/nevada/las-vegas/stratNV/strat-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #treasure-island-hero{
-        background: url(resources/images/nevada/las-vegas/treasureIsland/treasure-island-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #venetian-hero{
-        background: url(resources/images/nevada/las-vegas/venetianNV/venetian-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #wynn-hero{
-        background: url(resources/images/nevada/las-vegas/wynnNV/wynn-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #red-rock-canyon-hero{
-        background: url(resources/images/nevada/red-rock-canyon/red-rock-canyon-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #valley-fire-hero{
-        background: url(resources/images/nevada/valley-fire/valley-of-fire-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #valley-scenic-hero{
-        background: url(resources/images/nevada/valley-fire/valley-of-fire-scenic-drive-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #white-domes-hero{
-        background: url(resources/images/nevada/valley-fire/white-domes/valley-of-fire-white-domes-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+
+/* -----------------------New Jersey ---------------------------------*/
     #new-jersey-hero{
         background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -8306,6 +9153,32 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background: url(resources/images/north-carolina/asheville-nc/asheville-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+    /* ----------------------------North Dakota ----------------------------*/
+#bismarck-hero{
+    background: url(resources/images/north-dakota/bismarck-nd/2009-0521-ND-StateCapitol_cropped-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fargo-hero{
+    background: url(resources/images/north-dakota/fargo-nd/Fargo_North_Dakota_Broadway-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#knife-river-hero{
+background: url(resources/images/north-dakota/knife-river-indian-villages-nhs/Knife_River_Indian_Villages_National_Historic_Site_73c8b3c5-38c2-4f16-8c2a-32f31a0dc6ef-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#medora-hero{
+background: url(resources/images/north-dakota/theodore-roosevelt-np/medora-nd/Chimney_Park_from_Theodore_Roosevelt_National_Park_Medora_ND1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-butte-hero{
+background: url(resources/images/north-dakota/white-butte/White_butte_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#worlds-buffalo-hero{
+    background: url(resources/images/north-dakota/worlds-largest-buffalo/Buffalo_statue_jamestown_north_dakota-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 
     /* ---------------------Oklahoma */
 #bricktown-okc-hero{
@@ -9125,27 +9998,131 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
         
     }
     #west-virginia-hero{
-        background: url(resources/images/WestVirginia/new-river-gorge/west-virginia-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/west-virginia/new-river-gorge-national-park/west-virginia-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #german-valley-hero{
-        background: url(resources/images/WestVirginia/german-valley/german-valley-wv-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/west-virginia/german-valley/german-valley-wv-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #glade-creek-hero{
-        background: url(resources/images/WestVirginia/glade-creek/glade-creek-grist-mill-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/west-virginia/glade-creek-grist-mill/glade-creek-grist-mill-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #new-river-hero{
-        background: url(resources/images/WestVirginia/new-river-gorge/new-river-gorge-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-national-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #spruce-knob-hero{
-        background: url(resources/images/WestVirginia/spruce-knob/spruce-knob-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/west-virginia/spruce-knob/spruce-knob-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+    /* --------------------Wisconsin --------------------------------*/
+#baileys-harbor-hero{
+    background: url(resources/images/wisconsin/door-county/baileys-harbor/The_Baileys_Harbor\,_Wisconsin_area_is_a_vacationland_for_people_from_California_to_Chicago-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cana-island-hero{
+    background: url(resources/images/wisconsin/door-county/cana-island/Door_County_Trip_-_July_2013_-_Cana_Island_Light_9234087363-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ephraim-wi-hero{
+    background: url(resources/images/wisconsin/door-county/ephraim-wi/Ephraim_Water_St_County_Rd_42_2019-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #peninsula-sp-hero{
+    background: url(resources/images/wisconsin/door-county/peninsula-state-park/Gfp-wisconsin-peninsula-state-park-islands-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ridges-sanctuary-hero{
+    background: url(resources/images/wisconsin/grand-teton-national-park/wyoming-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sister-bay-hero{
+    background: url(resources/images/wisconsin/door-county/sister-bay-wi/) center no-repeat;
+        background-size: cover;
+    }
+    #washington-island-hero{
+    background: url(resources/images/wisconsin/door-county/washington-island-wi/Stavkirke_Washington_Island_Wisconsin-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #whitefish-dunes-sp-hero{
+    background: url(resources/images/wisconsin/door-county/whitefish-dunes-state-park/Beach_at_Whitefish_Dunes_State_Park\,_Door_County\,_Wisconsin-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #herbert-jacobs-first-hero{
+    background: url(resources/images/wisconsin/madison-wi/herbert-and-katherine-jacobs-first-house/Jacobs_First_House_-_back_02-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #herbert-jacobs-second-hero{
+    background: url(resources/images/wisconsin/madison-wi/herbert-and-katherine-jacobs-second-house/Herbert_and_Katherine_Jacobs_Second_House_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #madison-museum-art-hero{
+    background: url(resources/images/wisconsin/madison-wi/madison-museum-of-contemporary-art/Madison_Museum_of_Contemporary_Art-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #madison-wi-hero{
+    background: url(resources/images/wisconsin/madison-wi/Gfp-wisconsin-madison-city-skyline-in-the-winter-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #olbrich-botanical-hero{
+    background: url(resources/images/wisconsin/madison-wi/olbrich-botanical-gardens/Olbrich_Botanical_Gardens_-_panoramio_24-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wisconsin-capitol-hero{
+    background: url(resources/images/wisconsin/madison-wi/wisconsin-state-capitol/Wisconsin_State_Capitol_Aerial-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #milwaukee-hero{
+    background: url(resources/images/wisconsin/milwaukee/Downtown_Milwaukee_from_Pier_Wisconsin-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #apostle-islands-hero{
+    background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #apostle-islands-hero{
+    background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #devils-lake-sp-hero{
+    background: url(resources/images/wisconsin/devils-lake-state-park/Devils_Lake_State_Park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #geneva-lake-hero{
+    background: url(resources/images/wisconsin/geneva-lake/Gfp-wisconsin-lake-geneva-docks-at-dusk-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gov-dodge-sp-hero{
+    background: url(resources/images/wisconsin/governor-dodge-state-park/Governor_Dodge_State_Park_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #holy-hill-shrine-hero{
+    background: url(resources/images/wisconsin/holy-hill-national-shrine-of-mary/Holy_Hill-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #taliesin-wi-hero{
+    background: url(resources/images/wisconsin/taliesan/Taliesin_08-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #timms-hill-hero{
+    background: url(resources/images/wisconsin/timms-hill/Timms_Hill\,_Wisconsin-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #willow-river-sp-hero{
+    background: url(resources/images/wisconsin/willow-river-state-park/02WillowFalls-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #wisconsin-dells-hero{
+        background: url(resources/images/wisconsin/wisconsin-dells/Wisconsin_Dells\,_WI\,_USA_-_panoramio_3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
+    /* -----------------------------Wyoming -----------------------*/
     #wyoming-hero{
-        background: url(resources/images/wyoming/grand-teton-one/wyoming-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/grand-teton-national-park/wyoming-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #devils-tower-hero{
@@ -9153,124 +10130,39 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
         background-size: cover;
     }
     #grand-teton-hero{
-        background: url(resources/images/wyoming/grand-teton-one/grand-teton-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/grand-teton-national-park/grand-teton-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-hero {
-        background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-southwest-hero {
-        background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/morning-glory-pool-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-northwest-hero {
-        background: url(resources/images/wyoming/yellowstone-one/norris-geyser/norris-basin-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/norris-geyser-basin/norris-basin-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-upper-basin-hero {
-        background: url(resources/images/wyoming/yellowstone-one/upper-basin/morning-glory-pool-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/morning-glory-pool-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-midway-basin-hero {
-        background: url(resources/images/wyoming/yellowstone-one/midway-basin/grand-prismatic/midway-basin-grand-prismatic-spring-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/midway-geyser-basin/grand-prismatic/midway-basin-grand-prismatic-spring-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-lower-basin-hero {
-        background: url(resources/images/wyoming/yellowstone-one/lower-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-grand-canyon-hero {
-        background: url(resources/images/wyoming/yellowstone-one/grand-canyon-yellowstone/grand-canyon-yellowstone-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/grand-canyon-yellowstone-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
 
- /*  Connecticut */
- #avery-point-hero{
-    background: url(resources/images/connecticut/avery-point-light/Avery_Point_Light_House_in_Groton\,_CT_01-3030.jpg) center no-repeat;
-    background-size: cover;
- }
-#branford-house-hero{
-    background: url(resources/images/connecticut/branford-house/Branford_House\,_UConn_Avery_Point\,_Groton\,_CT-3030.jpg) center no-repeat;
-    background-size: cover;
-}
 
-#castle-craig-hero{
-    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#devils-hopyard-hero{
-    background: url(resources/images/connecticut/devils-hopyard/Devils_Hopyard_Bridge_View_Kevin_Pepin-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#five-mile-point-hero{
-    background: url(resources/images/connecticut/five-mile-point/Five_Mile_Point_Light_-_New_Haven_CT-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#gillette-castle-hero{
-    background: url(resources/images/connecticut/gillette-castle/Gillete_Castle_Rear-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#hartford-hero{
-    background: url(resources/images/connecticut/hartford/Hartford_Connecticut_Skyline-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#bushnell-park-hero{
-    background: url(resources/images/connecticut/hartford/bushnell-park/Prospect_Park_New_York_October_2015_003-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#church-good-shepherd-hero{
-    background: url(resources/images/connecticut/hartford/church-of-the-good-shepherd/Church_of_the_Good_Shepherd_Parish_House_-_Hartford\,_Connecticut_03-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#heublein-tower-hero{
-    background: url(resources/images/connecticut/heublein-tower/Heublein_Tower_on_Talcott_Mountain-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#kent-falls-hero{
-    background: url(resources/images/connecticut/kent-falls/Kent\ Falls-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#lighthouse-point-hero{
-    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Park_-_New_Haven\,_CT_14193945443-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#lighthouse-carousel-hero{
-    background: url(resources/images/connecticut/lighthouse-point-park/Lighthouse_Point_Carousel_in_Lighthouse_Point_Park-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#mystic-ct-hero{
-    background: url(resources/images/connecticut/mystic/Joseph_Conrad\,_ship_moored_at_Mystic_Seaport_in_Connecticut\,_USA-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#mystic-bascule-hero{
-    background: url(resources/images/connecticut/mystic/mystic-bascule-bridge/Mystic_River_Bascule_Bridge_\counter_weights\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#mystic-seaport-hero{
-    background: url(resources/images/connecticut/mystic/mystic-seaport/Mystic_Seaport-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#new-london-harbor-hero{
-    background: url(resources/images/connecticut/new-london-harbor/New_london_harbor_light_14422085964-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#penfield-reef-hero{
-    background: url(resources/images/connecticut/penfield-reef-light/Penfield_Reef_Light_CT_02_NRHP_89001473-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#southford-falls-hero{
-    background: url(resources/images/connecticut/southford-falls/Southford_Falls_II-3030.jpg) center no-repeat;
-    background-size: cover; 
-}
-#stonington-harbor-hero{
-    background: url(resources/images/connecticut/stonington-harbor/Stonington_Harbor_Light-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#wadsworth-falls-hero{
-    background: url(resources/images/connecticut/wadsworth-falls/Wadsworth_Falls_State_Park_-_falls-3030.jpg) center no-repeat;
-    background-size: cover;
-}
 
 /* New Jersey */
 
