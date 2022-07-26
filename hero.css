@@ -2602,222 +2602,260 @@ background: url(resources/images/colorado/florissant-fossil-beds-national-monume
     background-size: cover;
 }
 
+/* ------------------------Delaware --------------------------*/
+#bethany-beach-hero{
+
+}
+#bowers-beach-hero{
+
+}
+#brandywine-park-hero{
+
+}
+#cape-henlopen-hero{
+
+}
+#delaware-seashore-sp-hero{
+
+}
+#dewey-beach-hero{
+
+}
+#first-state-nhp-hero{
+
+}
+#ft-delaware-hero{
+
+}
+#lewes-de-hero{
+
+}
+#nemours-estate-hero{
+
+}
+#rehoboth-beach-hero{
+
+}
+#winterthur-museum-garden-and-library-hero{
+
+}
+
 /* Florida */
 #florida-hero{
-    background: url(resources/images/floridaOne/panamaCity/florida-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/panama-city-beach/florida-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #biscayne-hero{
-    background: url(resources/images/floridaOne/biscayne/biscayne-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/biscayne-national-park/Biscayne_underwater_NPS1-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #daytona-hero{
-    background: url(resources/images/floridaOne/daytona/daytona-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/daytona-beach/daytona-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #everglades-hero{
-    background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/everglades-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/anhinga-trail/everglades-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #anhinga-hero{
-    background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/anhinga-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/anhinga-trail/anhinga-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #eco-pond-hero{
-    background: url(resources/images/floridaOne/evergladesNP/ecoTrail/eco-trail-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/eco-trail/eco-trail-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #gumbo-limbo-hero{
-    background: url(resources/images/floridaOne/evergladesNP/gumboLimbo/gumbo-limbo-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/gumbo-limbo-trail/gumbo-limbo-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mahogany-hammock-hero{
-    background: url(resources/images/floridaOne/evergladesNP/mahoganyHammock/mahogany-hammock-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/mahogany-hammock-trail/mahogany-hammock-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #pinelands-hero{
-    background: url(resources/images/floridaOne/evergladesNP/pinelandsTrail/pinelands-trail-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/pinelands-trail/pinelands-trail-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #snake-bight-hero{
-    background: url(resources/images/floridaOne/evergladesNP/snakeBightTrail/snake-bight-trail-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/snake-bight-trail/snake-bight-trail-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #west-lake-hero{
-    background: url(resources/images/floridaOne/evergladesNP/westLakeTrail/west-lake-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/everglades-national-park/west-lake-trail/west-lake-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #fort-lauderdale-hero{
-    background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/fort-lauderdale/ft-lauderdale-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #key-west-hero{
-    background: url(resources/images/floridaOne/key-west/key-west-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/key-west-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #duval-street-hero{
-    background: url(resources/images/floridaOne/key-west/duval-street/duval-street-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/duval-street/duval-street-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mallory-square-hero{
-    background: url(resources/images/floridaOne/key-west/mallory-square/mallory-square-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/mallory-square/mallory-square-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #southernmost-point-hero{
-    background: url(resources/images/floridaOne/key-west/southernmost-point/southernmost-point-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/southernmost-point/southernmost-point-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #tropic-cinema-hero{
-    background: url(resources/images/floridaOne/key-west/tropic-cinema/tropic-cinema-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/tropic-cinema/tropic-cinema-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #merritt-boardwalk-hero{
-    background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/merritt-island-national-wildlife-refuge/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #black-point-drive-hero{
-    background: url(resources/images/floridaOne/merrittIsland/black-point-wildlife-drive/black-point-scenic-drive-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/merritt-island-national-wildlife-refuge/black-point-wildlife-drive/black-point-scenic-drive-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #oak-hammock-hero{
-    background: url(resources/images/floridaOne/merrittIsland/oak-hammock-trail/oak-hammock-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/merritt-island-national-wildlife-refuge/oak-hammock-trail/oak-hammock-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cruickshank-trail-hero{
-    background: url(resources/images/floridaOne/merrittIsland/cruickshank-trail/cruickshank-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/merritt-island-national-wildlife-refuge/cruickshank-trail/cruickshank-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #torch-friendship-hero{
-    background: url(resources/images/floridaOne/miami/antorcha-amistad/antocha-amistad-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/antorcha-amistad/antocha-amistad-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bal-harbour-shops-hero{
-    background: url(resources/images/floridaOne/miami/bal-harbour-shops/bal-harbour-shops-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/bal-harbour-shops/bal-harbour-shops-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bayside-marketplace-hero{
-    background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/bayside-marketplace-and-park/bayside-marketplace-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #coral-gables-hero{
-    background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/coral-gables-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/coral-gables/biltmore-hotel-miami-coral-gables/coral-gables-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #coral-gables-city-hall-hero{
-    background: url(resources/images/floridaOne/miami/coral-gables/cityHall/coral-gables-city-hall-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/coral-gables/coral-gables-city-hall/coral-gables-city-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #coral-gables-congregational-church-hero{
-    background: url(resources/images/floridaOne/miami/coral-gables/congregationalUnited/coral-gables-congregational-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/coral-gables/coral-gables-congregational-united-church-of-christ/coral-gables-congregational-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #miami-biltmore-hero{
-    background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/biltmore-coral-gables-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/coral-gables/biltmore-hotel-miami-coral-gables/biltmore-coral-gables-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #venetian-pool-hero{
-    background: url(resources/images/floridaOne/miami/coral-gables/venetianPool/venetian-pool-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/coral-gables/venetian-pool/venetian-pool-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #freedom-tower-hero{
-    background: url(resources/images/floridaOne/miami/freedom-tower/freedom-tower-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/freedom-tower/freedom-tower-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #holocaust-memorial-hero{
-    background: url(resources/images/floridaOne/miami/holocaust-memorial/holocaust-memorial-miami-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/holocaust-memorial-miami-beach/holocaust-memorial-miami-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lincoln-road-hero{
-    background: url(resources/images/floridaOne/miami/lincoln-rd/lincoln-road-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/lincoln-road/lincoln-road-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #little-havana-hero{
-    background: url(resources/images/floridaOne/miami/little-havana/little-havana-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/little-havana/little-havana-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #south-beach-hero{
-    background: url(resources/images/floridaOne/miami/south-beach/south-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/south-beach/south-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
     background-position: bottom;
 }
 #casa-casuarina-hero{
-    background: url(resources/images/floridaOne/miami/south-beach/casa-casuarina/casa-casuarina-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/south-beach/villa-casa-casuarina-at-the-former-versace-mansion/casa-casuarina-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #espanola-way-hero{
-    background: url(resources/images/floridaOne/miami/south-beach/espanola-way/espanola-way-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/south-beach/espanola-way/espanola-way-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #las-olas-hero{
-    background: url(resources/images/floridaOne/miami/south-beach/las-olas/las-olas-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/south-beach/las-olas-cafe/las-olas-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #south-pointe-park-hero{
-    background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/south-pointe-park/south-pointe-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #st-bernard-church-hero{
-    background: url(resources/images/floridaOne/miami/st-bernard-de-clairvaux-church/st-bernard-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/st-bernard-de-clairvaux-church/st-bernard-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wynwood-walls-hero{
-    background: url(resources/images/floridaOne/miami/wynwood-walls/wynwood-walls-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/wynwood-walls/wynwood-walls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #panama-hero{
-    background: url(resources/images/floridaOne/panamaCity/panama-city-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/panama-city-beach/panama-city-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #pensacola-hero{
-    background: url(resources/images/floridaOne/pensacolaBeach/pensacola_beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/pensacola-beach/pensacola_beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bridge-lions-hero{
-    background: url(resources/images/floridaOne/stAugustine/bridgeLions/bridge-lions-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/bridge-of-lions/bridge-lions-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #castillo-san-marcos-hero{
-    background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/castillo-de-san-marcos-national-monument/castillo-san-marcos-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cathedral-st-augustine-hero{
-    background: url(resources/images/floridaOne/stAugustine/cathedralBasilicaStAug/st-aug-cathedral-basilica-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/cathedral-basilica-of-st-augustine/st-aug-cathedral-basilica-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #flagler-college-hero{
-    background: url(resources/images/floridaOne/stAugustine/flaglerCollege/flagler-college-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/flagler-college/flagler-college-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #governors-house-hero{
-    background: url(resources/images/floridaOne/stAugustine/governors-house/governors-house-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/governors-house/governors-house-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lightner-museum-hero{
-    background: url(resources/images/floridaOne/stAugustine/lightnerMuseum/st-augustine-lightner-museum-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/lightner-museum/st-augustine-lightner-museum-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #memorial-presbyterian-hero{
-    background: url(resources/images/floridaOne/stAugustine/memorialPresbyterian/memorial-presbyterian-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/memorial-presbyterian-church/memorial-presbyterian-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #city-gates-hero{
-    background: url(resources/images/floridaOne/stAugustine/st-augustine-old-city-gate-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/st-augustine-old-city-gate-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #oldest-schoolhouse-hero{
-    background: url(resources/images/floridaOne/stAugustine/st-augustine-oldest-schoolhouse/st-augustine-oldest-schoolhouse-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/st-augustine-oldest-schoolhouse/st-augustine-oldest-schoolhouse-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #plaza-constitucion-hero{
-    background: url(resources/images/floridaOne/stAugustine/plaza-de-la-constitucion/plaza-de-la-constitucion-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/plaza-de-la-constitucion/plaza-de-la-constitucion-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #villa-zorayda-hero{
-    background: url(resources/images/floridaOne/stAugustine/st-augustine-zorayda-museum-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/villa-zorayda/st-augustine-zorayda-museum-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #zero-milestone-hero{
-    background: url(resources/images/floridaOne/stAugustine/zero-milestone/st-augustine-zero-milestone-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/zero-milestone/st-augustine-zero-milestone-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -3363,6 +3401,126 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
 #st-louis-cemetery-hero{
     background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
     background-size: cover;
+}
+/* --------------------------Maine---------------------------------------- */
+#abbe-museum-hero{
+
+}
+#carriage-roads-hero{
+
+}
+#baker-island-hero{
+
+}
+#bass-harbor-hero{
+
+}
+#beech-mountain-hero{
+
+}
+#bubbles-acadia-hero{
+
+}
+#cadillac-mountain-hero{
+
+}
+#eagle-lake-hero{
+
+}
+#echo-lake-hero{
+
+}
+#gorge-path-hero{
+
+}
+#great-cranberry-island-hero{
+
+}
+#great-head-trail-hero{
+
+}
+#isle-haut-hero{
+
+}
+#jordan-pond-hero{
+
+}
+#little-hunters-hero{
+
+}
+#sand-beach-hero{
+
+}
+#schoodic-hero{
+
+}
+#seawall-hero{
+
+}
+#sieur-monts-hero{
+
+}
+#thunder-hole-hero{
+
+}
+#wild-gardens-acadia-hero{
+
+}
+#bar-harbor-hero{
+
+}
+#cape-elizabeth-hero{
+
+}
+#cathedral-immaculate-hero{
+
+}
+#kennebuck-hero{
+
+}
+#lubec-hero{
+
+}
+#katahdin-hero{
+
+}
+#portland-me-hero{
+
+}
+#us-customs-portland-hero{
+
+}
+#victorian-mansion{
+
+}
+
+/*---------------------------------- Maryland ----------------------------*/
+#antietam-battlefield-hero{
+
+}
+#ft-mchenry-hero{
+
+}
+#george-peabody-library-hero{
+
+}
+#great-falls-hero{
+
+}
+#jolly-roger-amusement-hero{
+
+}
+#ladew-topiary-hero{
+
+}
+#ocean-city-md-hero{
+
+}
+#swallow-falls-hero{
+
+}
+#trimpers-rides-hero{
+
 }
 
 /* Massachusetts */
@@ -4011,6 +4169,77 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 
+/* New Hampshire */
+#albany-covered-hero{
+
+}
+#canterbury-shaker-hero{
+
+}
+#castle-clouds-hero{
+
+}
+#dianas-bath-hero{
+
+}
+#echo-lake-franconia-hero{
+
+}
+#echo-lake-sp-hero{
+
+}
+#franconia-notch-hero{
+
+}
+#franconia-ridge-trail-hero{
+
+}
+#kancamagus-hero{
+
+}
+#lake-winnipesaukee-hero{
+
+}
+#lost-river-gorge-hero{
+
+}
+#lower-falls-kancamagus-hero{
+
+}
+#mount-lafayette-hero{
+
+}
+#mount-monadnock-hero{
+
+}
+#mount-washington-hero{
+
+}
+#mount-willard-hero{
+
+}
+#odiorne-point-hero{
+
+}
+#omni-washington-hero{
+
+}
+#portsmouth-light-hero{
+
+}
+#portsmouth-nh-hero{
+
+}
+#rocky-gorge-nh-hero{
+
+}
+#wolfeboro-hero{
+
+}
+#zimmerman-hero{
+
+}
+
 /* Nevada */
 #wheeler-peak-scenic-hero{
     background: url(resources/images/nevada/great-basin-national-park/Baker_Peak-hero-1515.jpg) center no-repeat;
@@ -4245,20 +4474,24 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
 }
 
 /* New Jersey */
+#atlantic-city-hero{
+    background: url(resources/images/new-jersey/atlantic-city/Atlantic_City_Boardwalk_td_2019-04-07_004_-_Ballys_Complex-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #new-jersey-hero{
-    background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-jersey/paterson-great-falls-national-historical-park/new-jersey-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #high-point-hero{
-    background: url(resources/images/newJersey/high-point/high-point-sp-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/new-jersey/high-point-state-park/high-point-sp-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
 #paterson-falls-hero{
-    background: url(resources/images/newJersey/paterson-falls/paterson-falls-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-jersey/paterson-great-falls-national-historical-park/paterson-falls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #seaside-heights-hero{
-    background: url(resources/images/newJersey/seaside-heights/seaside-heights-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-jersey/seaside-heights/seaside-heights-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -4281,7 +4514,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
 }
 /* New York */
 #buttermilk-falls-hero{
-    background: url(resources/images/new-york/finger-lakes/buttermilk-falls/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/finger-lakes/buttermilk-falls-state-park/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ithaca-falls-hero{
@@ -4289,21 +4522,42 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #robert-treman-hero{
-    background: url(resources/images/new-york/finger-lakes/robert-treman-sp/Lucifer_Falls_232560709-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/finger-lakes/robert-treman-state-park/Lucifer_Falls_232560709-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #stony-brook-sp-hero{
-    background: url(resources/images/new-york/finger-lakes/stony-brook-sp/StonyBrookStatePark2020SwimmingAreaOpenSluiceLandscape-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/finger-lakes/stony-brook-state-park/StonyBrookStatePark2020SwimmingAreaOpenSluiceLandscape-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #taughannock-hero{
-    background: url(resources/images/new-york/finger-lakes/taughannock-falls/TaughannockFalls_Gorge-1515.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/finger-lakes/taughannock-falls-state-park/TaughannockFalls_Gorge-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #triphammer-hero{
     background: url(resources/images/new-york/finger-lakes/triphammer-falls/Triphammer_Falls_Cornell_July_2015_002-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#watkins-glen-sp-hero{
+    background: url(resources/images/new-york/finger-lakes/watkins-glen-state-park/Watkins_Glen_Bridge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#montauk-hero{
+    background: url(resources/images/new-york/montauk/Montauk_Point_Lighthouse_2008-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#montauk-point-light-hero{
+    background: url(resources/images/new-york/montauk/montauk-point-lighthouse/Montauk_Point_Light_-_Suffolk_County_NY-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hamptons-hero{
+    background: url(resources/images/new-york/hamptons/Cooper\'s_Beach_Southampton-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#long-island-hero{
+    background: url(resources/images/new-york/long-island/Long_Island_City_New_York_May_2015_panorama_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #fort-stanwix-hero{
     background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4371,7 +4625,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #bryant-park-hero{
-    background: url(resources/images/new-york/new-york-city/bryant-park/Bryant_Park_-_NYC_\(51494551468\-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/bryant-park/Bryant_Park_-_NYC_51494551468-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #central-park-hero{
@@ -4399,7 +4653,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #ellis-island-hero{
-    background: url(resources/images/new-york/new-york-city/ellis-island/Ellis_Island_2-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/ellis-island/ellis-island-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #empire-state-hero{
@@ -4419,11 +4673,11 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #grand-central-terminal-hero{
-    background: url(resources/images/new-york/new-york-city/grand-central-terminal/Grand_Central_Terminal_Main_Concourse_2019-10-03_20-02-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/grand-central-terminal/grand-central-terminal-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #greenwich-village-hero{
-    background: url(resources/images/new-york/new-york-city/greenwich-village/Greenwich_Village_as_seen_from_Jefferson_Market_Library_tower-1515.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/new-york-city/greenwich-village/greenwich-village-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #high-line-hero{
@@ -4443,7 +4697,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #met-art-hero{
-    background: url(resources/images/new-york/new-york-city/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_\(4\-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_4-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #moma-hero{
@@ -4476,7 +4730,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover; 
 }
 #oculus-ny-hero{
-    background: url(resources/images/new-york/new-york-city/oculus/The_Oculus_-_Interior_-_NYC_51521769328-1515.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/new-york-city/oculus/oculus-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #one-world-trade-hero{
@@ -4492,7 +4746,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #rockefeller-center-hero{
-    background: url(resources/images/new-york/new-york-city/rockefeller-center/Skating_at_Rockefeller_Plaza\,_New_York\,_New_York_LCCN2011634147-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/rockefeller-center/rockefeller-center-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #roosevelt-tramway-hero{
@@ -4508,11 +4762,11 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #staten-ferry-hero{
-    background: url(resources/images/new-york/new-york-city/staten-island/staten-island-ferry-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/staten-island-ferry/South_Ferry_td_2019-07-07_22_-_Staten_Island_Ferry-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #statue-liberty-hero{
-    background: url(resources/images/new-york/new-york-city/statue-of-lIberty/Liberty_Island_photo_D_Ramey_Logan-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/statue-of-lIberty/statue-of-liberty-hero-1515.jpg) center no-repeat;
     background-size: cover; 
 }
 #times-square-hero{
@@ -4572,7 +4826,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #prospect-observation-hero{
-    background: url(resources/images/new-york/niagara-falls/prospect-point/Look-out_point_viewing_platform_on_the_USA_side_27283584804-1-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/niagara-falls/prospect-point/prospect-point-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #whirlpool-sp-hero{
@@ -4763,9 +5017,248 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
     background: url(resources/images/oregon/multnomah-falls/multnomah-falls-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* ------------------Pennsylvania -------------*/
+/* Philadelphia */
+#ben-franklin-bridge-hero{
+
+}
+#betsy-ross-hero{
+
+}
+#boathouse-row-hero{
+
+}
+#cathedral-st-peter-paul-hero{
+
+}
+#christ-church-philly-hero{
+    
+}
+#eastern-state-penitentiary-hero{
+
+}
+#edgar-nhs-hero{
+
+}
+#elfreths-alley-hero{
+
+}
+#fairmount-park-hero{
+
+}
+#fairmount-water-hero{
+
+}
+#longwood-gardens-hero{
+
+}
+#love-park-hero{
+
+}
+#morris-arboretum-hero{
+
+}
+#one-liberty-observation-hero{
+
+}
+#penns-landing-hero{
+
+}
+#pennypack-park-hero{
+
+}
+#philadelphia-city-hall-hero{
+
+}
+#philadelphia-hero{
+
+}
+#philadelphias-magic-gardens-hero{
+
+}
+#reading-terminal-market-hero{
+
+}
+#reading-viaduct-hero{
+
+}
+#rodin-museum-hero{
+
+}
+#schuylkill-trail-hero{
+
+}
+#shofuso-house-hero{
+
+}
+#spruce-st-harbor-hero{
+
+}
+#university-penn-museum-hero{
+
+}
+#washington-square-philly-hero{
+
+}
+#wissahickon-park-hero{
+
+}
+#central-market-lancaster-hero{
+
+}
+#fallingwater-hero{
+
+}
+#gettysburg-hero{
+
+}
+#hersheypark-hero{
+
+}
+#lancaster-county-hero{
+
+}
+#lancaster-pa-hero{
+
+}
+#mount-davis-hero{
+
+}
+#reading-pagoda-hero{
+
+}
+#valley-forge-hero{
+    
+}
+
 #independence-hero{
     background: url(resources/images/liberty-hall/independance-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
+}
+
+/*-------------------- Rhode Island ----------*/
+/* -------------Newport, RI */------
+#hunter-house-hero{
+
+}
+#museum-newport-history-hero{
+
+}
+#newport-historic-hero{
+
+}
+#newport-tower-hero{
+
+}
+#old-colony-house-hero{
+
+}
+#touro-synagogue-hero{
+
+}
+#trinity-church-newport-hero{
+
+}
+#vernon-house-hero{
+
+}
+#wanton-lyman-hero{
+
+}
+#astors-beechwood-hero{
+
+}
+#belcourt-newport-hero{
+
+}
+#bellevue-historic-hero{
+
+}
+#breakers-hero{
+
+}
+#brenton-point-hero{
+
+}
+#chateau-sur-mer-hero{
+
+}
+#elms-newport-hero{
+
+}
+#fort-adams-newport-hero{
+
+}
+#kingscote-hero{
+
+}
+#marble-house-hero{
+
+}
+#newport-casino-hero{
+
+}
+#newport-cliff-walk-hero{
+
+}
+#ocean-drive-historic-hero{
+
+}
+#ochre-court-hero{
+
+}
+#rosecliff-hero{
+
+}
+#rough-point-hero{
+
+}
+#seaview-terrace-hero{
+
+}
+#vernon-court-hero{
+
+}
+#william-watts-sherman-hero{
+
+}
+/* Providence */
+#burnside-park-hero{
+
+}
+#first-baptist-america-hero{
+
+}
+#providence-ri-hero{
+
+}
+#rhode-state-house-hero{
+
+}
+#roger-willians-nm-hero{
+
+}
+#waterfire-hero{
+
+}
+#waterplace-park-hero{
+
+}
+#westminster-arcade-hero{
+
+}
+/* ------ -------------------*/
+#beavertail-lighthouse-hero{
+
+}
+#crescent-carousel-hero{
+
+}
+#narragansett-beach-hero{
+
+}
+#towers-narragansett-hero{
+
 }
 
 /* ---------------------------South Carolina */
@@ -5404,6 +5897,81 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
     background: url(resources/images/utah/zion-national-park/zion-subway/Subway_Zion1-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+/* --------------------------Vermont------------- */
+#bennington-battle-hero{
+
+}
+#bingham-falls-hero{
+
+}
+#burlington-vt-hero{
+
+}
+#crystal-lake-sp-hero{
+
+}
+#gold-brook-hero{
+
+}
+#green-mtn-nf-hero{
+
+}
+#hildene-hero{
+
+}
+#island-line-hero{
+
+}
+#lake-champlain-bridge-hero{
+
+}
+#lake-champlain-hero{
+
+}
+#lake-willoughby-hero{
+
+}
+#montpelier-hero{
+
+}
+#moss-glen-hero{
+
+}
+#mt-equinox-hero{
+
+}
+#mount-mansfield-hero{
+
+}
+#mount-pisgah-hero{
+
+}
+#quechee-gorge-hero{
+
+}
+#smugglers-notch-hero{
+
+}
+#sterling-pond-hero{
+
+}
+#stowe-recreation-hero{
+
+}
+#stowe-vt-hero{
+
+}
+#underhill-sp-hero{
+
+}
+#waterbury-vt-hero{
+
+}
+#woodstock-vt-hero{
+
+}
+
 #virginia-hero{
     background: url(resources/images/virginia/shenandoah-one/virginia-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8294,226 +8862,226 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #florida-hero{
-        background: url(resources/images/floridaOne/panamaCity/florida-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/panama-city-beach/florida-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #biscayne-hero{
-        background: url(resources/images/floridaOne/biscayne/biscayne-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/biscayne/biscayne-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: bottom;
     }
     #daytona-hero{
-        background: url(resources/images/floridaOne/daytona/daytona-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/daytona/daytona-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #everglades-hero{
-        background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/everglades-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/anhingaTrail/everglades-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #anhinga-hero{
-        background: url(resources/images/floridaOne/evergladesNP/anhingaTrail/anhinga-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/anhingaTrail/anhinga-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #eco-pond-hero{
-        background: url(resources/images/floridaOne/evergladesNP/ecoTrail/eco-trail-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/ecoTrail/eco-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #gumbo-limbo-hero{
-        background: url(resources/images/floridaOne/evergladesNP/gumboLimbo/gumbo-limbo-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/gumboLimbo/gumbo-limbo-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mahogany-hammock-hero{
-        background: url(resources/images/floridaOne/evergladesNP/mahoganyHammock/mahogany-hammock-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/mahoganyHammock/mahogany-hammock-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #pinelands-hero{
-        background: url(resources/images/floridaOne/evergladesNP/pinelandsTrail/pinelands-trail-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/pinelands-trail/pinelands-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #snake-bight-hero{
-        background: url(resources/images/floridaOne/evergladesNP/snakeBightTrail/snake-bight-trail-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/snake-bight-trail/snake-bight-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #west-lake-hero{
-        background: url(resources/images/floridaOne/evergladesNP/westLakeTrail/west-lake-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/everglades-national-park/west-lake-trail/west-lake-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #fort-lauderdale-hero{
-        background: url(resources/images/floridaOne/ftLauderdale/ft-lauderdale-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/fort-lauderdale/ft-lauderdale-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #key-west-hero{
-        background: url(resources/images/floridaOne/key-west/key-west-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/key-west/key-west-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #duval-street-hero{
-        background: url(resources/images/floridaOne/key-west/duval-street/duval-street-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/key-west/duval-street/duval-street-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mallory-square-hero{
-        background: url(resources/images/floridaOne/key-west/mallory-square/mallory-square-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/key-west/mallory-square/mallory-square-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #southernmost-point-hero{
-        background: url(resources/images/floridaOne/key-west/southernmost-point/southernmost-point-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/florida/key-west/southernmost-point/southernmost-point-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
     #tropic-cinema-hero{
-        background: url(resources/images/floridaOne/key-west/tropic-cinema/tropic-cinema-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/key-west/tropic-cinema/tropic-cinema-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #merritt-boardwalk-hero{
-        background: url(resources/images/floridaOne/merrittIsland/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/merritt-island-national-wildlife-refuge/merritt-island-visitor-center-boardwalk/merritt-boardwalk-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #torch-friendship-hero{
-        background: url(resources/images/floridaOne/miami/antorcha-amistad/antocha-amistad-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/antorcha-amistad/antocha-amistad-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bal-harbour-shops-hero{
-        background: url(resources/images/floridaOne/miami/bal-harbour-shops/bal-harbour-shops-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/bal-harbour-shops/bal-harbour-shops-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bayside-marketplace-hero{
-        background: url(resources/images/floridaOne/miami/bayside-marketplace-and-park/bayside-marketplace-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/bayside-marketplace-and-park/bayside-marketplace-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #coral-gables-hero{
-        background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/coral-gables-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/coral-gables/biltmore-hotel-miami-coral-gables/coral-gables-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #coral-gables-city-hall-hero{
-        background: url(resources/images/floridaOne/miami/coral-gables/cityHall/coral-gables-city-hall-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/coral-gables/coral-gables-city-hall/coral-gables-city-hall-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #coral-gables-congregational-church-hero{
-        background: url(resources/images/floridaOne/miami/coral-gables/congregationalUnited/coral-gables-congregational-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/coral-gables/congregationalUnited/coral-gables-congregational-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: bottom;
     }
     #miami-biltmore-hero{
-        background: url(resources/images/floridaOne/miami/coral-gables/biltmoreCoralGables/biltmore-coral-gables-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/coral-gables/biltmore-hotel-miami-coral-gables/biltmore-coral-gables-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #venetian-pool-hero{
-        background: url(resources/images/floridaOne/miami/coral-gables/venetianPool/venetian-pool-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/coral-gables/venetian-pool/venetian-pool-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #freedon-tower-hero{
-        background: url(resources/images/floridaOne/miami/freedom-tower/freedom-tower-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/freedom-tower/freedom-tower-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
     #holocaust-memorial-hero{
-        background: url(resources/images/floridaOne/miami/holocaust-memorial/holocaust-memorial-miami-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/holocaust-memorial/holocaust-memorial-miami-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lincoln-road-hero{
-        background: url(resources/images/floridaOne/miami/lincoln-rd/lincoln-road-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/lincoln-rd/lincoln-road-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #Little-havana-hero{
-        background: url(resources/images/floridaOne/miami/little-havana/little-havana-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/little-havana/little-havana-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #south-beach-hero{
-        background: url(resources/images/floridaOne/miami/south-beach/south-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/south-beach/south-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: bottom;
     }
     #casa-casuarina-hero{
-        background: url(resources/images/floridaOne/miami/south-beach/casa-casuarina/casa-casuarina-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/south-beach/casa-casuarina/casa-casuarina-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #espanola-way-hero{
-        background: url(resources/images/floridaOne/miami/south-beach/espanola-way/espanola-way-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/south-beach/espanola-way/espanola-way-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
     #las-olas-hero{
-        background: url(resources/images/floridaOne/miami/south-beach/las-olas/las-olas-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/south-beach/las-olas/las-olas-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #south-pointe-park-hero{
-        background: url(resources/images/floridaOne/miami/south-pointe-park/south-pointe-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/south-pointe-park/south-pointe-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #st-bernard-church-hero{
-        background: url(resources/images/floridaOne/miami/st-bernard-de-clairvaux-church/st-bernard-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/st-bernard-de-clairvaux-church/st-bernard-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #wynwood-walls-hero{
-        background: url(resources/images/floridaOne/miami/wynwood-walls/wynwood-walls-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/miami/wynwood-walls/wynwood-walls-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: top;
     }
    
     #black-point-drive-hero{
-        background: url(resources/images/floridaOne/merrittIsland/black-point-wildlife-drive/black-point-scenic-drive-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/merritt-island-national-wildlife-refuge/black-point-wildlife-drive/black-point-scenic-drive-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #oak-hammock-hero{
-        background: url(resources/images/floridaOne/merrittIsland/oak-hammock-trail/oak-hammock-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/merritt-island-national-wildlife-refuge/oak-hammock-trail/oak-hammock-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cruickshank-trail-hero{
-        background: url(resources/images/floridaOne/merrittIsland/cruickshank-trail/cruickshank-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/merritt-island-national-wildlife-refuge/cruickshank-trail/cruickshank-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #panama-hero{
-        background: url(resources/images/floridaOne/panamaCity/panama-city-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/panama-city-beach/panama-city-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #pensacola-hero{
-        background: url(resources/images/floridaOne/pensacolaBeach/pensacola_beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/pensacola-beach/pensacola_beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bridge-lions-hero{
-        background: url(resources/images/floridaOne/stAugustine/bridgeLions/bridge-lions-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/bridge-of-lions/bridge-lions-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #castillo-san-marcos-hero{
-        background: url(resources/images/floridaOne/stAugustine/castilloSanMarcos/castillo-san-marcos-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/castillo-de-san-marcos-national-monument/castillo-san-marcos-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #cathedral-st-augustine-hero{
-        background: url(resources/images/floridaOne/stAugustine/cathedralBasilicaStAug/st-aug-cathedral-basilica-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/cathedral-basilica-of-st-augustine/st-aug-cathedral-basilica-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: bottom;
     }
     #flagler-college-hero{
-        background: url(resources/images/floridaOne/stAugustine/flaglerCollege/flagler-college-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/flagler-college/flagler-college-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: bottom;
     }
     #governors-house-hero{
-        background: url(resources/images/floridaOne/stAugustine/governors-house/governors-house-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/governors-house/governors-house-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lightner-museum-hero{
-        background: url(resources/images/floridaOne/stAugustine/lightnerMuseum/st-augustine-lightner-museum-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/lightner-museum/st-augustine-lightner-museum-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #memorial-presbyterian-hero{
-        background: url(resources/images/floridaOne/stAugustine/memorialPresbyterian/memorial-presbyterian-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/memorial-presbyterian-church/memorial-presbyterian-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #city-gates-hero{
-        background: url(resources/images/floridaOne/stAugustine/st-augustine-old-city-gate-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/st-augustine-old-city-gate-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #oldest-schoolhouse-hero{
-        background: url(resources/images/floridaOne/stAugustine/st-augustine-oldest-schoolhouse/st-augustine-oldest-schoolhouse-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/st-augustine-oldest-schoolhouse/st-augustine-oldest-schoolhouse-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #plaza-constitucion-hero{
-        background: url(resources/images/floridaOne/stAugustine/plaza-de-la-constitucion/plaza-de-la-constitucion-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/plaza-de-la-constitucion/plaza-de-la-constitucion-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #villa-zorayda-hero{
-        background: url(resources/images/floridaOne/stAugustine/st-augustine-zorayda-museum-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/st-augustine-zorayda-museum-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #zero-milestone-hero{
-        background: url(resources/images/floridaOne/stAugustine/zero-milestone/st-augustine-zero-milestone-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/florida/st-augustine/zero-milestone/st-augustine-zero-milestone-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
 
@@ -9373,19 +9941,28 @@ background: url(resources/images/nevada/mount-charleston/Mount_Charleston_and_Tr
     }
 
 /* -----------------------New Jersey ---------------------------------*/
-    #new-jersey-hero{
-        background: url(resources/images/newJersey/paterson-falls/new-jersey-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    
-    #paterson-falls-hero{
-        background: url(resources/images/newJersey/paterson-falls/paterson-falls-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #seaside-heights-hero{
-        background: url(resources/images/newJersey/seaside-heights/seaside-heights-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+ /* New Jersey */
+#atlantic-city-hero{
+    background: url(resources/images/new-jersey/atlantic-city/Atlantic_City_Boardwalk_td_2019-04-07_004_-_Ballys_Complex-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-jersey-hero{
+    background: url(resources/images/new-jersey/paterson-great-falls-national-historical-park/new-jersey-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#high-point-hero{
+    background: url(resources/images/new-jersey/high-point-state-park/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#paterson-falls-hero{
+    background: url(resources/images/new-jersey/paterson-great-falls-national-historical-park/paterson-falls-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#seaside-heights-hero{
+    background: url(resources/images/new-jersey/seaside-heights/seaside-heights-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
     #new-mexico-hero{
         background: url(resources/images/NewMexico/Las_Cruses\,_New_Mexico-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -9402,10 +9979,336 @@ background: url(resources/images/nevada/mount-charleston/Mount_Charleston_and_Tr
         background: url(resources/images/NewMexico/white-sands/white-sands-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #radio-city-music-hero{
-        background: url(resources/images/new-york/new-york-city/radio-city-music-hall/Radio_City_Music_Hall_3a-3030.jpg) bottom no-repeat;
-        background-size: cover;
-    }
+
+    /* New York */
+#buttermilk-falls-hero{
+    background: url(resources/images/new-york/finger-lakes/buttermilk-falls-state-park/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ithaca-falls-hero{
+    background: url(resources/images/new-york/finger-lakes/ithaca-falls/Ithaca_Falls_-3-_August_4594566258_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#robert-treman-hero{
+    background: url(resources/images/new-york/finger-lakes/robert-treman-state-park/Lucifer_Falls_232560709-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#stony-brook-sp-hero{
+    background: url(resources/images/new-york/finger-lakes/stony-brook-state-park/StonyBrookStatePark2020SwimmingAreaOpenSluiceLandscape-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#taughannock-hero{
+    background: url(resources/images/new-york/finger-lakes/taughannock-falls-state-park/TaughannockFalls_Gorge-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#triphammer-hero{
+    background: url(resources/images/new-york/finger-lakes/triphammer-falls/Triphammer_Falls_Cornell_July_2015_002-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#watkins-glen-sp-hero{
+    background: url(resources/images/new-york/finger-lakes/watkins-glen-state-park/Watkins_Glen_Bridge-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#montauk-hero{
+    background: url(resources/images/new-york/montauk/Montauk_Point_Lighthouse_2008-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#montauk-point-light-hero{
+    background: url(resources/images/new-york/montauk/montauk-point-lighthouse/Montauk_Point_Light_-_Suffolk_County_NY-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hamptons-hero{
+    background: url(resources/images/new-york/hamptons/Cooper\'s_Beach_Southampton-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#long-island-hero{
+    background: url(resources/images/new-york/long-island/Long_Island_City_New_York_May_2015_panorama_3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#fort-stanwix-hero{
+    background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#letchworth-sp-hero{
+    background: url(resources/images/new-york/letchworth-state-park/Letchworthwiki-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hempstead-house-hero{
+    background: url(resources/images/new-york/long-island/hempstead-house/Hempstead_House\,_southern_façade-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oheka-castle-hero{
+    background: url(resources/images/new-york/long-island/oheka-castle/OHEKA_CASTLE_Courtyard_View-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-marcy-hero{
+    background: url(resources/images/new-york/mount-marcy/Mount_Marcy\,_Avalanche_Mountain\,_Mount_Colden_from_Algonquin_Peak-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ny-capitol-hero{
+    background: url(resources/images/new-york/new-york-state-capitol/New_York_State_Capitol_building\,_close-up-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/*New York City*/
+#new-york-city-hero{
+    background: url(resources/images/new-york/new-york-city/NYC-Top-of-the-Rock-Panoramic-view-of-Midtown-South-Central-Empire-State-Buildung-panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#thirty-rock-hero{
+    background: url(resources/images/new-york/new-york-city/30-rock/2258-NYC-NBC_Studios-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nine-one-one-hero{
+    background: url(resources/images/new-york/new-york-city/september-11-memorial-and-museum/911-memorial-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#american-museum-natural-history-hero{
+    background: url(resources/images/new-york/new-york-city/museum-natural-history/American_Museum_of_Natural_History_AMNH_Manhattan_New_York_New_York_City_United_States_America__USA_US_50262006312-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#battery-hero{
+    background: url(resources/images/new-york/new-york-city/battery-ny/battery-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bowling-green-hero{
+    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#broadway-ny-hero{
+    background: url(resources/images/new-york/new-york-city/broadway-theatre-district/Nederlander_Theatre_-_Pretty_Woman_48295956906-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#bronx-zoo-hero{
+    background: url(resources/images/new-york/new-york-city/bronx-zoo/Bronx_Zoo_001-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#brooklyn-bridge-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge/brooklyn-bridge-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#brooklyn-bridge-park-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge-park/brooklyn-bridge-park-poles-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bryant-park-hero{
+    background: url(resources/images/new-york/new-york-city/bryant-park/Bryant_Park_-_NYC_51494551468-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#central-park-hero{
+    background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#coney-island-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_\(June_2016\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chelsea-market-hero{
+    background: url(resources/images/new-york/new-york-city/chelsea-market/Chelsea_Market_exterior_2015-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chrysler-building-hero{
+    background: url(resources/images/new-york/new-york-city/chrysler/Chrysler_Building_2005_4-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dumbo-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/dumbo/dumbo-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#edge-hero{
+    background: url(resources/images/new-york/new-york-city/edge-ny/edge-hero-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#ellis-island-hero{
+    background: url(resources/images/new-york/new-york-city/ellis-island/ellis-island-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#empire-state-hero{
+    background: url(resources/images/new-york/new-york-city/empire-state-building/EmpireStateNewYokCity-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#federal-hall-hero{
+    background: url(resources/images/new-york/new-york-city/federal-hall/federal-hall-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#flatiron-building-hero{
+    background: url(resources/images/new-york/new-york-city/flatiron-buiding/The_Flatiron_Building_\(3\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fraunces-tavern-hero{
+    background: url(resources/images/new-york/new-york-city/fraunces-tavern/Frauncestavern-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-central-terminal-hero{
+    background: url(resources/images/new-york/new-york-city/grand-central-terminal/grand-central-terminal-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#greenwich-village-hero{
+    background: url(resources/images/new-york/new-york-city/greenwich-village/greenwich-village-hero-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#high-line-hero{
+    background: url(resources/images/new-york/new-york-city/high-line/High_Line_\(9072966463-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lincoln-center-hero{
+    background: url(resources/images/new-york/new-york-city/lincoln-center/Lincoln_Center_during_pride_at_dusk_\(93296p\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-island-pier-hero{
+    background: url(resources/images/new-york/new-york-city/little-island-nyc/Little_Island_opening_morn_\(1\_jeh-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lower-tenement-hero{
+    background: url(resources/images/new-york/new-york-city/lower-east-side-tenement-museum/The_Tenement_Museum_\(51624759160\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#met-art-hero{
+    background: url(resources/images/new-york/new-york-city/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_4-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#moma-hero{
+    background: url(resources/images/new-york/new-york-city/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nathans-famous-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/nathans/NathansHotDog-3_\(48034232387\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-york-city-hall-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-city-hall/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#ny-public-library-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2_cropped-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-york-city-subway-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-subway/NYC_Subway_R143_8283_Interior-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ny-transit-museum-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_15568324458-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nyse-hero{
+    background: url(resources/images/new-york/new-york-city/new-york-stock-exchange/NYSE_Building-3030.jpg) bottom no-repeat;
+    background-size: cover; 
+}
+#oculus-ny-hero{
+    background: url(resources/images/new-york/new-york-city/oculus/oculus-hero-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#one-world-trade-hero{
+    background: url(resources/images/new-york/new-york-city/one-world-trade-center/One_World_Trade_Center_New_York-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#prospect-park-hero{
+    background: url(resources/images/new-york/new-york-city/brooklyn/prospect-park/Prospect_Park_New_York_October_2015_003--3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#radio-city-music-hero{
+    background: url(resources/images/new-york/new-york-city/radio-city-music-hall/Radio_City_Music_Hall_3a-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rockefeller-center-hero{
+    background: url(resources/images/new-york/new-york-city/rockefeller-center/rockefeller-center-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#roosevelt-tramway-hero{
+    background: url(resources/images/new-york/new-york-city/roosevelt-island-tramway/Roosevelt_Island_Tramway_half-way_view_towards_Manhattan\,_2021-10-01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#solomon-guggenheim-hero{
+    background: url(resources/images/new-york/new-york-city/guggenheim-museum/NYC_-_Guggenheim_Museum-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#st-patricks-cathedral-hero{
+    background: url(resources/images/new-york/new-york-city/st-patricks-cathedral/NYC_-_St_Patrick_Cathedral_-_Facade_and_Atlas-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#staten-ferry-hero{
+    background: url(resources/images/new-york/new-york-city/staten-island-ferry/South_Ferry_td_2019-07-07_22_-_Staten_Island_Ferry-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#statue-liberty-hero{
+    background: url(resources/images/new-york/new-york-city/statue-of-lIberty/statue-of-liberty-hero-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#times-square-hero{
+    background: url(resources/images/new-york/new-york-city/times-square/times-square-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#trinity-church-hero{
+    background: url(resources/images/new-york/new-york-city/trinity-church/NYC_-_Trinity_Church_-_Watts_statue-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#united-nations-hero{
+    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_\(3\-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vessel-hero{
+    background: url(resources/images/new-york/new-york-city/vessel/vessel-hero-1136wPortrait.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-square-park-hero{
+    background: url(resources/images/new-york/new-york-city/washington-square-park/NYC_-_Washington_Square_Park_-_Arch-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#niagara-falls-hero{
+    background: url(resources/images/new-york/niagara-falls/3Falls_Niagara-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#american-falls-hero{
+    background: url(resources/images/new-york/niagara-falls/american-falls/American_Falls_Niagara_Falls_USA_from_Skylon_Tower_on_2002-05-28-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cave-winds-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/cave-of-the-winds/Cave_of_the_Winds_21916677839-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#goat-island-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/goat-island/Viewgoatisland-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#horseshoe-falls-niagara-hero{
+    background: url(resources/images/new-york/niagara-falls/horseshoe-falls/Aerial_view_of_the_Canadian_Falls_Horseshoe_Falls_and_the_Hornblower_Niagara_Cruises_boat;_Niagara_Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#maid-mist-hero{
+    background: url(resources/images/new-york/niagara-falls/maid-of-the-mist/Maidsofmist-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-falls-ny-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-falls-ny/Niagara_Falls\,_New_York_from_Skylon_Tower-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-sp-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-falls-sp/Niagara_Falls_and_Niagara_River-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#niagara-gorge-hero{
+    background: url(resources/images/new-york/niagara-falls/niagara-gorge/Niagara_Gorge_at_Niagara_Glen2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#prospect-observation-hero{
+    background: url(resources/images/new-york/niagara-falls/prospect-point/prospect-point-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#whirlpool-sp-hero{
+    background: url(resources/images/new-york/niagara-falls/whirlpool-sp/Niagara_Whirlpool_2_8032275844-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#saratoga-nhp-hero{
+    background: url(resources/images/new-york/saratoga-nhp/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#vanderbilt-mansion-hero{
+    background: url(resources/images/new-york/vanderbilt-mansion/Vanderbilt_Mansion_National_Historic_Site_-_17-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 
 /* North Carolina */
 #bodie-lighthouse-hero{
@@ -9751,6 +10654,320 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
         background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+
+    /* Massachusetts */
+#boston-latin-school-hero{
+    background: url(resources/images/massachusetts/boston/boston-latin-school/Front_-_Boston_Latin_School_-_DSC09900-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-massacre-hero{
+background: url(resources/images/massachusetts/boston/boston-massacre-site/boston-massacre-site-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bunker-hill-hero{
+background: url(resources/images/massachusetts/boston/bunker-hill/Bunker_Hill-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#copps-hill-hero{
+background: url(resources/images/massachusetts/boston/copps-hill-burying-ground/copps-hill-burying-ground-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#faneuil-hero{
+background: url(resources/images/massachusetts/boston/faneuil-hall/Faneuil_Hall_\(5813514354\)-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#freedom-trail{
+background: url(resources/images/massachusetts/boston/freedom-trail/USA-The_Freedom_Trail-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#granary-burying-hero{
+background: url(resources/images/massachusetts/boston/granary-burying-ground/granary-burying-ground-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kings-chapel-burying-hero{
+background: url(resources/images/massachusetts/boston/kings-chapel-burying-ground/kings-chapel-burying-ground-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kings-chapel-hero{
+background: url(resources/images/massachusetts/boston/kings-chapel/kings-chapel-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#massachusetts-state-house-hero{
+background: url(resources/images/massachusetts/boston/massachusetts-state-house/Massachusetts_State_House_Boston_November_2016-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-corner-bookstore-hero{
+background: url(resources/images/massachusetts/boston/old-corner-bookstore/old-corner-bookstore-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-north-church-hero{
+background: url(resources/images/massachusetts/boston/old-north-church/Boston\,_Old_North_Church-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-south-meeting-hero{
+background: url(resources/images/massachusetts/boston/old-south-meeting-house/Old_meeting_house\,_Boston-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-state-house-hero{
+background: url(resources/images/massachusetts/boston/old-state-house/Old_State_House_49280448012-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#park-street-church-hero{
+background: url(resources/images/massachusetts/boston/park-street-church/park-street-church-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#paul-revere-house-hero{
+background: url(resources/images/massachusetts/boston/paul-revere-house/2017_Paul_Revere_House_from_east-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-constitution-hero{
+    background: url(resources/images/massachusetts/boston/uss-constitution/USS_Constitution_in_dock-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#beacon-hill-hero{
+    background: url(resources/images/massachusetts/boston/beacon-hill/ISH_WC_Boston4-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#beacon-street-hero{
+background: url(resources/images/massachusetts/boston/beacon-street/2010_BeaconSt_Spruce_Boston-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-city-hall-hero{
+background: url(resources/images/massachusetts/boston/boston-city-hall/Custom_House_Tower_at_night-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-common-hero{
+background: url(resources/images/massachusetts/boston/boston-common/Boston_common_aerial_view-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-navy-yard-hero{
+background: url(resources/images/massachusetts/boston/boston-navy-yard/Boston_Dry_Dock-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-public-garden-hero{
+background: url(resources/images/massachusetts/boston/boston-public-garden/Boston_Public_Garden_May_2018_006-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-tea-hero{
+background: url(resources/images/massachusetts/boston/boston-tea-party-ship-and-museum/Boston_Tea_Party_Ship_&_Museum\,_Boston_493623_11062434853_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-hero{
+background: url(resources/images/massachusetts/boston/Boston_skyline_from_Longfellow_Bridge_September_2017_panorama_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#charles-river-esplanade-hero{
+background: url(resources/images/massachusetts/boston/charles-river-esplanade/USA-Charles_River_Esplanade6-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#christopher-columbus-waterfront-hero{
+background: url(resources/images/massachusetts/boston/christopher-columbus-waterfront-park/christopher-columbus-waterfront-park-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#copley-square-hero{
+background: url(resources/images/massachusetts/boston/copley-square/Copley_Square_with_Trinity_Church_and_Hancock_Tower-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#custom-house-tower-hero{
+background: url(resources/images/massachusetts/boston/custom-house-tower/Custom_House_Tower_in_Boston-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dorchester-heights-hero{
+background: url(resources/images/massachusetts/boston/dorchester-heights/Dorchester_Heights_Monument_04-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fenway-park-hero{
+background: url(resources/images/massachusetts/boston/fenway-park/131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#harvard-university-hero{
+background: url(resources/images/massachusetts/harvard-university/harvard-university-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-city-hall-boston-hero{
+background: url(resources/images/massachusetts/boston/old-city-hall/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-south-church-hero{
+background: url(resources/images/massachusetts/boston/old-south-church/Boston_-_Old_South_Church_48719081897-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#quincy-market-hero{
+background: url(resources/images/massachusetts/boston/quincy-market/quincy-market-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rose-greenway-hero{
+background: url(resources/images/massachusetts/boston/rose-kennedy-greenway/Greenway_Aerial_Shot-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#trinity-church-boston-hero{
+background: url(resources/images/massachusetts/boston/trinity-church/Copley_Square_with_Trinity_Church_and_Hancock_Tower-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#uss-constitution-museum-hero{
+    background: url(resources/images/massachusetts/boston/uss-constitution-museum/USS_Constitution_Museum_-_2014-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#long-point-light-hero{
+background: url(resources/images/massachusetts/cape-cod/provincetown/long-point-light/Long_Point_Light_Station-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#pilgrim-provincetown-hero{
+background: url(resources/images/massachusetts/cape-cod/provincetown/pilgrim-monument/Pilgrim_Monument_Provincetown_MA_0031_AD-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#provincetown-hero{
+background: url(resources/images/massachusetts/cape-cod/provincetown/View_of_Provincetown_from_Pilgrim_Monument_looking_east\,_MA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#race-point-light-hero{
+background: url(resources/images/massachusetts/cape-cod/provincetown/race-point-light/Race_Point_Lighthouse_being_painted_2012-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cape-cod-national-seashore-hero{
+background: url(resources/images/massachusetts/cape-cod/cape-cod-national-seashore/Cape_Cod_National_Seashore_13943304615-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chatham-light-hero{
+background: url(resources/images/massachusetts/cape-cod/chatham-light/Chatham_Light_House\,_Main_St._-_panoramio_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#highland-light-hero{
+background: url(resources/images/massachusetts/cape-cod/highland-light/Truro_-_Highland_Light-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hyannis-hero{
+background: url(resources/images/massachusetts/cape-cod/hyannis/2011-hyannis-port-1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#jfk-hyannis-hero{
+background: url(resources/images/massachusetts/cape-cod/hyannis/john-f-kennedy-hyannis-museum/John_F._Kennedy_Hyannis_Museum\,_Hyannis_MA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nauset-light-hero{
+background: url(resources/images/massachusetts/cape-cod/nauset-light/Nauset_Light_2061563170-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nobska-light-hero{
+background: url(resources/images/massachusetts/cape-cod/nobska-light/nobska-light-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#sandwich-glass-hero{
+background: url(resources/images/massachusetts/cape-cod/sandwich-ma/sandwich-glass-museum/Glass_Museum_in_Sandwich\,_Massachusetts-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#sandwich-ma-hero{
+background: url(resources/images/massachusetts/cape-cod/sandwich-ma/Cape_Cod_Central_Railroad_No_._1501-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#scargo-tower-hero{
+background: url(resources/images/massachusetts/cape-cod/scargo-tower/Scargo-Tower_west-side_Dennis-MA-US-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#west-dennis-light-hero{
+background: url(resources/images/massachusetts/cape-cod/west-dennis-light/Lighthouse_Inn_Cape_Cod_West_Elevation-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wood-end-light-hero{
+background: url(resources/images/massachusetts/cape-cod/wood-end-light/Wood_End_Light_1_20593576976-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#aquinnah-hero{
+background: url(resources/images/massachusetts/marthas-vineyard/aquinnah/Aquinnah_14283564547-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#edgartown-hero{
+background: url(resources/images/massachusetts/marthas-vineyard/edgartown/Edgartown_Harbor_by_Don_Ramey_Logan-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oak-bluffs-hero{
+background: url(resources/images/massachusetts/marthas-vineyard/oak-bluffs/oak-bluffs-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#brewster-gardens-hero{
+background: url(resources/images/massachusetts/plymouth/brewster-gardens/brewster-garden-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#plymouth-burial-hero{
+background: url(resources/images/massachusetts/plymouth/burial-hill/Burial_Hill_Cemetery_-_Plymouth\,_Massachusetts\,_USA_-_August_13\,_2015_03-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#jabez-howland-house-hero{
+background: url(resources/images/massachusetts/plymouth/jabez-howland-house/jabez-howland-house-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mayflower-ii-hero{
+background: url(resources/images/massachusetts/plymouth/mayflower-ii/Mayflower_II\,_Water_St\,_Plymouth_493627_11108952073-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#national-forefathers-hero{
+background: url(resources/images/massachusetts/plymouth/monument-to-the-forefathers/monument-to-the-forefathers-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#plymouth-burial-hero{
+background: url(resources/images/massachusetts/plymouth/burial-hill/Burial_Hill_Cemetery_-_Plymouth\,_Massachusetts\,_USA_-_August_13\,_2015_03-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#plymouth-grist-hero{
+background: url(resources/images/massachusetts/plymouth/plimoth-grist-mill/plimoth-grist-mill-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#plimoth-plantation-hero{
+background: url(resources/images/massachusetts/plymouth/plimoth-plantation/Plimoth_Plantation_view-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#plymouth-rock-hero{
+    background: url(resources/images/massachusetts/plymouth/plymouth-rock/plymouth-rock-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#salem-maritime-hero{
+background: url(resources/images/massachusetts/salem-ma/salem-maritime-national-historic-site/Salem_Maritime_National_Historic_Site\,_Salem\,_Massachusetts-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#salem-witch-museum-hero{
+background: url(resources/images/massachusetts/salem-ma/salem-witch-museum/Salem_Witch_Museum\,_19_1-2_N_Washington_Sq\,_Salem_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#salem-witch-house-hero{
+background: url(resources/images/massachusetts/salem-ma/witch-house/Witch_House\,_Salem-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bash-bish-hero{
+background: url(resources/images/massachusetts/bash-bish-falls/Bash_Bish_Falls\,_Mount_Washington_State_Forest-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#battleship-cove-hero{
+background: url(resources/images/massachusetts/battleship-cove/Battleship_Massachusetts\,_2012-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lexington-battle-hero{
+background: url(resources/images/massachusetts/lexington-battle-green/Lexington_Battle_Green_during_performance_of_Old_Guard_Fife_&_Drum_Corps-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lizzie-borden-hero{
+background: url(resources/images/massachusetts/lizzie-borden-house/Lizzie_Borden_House\,_Fall_River\,_Massachusetts-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lowell-nhp-hero{
+background: url(resources/images/massachusetts/lowell-national-historical-park/Visitor_Center\,_Market_Mills\,_Lowell_MA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#minute-man-hero{
+background: url(resources/images/massachusetts/minute-man-national-historical-park/Minute_Man_National_Historical_Park_5cd476e6-a355-4458-9843-adbfcf840ea6-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-greylock-hero{
+background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_State_Reservation-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#nantucket-hero{
+    background: url(resources/images/massachusetts/nantucket/Nantucket_harbor\,_wharf_shacks\,_MA\,_USA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#walden-pond-hero{
+    background: url(resources/images/massachusetts/walden-pond/Walden_Pond\,_2010-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 
     /* Michigan */
 #brockway-mountain-hero{
@@ -10477,318 +11694,6 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
         background-size: cover;
     }
 
-
-
-/* New Jersey */
-
-  #high-point-hero{
-    background: url(resources/images/newJersey/high-point/high-point-sp-hero-2273wPortrait.jpg) center no-repeat;
-    background-size: cover;
-}
-
-/* New York */
-
-#buttermilk-falls-hero{
-    background: url(resources/images/new-york/finger-lakes/buttermilk-falls/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#ithaca-falls-hero{
-    background: url(resources/images/new-york/finger-lakes/ithaca-falls/Ithaca_Falls_-3-_August_4594566258_2-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#robert-treman-hero{
-    background: url(resources/images/new-york/finger-lakes/robert-treman-sp/Lucifer_Falls_232560709-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#stony-brook-sp-hero{
-    background: url(resources/images/new-york/finger-lakes/stony-brook-sp/StonyBrookStatePark2020SwimmingAreaOpenSluiceLandscape-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#taughannock-hero{
-    background: url(resources/images/new-york/taughannock-falls/TaughannockFalls_Gorge-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#triphammer-hero{
-    background: url(resources/images/new-york/finger-lakes/triphammer-falls/Triphammer_Falls_Cornell_July_2015_002-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#fort-stanwix-hero{
-    background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#letchworth-sp-hero{
-    background: url(resources/images/new-york/letchworth-state-park/Letchworthwiki-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#hempstead-house-hero{
-    background: url(resources/images/new-york/long-island/hempstead-house/Hempstead_House\,_southern_façade-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#oheka-castle-hero{
-    background: url(resources/images/new-york/long-island/oheka-castle/OHEKA_CASTLE_Courtyard_View-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#mount-marcy-hero{
-    background: url(resources/images/new-york/mount-marcy/Mount_Marcy\,_Avalanche_Mountain\,_Mount_Colden_from_Algonquin_Peak-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#ny-capitol{
-    background: url(resources/images/new-york/new-york-state-capitol/New_York_State_Capitol_building\,_close-up-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#new-york-city-hero{
-    background: url(resources/images/new-york/new-york-city/NYC-Top-of-the-Rock-Panoramic-view-of-Midtown-South-Central-Empire-State-Buildung-panoramio-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#american-museum-natural-history-hero{
-    background: url(resources/images/new-york/new-york-city/museum-natural-history/American_Museum_of_Natural_History_AMNH_Manhattan_New_York_New_York_City_United_States_America__USA_US_50262006312-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#battery-hero{
-    background: url(resources/images/new-york/new-york-city/battery-ny/battery-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#bowling-green-hero{
-    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#broadway-ny-hero{
-    background: url(resources/images/new-york/new-york-city/broadway-theatre-district/Nederlander_Theatre_-_Pretty_Woman_48295956906-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#brooklyn-bridge-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge/brooklyn-bridge-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#brooklyn-bridge-park-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/brooklyn-bridge-park/brooklyn-bridge-park-poles-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#bronx-zoo-hero{
-    background: url(resources/images/new-york/new-york-city/bronx-zoo/Bronx_Zoo_001-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#bryant-park-hero{
-    background: url(resources/images/new-york/new-york-city/bryant-park/Bryant_Park_-_NYC_\(51494551468\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#central-park-hero{
-    background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#chelsea-market-hero{
-    background: url(resources/images/new-york/new-york-city/chelsea-market/Chelsea_Market_exterior_2015-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#chrysler-building-hero{
-    background: url(resources/images/new-york/new-york-city/chrysler/Chrysler_Building_2005_4-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#coney-island-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_\(June_2016\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#dumbo-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/dumbo/dumbo-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#edge-hero{
-    background: url(resources/images/new-york/new-york-city/edge-ny/edge-hero-3030.jpg) top no-repeat;
-    background-size: cover;
-}
-#ellis-island-hero{
-    background: url(resources/images/new-york/new-york-city/ellis-island/Ellis_Island_2-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#empire-state-hero{
-    background: url(resources/images/new-york/new-york-city/empire-state-building/EmpireStateNewYokCity-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#federal-hall-hero{
-    background: url(resources/images/new-york/new-york-city/federal-hall/federal-hall-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#flatiron-building-hero{
-    background: url(resources/images/new-york/new-york-city/flatiron-buiding/The_Flatiron_Building_\(3\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#fraunces-tavern-hero{
-    background: url(resources/images/new-york/new-york-city/fraunces-tavern/Frauncestavern-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#grand-central-terminal-hero{
-    background: url(resources/images/new-york/new-york-city/grand-central-terminal/Grand_Central_Terminal_Main_Concourse_2019-10-03_20-02-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#greenwich-village-hero{
-    background: url(resources/images/new-york/new-york-city/greenwich-village/Greenwich_Village_as_seen_from_Jefferson_Market_Library_tower-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#high-line-hero{
-    background: url(resources/images/new-york/new-york-city/high-line/High_Line_\(9072966463\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#lincoln-center-hero{
-    background: url(resources/images/new-york/new-york-city/lincoln-center/Lincoln_Center_during_pride_at_dusk_\(93296p\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#little-island-pier-hero{
-    background: url(resources/images/new-york/new-york-city/little-island-nyc/Little_Island_opening_morn_\(1\_jeh-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#lower-tenement-hero{
-    background: url(resources/images/new-york/new-york-city/lower-east-side-tenement-museum/The_Tenement_Museum_\(51624759160\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#met-art-hero{
-    background: url(resources/images/new-york/new-york-city/metropolitan-museum-of-art/Metropolitan_Museum_of_Art_-_panoramio_\(4\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#moma-hero{
-    background: url(resources/images/new-york/new-york-city/museum-of-modern-art/Museum_of_Modern_Art_MoMA_51395759113-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#nathans-famous-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/nathans/NathansHotDog-3_\(48034232387\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#new-york-city-hall-hero{
-    background: url(resources/images/new-york/new-york-city/new-york-city-hall/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#ny-public-library-hero{
-    background: url(resources/images/new-york/new-york-city/new-york-public-library-main-branch/USA-NYC-New_York_Public_Library2_cropped-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#new-york-city-subway-hero{
-    background: url(resources/images/new-york/new-york-city/new-york-subway/NYC_Subway_R143_8283_Interior-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#ny-transit-museum-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/new-york-transit-museum/NYC_Transit_Museum_15568324458-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#nyse-hero{
-    background: url(resources/images/new-york/new-york-city/new-york-stock-exchange/NYSE_Building-3030.jpg) bottom no-repeat;
-    background-size: cover; 
-}
-#nine-one-one-hero{
-    background: url(resources/images/new-york/new-york-city/september-11-memorial-and-museum/911-memorial-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#oculus-ny-hero{
-    background: url(resources/images/new-york/new-york-city/oculus/The_Oculus_-_Interior_-_NYC_51521769328-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#one-world-trade-hero{
-    background: url(resources/images/new-york/new-york-city/one-world-trade-center/One_World_Trade_Center_New_York-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#prospect-park-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/prospect-park/Prospect_Park_New_York_October_2015_003--3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#rockefeller-center-hero{
-    background: url(resources/images/new-york/new-york-city/rockefeller-center/Skating_at_Rockefeller_Plaza\,_New_York\,_New_York_LCCN2011634147-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#roosevelt-tramway-hero{
-    background: url(resources/images/new-york/new-york-city/roosevelt-island-tramway/Roosevelt_Island_Tramway_half-way_view_towards_Manhattan\,_2021-10-01-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#solomon-guggenheim-hero{
-    background: url(resources/images/new-york/new-york-city/guggenheim-museum/NYC_-_Guggenheim_Museum-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#st-patricks-cathedral-hero{
-    background: url(resources/images/new-york/new-york-city/st-patricks-cathedral/NYC_-_St_Patrick_Cathedral_-_Facade_and_Atlas-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#staten-ferry-hero{
-    background: url(resources/images/new-york/new-york-city/staten-island/staten-island-ferry-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#statue-liberty-hero{
-    background: url(resources/images/new-york/new-york-city/statue-of-lIberty/Liberty_Island_photo_D_Ramey_Logan-3030.jpg) center no-repeat;
-    background-size: cover; 
-}
-#thirty-rock-hero{
-    background: url(resources/images/new-york/new-york-city/30-rock/2258-NYC-NBC_Studios-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#times-square-hero{
-    background: url(resources/images/new-york/new-york-city/times-square/times-square-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#trinity-church-hero{
-    background: url(resources/images/new-york/new-york-city/trinity-church/NYC_-_Trinity_Church_-_Watts_statue-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#united-nations-hero{
-    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_\(3\-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-
-#vessel-hero{
-    background: url(resources/images/new-york/new-york-city/vessel/vessel-hero-2273wPortrait.jpg) center no-repeat;
-    background-size: cover;
-}
-#washington-square-park-hero{
-    background: url(resources/images/new-york/new-york-city/washington-square-park/NYC_-_Washington_Square_Park_-_Arch-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#niagara-falls-hero{
-    background: url(resources/images/new-york/niagara-falls/3Falls_Niagara-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#american-falls-hero{
-    background: url(resources/images/new-york/niagara-falls/american-falls/American_Falls_Niagara_Falls_USA_from_Skylon_Tower_on_2002-05-28-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#cave-winds-niagara-hero{
-    background: url(resources/images/new-york/niagara-falls/cave-of-the-winds/Cave_of_the_Winds_21916677839-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#goat-island-niagara-hero{
-    background: url(resources/images/new-york/niagara-falls/goat-island/Viewgoatisland-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#horseshoe-falls-niagara-hero{
-    background: url(resources/images/new-york/niagara-falls/horseshoe-falls/Aerial_view_of_the_Canadian_Falls_Horseshoe_Falls_and_the_Hornblower_Niagara_Cruises_boat;_Niagara_Falls-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#maid-mist-hero{
-    background: url(resources/images/new-york/niagara-falls/maid-of-the-mist/Maidsofmist-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#niagara-falls-ny-hero{
-    background: url(resources/images/new-york/niagara-falls/niagara-falls-ny/Niagara_Falls\,_New_York_from_Skylon_Tower-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#niagara-sp-hero{
-    background: url(resources/images/new-york/niagara-falls/niagara-falls-sp/Niagara_Falls_and_Niagara_River-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#niagara-gorge-hero{
-    background: url(resources/images/new-york/niagara-falls/niagara-gorge/Niagara_Gorge_at_Niagara_Glen2-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#prospect-observation-hero{
-    background: url(resources/images/new-york/niagara-falls/prospect-point/Look-out_point_viewing_platform_on_the_USA_side_27283584804-1-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#whirlpool-sp-hero{
-    background: url(resources/images/new-york/niagara-falls/whirlpool-sp/Niagara_Whirlpool_2_8032275844-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#saratoga-nhp-hero{
-    background: url(resources/images/new-york/saratoga-nhp/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#vanderbilt-mansion-hero{
-    background: url(resources/images/new-york/vanderbilt-mansion/Vanderbilt_Mansion_National_Historic_Site_-_17-3030.jpg) center no-repeat;
-    background-size: cover;
-}
 /* Utah */
 #antelope-island-hero{
     background: url(resources/images/utah/antelope-island-state-park/Salt_Lake_-_White_Rock_Bay_-_výhled_z_Buffalo_Pointu\,_Antelope_Island_-_panoramio-3030.jpg) center no-repeat;
