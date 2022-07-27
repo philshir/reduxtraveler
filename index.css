@@ -886,6 +886,15 @@ h2 a {
   color: white;
 }
 
+.caption-hero a {
+  text-decoration: underline;
+color: #abc8db;
+}
+.caption-hero a:hover {
+color: #abc8db;
+}
+
+
 .topic {
   font-weight: 700;
 }
