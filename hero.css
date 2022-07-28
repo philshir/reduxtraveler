@@ -476,7 +476,7 @@ background: url(resources/images/arizona/tucson/tohono-chul-park/Moorish_Garden\
     background-size: cover;
 }
 #bird-cage-hero{
-background: url(resources/images/arizona/tombstone/Gunfight_at_the_OK_Corral_2-1515.jpg) center no-repeat;
+background: url(resources/images/arizona/tombstone/birdcage-theatre/T-Bird_Cage_Theatre-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #flagstaff-hero{
@@ -694,6 +694,10 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
 }
 #petrified-hero{
     background: url(resources/images/arizona/petrified-forest-national-park/petrified-forest-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tucson-hero{
+    background: url(resources/images/arizona/tucson/Tucson_shab1-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sabino-hero{
@@ -2516,6 +2520,31 @@ background: url(resources/images/colorado/florissant-fossil-beds-national-monume
     background-size: cover;
 }
 /* Connecticut */
+#beinecke-book-hero{
+    background: url(resources/images/connecticut/new-haven/yale-university/beinecke-library/20170420_Beinecke_Rare_Book_Library_Interior_Yale_University_New_Haven_Connecticut-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pepes-hero{
+background: url(resources/images/connecticut/new-haven/frank-pepe-pizzeria-napolentana/The_Tomato_Pie-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#louis-lunch-hero{
+background: url(resources/images/connecticut/new-haven/louis-lunch/Louis-lunch-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-haven-green-hero{
+background: url(resources/images/connecticut/new-haven/new-haven-green/Center_Church_on_the_Green_03-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sterling-law-hero{
+background: url(resources/images/connecticut/new-haven/yale-university/sterling-memorial-library/Sterling_Memorial_Library_-_Yale_University-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yale-university-hero{
+background: url(resources/images/connecticut/new-haven/yale-university/Yale_Campus_from_SSS_roof-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #avery-point-hero{
     background: url(resources/images/connecticut/avery-point-light/Avery_Point_Light_House_in_Groton\,_CT_01-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6612,303 +6641,393 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
 
 /* ------------------------------Oregon */
 /* Columbia River Gorge */
-#ainsworth-sp-hero{
-
-}
+/* #ainsworth-sp-hero{
+    background: url(resources/images/oregon/columbia-river-gorge/) center no-repeat;
+    background-size: cover;
+} */
 #beacon-rock-sp-hero{
-
+    background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #bridal-veil-falls-or-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/bridal-veil-falls/Kayaker_at_Bridal_Veil_Falls_3-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #bridge-of-the-gods-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/bridge-of-the-gods/Bridge_of_the_Gods-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #chanticleer-point-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/chanticleer-point/Portland_Womens_Forum_State_Scenic_Viewpoint_October_2019-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #columbia-hills-sp-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/columbia-hills-state-park/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #coopey-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/coopey-falls/Coopey_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #crown-point-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/crown-point/Columbia_Gorge\,_Crown_Point_4332507153-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #dalles-or-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/dalles-or/The_Dalles_OR_looking_East-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #dog-mountain-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/dog-mountain/Dog_Mountain_at_Columbia_River_Gorge_in_Washington_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #eagle-creek-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/eagle-creek/Eagle_Creek_westbound_37026800611-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #elowah-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/elowah-falls/Elowah_Falls_2597-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #fairy-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/fairy-falls/Fairy_Falls_Troutdale-1515.jpg) center no-repeat;
+    background-size: cover;
 }
-#glenn-otto-park-hero{
-
-}
-#guy-talbot-sp-hero{
-
-}
+/* #glenn-otto-park-hero{
+background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
+/* #guy-talbot-sp-hero{
+background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
 #historic-columbia-river-highway-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/historic-columbia-river-highway/Vista_House\,_Columbia_River_Highway\,_Oregon_23884096162-1515.jpg) center no-repeat;
+    background-size: cover;
 }
-#hole-wall-falls-hero{
-
-}
+/* #hole-wall-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/hbeacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
 #horsetail-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/horsetail-falls/Horsetail_Creek_Bridge_-_HCRH_Oregon-1515.jpg) center no-repeat;
+    background-size: cover;
 }
-#john-b-yeon-state-hero{
-
-}
+/* #john-b-yeon-state-hero{
+background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
 #latourell-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/latourell-falls/Latourell_Falls_in_Oregon-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #metlako-falls-hero{
-
-}
-#table-mountain-wa-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/metlako-falls/Metlako_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #oneonta-gorge-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/oneonta-gorge/Oneonta_Gorge_Lower_Falls_at_Columbia_River_Gorge_in_Oregon_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #punch-bowl-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/punch-bowl-falls/Punch_Bowl_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #rooster-rock-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/rooster-rock-state-park/Rooster_Rock_State_Park\,_Oregon\,_2019_-_05-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #starvation-creek-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/starvation-creek-falls/Historic_Columbia_River_Highway_-_Starvation_Creek_-_NARA_-_7719215-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #table-mountain-wa-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/table-mountain/Looking_at_Upper_Table_Rock_from_Lower_Table_Rock_15550175967-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #troutdale-or-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/troutdale-or/Downtown_Troutdale_-_vintage_cars-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #twister-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/twister-falls/Twister_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #vista-house-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/vista-house/Vista_House-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #wahclella-falls-hero{
-    
+    background: url(resources/images/oregon/columbia-river-gorge/wahclella-falls/Wahclellafalls-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #wahkeena-falls-hero{
-
+background: url(resources/images/oregon/columbia-river-gorge/wahkeena-falls/Wahkeena_Falls_-_Columbia_River_Gorge_Oregon_35543386113-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 /* --- -----------------*/
 #clarno-hero{
-
+    background: url(resources/images/oregon/john-day-fossil-beds-national-monument/clarno/Clarno_palisades_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #james-cant-hero{
-
-}
-#john-day-fossil-hero{
-
+background: url(resources/images/oregon/john-day-fossil-beds-national-monument/james-cant-ranch-historic-district/Cant_Ranch_House_in_2011-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #painted-hills-or-hero{
-
+background: url(resources/images/oregon/john-day-fossil-beds-national-monument/painted-hills/Painted_Hills_2009.08.13.11.08.19-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #sheep-rock-hero{
-
+background: url(resources/images/oregon/john-day-fossil-beds-national-monument/sheep-rock/Sheep_Rock_near_sunset-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #lava-butte-or-hero{
-
+background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #newberry-monument-hero{
-
+background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #newberry-volcano-hero{
-
+background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 /* Oregon Coast */
 #astoria-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/astoria-or/Astoria_from_the_Astoria_Column\,_Dec._2011-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #bolon-hero{
-
+background: url(resources/images/oregon/oregon-coast/bolon-island-tideways-state-scenic-corridor/Bolon_Island_dock_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #cannon-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/cannon-beach/Surfer_near_Haystack_Rock\,_2020-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #cape-arago-light-hero{
-
+background: url(resources/images/oregon/oregon-coast/cape-arego-light/The_Cape_Arago_Light-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #cape-arago-sp-hero{
-
+background: url(resources/images/oregon/oregon-coast/cape-arago-state-park/Cape_Arago_Overlook-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #cape-blanco-hero{
-
+background: url(resources/images/oregon/oregon-coast/cape-blanco/Cape_Blanco_and_Lighthouse-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #cape-perpetua-hero{
-
+background: url(resources/images/oregon/oregon-coast/cape-perpetua/Cape_Perpetua_at_Pacific_Coast_in_Oregon_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #cascade-head-hero{
-
+background: url(resources/images/oregon/oregon-coast/cascade-head/USFWS_cascade_head_23768226491-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #chetco-point-hero{
-
+background: url(resources/images/oregon/oregon-coast/chetco-point/Chetco_Point-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #devils-punch-bowl-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/devils-punch-bowl-state-natural-area/Otter_Rock\,_OR_-_Devils_Punchbowl_02_19313457563-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #ecola-state-hero{
-
+background: url(resources/images/oregon/oregon-coast/ecola-state-park/Crescent_Beach_and_Cannon_Beach\,_Oregon\,_from_Ecola_State_Park\,_U.S.A-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #face-rock-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/face-rock-state-scenic-viewpoint/Face_rock_6836463245-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #floras-lake-hero{
-
+background: url(resources/images/oregon/oregon-coast/floras-lake/Floras_Lake_32731645674-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #harris-beach-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/harris-beach-state-park/Harris_Beach_arch_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #humbug-mtn-hero{
-
+background: url(resources/images/oregon/oregon-coast/humbug-mountain/Banshee_Hill_Dune-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #jessie-honeyman-hero{
-
+background: url(resources/images/oregon/oregon-coast/jessie-m-honeyman-memorial-state-park/Lily_Lake_in_Honeyman_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #lewis-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/lewis-and-clark-national-historical-park/Fort_Clatsop_-_Lewis_and_Clark_Natl_Historic_Site_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #oregon-dunes-hero{
-
+background: url(resources/images/oregon/oregon-coast/oregon-dunes-national-recreation-area/Oregon_Dunes_National_Recreation_Area-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #oregon-islands-nwr-hero{
-
+background: url(resources/images/oregon/oregon-coast/oregon-islands-national-wildlife-refuge/Down_the_entire_coast_of_Oregon\,_on_Hwy_101_-_windlown_sand_along_the_coast_near_Brookings_-_28758210525-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #port-orford-heads-hero{
-
+background: url(resources/images/oregon/oregon-coast/port-orford-head-state-park/Port_Orford_Heads_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #samuel-boardman-hero{
-
+background: url(resources/images/oregon/oregon-coast/samuel-h-boardman-state-scenic-corridor/Natural_Bridges_Cove_-_Boardman_State_Park\,_Oregon-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #shore-acres-hero{
-
+background: url(resources/images/oregon/oregon-coast/shore-acres-state-park/Waves\,_rocks_at_Shore_Acres_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #sunset-bay-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/sunset-bay-state-park/Seagull_in_flight_at_Sunset_Bay_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #tillamook-or-hero{
-
+background: url(resources/images/oregon/oregon-coast/tillamook-or/Tillamook_Cheese_Factory_27456112394-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 /* Portland, OR */
 #cathedral-park-hero{
-
+    background: url(resources/images/oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #grotto-or-hero{
-
+background: url(resources/images/oregon/portland-or/grotto-portland/The_Grotto\,_Portland\,_Oregon_2014_-_38-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #international-rose-test-hero{
-
+background: url(resources/images/oregon/portland-or/international-rose-test-garden/Pink_Roses_at_the_International_Rose_Test_Garden_in_Portland\,_Oregon-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #lan-su-hero{
-
+background: url(resources/images/oregon/portland-or/lan-su-chinese-garden/Lan_Su_Chinese_Garden_-_Portland\,_Oregon_-_DSC01326-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #mcmenamins-kennedy-hero{
-
+background: url(resources/images/oregon/portland-or/mcmenamins-kennedy-school/Kennedy_School\,_restaurant_interior-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #mill-ends-hero{
-
+background: url(resources/images/oregon/portland-or/mills-end-park/Mill_Ends_Park_2007-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #oregon-historical-society-hero{
-
+background: url(resources/images/oregon/portland-or/oregon-historical-society-museum/Oregon_Historical_Society_entrance_2019-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #pittock-mansion-hero{
-
+background: url(resources/images/oregon/portland-or/pittock-mansion/Rear_of_Pittock_Mansion-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #portland-aerial-hero{
-
+background: url(resources/images/oregon/portland-or/portland-aerial-tram/PortlandTramCar3-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #portland-japanese-hero{
-
+background: url(resources/images/oregon/portland-or/portland-japanese-garden/Heavenly_Falls_-_Portland_Japanese_Garden_-_Portland\,_Oregon_-_DSC08322-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #portland-or-hero{
-
+background: url(resources/images/oregon/portland-or/Portland_from_Pittock_Mansion_October_2019_panorama_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #powells-or-hero{
-
+background: url(resources/images/oregon/portland-or/powells-city-books/Portland_July_2017_43_Powells_Books-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #st-johns-bridge-hero{
-
+background: url(resources/images/oregon/portland-or/st-johns-bridge/St._Johns_Bridge_01-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #tom-mccall-park-hero{
-
+background: url(resources/images/oregon/portland-or/tom-mccall-waterfront-park/TomMcCallWaterfrontPark-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 /* ----- */
 #alvord-hot-springs-hero{
-
+    background: url(resources/images/oregon/southeast-oregon/alford-hot-springs/Alvord_Hot_Springs-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #borax-hero-hero{
-
+background: url(resources/images/oregon/southeast-oregon/borax-lake/Borax_lake_panorama-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #catlow-valley-hero{
-
+background: url(resources/images/oregon/southeast-oregon/catlow-valley/Pronghorn_in_Catlow_Valley\,_Oregon-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #diamond-craters-hero{
-
+background: url(resources/images/oregon/southeast-oregon/diamond-craters/Diamond_Craters_-_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #hart-mountain-national-hero{
-
+background: url(resources/images/oregon/southeast-oregon/hart-mountain-national-antelope-refuge/Anna_Flook_Homestead_7071607131-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #jordan-craters-hero{
-
+background: url(resources/images/oregon/southeast-oregon/jordan-craters/Friend_of_Owyhee_at_Jordan_Craters-1515.jpg) center no-repeat;
+    background-size: cover;
 }
-#malheur-nwr-hero{
-
-}
+/* #malheur-nwr-hero{
+background: url(resources/images/oregon/southeast-oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
 #owyhee-river-hero{
-
+background: url(resources/images/oregon/southeast-oregon/owyhee-river/Owyhee_River_9092356441-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #pillars-of-rome-hero{
-
+background: url(resources/images/oregon/southeast-oregon/pillars-of-rome/PillarsOfRomePano2-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #southeast-or-hero{
-
+background: url(resources/images/oregon/southeast-oregon/Alvord_Desert_floor-1515.jpg) top no-repeat;
+    background-size: cover;
 }
 #steens-mountain-hero{
-
+background: url(resources/images/oregon/southeast-oregon/steens-mountains/Steens_Mountain_in_eastern_Oregon_9683735042-1515.jpg) top no-repeat;
+    background-size: cover;
 }
 #warner-valley-hero{
-
+background: url(resources/images/oregon/southeast-oregon/warner-valley/Warner_Wetlands_34631649560-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #hells-canyon-hero{
-
+background: url(resources/images/oregon/hells-canyon-national-recreation-area/Hell_Canyon_4487060137-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #mount-hood-railroad-hero{
-    
+    background: url(resources/images/oregon/mount-hood-railroad/MtHoodRailroad_Spring-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #mount-hood-byway-hero{
-
+background: url(resources/images/oregon/mount-hood-scenic-byway/Glaciers_on_Mount_Hood\,_OR_9-13_14755868673-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #mount-hood-hero{
-
+background: url(resources/images/oregon/mount-hood/Mount_Hood_2619s-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #mount-jeff-hero{
-
+background: url(resources/images/oregon/mount-jefferson/Mount_Jefferson_3-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #oregon-caves-hero{
-
+background: url(resources/images/oregon/oregon-caves-national-monument/Oregon_Caves_National_Monument_in_Oregon_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #silver-falls-or-hero{
-
+background: url(resources/images/oregon/silver-falls-state-park/Silver_Creek_and_South_Falls_in_Silver_Falls_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #smith-rock-or-hero{
-
+background: url(resources/images/oregon/smith-rock-state-park/Smith_Rock_State_Park_-_Flickr_-_J_K_Amero_1-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #crater-lake-hero{
     background: url(resources/images/oregon/crater-lake-national-park/crater-lake-hero-1515.jpg) center no-repeat;
@@ -6924,6 +7043,10 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
 }
 #multnomah-falls-hero{
     background: url(resources/images/oregon/columbia-river-gorge/multnomah-falls/multnomah-falls-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#columbia-river-gorge-hero{
+    background: url(resources/images/oregon/columbia-river-gorge/multnomah-falls/multnomah-falls-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 
@@ -9333,7 +9456,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #bird-cage-hero{
-    background: url(resources/images/arizona/tombstone/Gunfight_at_the_OK_Corral_2-3030.jpg) center no-repeat;
+    background: url(resources/images/arizona/tombstone/birdcage-theatre/T-Bird_Cage_Theatre-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #flagstaff-hero{
@@ -9519,6 +9642,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     }
     #theodore-dam-hero{
         background: url(resources/images/arizona/theodore-roosevelt-lake/theodore-roosevelt-dam-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tucson-hero{
+        background: url(resources/images/arizona/tucson/Tucson_shab1-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #sabino-hero{
@@ -11262,6 +11389,30 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     }
 
      /*  Connecticut */
+     #beinecke-book-hero{
+        background: url(resources/images/connecticut/new-haven/yale-university/beinecke-library/20170420_Beinecke_Rare_Book_Library_Interior_Yale_University_New_Haven_Connecticut-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #pepes-hero{
+    background: url(resources/images/connecticut/new-haven/frank-pepe-pizzeria-napolentana/The_Tomato_Pie-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #louis-lunch-hero{
+    background: url(resources/images/connecticut/new-haven/louis-lunch/Louis-lunch-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #new-haven-green-hero{
+    background: url(resources/images/connecticut/new-haven/new-haven-green/Center_Church_on_the_Green_03-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sterling-law-hero{
+    background: url(resources/images/connecticut/new-haven/yale-university/sterling-memorial-library/Sterling_Memorial_Library_-_Yale_University-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #yale-university-hero{
+    background: url(resources/images/connecticut/new-haven/yale-university/Yale_Campus_from_SSS_roof-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
  #avery-point-hero{
     background: url(resources/images/connecticut/avery-point-light/Avery_Point_Light_House_in_Groton\,_CT_01-3030.jpg) center no-repeat;
     background-size: cover;
@@ -14753,26 +14904,577 @@ background: url(resources/images/oklahoma/washita-national-battlefield/Washita_B
     background-size: cover;
 }
 
-    #crater-lake-hero{
-        background: url(resources/images/crater-lake/crater-lake-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #crater-rim-hero{
-        background: url(resources/images/crater-lake/crater-lake-rim-drive-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #watchman-trail-hero{
-        background: url(resources/images/crater-lake/watchman/crater-lake-watchman-trail-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #multnomah-falls-hero{
-        background: url(resources/images/oregon/columbia-river-gorge/multnomah-falls/multnomah-falls-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #independence-hero{
-        background: url(resources/images/liberty-hall/independance-hall-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+/* ------------------------------Oregon */
+/* Columbia River Gorge */
+/* #ainsworth-sp-hero{
+    background: url(resources/images/oregon/columbia-river-gorge/) center no-repeat;
+    background-size: cover;
+} */
+#beacon-rock-sp-hero{
+    background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bridal-veil-falls-or-hero{
+background: url(resources/images/oregon/columbia-river-gorge/bridal-veil-falls/Kayaker_at_Bridal_Veil_Falls_3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bridge-of-the-gods-hero{
+background: url(resources/images/oregon/columbia-river-gorge/bridge-of-the-gods/Bridge_of_the_Gods-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chanticleer-point-hero{
+background: url(resources/images/oregon/columbia-river-gorge/chanticleer-point/Portland_Womens_Forum_State_Scenic_Viewpoint_October_2019-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#columbia-hills-sp-hero{
+background: url(resources/images/oregon/columbia-river-gorge/columbia-hills-state-park/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#coopey-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/coopey-falls/Coopey_Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#crown-point-hero{
+background: url(resources/images/oregon/columbia-river-gorge/crown-point/Columbia_Gorge\,_Crown_Point_4332507153-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dalles-or-hero{
+background: url(resources/images/oregon/columbia-river-gorge/dalles-or/The_Dalles_OR_looking_East-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dog-mountain-hero{
+background: url(resources/images/oregon/columbia-river-gorge/dog-mountain/Dog_Mountain_at_Columbia_River_Gorge_in_Washington_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#eagle-creek-hero{
+background: url(resources/images/oregon/columbia-river-gorge/eagle-creek/Eagle_Creek_westbound_37026800611-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#elowah-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/elowah-falls/Elowah_Falls_2597-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fairy-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/fairy-falls/Fairy_Falls_Troutdale-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #glenn-otto-park-hero{
+background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-3030.jpg) center no-repeat;
+    background-size: cover;
+} */
+/* #guy-talbot-sp-hero{
+background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-3030.jpg) center no-repeat;
+    background-size: cover;
+} */
+#historic-columbia-river-highway-hero{
+background: url(resources/images/oregon/columbia-river-gorge/historic-columbia-river-highway/Vista_House\,_Columbia_River_Highway\,_Oregon_23884096162-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #hole-wall-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/hbeacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-3030.jpg) center no-repeat;
+    background-size: cover;
+} */
+#horsetail-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/horsetail-falls/Horsetail_Creek_Bridge_-_HCRH_Oregon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #john-b-yeon-state-hero{
+background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-park/Beacon_Rock_State_Park_in_August_2021_18-3030.jpg) center no-repeat;
+    background-size: cover;
+} */
+#latourell-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/latourell-falls/Latourell_Falls_in_Oregon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#metlako-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/metlako-falls/Metlako_Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oneonta-gorge-hero{
+background: url(resources/images/oregon/columbia-river-gorge/oneonta-gorge/Oneonta_Gorge_Lower_Falls_at_Columbia_River_Gorge_in_Oregon_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#punch-bowl-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/punch-bowl-falls/Punch_Bowl_Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rooster-rock-hero{
+background: url(resources/images/oregon/columbia-river-gorge/rooster-rock-state-park/Rooster_Rock_State_Park\,_Oregon\,_2019_-_05-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#starvation-creek-hero{
+background: url(resources/images/oregon/columbia-river-gorge/starvation-creek-falls/Historic_Columbia_River_Highway_-_Starvation_Creek_-_NARA_-_7719215-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#table-mountain-wa-hero{
+background: url(resources/images/oregon/columbia-river-gorge/table-mountain/Looking_at_Upper_Table_Rock_from_Lower_Table_Rock_15550175967-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#troutdale-or-hero{
+background: url(resources/images/oregon/columbia-river-gorge/troutdale-or/Downtown_Troutdale_-_vintage_cars-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#twister-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/twister-falls/Twister_Falls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vista-house-hero{
+background: url(resources/images/oregon/columbia-river-gorge/vista-house/Vista_House-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wahclella-falls-hero{
+    background: url(resources/images/oregon/columbia-river-gorge/wahclella-falls/Wahclellafalls-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wahkeena-falls-hero{
+background: url(resources/images/oregon/columbia-river-gorge/wahkeena-falls/Wahkeena_Falls_-_Columbia_River_Gorge_Oregon_35543386113-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* --- -----------------*/
+#clarno-hero{
+    background: url(resources/images/oregon/john-day-fossil-beds-national-monument/clarno/Clarno_palisades_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#james-cant-hero{
+background: url(resources/images/oregon/john-day-fossil-beds-national-monument/james-cant-ranch-historic-district/Cant_Ranch_House_in_2011-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#painted-hills-or-hero{
+background: url(resources/images/oregon/john-day-fossil-beds-national-monument/painted-hills/Painted_Hills_2009.08.13.11.08.19-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#sheep-rock-hero{
+background: url(resources/images/oregon/john-day-fossil-beds-national-monument/sheep-rock/Sheep_Rock_near_sunset-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lava-butte-or-hero{
+background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#newberry-monument-hero{
+background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#newberry-volcano-hero{
+background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Oregon Coast */
+#astoria-or-hero{
+background: url(resources/images/oregon/oregon-coast/astoria-or/Astoria_from_the_Astoria_Column\,_Dec._2011-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bolon-hero{
+background: url(resources/images/oregon/oregon-coast/bolon-island-tideways-state-scenic-corridor/Bolon_Island_dock_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cannon-or-hero{
+background: url(resources/images/oregon/oregon-coast/cannon-beach/Surfer_near_Haystack_Rock\,_2020-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cape-arago-light-hero{
+background: url(resources/images/oregon/oregon-coast/cape-arego-light/The_Cape_Arago_Light-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cape-arago-sp-hero{
+background: url(resources/images/oregon/oregon-coast/cape-arago-state-park/Cape_Arago_Overlook-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cape-blanco-hero{
+background: url(resources/images/oregon/oregon-coast/cape-blanco/Cape_Blanco_and_Lighthouse-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cape-perpetua-hero{
+background: url(resources/images/oregon/oregon-coast/cape-perpetua/Cape_Perpetua_at_Pacific_Coast_in_Oregon_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cascade-head-hero{
+background: url(resources/images/oregon/oregon-coast/cascade-head/USFWS_cascade_head_23768226491-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chetco-point-hero{
+background: url(resources/images/oregon/oregon-coast/chetco-point/Chetco_Point-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-punch-bowl-or-hero{
+background: url(resources/images/oregon/oregon-coast/devils-punch-bowl-state-natural-area/Otter_Rock\,_OR_-_Devils_Punchbowl_02_19313457563-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ecola-state-hero{
+background: url(resources/images/oregon/oregon-coast/ecola-state-park/Crescent_Beach_and_Cannon_Beach\,_Oregon\,_from_Ecola_State_Park\,_U.S.A-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#face-rock-or-hero{
+background: url(resources/images/oregon/oregon-coast/face-rock-state-scenic-viewpoint/Face_rock_6836463245-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#floras-lake-hero{
+background: url(resources/images/oregon/oregon-coast/floras-lake/Floras_Lake_32731645674-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#harris-beach-or-hero{
+background: url(resources/images/oregon/oregon-coast/harris-beach-state-park/Harris_Beach_arch_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#humbug-mtn-hero{
+background: url(resources/images/oregon/oregon-coast/humbug-mountain/Banshee_Hill_Dune-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#jessie-honeyman-hero{
+background: url(resources/images/oregon/oregon-coast/jessie-m-honeyman-memorial-state-park/Lily_Lake_in_Honeyman_State_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lewis-or-hero{
+background: url(resources/images/oregon/oregon-coast/lewis-and-clark-national-historical-park/Fort_Clatsop_-_Lewis_and_Clark_Natl_Historic_Site_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oregon-dunes-hero{
+background: url(resources/images/oregon/oregon-coast/oregon-dunes-national-recreation-area/Oregon_Dunes_National_Recreation_Area-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oregon-islands-nwr-hero{
+background: url(resources/images/oregon/oregon-coast/oregon-islands-national-wildlife-refuge/Down_the_entire_coast_of_Oregon\,_on_Hwy_101_-_windlown_sand_along_the_coast_near_Brookings_-_28758210525-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#port-orford-heads-hero{
+background: url(resources/images/oregon/oregon-coast/port-orford-head-state-park/Port_Orford_Heads_State_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#samuel-boardman-hero{
+background: url(resources/images/oregon/oregon-coast/samuel-h-boardman-state-scenic-corridor/Natural_Bridges_Cove_-_Boardman_State_Park\,_Oregon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#shore-acres-hero{
+background: url(resources/images/oregon/oregon-coast/shore-acres-state-park/Waves\,_rocks_at_Shore_Acres_State_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#sunset-bay-or-hero{
+background: url(resources/images/oregon/oregon-coast/sunset-bay-state-park/Seagull_in_flight_at_Sunset_Bay_State_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#tillamook-or-hero{
+background: url(resources/images/oregon/oregon-coast/tillamook-or/Tillamook_Cheese_Factory_27456112394-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* Portland, OR */
+#cathedral-park-hero{
+    background: url(resources/images/oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#grotto-or-hero{
+background: url(resources/images/oregon/portland-or/grotto-portland/The_Grotto\,_Portland\,_Oregon_2014_-_38-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#international-rose-test-hero{
+background: url(resources/images/oregon/portland-or/international-rose-test-garden/Pink_Roses_at_the_International_Rose_Test_Garden_in_Portland\,_Oregon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lan-su-hero{
+background: url(resources/images/oregon/portland-or/lan-su-chinese-garden/Lan_Su_Chinese_Garden_-_Portland\,_Oregon_-_DSC01326-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcmenamins-kennedy-hero{
+background: url(resources/images/oregon/portland-or/mcmenamins-kennedy-school/Kennedy_School\,_restaurant_interior-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mill-ends-hero{
+background: url(resources/images/oregon/portland-or/mills-end-park/Mill_Ends_Park_2007-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oregon-historical-society-hero{
+background: url(resources/images/oregon/portland-or/oregon-historical-society-museum/Oregon_Historical_Society_entrance_2019-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#pittock-mansion-hero{
+background: url(resources/images/oregon/portland-or/pittock-mansion/Rear_of_Pittock_Mansion-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#portland-aerial-hero{
+background: url(resources/images/oregon/portland-or/portland-aerial-tram/PortlandTramCar3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#portland-japanese-hero{
+background: url(resources/images/oregon/portland-or/portland-japanese-garden/Heavenly_Falls_-_Portland_Japanese_Garden_-_Portland\,_Oregon_-_DSC08322-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#portland-or-hero{
+background: url(resources/images/oregon/portland-or/Portland_from_Pittock_Mansion_October_2019_panorama_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#powells-or-hero{
+background: url(resources/images/oregon/portland-or/powells-city-books/Portland_July_2017_43_Powells_Books-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-johns-bridge-hero{
+background: url(resources/images/oregon/portland-or/st-johns-bridge/St._Johns_Bridge_01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#tom-mccall-park-hero{
+background: url(resources/images/oregon/portland-or/tom-mccall-waterfront-park/TomMcCallWaterfrontPark-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* ----- */
+#alvord-hot-springs-hero{
+    background: url(resources/images/oregon/southeast-oregon/alford-hot-springs/Alvord_Hot_Springs-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#borax-hero-hero{
+background: url(resources/images/oregon/southeast-oregon/borax-lake/Borax_lake_panorama-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#catlow-valley-hero{
+background: url(resources/images/oregon/southeast-oregon/catlow-valley/Pronghorn_in_Catlow_Valley\,_Oregon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#diamond-craters-hero{
+background: url(resources/images/oregon/southeast-oregon/diamond-craters/Diamond_Craters_-_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hart-mountain-national-hero{
+background: url(resources/images/oregon/southeast-oregon/hart-mountain-national-antelope-refuge/Anna_Flook_Homestead_7071607131-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#jordan-craters-hero{
+background: url(resources/images/oregon/southeast-oregon/jordan-craters/Friend_of_Owyhee_at_Jordan_Craters-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #malheur-nwr-hero{
+background: url(resources/images/oregon/southeast-oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-3030.jpg) center no-repeat;
+    background-size: cover;
+} */
+#owyhee-river-hero{
+background: url(resources/images/oregon/southeast-oregon/owyhee-river/Owyhee_River_9092356441-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#pillars-of-rome-hero{
+background: url(resources/images/oregon/southeast-oregon/pillars-of-rome/PillarsOfRomePano2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#southeast-or-hero{
+background: url(resources/images/oregon/southeast-oregon/Alvord_Desert_floor-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#steens-mountain-hero{
+background: url(resources/images/oregon/southeast-oregon/steens-mountains/Steens_Mountain_in_eastern_Oregon_9683735042-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#warner-valley-hero{
+background: url(resources/images/oregon/southeast-oregon/warner-valley/Warner_Wetlands_34631649560-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hells-canyon-hero{
+background: url(resources/images/oregon/hells-canyon-national-recreation-area/Hell_Canyon_4487060137-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-hood-railroad-hero{
+    background: url(resources/images/oregon/mount-hood-railroad/MtHoodRailroad_Spring-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-hood-byway-hero{
+background: url(resources/images/oregon/mount-hood-scenic-byway/Glaciers_on_Mount_Hood\,_OR_9-13_14755868673-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-hood-hero{
+background: url(resources/images/oregon/mount-hood/Mount_Hood_2619s-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-jeff-hero{
+background: url(resources/images/oregon/mount-jefferson/Mount_Jefferson_3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#oregon-caves-hero{
+background: url(resources/images/oregon/oregon-caves-national-monument/Oregon_Caves_National_Monument_in_Oregon_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#silver-falls-or-hero{
+background: url(resources/images/oregon/silver-falls-state-park/Silver_Creek_and_South_Falls_in_Silver_Falls_State_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#smith-rock-or-hero{
+background: url(resources/images/oregon/smith-rock-state-park/Smith_Rock_State_Park_-_Flickr_-_J_K_Amero_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#crater-lake-hero{
+    background: url(resources/images/oregon/crater-lake-national-park/crater-lake-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#crater-rim-hero{
+    background: url(resources/images/oregon/crater-lake-national-park/crater-lake-rim-drive-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#watchman-trail-hero{
+    background: url(resources/images/oregon/crater-lake-national-park/watchman-trail/crater-lake-watchman-trail-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#multnomah-falls-hero{
+    background: url(resources/images/oregon/columbia-river-gorge/multnomah-falls/multnomah-falls-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#columbia-river-gorge-hero{
+    background: url(resources/images/oregon/columbia-river-gorge/multnomah-falls/multnomah-falls-hero-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+
+/* ------------------Pennsylvania -------------*/
+/* Philadelphia */
+#ben-franklin-bridge-hero{
+    background: url(resources/images/pennsylvania/philadelphia/benjamin-franklin-bridge/Ben_Franklin_Bridge-3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#betsy-ross-hero{
+background: url(resources/images/pennsylvania/philadelphia/betsy-ross-house/Betsyrosshouse-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boathouse-row-hero{
+background: url(resources/images/pennsylvania/philadelphia/boathouse-row/Philadelphia_skyline_from_South_Street_Bridge_January_2020_rotate_2_degrees_perspective_correction_crop_4-1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-st-peter-paul-hero{
+background: url(resources/images/pennsylvania/philadelphia/cathedral-basilica-of-saints-peter-and-paul/Philadelphia_October_2017_04_Cathedral_Basilica_of_Saints_Peter_and_Paul-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#christ-church-philly-hero{
+    background: url(resources/images/pennsylvania/philadelphia/christ-church-philadelphia/Christ_Church_Phila-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#eastern-state-penitentiary-hero{
+background: url(resources/images/pennsylvania/philadelphia/eastern-state-penitentiary/Eastern_State_Penitentiary_in_Philadelphia\,_PA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#edgar-nhs-hero{
+background: url(resources/images/pennsylvania/philadelphia/edgar-allen-poe-national-historic-site/Edgar_Allan_Poe_National_Historic_Site_e8feae0e-c520-4253-b532-3ebf53956305-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#elfreths-alley-hero{
+background: url(resources/images/pennsylvania/philadelphia/elfreths-alley/Elfreths_Alley\,_Philadelphia\,_2008-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fairmount-park-hero{
+background: url(resources/images/pennsylvania/philadelphia/fairmount-park/Belmont_Plateau-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fairmount-water-hero{
+background: url(resources/images/pennsylvania/philadelphia/fairmount-water-works/Fairmount_Water_Works_on_a_Cloudy_Day-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#longwood-gardens-hero{
+background: url(resources/images/pennsylvania/philadelphia/longwood-gardens/Longwood_Gardens_Fountains_2008-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#love-park-hero{
+background: url(resources/images/pennsylvania/philadelphia/love-park/Love_at_Philadelphia_Love_Park\,_JFK_Plaza_259493468-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#morris-arboretum-hero{
+background: url(resources/images/pennsylvania/philadelphia/morris-arboretum/Morris_Arboretum_-_DSC00482-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#one-liberty-observation-hero{
+background: url(resources/images/pennsylvania/philadelphia/one-liberty-observation-deck/Center_City_East_from_One_Liberty_Observation_Deck-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#penns-landing-hero{
+background: url(resources/images/pennsylvania/philadelphia/penns-landing/Olympia_Penns_Landing_PA1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#pennypack-park-hero{
+background: url(resources/images/pennsylvania/philadelphia/benjamin-franklin-bridge/Ben_Franklin_Bridge-3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#philadelphia-city-hall-hero{
+background: url(resources/images/pennsylvania/philadelphia/philadelphia-city-hall/City_Hall_and_Masonic_Temple\,_Philadelphia-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#philadelphia-museum-art-hero{
+    background: url(resources/images/pennsylvania/philadelphia/philadelphia-museum-art/Philadelphia_Museum_of_Art_Pennsylvania_USA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#philadelphia-hero{
+background: url(resources/images/pennsylvania/philadelphia/Philadelphia_skyline_from_South_Street_Bridge_January_2020_rotate_2_degrees_perspective_correction_crop_4-1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#philadelphias-magic-gardens-hero{
+background: url(resources/images/pennsylvania/philadelphia/philadelphias-magic-gardens/Magic_Garden-Philadelphia-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#reading-terminal-market-hero{
+background: url(resources/images/pennsylvania/philadelphia/reading-terminal-market/Reading_Terminal_Market-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #reading-viaduct-hero{
+background: url(resources/images/pennsylvania/philadelphia/rbenjamin-franklin-bridge/Ben_Franklin_Bridge-3-3030.jpg) center no-repeat;
+    background-size: cover;
+} */
+#rodin-museum-hero{
+background: url(resources/images/pennsylvania/philadelphia/rodin-museum/Philly042107-009-RodinMuseum-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#schuylkill-trail-hero{
+background: url(resources/images/pennsylvania/philadelphia/schuylkill-river-trail/Runner_Towpath_II-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#shofuso-house-hero{
+background: url(resources/images/pennsylvania/philadelphia/shofuso-japanese-house-and-garden/Shofuso_Spring-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#spruce-st-harbor-hero{
+background: url(resources/images/pennsylvania/philadelphia/spruce-street-harbor-park/Spruce_Street_Harbor_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#university-penn-museum-hero{
+background: url(resources/images/pennsylvania/philadelphia/university-of-pennsylvania-museum-of-archaeology-and-anthropology/University_of_Pennsylvania_Museum_of_Archaeology_and_Anthropology-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-square-philly-hero{
+background: url(resources/images/pennsylvania/philadelphia/washington-square/Washington_Square_West\,_Philadelphia\,_PA\,_USA_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wissahickon-park-hero{
+background: url(resources/images/pennsylvania/philadelphia/wissahickon-valley-park/Wissahickon_Park_Philadelphia_180109257-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#central-market-lancaster-hero{
+background: url(resources/images/pennsylvania/lancaster-county/central-market/Central_Market\,_Lancaster\,_PA_-_IMG_7736-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fallingwater-hero{
+background: url(resources/images/pennsylvania/fallingwater/Fallingwater3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gettysburg-hero{
+background: url(resources/images/pennsylvania/gettysburg-national-military-park/Gettysburg_Battlefield\,_Pennsylvania\,_US_97-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hersheypark-hero{
+background: url(resources/images/pennsylvania/hersheypark/Hersheypark_view_from_Ferris_Wheel\,_2013-08-10_cropped-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lancaster-county-hero{
+background: url(resources/images/pennsylvania/lancaster-county/Lancaster_County_Amish_03-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lancaster-pa-hero{
+background: url(resources/images/pennsylvania/lancaster-county/lancaster-pa/Lancaster_Pennsylvania_downtown-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-davis-hero{
+background: url(resources/images/pennsylvania/mount-davis/Mount_Davis_from_base_view-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#reading-pagoda-hero{
+background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#valley-forge-hero{
+    background: url(resources/images/pennsylvania/valley-forge-national-historical-park/Valley_Forge_Anthony_Wayne_statue-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#independence-hero{
+    background: url(resources/images/pennsylvania/philadelphia/independence-hall-national-historic-park/independance-hall-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
 
     /*-------------------- Rhode Island ----------*/
 /* -------------Newport, RI */------
@@ -15789,43 +16491,43 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
 
   /* ----------------------South Dakota */
 #black-elk-peak-hero{
-    background: url(resources/images/south-dakota/black-elk-peak/Black_Elk_Peak_hike_03-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/black-elk-peak/Black_Elk_Peak_hike_03-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #jewel-cave-nm{
-    background: url(resources/images/south-dakota/jewel-cave-national-monument/Inside_Jewel_Cave_National_Monument_-_15096023561-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/jewel-cave-national-monument/Inside_Jewel_Cave_National_Monument_-_15096023561-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #spearfish-canyon-hero{
-    background: url(resources/images/south-dakota/spearfish-canyon/Roughlock_Falls\,_Spearfish_Canyon\,_South_Dakota-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/spearfish-canyon/Roughlock_Falls\,_Spearfish_Canyon\,_South_Dakota-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #south-dakota-hero{
-    background: url(resources/images/southDakota/badlands-one/south-dakota-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/southDakota/badlands-one/south-dakota-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #badlands-hero{
-    background: url(resources/images/south-dakota/badlands-national-park/badlands-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/badlands-national-park/badlands-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #sage-creek-rim-hero{
-    background: url(resources/images/south-dakota/badlands-national-park/badlands-bighorn-sheep-sage-creek-road-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/badlands-national-park/badlands-bighorn-sheep-sage-creek-road-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #corn-palace-hero{
-    background: url(resources/images/south-dakota/worlds-only-corn-palace/corn-palace-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/worlds-only-corn-palace/corn-palace-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #mt-rushmore-hero{
-    background: url(resources/images/south-dakota/mount-rushmore-national-memorial/Mount_Rushmore_detail_view_100MP-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/mount-rushmore-national-memorial/Mount_Rushmore_detail_view_100MP-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #wall-drug-hero{
-    background: url(resources/images/south-dakota/wall-drug/wall-drug-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/wall-drug/wall-drug-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #wind-cave-sd-hero{
-    background: url(resources/images/south-dakota/wind-cave-national-park/wind-cave-sd-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/wind-cave-national-park/wind-cave-sd-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -15930,11 +16632,11 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
    
 /* Richmond */
 #richmond-hero{
-    background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) center no-repeat;
+    background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #belle-isle-hero{
- background: url(resources/images/virginia/richmond/belle-isle/Belle_Isle_pedestrian_bridge_9741406483-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/belle-isle/Belle_Isle_pedestrian_bridge_9741406483-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #maymont-hero{
@@ -15942,19 +16644,19 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     background-size: cover;
 }
 #richmond-canal-walk-hero{
- background: url(resources/images/virginia/richmond/canal-walk/Canal_Walk_through_Shockoe_Bottom_-02-_9741196835-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/canal-walk/Canal_Walk_through_Shockoe_Bottom_-02-_9741196835-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #richmond-main-street-station-hero{
- background: url(resources/images/virginia/richmond/main-street-station/main-street-station-hero-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/main-street-station/main-street-station-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #virginia-state-capitol-hero{
- background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #virginia-war-memorial-hero{
- background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) center no-repeat;
     background-size: cover;
 }
 /* ------------------------ */

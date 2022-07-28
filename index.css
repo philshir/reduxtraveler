@@ -928,7 +928,7 @@ color: #abc8db;
 }
 .highlights {
   font-family: Arial, Geneva, Tahoma, sans-serif !important;
-  font-size: 16px !important;
+  font-size: 18px !important;
 }
 main article:last-of-type {
   margin-top: 40px;
@@ -1404,7 +1404,6 @@ margin-bottom: 40px;
 .city-state-featured-title {
   font-size: 24px;
   color: navy;
-  margin-bottom: 44px;
   text-align: center;
   font-weight: 700;
 }
@@ -1544,7 +1543,7 @@ margin-bottom: 40px;
   margin-bottom: 10px;
 }
 .featured-locations-title{
-  font-size: 50px;
+  font-size: 44px;
 }
 .nyc-regions-title {
   font-size: 30px;
@@ -1666,7 +1665,7 @@ margin: 25px;
   }
   .highlights {
     text-align: center;
-    font-size: 22px !important;
+    font-size: 24px !important;
     
   }
   main article:last-of-type {
@@ -2106,7 +2105,6 @@ margin: 5px;
 }
 .city-state-featured-title {
   font-size: 36px;
-  margin-bottom: 74px;
 }
 .pikes-table{
   font-size: 12px;
