@@ -2574,6 +2574,10 @@ background: url(resources/images/connecticut/new-haven/yale-university/Yale_Camp
     background: url(resources/images/connecticut/hartford/Hartford_Connecticut_Skyline-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#armsmear-hero{
+    background: url(resources/images/connecticut/hartford/armsmear/HartfordCT_Armsmear2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #bushnell-park-hero{
     background: url(resources/images/connecticut/hartford/bushnell-park/Corning\ Fountain\,\ Bushnell\ Park\,\ Hartford\ CT-1515.jpg) bottom no-repeat;
     background-size: cover;
@@ -4702,6 +4706,10 @@ background: url(resources/images/maine/acadia-national-park/wild-gardens-of-acad
 background: url(resources/images/maine/bar-harbor/Day_3_-_Bar_Harbor\,_ME_Jays_Birthday_48746343211-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bar-harbor-shore-path-hero{
+    background: url(resources/images/maine/bar-harbor/bar-harbor-shore-path/Shore_Path_2021-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #cape-elizabeth-hero{
 background: url(resources/images/maine/cape-elizabeth/Portland-Head-Lighthouse-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4720,6 +4728,10 @@ background: url(resources/images/maine/lubec-me/Quoddy_Head_State_Park_-_panoram
 }
 #katahdin-hero{
 background: url(resources/images/maine/mount-katahdin/2017-07-26_11_47_17_Panoramic_view_north_and_east_from_Mount_Katahdins_South_Peak_in_Baxter_State_Park\,_Piscataquis_County\,_Maine-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ogunquit-me-hero{
+    background: url(resources/images/maine/ogunquit/Ogunquit_public_beach_1-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #portland-me-hero{
@@ -6193,10 +6205,13 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background-size: cover;
 }
 #long-island-hero{
-    background: url(resources/images/new-york/long-island/Long_Island_City_New_York_May_2015_panorama_3-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/long-island/Long_Island_City_New_York_May_2015_panorama_3-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
-
+#fire-island-hero{
+    background: url(resources/images/new-york/fire-island-national-seashore/Snowy_view_of_the_Fire_Island_Lighthouse_1111-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #fort-stanwix-hero{
     background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6244,7 +6259,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background-size: cover;
 }
 #bowling-green-hero{
-    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #broadway-ny-hero{
@@ -11446,6 +11461,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/connecticut/hartford/Hartford_Connecticut_Skyline-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#armsmear-hero{
+    background: url(resources/images/connecticut/hartford/armsmear/HartfordCT_Armsmear2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #bushnell-park-hero{
     background: url(resources/images/connecticut/hartford/bushnell-park/Corning\ Fountain\,\ Bushnell\ Park\,\ Hartford\ CT-3030.jpg) bottom no-repeat;
     background-size: cover;
@@ -14462,10 +14481,13 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #long-island-hero{
-    background: url(resources/images/new-york/long-island/Long_Island_City_New_York_May_2015_panorama_3-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/long-island/Long_Island_City_New_York_May_2015_panorama_3-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
-
+#fire-island-hero{
+    background: url(resources/images/new-york/fire-island-national-seashore/Snowy_view_of_the_Fire_Island_Lighthouse_1111-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #fort-stanwix-hero{
     background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-3030.jpg) center no-repeat;
     background-size: cover;
@@ -14513,7 +14535,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #bowling-green-hero{
-    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/bowling-green-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #broadway-ny-hero{
@@ -15884,6 +15906,10 @@ background: url(resources/images/maine/acadia-national-park/wild-gardens-of-acad
 background: url(resources/images/maine/bar-harbor/Day_3_-_Bar_Harbor\,_ME_Jays_Birthday_48746343211-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#bar-harbor-shore-path-hero{
+    background: url(resources/images/maine/bar-harbor/bar-harbor-shore-path/Shore_Path_2021-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #cape-elizabeth-hero{
 background: url(resources/images/maine/cape-elizabeth/Portland-Head-Lighthouse-3030.jpg) center no-repeat;
     background-size: cover;
@@ -15902,6 +15928,10 @@ background: url(resources/images/maine/lubec-me/Quoddy_Head_State_Park_-_panoram
 }
 #katahdin-hero{
 background: url(resources/images/maine/mount-katahdin/2017-07-26_11_47_17_Panoramic_view_north_and_east_from_Mount_Katahdins_South_Peak_in_Baxter_State_Park\,_Piscataquis_County\,_Maine-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ogunquit-me-hero{
+    background: url(resources/images/maine/ogunquit/Ogunquit_public_beach_1-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #portland-me-hero{
