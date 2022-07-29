@@ -812,7 +812,7 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #eureka-springs-hero{
-    background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #blue-springs-heritage-hero{
@@ -3710,7 +3710,7 @@ background: url(resources/images/hawaii/maui/w) no-repeat center;
     background-size: cover;
 }
 #aloha-tower-hero{
-background: url(resources/images/hawaii/oahu/honolulu/aloha-tower/Aloha_Tower_Honolulu._10754440616-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/honolulu/aloha-tower/Aloha_Tower_Honolulu._10754440616-1515.jpg) no-repeat bottom;
     background-size: cover;
 }
 #cathedral-basilica-our-lady-peace-hero{
@@ -3829,7 +3829,7 @@ background: url(resources/images/hawaii/oahu/honolulu/queen-emma-summer-palace/Q
 background: url(resources/images/hawaii/oahu/honolulu/wahaiwa-botanical-garden/Wahiawa_Botanical_Garden_-_shady_park_view-1515.jpg) no-repeat center;
     background-size: cover;
 }
-#bonzai-pipeline-hero{
+#banzai-pipeline-hero{
     background: url(resources/images/hawaii/oahu/north-shore/banzai-pipeline/Escaping_the_jaws_of_a_Banzai_Pipeline_wave_cropped-1515.jpg) no-repeat center;
     background-size: cover;
 }
@@ -3878,7 +3878,7 @@ background: url(resources/images/hawaii/oahu/pearl-harbor/pearl-harbor-national-
     background-size: cover;
 }
 #uss-arizona-hero{
-background: url(resources/images/hawaii/oahu/pearl-harbor/uss-arizona-memorial/US_Navy_091207-N-7498L-563_The_Ensign_above_the_USS_Arizona-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/pearl-harbor/uss-arizona-memorial/US_Navy_091207-N-7498L-563_The_Ensign_above_the_USS_Arizona-1515.jpg) no-repeat bottom;
     background-size: cover;
 }
 #uss-bowfin-hero{
@@ -7498,10 +7498,6 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
     background: url(resources/images/south-dakota/spearfish-canyon/Roughlock_Falls\,_Spearfish_Canyon\,_South_Dakota-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#south-dakota-hero{
-    background: url(resources/images/southDakota/badlands-one/south-dakota-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #badlands-hero{
     background: url(resources/images/south-dakota/badlands-national-park/badlands-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7516,6 +7512,10 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
 }
 #mt-rushmore-hero{
     background: url(resources/images/south-dakota/mount-rushmore-national-memorial/Mount_Rushmore_detail_view_100MP-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-dakota-hero{
+    background: url(resources/images/south-dakota/mount-rushmore-national-memorial/Mount_Rushmore_detail_view_100MP-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #wall-drug-hero{
@@ -7837,7 +7837,7 @@ background: url(resources/images/texas/dallas/dealey-plaza/Dealey_Plaza_2003-151
     background-size: cover;
 }
 #deep-ellum-hero{
-background: url(resources/images/texas/dallas/dealey-plaza/Dealey_Plaza_2003-1515.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/deep-ellum/deep-ellum-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #fair-park-hero{
@@ -7897,7 +7897,7 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background-size: cover;
 }
 #san-jacinto-hero{
- background: url(resources/images/texas/el-paso/san-jacinto-plaza/El_Paso_San_Jacinto_Plaza-1515.jpg) center no-repeat;
+ background: url(resources/images/texas/el-paso/san-jacinto-plaza/El_Paso_San_Jacinto_Plaza-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #university-texas-el-paso-hero{
@@ -7909,7 +7909,7 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background-size: cover;
 }
 #ft-worth-stockyards-hero{
-    background: url(resources/images/texas/fort-worth/fort-worth-stockyards/0011Fort_Worth_Stockyards_Exchange_Ave_E_Texas-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/fort-worth/fort-worth-stockyards/0011Fort_Worth_Stockyards_Exchange_Ave_E_Texas-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #ft-worth-water-gardens-hero{
@@ -7993,7 +7993,7 @@ background: url(resources/images/texas/san-antonio/spanish-governors-palace/The_
     background-size: cover;
 }
 #tower-americas-hero{
-background: url(resources/images/texas/san-antonio/tower-of-the-americas/tower-of-the-americas-hero-1515.jpg) center no-repeat;
+background: url(resources/images/texas/san-antonio/tower-of-the-americas/tower-of-the-americas-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #enchanted-rock-hero{
@@ -8086,7 +8086,7 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background-size: cover;
 }
 #bishops-palace-hero{
-    background: url(resources/images/texas/galveston/1892-bishops-palace/1892-bishops-palace-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/galveston/1892-bishops-place/1892-bishops-palace-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #galveston-beach-hero{
@@ -8114,7 +8114,7 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background-size: cover;
 }
 #guadalupe-peak-hero{
-    background: url(resources/images/texas/guadalupe-mountains-national-park/) center no-repeat;
+    background: url(resources/images/texas/guadalupe-mountains-national-park/guadalupe-peak/guadalupe-mountains-peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -8179,7 +8179,11 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background-size: cover;
 }
 #san-antonio-missions-hero{
-    background: url(resources/images/texas/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/san-antonio/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-antonio-hero{
+    background: url(resources/images/texas/san-antonio/Downtown_San_Antonio-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -9820,7 +9824,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
         background-size: cover;
     }
     #eureka-springs-hero{
-        background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-3030.jpg) center no-repeat;
+        background: url(resources/images/arkansas/eureka-springs/Eureka_Springs_downtown-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #blue-springs-heritage-hero{
@@ -12708,7 +12712,7 @@ background: url(resources/images/hawaii/maui/w) no-repeat center;
     background-size: cover;
 }
 #aloha-tower-hero{
-background: url(resources/images/hawaii/oahu/honolulu/aloha-tower/Aloha_Tower_Honolulu._10754440616-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/honolulu/aloha-tower/Aloha_Tower_Honolulu._10754440616-3030.jpg) no-repeat bottom;
     background-size: cover;
 }
 #cathedral-basilica-our-lady-peace-hero{
@@ -12827,7 +12831,7 @@ background: url(resources/images/hawaii/oahu/honolulu/queen-emma-summer-palace/Q
 background: url(resources/images/hawaii/oahu/honolulu/wahaiwa-botanical-garden/Wahiawa_Botanical_Garden_-_shady_park_view-3030.jpg) no-repeat center;
     background-size: cover;
 }
-#bonzai-pipeline-hero{
+#banzai-pipeline-hero{
     background: url(resources/images/hawaii/oahu/north-shore/banzai-pipeline/Escaping_the_jaws_of_a_Banzai_Pipeline_wave_cropped-3030.jpg) no-repeat center;
     background-size: cover;
 }
@@ -12876,7 +12880,7 @@ background: url(resources/images/hawaii/oahu/pearl-harbor/pearl-harbor-national-
     background-size: cover;
 }
 #uss-arizona-hero{
-background: url(resources/images/hawaii/oahu/pearl-harbor/uss-arizona-memorial/US_Navy_091207-N-7498L-563_The_Ensign_above_the_USS_Arizona-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/pearl-harbor/uss-arizona-memorial/US_Navy_091207-N-7498L-563_The_Ensign_above_the_USS_Arizona-3030.jpg) no-repeat bottom;
     background-size: cover;
 }
 #uss-bowfin-hero{
@@ -16502,10 +16506,6 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     background: url(resources/images/south-dakota/spearfish-canyon/Roughlock_Falls\,_Spearfish_Canyon\,_South_Dakota-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#south-dakota-hero{
-    background: url(resources/images/southDakota/badlands-one/south-dakota-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
 #badlands-hero{
     background: url(resources/images/south-dakota/badlands-national-park/badlands-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -16522,8 +16522,10 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     background: url(resources/images/south-dakota/mount-rushmore-national-memorial/Mount_Rushmore_detail_view_100MP-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#wall-drug-hero{
-    background: url(resources/images/south-dakota/wall-drug/wall-drug-hero-3030.jpg) center no-repeat;
+
+
+#south-dakota-hero{
+    background: url(resources/images/south-dakota/mount-rushmore-national-memorial/Mount_Rushmore_detail_view_100MP-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #wind-cave-sd-hero{
@@ -17337,7 +17339,7 @@ background: url(resources/images/texas/dallas/dealey-plaza/Dealey_Plaza_2003-303
     background-size: cover;
 }
 #deep-ellum-hero{
-background: url(resources/images/texas/dallas/dealey-plaza/Dealey_Plaza_2003-3030.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/deep-ellum/deep-ellum-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #fair-park-hero{
@@ -17397,7 +17399,7 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background-size: cover;
 }
 #san-jacinto-hero{
- background: url(resources/images/texas/el-paso/san-jacinto-plaza/El_Paso_San_Jacinto_Plaza-3030.jpg) center no-repeat;
+ background: url(resources/images/texas/el-paso/san-jacinto-plaza/El_Paso_San_Jacinto_Plaza-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #university-texas-el-paso-hero{
@@ -17409,7 +17411,7 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background-size: cover;
 }
 #ft-worth-stockyards-hero{
-    background: url(resources/images/texas/fort-worth/fort-worth-stockyards/0011Fort_Worth_Stockyards_Exchange_Ave_E_Texas-3030.jpg) center no-repeat;
+    background: url(resources/images/texas/fort-worth/fort-worth-stockyards/0011Fort_Worth_Stockyards_Exchange_Ave_E_Texas-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #ft-worth-water-gardens-hero{
@@ -17493,7 +17495,7 @@ background: url(resources/images/texas/san-antonio/spanish-governors-palace/The_
     background-size: cover;
 }
 #tower-americas-hero{
-background: url(resources/images/texas/san-antonio/tower-of-the-americas/tower-of-the-americas-hero-3030.jpg) center no-repeat;
+background: url(resources/images/texas/san-antonio/tower-of-the-americas/tower-of-the-americas-hero-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #enchanted-rock-hero{
@@ -17586,7 +17588,7 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background-size: cover;
 }
 #bishops-palace-hero{
-    background: url(resources/images/texas/galveston/1892-bishops-palace/1892-bishops-palace-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/texas/galveston/1892-bishops-place/1892-bishops-palace-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #galveston-beach-hero{
@@ -17614,7 +17616,7 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background-size: cover;
 }
 #guadalupe-peak-hero{
-    background: url(resources/images/texas/guadalupe-mountains-national-park/) center no-repeat;
+    background: url(resources/images/texas/guadalupe-mountains-national-park/guadalupe-peak/guadalupe-mountains-peak-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -17679,7 +17681,11 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background-size: cover;
 }
 #san-antonio-missions-hero{
-    background: url(resources/images/texas/mission-san-jose/san-antonio-missions-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/texas/san-antonio/mission-san-jose/san-antonio-missions-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-antonio-hero{
+    background: url(resources/images/texas/san-antonio/Downtown_San_Antonio-3030.jpg) center no-repeat;
     background-size: cover;
 }
 

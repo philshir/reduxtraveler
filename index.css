@@ -125,7 +125,16 @@ a:hover, .description-one a:hover {
 .third-party-img {
   font-size: 8px!important;
   text-align: center;
+  margin: 2px;
 }
+
+.hero-third-party-img {
+  font-size: 8px!important;
+  text-align: right;
+  margin: 2px;
+}
+
+
 .social-links-footer a svg:hover {
   fill: #8fcffa
 }
@@ -1634,7 +1643,7 @@ margin: 25px;
   font-size: 14px;
   padding: 10px 10px 10px 30px;
 }
-.third-party-img {
+.third-party-img, .hero-third-party-img {
   font-size: 10px!important;
 }
 .cap {
