@@ -176,6 +176,9 @@ a.itin-menu {
 .trail-description p:first-child {
   font-size: 13px;
 }
+.trail-description p:nth-child(3) {
+  margin-bottom: 50px;
+}
 .trail-description h2 {
   font-size: 18px
 }
@@ -188,7 +191,10 @@ a.itin-menu {
 }
 .trail-description h4{
   text-align: center;
+  font-size: 26px;
+  margin: 5px;
 }
+
 .nyc-regions-title {
   font-size: 22px;
   margin: 0;
@@ -335,6 +341,7 @@ main {
 .description-main {
   width: 100%;
   overflow: hidden;
+  padding: 4px;
 }
 .description-main h2 {
   font-size: 16px;
@@ -377,6 +384,7 @@ main {
   border-radius: 2px;
   z-index: 10;
 }
+
 .back-to-top {
   position: fixed;
   height: 50px;
@@ -588,11 +596,12 @@ tspan.st10.s11{
 .logo {
   position: relative;
   top: 45px;
-  left: 14px;
+  left: 10%;
   color: white;
-  font-size: 30px;
+  font-size: 28px;
   font-family: Arial;
   text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
+  max-width: 90%;
 }
 
 .logo-nashville {
@@ -796,11 +805,8 @@ tspan.st10.s11{
 }
 
 .portal {
-  width: 200px;
-  height: 150px;
   overflow: hidden;
   position: relative;
-  border-radius: 5px;
 }
 
 .portal-portrait {
@@ -811,7 +817,7 @@ tspan.st10.s11{
 }
 
 .img-cards {
-  width: 200px;
+  width: 100%;
   transition: transform 0.4s;
 }
 
@@ -937,7 +943,7 @@ color: #abc8db;
 }
 .highlights {
   font-family: Arial, Geneva, Tahoma, sans-serif !important;
-  font-size: 18px !important;
+  font-size: 16px !important;
 }
 main article:last-of-type {
   margin-top: 40px;
@@ -1472,6 +1478,12 @@ margin-bottom: 40px;
   position: absolute;
   top: 50px;
 }
+.where-was-location {
+  font-size: 18px!important;
+  font-weight: 600;
+  text-align: center;
+  margin: 10px 0;
+}
 
 @media only screen and (min-width: 460px) {
   
@@ -1720,6 +1732,7 @@ margin: 25px;
     max-width: 1170px;
     margin: 0 auto;
     padding: 50px 0 0 15px;
+    left: 0;
   }
 
   .logo-nashville {
@@ -1778,6 +1791,10 @@ article a {
 /*   .trail-description h2 {
     font-size: 24px;
 } */
+.trail-description h4{
+  font-size: 36px;
+  margin: 5px 0
+}
 
   .hero {
     height: 700px;
@@ -1794,11 +1811,11 @@ article a {
   .yellowstone-flex{
     flex-direction: column;
   }
-  ul {
+/*   ul {
     width: 75%;
     margin-left: auto;
     margin-right: auto;
-  }
+  } */
 .start {
   display: none;
 }
@@ -1880,7 +1897,7 @@ max-width: 1170px;
   /* fullscreen navbar */
   /* Navbar container */
   .navbar {
-    width: 50%;
+    width: 65%;
     height: 80px;
     padding: 16px;
     display: flex;
@@ -1894,9 +1911,14 @@ max-width: 1170px;
     border: none;
     outline: none;
     color: white;
-    padding: 14px 5px;
+   
     margin: 0;
     text-decoration: none;
+  }
+
+  .nav-position {
+    padding: 14px 5px;
+    white-space: nowrap;
   }
 
   /* The dropdown container */
@@ -1917,6 +1939,7 @@ max-width: 1170px;
     background-color: inherit;
     font-family: inherit; /* Important for vertical align on mobile phones */
     margin: 0; /* Important for vertical align on mobile phones */
+    white-space: nowrap;
   }
 
   /* Add a red background color to navbar links on hover */
@@ -1957,10 +1980,16 @@ max-width: 1170px;
   }
   .dropdown-content ul li a {
     color: black;
+    font-size: 12px;
+    font-weight: 600;
   }
   .menu-list li {
-    padding: 8px;
+    padding: 6px;
     list-style: none;
+  }
+
+  .dropdown-content strong{
+    font-size: 14px;
   }
 
   /* Show the dropdown menu on hover */
