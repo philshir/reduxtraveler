@@ -6572,7 +6572,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
 
 /* North Carolina */
 #bodie-lighthouse-hero{
-background: url(resources/images/north-carolina/outer-banks/bodie-island-lighthouse/bodie-island-lighthouse-hero-1515.jpg) center no-repeat;
+background: url(resources/images/north-carolina/outer-banks/bodie-island-lighthouse/bodie-island-lighthouse-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #cape-hatteras-lighthouse-hero{
@@ -6604,7 +6604,7 @@ background: url(resources/images/north-carolina/outer-banks/pea-island-national-
     background-size: cover;
 }
 #wright-memorial-hero{
-background: url(resources/images/north-carolina/outer-banks/wright-brothers-national-memorial/wright-brothers-nm-hero-1515.jpg) center no-repeat;
+background: url(resources/images/north-carolina/outer-banks/wright-brothers-national-memorial/wright-brothers-nm-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #asheville-river-arts-hero{
@@ -6619,13 +6619,16 @@ background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrenc
     background: url(resources/images/north-carolina/asheville-nc/biltmore-estate/5-14-14\ Biltmore\ Estate\ NHL-66000586-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
+#curate-hero{
+    background: url(resources/images/north-carolina/asheville-nc/curate/curate-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #mt-mitchell-hero{
     background: url(resources/images/north-carolina/mount-mitchell-state-park/mt-mitchell-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #blue-ridge-hero{
-    background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #chimney-rock-sp-nc-hero{
@@ -6641,7 +6644,7 @@ background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrenc
     background-size: cover;
 }
 #asheville-hero{
-    background: url(resources/images/north-carolina/asheville-nc/asheville-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/asheville-nc/Downtown-Raleigh-from-Western-Boulevard-Overpass-20081012-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* ----------------------------North Dakota ----------------------------*/
@@ -7481,7 +7484,7 @@ background: url(resources/images/rhode-island/narrangansett-beach/Waves\ at\ Nar
 background: url(resources/images/south-carolina/charleston-sc/arthur-ravenel-bridge/Arthur_Ravenel_Jr_Bridge\,_West_View_of_Road_Deck_and_Tower_20160704_1-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#battery-charleston-her{
+#battery-charleston-hero{
 background: url(resources/images/south-carolina/charleston-sc/battery-charleston/East_Battery_Street_Charleston_Aug2010-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -7521,12 +7524,16 @@ background: url(resources/images/south-carolina/charleston-sc/south-carolina-car
 background: url(resources/images/south-carolina/charleston-sc/old-exchange-and-provost-dungeon/old-exchange-and-provost-dungeon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#husk-sc-hero{
+    background: url(resources/images/south-carolina/charleston-sc/husk/husk-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #old-slave-museum{
 background: url(resources/images/south-carolina/charleston-sc/old-slave-mart-museum/old-slave-mart-museum-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rainbow-row-hero{
-background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-1515.jpg) center no-repeat;
+background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #unitarian-church-charleston-hero{
@@ -8763,7 +8770,7 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
 }
 /* Richmond */
 #richmond-hero{
-    background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) center no-repeat;
+    background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #belle-isle-hero{
@@ -8783,11 +8790,11 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
     background-size: cover;
 }
 #virginia-state-capitol-hero{
- background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/virginia-state-capitol/virginia-state-capitol-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #virginia-war-memorial-hero{
- background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/virginia-war-memorial/virginia-war-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* ------------------------ */
@@ -8864,7 +8871,7 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
     background-size: cover;
 }
 #yorktown-hero{
-    background: url(resources/images/virginia/yorktown/Yorktown\ Victory\ Monument\,\ Colonial\ National\ Historic\ Site\,\ Yorktown\,\ Virginia\ 14239327850-1515.jpg) center no-repeat;
+    background: url(resources/images/virginia/yorktown/Yorktown\ Victory\ Monument\,\ Colonial\ National\ Historic\ Site\,\ Yorktown\,\ Virginia\ 14239327850-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #shenandoah-hero{
@@ -14977,7 +14984,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
 
 /* North Carolina */
 #bodie-lighthouse-hero{
-    background: url(resources/images/north-carolina/outer-banks/bodie-island-lighthouse/bodie-island-lighthouse-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/outer-banks/bodie-island-lighthouse/bodie-island-lighthouse-hero-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #cape-hatteras-lighthouse-hero{
@@ -15009,9 +15016,13 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
         background-size: cover;
     }
     #wright-memorial-hero{
-    background: url(resources/images/north-carolina/outer-banks/wright-brothers-national-memorial/wright-brothers-nm-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/outer-banks/wright-brothers-national-memorial/wright-brothers-nm-hero-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
+    #asheville-hero{
+        background: url(resources/images/north-carolina/asheville-nc/Downtown-Raleigh-from-Western-Boulevard-Overpass-20081012-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #asheville-river-arts-hero{
     background: url(resources/images/north-carolina/asheville-nc/asheville-river-arts-district/asheville-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -15024,12 +15035,16 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
         background: url(resources/images/north-carolina/asheville-nc/biltmore-estate/5-14-14\ Biltmore\ Estate\ NHL-66000586-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #curate-hero{
+        background: url(resources/images/north-carolina/asheville-nc/curate/curate-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #mt-mitchell-hero{
         background: url(resources/images/north-carolina/mount-mitchell-state-park/mt-mitchell-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #blue-ridge-hero{
-        background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #chimney-rock-sp-nc-hero{
@@ -15042,10 +15057,6 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     }
     #linville-gorge-hero{
         background: url(resources/images/north-carolina/linville-gorge-wilderness-area/TableRockNC-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #asheville-hero{
-        background: url(resources/images/north-carolina/asheville-nc/asheville-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
 
@@ -16637,7 +16648,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     background: url(resources/images/south-carolina/charleston-sc/arthur-ravenel-bridge/Arthur_Ravenel_Jr_Bridge\,_West_View_of_Road_Deck_and_Tower_20160704_1-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #battery-charleston-her{
+    #battery-charleston-hero{
     background: url(resources/images/south-carolina/charleston-sc/battery-charleston/East_Battery_Street_Charleston_Aug2010-3030.jpg) center no-repeat;
         background-size: cover;
     }
@@ -16677,12 +16688,16 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     background: url(resources/images/south-carolina/charleston-sc/old-exchange-and-provost-dungeon/old-exchange-and-provost-dungeon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #husk-sc-hero{
+        background: url(resources/images/south-carolina/charleston-sc/husk/husk-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #old-slave-museum{
     background: url(resources/images/south-carolina/charleston-sc/old-slave-mart-museum/old-slave-mart-museum-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #rainbow-row-hero{
-    background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #unitarian-church-charleston-hero{
@@ -16899,7 +16914,7 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
    
 /* Richmond */
 #richmond-hero{
-    background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) center no-repeat;
+    background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #belle-isle-hero{
@@ -16919,11 +16934,11 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     background-size: cover;
 }
 #virginia-state-capitol-hero{
- background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/virginia-state-capitol/virginia-state-capitol-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #virginia-war-memorial-hero{
- background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) center no-repeat;
+ background: url(resources/images/virginia/richmond/virginia-war-memorial/virginia-war-memorial-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 /* ------------------------ */
@@ -17000,7 +17015,7 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     background-size: cover;
 }
 #yorktown-hero{
-    background: url(resources/images/virginia/yorktown/Yorktown\ Victory\ Monument\,\ Colonial\ National\ Historic\ Site\,\ Yorktown\,\ Virginia\ 14239327850-3030.jpg) center no-repeat;
+    background: url(resources/images/virginia/yorktown/Yorktown\ Victory\ Monument\,\ Colonial\ National\ Historic\ Site\,\ Yorktown\,\ Virginia\ 14239327850-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #shenandoah-hero{
