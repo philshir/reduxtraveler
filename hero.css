@@ -67,7 +67,7 @@ Alaska Peninsula and Aleutian Islands*/
     
 }
 #brooks-falls-hero{
-
+    
 }
 #hallo-bay-hero{
 
@@ -443,6 +443,43 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* #lavender-pit-hero{
+    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#copper-queen-hero{
+    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bisbee-mining-museum-hero{
+    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
+/* #carr-peak-hero{
+background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
+#huachuca-mtns-hero{
+background: url(resources/images/arizona/huachuca-mountains/Huachuca_Mts_-_Carr_and_Ramsey_Peaks-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kitt-peak-hero{
+background: url(resources/images/arizona/kitt-peak-national-observatory/Kittpeak2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#miller-peak-hero{
+background: url(resources/images/arizona/miller-peak/Miller_Peak_45468692965-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ramsey-canyon-hero{
+background: url(resources/images/arizona/ramsey-canyon/Upper_Ramsey_Canyon_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tonto-sp-hero{
+    background: url(resources/images/arizona/tonto-natural-bridge-state-park/Waterfall_View_38080538775-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #bartlett-lake-hero{
     background: url(resources/images/arizona/phoenix/bartlett-lake/Bartlett_Lake_SW01-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2411,6 +2448,10 @@ background: url(resources/images/colorado/colorado-springs/pikes-peak/Pikes_Peak
 background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#co-state-capitol-hero{
+    background: url(resources/images/colorado/denver/colorado-state-capitol/Coloradocapitolhill2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #aspen-hero{
 background: url(resources/images/colorado/aspen/Aspen_south_Galena_street-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3357,6 +3398,10 @@ background: url(resources/images/georgia/okefenokee-national-wildlife-refuge/Tax
 }
 #okefenokee-swamp-park-hero{
 background: url(resources/images/georgia/okefenokee-swamp-park/Alligators_au_refuge_national_dOkefenokee-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rock-city-gardens-hero{
+    background: url(resources/images/georgia/rock-city-gardens/rock-city-garden-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #st-simons-hero{
@@ -5010,6 +5055,10 @@ background: url(resources/images/massachusetts/marthas-vineyard/aquinnah/Aquinna
 background: url(resources/images/massachusetts/marthas-vineyard/edgartown/Edgartown_Harbor_by_Don_Ramey_Logan-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#edgartown-light-hero{
+    background: url(resources/images/massachusetts/marthas-vineyard/edgartown/edgartown-harbor-light/edgartown-harbor-light-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #oak-bluffs-hero{
 background: url(resources/images/massachusetts/marthas-vineyard/oak-bluffs/oak-bluffs-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -5942,6 +5991,10 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background: url(resources/images/new-jersey/seaside-heights/seaside-heights-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cape-may-hero{
+    background: url(resources/images/new-jersey/cape-may/Cape_May_Light_35060429352-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 /* New Mexico */
 #abiquiu-hero{
@@ -6074,6 +6127,10 @@ background: url(resources/images/new-mexico/santa-fe/santa-fe-plaza/Enjoying_cof
 }
 #santuario-guadalupe-hero{
 background: url(resources/images/new-mexico/santa-fe/santuario-de-guadalupe/Our_Lady_of_Guadalupe_Church_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ah-shi-sle-pah-hero{
+    background: url(resources/images/new-mexico/ah-shi-sle-pah/Ah-Shi-Sle-Pah_WSA\,_NM-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bisti-de-na-zin-hero{
@@ -6286,8 +6343,25 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#chinatown-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/nyc-chinatown/chinatown-nyc-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #little-italy-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/little-it) center no-repeat;
+    background-size: cover;
+} */
+#shops-hudson-yards-hero{
+    background: url(resources/images/new-york/new-york-city/shops-and-restaurants-at-hudson-yards/Hudson_Yards_Plaza_March_2019_31-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#soho-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/soho/soho-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #coney-island-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_\(June_2016\-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_June_2016-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chelsea-market-hero{
@@ -6552,6 +6626,18 @@ background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrenc
 }
 #blue-ridge-hero{
     background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chimney-rock-sp-nc-hero{
+    background: url(resources/images/north-carolina/chimney-rock-state-park/Chimney_Rock_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#linville-falls-hero{
+    background: url(resources/images/north-carolina/linville-falls/RainbowFallsRutherfordCounty-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#linville-gorge-hero{
+    background: url(resources/images/north-carolina/linville-gorge-wilderness-area/TableRockNC-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #asheville-hero{
@@ -7501,6 +7587,22 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
 }
 
 /* ----------------------South Dakota */
+#crazy-horse-memorial-hero{
+    background: url(resources/images/south-dakota/crazy-horse-memorial/CrazyHorse-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sylvan-lake-hero{
+    background: url(resources/images/south-dakota/sylvan-lake/Fall_colors_at_Sylvan_Lake_45276839481-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#custer-sp-hero{
+    background: url(resources/images/south-dakota/custer-state-park/Custer_State_Park_by_Tristan_Loper_20110822-00010_33252625301-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#deadwood-sd-hero{
+    background: url(resources/images/south-dakota/deadwood/Deadwood_today-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #black-elk-peak-hero{
     background: url(resources/images/south-dakota/black-elk-peak/Black_Elk_Peak_hike_03-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7543,6 +7645,35 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
 }
 
 /* Tennessee */
+/* #big-south-fork-hero{
+background: url(resources/images/tennessee/b) center no-repeat;
+    background-size: cover;
+}
+#burgess-falls-hero{
+background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#roan-mtn-hero{
+background: url(resources/images/tennessee/) center no-repeat;
+    background-size: cover;
+} */
+#rock-island-sp-hero{
+background: url(resources/images/tennessee/rock-island-state-park/rock-island-state-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sevierville-hero{
+    background: url(resources/images/tennessee/sevierville/sevierville-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gatlinburg-skylift-hero{
+background: url(resources/images/tennessee/gatlinburg/gatlinburg-skylift-park/gatlinburg-skylift-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#assembly-food-hero{
+    background: url(resources/images/tennessee/nashville/assembly-food-hall/assembly-food-hall-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #gatlinburg-hero{
     background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7683,10 +7814,6 @@ background: url(resources/images/tennessee/nashville/belle-meade-plantation/Bell
 background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #carnton-hero{
-background: url(resources/images/tennessee/franklin-tn/) center no-repeat;
-    background-size: cover;
-} */
 #cummins-falls-hero{
 background: url(resources/images/tennessee/cummins-falls-state-park/Cummins_Falls_by_Brenton_Rogers_04-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8607,6 +8734,14 @@ background: url(resources/images/vermont/st) center no-repeat;
 background: url(resources/images/vermont/stowe-vt/2017-09-11_13_10_01_View_east-southeast_towards_Stowe_Ski_Resort_from_the_Long_Trail-1515.jpg) center no-repeat;
     background-size: cover;
 }
+/* #stowe-mountain-resort-hero{
+    background: url(resources/images/vermont/stowe-vt/2017-09-11_13_10_01_View_east-southeast_towards_Stowe_Ski_Resort_from_the_Long_Trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#trapp-family-lodge-hero{
+    background: url(resources/images/vermont/stowe-vt/) center no-repeat;
+    background-size: cover;
+} */
 #underhill-sp-hero{
 background: url(resources/images/vermont/underhill-state-park/2017-09-11_13_10_01_View_east-southeast_towards_Stowe_Ski_Resort_from_the_Long_Trail-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9440,6 +9575,42 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     }
     #bisbee-hero{
         background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    /* #lavender-pit-hero{
+    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#copper-queen-hero{
+    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bisbee-mining-museum-hero{
+    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
+/* #carr-peak-hero{
+background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
+#huachuca-mtns-hero{
+    background: url(resources/images/arizona/huachuca-mountains/Huachuca_Mts_-_Carr_and_Ramsey_Peaks-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kitt-peak-hero{
+    background: url(resources/images/arizona/kitt-peak-national-observatory/Kittpeak2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #miller-peak-hero{
+    background: url(resources/images/arizona/miller-peak/Miller_Peak_45468692965-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ramsey-canyon-hero{
+    background: url(resources/images/arizona/ramsey-canyon/Upper_Ramsey_Canyon_2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #tonto-sp-hero{
+        background: url(resources/images/arizona/tonto-natural-bridge-state-park/Waterfall_View_38080538775-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bartlett-lake-hero{
@@ -11543,6 +11714,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #co-state-capitol-hero{
+        background: url(resources/images/colorado/denver/colorado-state-capitol/Coloradocapitolhill2-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #aspen-hero{
     background: url(resources/images/colorado/aspen/Aspen_south_Galena_street-3030.jpg) center no-repeat;
         background-size: cover;
@@ -12374,6 +12549,10 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     }
     #okefenokee-swamp-park-hero{
     background: url(resources/images/georgia/okefenokee-swamp-park/Alligators_au_refuge_national_dOkefenokee-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rock-city-gardens-hero{
+        background: url(resources/images/georgia/rock-city-gardens/rock-city-garden-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #st-simons-hero{
@@ -14028,6 +14207,10 @@ background: url(resources/images/nevada/mount-charleston/Mount_Charleston_and_Tr
     background: url(resources/images/new-jersey/seaside-heights/seaside-heights-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#cape-may-hero{
+    background: url(resources/images/new-jersey/cape-may/Cape_May_Light_35060429352-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 
 /* Montana */
 #big-sky-hero{
@@ -14354,6 +14537,10 @@ background: url(resources/images/new-mexico/santa-fe/santa-fe-plaza/Enjoying_cof
 background: url(resources/images/new-mexico/santa-fe/santuario-de-guadalupe/Our_Lady_of_Guadalupe_Church_2-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#ah-shi-sle-pah-hero{
+    background: url(resources/images/new-mexico/ah-shi-sle-pah/Ah-Shi-Sle-Pah_WSA\,_NM-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #bisti-de-na-zin-hero{
 background: url(resources/images/new-mexico/bisti-de-na-zin-wilderness/Bisti-De-Na-Zin_Wilderness_9443457402-3030.jpg) center no-repeat;
     background-size: cover;
@@ -14562,8 +14749,24 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#chinatown-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/nyc-chinatown/chinatown-nyc-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #little-italy-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/little-it) center no-repeat;
+    background-size: cover;
+} */
+#shops-hudson-yards-hero{
+    background: url(resources/images/new-york/new-york-city/shops-and-restaurants-at-hudson-yards/Hudson_Yards_Plaza_March_2019_31-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#soho-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/soho/soho-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #coney-island-hero{
-    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_\(June_2016\-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/brooklyn/coney-island/Coney_Island_beach_and_amusement_parks_June_2016-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #chelsea-market-hero{
@@ -14827,6 +15030,18 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     }
     #blue-ridge-hero{
         background: url(resources/images/north-carolina/blue-ridge-parkway/blue-ridge-parkway-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #chimney-rock-sp-nc-hero{
+        background: url(resources/images/north-carolina/chimney-rock-state-park/Chimney_Rock_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #linville-falls-hero{
+        background: url(resources/images/north-carolina/linville-falls/RainbowFallsRutherfordCounty-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #linville-gorge-hero{
+        background: url(resources/images/north-carolina/linville-gorge-wilderness-area/TableRockNC-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #asheville-hero{
@@ -16210,6 +16425,10 @@ background: url(resources/images/massachusetts/marthas-vineyard/aquinnah/Aquinna
 background: url(resources/images/massachusetts/marthas-vineyard/edgartown/Edgartown_Harbor_by_Don_Ramey_Logan-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#edgartown-light-hero{
+    background: url(resources/images/massachusetts/marthas-vineyard/edgartown/edgartown-harbor-light/edgartown-harbor-light-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #oak-bluffs-hero{
 background: url(resources/images/massachusetts/marthas-vineyard/oak-bluffs/oak-bluffs-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -16524,6 +16743,22 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     }
 
   /* ----------------------South Dakota */
+  #crazy-horse-memorial-hero{
+    background: url(resources/images/south-dakota/crazy-horse-memorial/CrazyHorse-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#sylvan-lake-hero{
+    background: url(resources/images/south-dakota/sylvan-lake/Fall_colors_at_Sylvan_Lake_45276839481-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#custer-sp-hero{
+    background: url(resources/images/south-dakota/custer-state-park/Custer_State_Park_by_Tristan_Loper_20110822-00010_33252625301-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#deadwood-sd-hero{
+    background: url(resources/images/south-dakota/deadwood/Deadwood_today-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #black-elk-peak-hero{
     background: url(resources/images/south-dakota/black-elk-peak/Black_Elk_Peak_hike_03-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17060,6 +17295,34 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
 
 
 /* Tennessee */
+/* #big-south-fork-hero{
+background: url(resources/images/tennessee/b) center no-repeat;
+    background-size: cover;
+}
+#burgess-falls-hero{
+background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#roan-mtn-hero{
+background: url(resources/images/tennessee/) center no-repeat;
+    background-size: cover;
+} */
+#rock-island-sp-hero{
+    background: url(resources/images/tennessee/rock-island-state-park/rock-island-state-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sevierville-hero{
+        background: url(resources/images/tennessee/sevierville/sevierville-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gatlinburg-skylift-hero{
+    background: url(resources/images/tennessee/gatlinburg/gatlinburg-skylift-park/gatlinburg-skylift-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #assembly-food-hero{
+        background: url(resources/images/tennessee/nashville/assembly-food-hall/assembly-food-hall-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #gatlinburg-hero{
     background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-3030.jpg) center no-repeat;
     background-size: cover;
