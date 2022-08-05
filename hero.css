@@ -2595,11 +2595,11 @@ background: url(resources/images/connecticut/new-haven/yale-university/Yale_Camp
     background-size: cover;
 }
 #castle-craig-hero{
-    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-1515.jpg) bottom no-repeat;
+    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #devils-hopyard-hero{
-    background: url(resources/images/connecticut/devils-hopyard/Devils_Hopyard_Bridge_View_Kevin_Pepin-1515.jpg) center no-repeat;
+    background: url(resources/images/connecticut/devils-hopyard-state-park/Devils_Hopyard_Bridge_View_Kevin_Pepin-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -2632,7 +2632,7 @@ background: url(resources/images/connecticut/new-haven/yale-university/Yale_Camp
     background-size: cover;
 }
 #kent-falls-hero{
-    background: url(resources/images/connecticut/kent-falls/Kent\ Falls-1515.jpg) center no-repeat;
+    background: url(resources/images/connecticut/kent-falls-state-park/Kent\ Falls-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lighthouse-point-hero{
@@ -2682,7 +2682,7 @@ background: url(resources/images/connecticut/new-haven/yale-university/Yale_Camp
     background-size: cover;
 }
 #bowers-beach-hero{
-background: url(resources/images/delaware/bowers-beach/Sunset_at_Bowers_Beach-1515.jpg) center no-repeat;
+background: url(resources/images/delaware/bowers-beach/Sunset_at_Bowers_Beach-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #brandywine-park-hero{
@@ -3124,11 +3124,6 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background: url(resources/images/florida/weeki-wachee-state-park/Manatees_in_Weeki_Wachee_River-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
-#florida-hero{
-    background: url(resources/images/florida/panama-city-beach/florida-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #biscayne-hero{
     background: url(resources/images/florida/biscayne-national-park/Biscayne_underwater_NPS1-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3287,7 +3282,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #panama-hero{
-    background: url(resources/images/florida/panama-city-beach/panama-city-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/panama-city-beach/florida-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #pensacola-hero{
@@ -3377,7 +3372,7 @@ background: url(resources/images/georgia/savannah/sk) center no-repeat;
     background-size: cover;
 }
 #squares-savannah-hero{
-background: url(resources/images/georgia/savannah/savannah-squares/savannah-squares-monterey-square-hero-1515.jpg) center no-repeat;
+background: url(resources/images/georgia/savannah/savannah-squares/savannah-squares-monterey-square-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #telfair-museums-hero{
@@ -3385,7 +3380,7 @@ background: url(resources/images/georgia/savannah/telfair-academy-of-arts-and-sc
     background-size: cover;
 }
 #wormsloe-hero{
-background: url(resources/images/georgia/savannah/wormsloe-historic-site/Worlsolme-1515.jpg) center no-repeat;
+background: url(resources/images/georgia/savannah/wormsloe-historic-site/Worlsolme-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #jekyll-island-hero{
@@ -3412,10 +3407,6 @@ background: url(resources/images/georgia/st-simons-island/st-simons-island-hero-
     background: url(resources/images/georgia/stephen-c-foster-state-park/Cypresses_on_the_water-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#savannah-hero{
-    background: url(resources/images/georgia/savannah/savannah-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #bonaventure-hero{
     background: url(resources/images/georgia/savannah/bonaventure/bonaventure-cemetery-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3429,7 +3420,7 @@ background: url(resources/images/georgia/st-simons-island/st-simons-island-hero-
     background-size: cover;
 }
 #tybee-hero{
-    background: url(resources/images/georgia/savannah/tybee/tybee-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/tybee-island/tybee-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -3975,7 +3966,7 @@ background: url(resources/images/hawaii/oahu/waikiki/hanauma-bay/Hanauma_Bay_fro
     background-size: cover;
 }
 #hilton-hawaiian-hero{
-background: url(resources/images/hawaii/oahu/waikiki/hilton-hawaiian-village/Hilton_Waikiki_Hawaii._16545672009-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/waikiki/hilton-hawaiian-village/Hilton_Waikiki_Hawaii._16545672009-1515.jpg) no-repeat bottom;
     background-size: cover;
 }
 #ilikai-hotel-hero{
@@ -4818,7 +4809,7 @@ background: url(resources/images/maryland/ladew-topiary-garden/Manor_house_of_La
     background-size: cover;
 }
 #ocean-city-md-hero{
-background: url(resources/images/maryland/ocean-city-md/Ocean_City_MD_Boardwalk_August_2009_1-1515.jpg) center no-repeat;
+background: url(resources/images/maryland/ocean-city-md/Ocean_City_MD_Boardwalk_August_2009_1-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #swallow-falls-hero{
@@ -5076,7 +5067,7 @@ background: url(resources/images/massachusetts/plymouth/jabez-howland-house/jabe
     background-size: cover;
 }
 #mayflower-ii-hero{
-background: url(resources/images/massachusetts/plymouth/mayflower-ii/Mayflower_II\,_Water_St\,_Plymouth_493627_11108952073-1515.jpg) center no-repeat;
+background: url(resources/images/massachusetts/plymouth/mayflower-ii/Mayflower_II\,_Water_St\,_Plymouth_493627_11108952073-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #national-forefathers-hero{
@@ -6270,7 +6261,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background-size: cover;
 }
 #fort-stanwix-hero{
-    background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/fort-stanwix-national-monument/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #letchworth-sp-hero{
@@ -6562,11 +6553,11 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background-size: cover;
 }
 #saratoga-nhp-hero{
-    background: url(resources/images/new-york/saratoga-nhp/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-1515.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/saratoga-national-historical-park/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #vanderbilt-mansion-hero{
-    background: url(resources/images/new-york/vanderbilt-mansion/Vanderbilt_Mansion_National_Historic_Site_-_17-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/vanderbilt-mansion-national-historic-site/Vanderbilt_Mansion_National_Historic_Site_-_17-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -7454,7 +7445,7 @@ background: url(resources/images/rhode-island/providence-ri/waterfire/WaterFire\
     background-size: cover;
 }
 #waterplace-park-hero{
-background: url(resources/images/rhode-island/providence-ri/waterplace-park/Waterplace\,_Providence-1515.jpg) center no-repeat;
+background: url(resources/images/rhode-island/providence-ri/waterplace-park/Waterplace\,_Providence-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #westminster-arcade-hero{
@@ -8670,7 +8661,7 @@ background: url(resources/images/vermont/burlington-vt/Church_Street_Burlington_
     background-size: cover;
 }
 #crystal-lake-sp-hero{
-background: url(resources/images/vermont/crystal-lake-state-park/CrystalLakeStatePark2-1515.jpg) center no-repeat;
+background: url(resources/images/vermont/crystal-lake-state-park/CrystalLakeStatePark2-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #gold-brook-hero{
@@ -8807,7 +8798,7 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
     background-size: cover;
 }
 #colonial-williamsburg-hero{
- background: url(resources/images/virginia/colonial-williamsburg/colonial-williamsburg-hero-1515.jpg) center no-repeat;
+ background: url(resources/images/virginia/colonial-williamsburg/colonial-williamsburg-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 /* #great-falls-park-hero{
@@ -8885,31 +8876,31 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
 
 /* -----------------------Washington, DC ------------------------------*/
 #lincoln-memorial-hero{
-    background: url(resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/lincoln-memorial/lincoln-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #reflecting-pool-hero{
-    background: url(resources/images/washingtonDC/reflectigPool/reflecting-pool-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/lincoln-memorial-reflecting-pool/reflecting-pool-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ulysses-hero{
-    background: url(resources/images/washingtonDC/ulyssesGrant/ulysses-grant-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/ulysses-s-grant-memorial/ulysses-grant-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #us-capitol-hero{
-    background: url(resources/images/washingtonDC/usCapitol/us-capitol-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/untied-states-capitol/us-capitol-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #vietnam-memorial-hero{
-    background: url(resources/images/washingtonDC/washington-dc-vietnam-veterans-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/vietnam-veterans-memorial/washington-dc-vietnam-veterans-memorial-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #washington-monument-hero{
-    background: url(resources/images/washingtonDC/washington-monument-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/washington-monument/washington-monument-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #white-house-hero{
-    background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/white-house/white-house-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #washington-state-hero {
@@ -9008,6 +8999,10 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
 }
 #spruce-knob-hero{
     background: url(resources/images/west-virginia/spruce-knob/spruce-knob-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#harpers-ferry-hero{
+    background: url(resources/images/west-virginia/harpers-ferry/2010-09-02-Harpers-Ferry-From-Maryland-Heights-Panorama-Crop-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -11620,11 +11615,11 @@ background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-15
 }
 
 #castle-craig-hero{
-    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-3030.jpg) bottom no-repeat;
+    background: url(resources/images/connecticut/castle-craig/Castle_Craig_Meriden_CT-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #devils-hopyard-hero{
-    background: url(resources/images/connecticut/devils-hopyard/Devils_Hopyard_Bridge_View_Kevin_Pepin-3030.jpg) center no-repeat;
+    background: url(resources/images/connecticut/devils-hopyard-state-park/Devils_Hopyard_Bridge_View_Kevin_Pepin-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #five-mile-point-hero{
@@ -11656,7 +11651,7 @@ background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-15
     background-size: cover;
 }
 #kent-falls-hero{
-    background: url(resources/images/connecticut/kent-falls/Kent\ Falls-3030.jpg) center no-repeat;
+    background: url(resources/images/connecticut/kent-falls-state-park/Kent\ Falls-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #lighthouse-point-hero{
@@ -11840,7 +11835,7 @@ background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-15
     background-size: cover;
 }
 #bowers-beach-hero{
-background: url(resources/images/delaware/bowers-beach/Sunset_at_Bowers_Beach-3030.jpg) center no-repeat;
+background: url(resources/images/delaware/bowers-beach/Sunset_at_Bowers_Beach-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #brandywine-park-hero{
@@ -12445,7 +12440,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #panama-hero{
-    background: url(resources/images/florida/panama-city-beach/panama-city-beach-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/florida/panama-city-beach/florida-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #pensacola-hero{
@@ -12535,7 +12530,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
         background-size: cover;
     }
     #squares-savannah-hero{
-    background: url(resources/images/georgia/savannah/savannah-squares/savannah-squares-monterey-square-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/savannah-squares/savannah-squares-monterey-square-hero-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #telfair-museums-hero{
@@ -12543,7 +12538,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
         background-size: cover;
     }
     #wormsloe-hero{
-    background: url(resources/images/georgia/savannah/wormsloe-historic-site/Worlsolme-3030.jpg) center no-repeat;
+    background: url(resources/images/georgia/savannah/wormsloe-historic-site/Worlsolme-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #jekyll-island-hero{
@@ -12570,10 +12565,6 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
         background: url(resources/images/georgia/stephen-c-foster-state-park/Cypresses_on_the_water-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #savannah-hero{
-        background: url(resources/images/georgia/savannah/savannah-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #bonaventure-hero{
         background: url(resources/images/georgia/savannah/bonaventure/bonaventure-cemetery-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -12587,7 +12578,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
         background-size: cover;
     }
     #tybee-hero{
-        background: url(resources/images/georgia/savannah/tybee/tybee-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/georgia/savannah/tybee-island/tybee-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
 
@@ -13133,7 +13124,7 @@ background: url(resources/images/hawaii/oahu/waikiki/hanauma-bay/Hanauma_Bay_fro
     background-size: cover;
 }
 #hilton-hawaiian-hero{
-background: url(resources/images/hawaii/oahu/waikiki/hilton-hawaiian-village/Hilton_Waikiki_Hawaii._16545672009-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/waikiki/hilton-hawaiian-village/Hilton_Waikiki_Hawaii._16545672009-3030.jpg) no-repeat bottom;
     background-size: cover;
 }
 #ilikai-hotel-hero{
@@ -14683,7 +14674,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #fort-stanwix-hero{
-    background: url(resources/images/new-york/fort-stanwix/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/fort-stanwix-national-monument/Fort_stanwix_C007AE13-155D-451F-674857C0B72076E7-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #letchworth-sp-hero{
@@ -14974,11 +14965,11 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #saratoga-nhp-hero{
-    background: url(resources/images/new-york/saratoga-nhp/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-3030.jpg) bottom no-repeat;
+    background: url(resources/images/new-york/saratoga-national-historical-park/Saratoga_National_Historical_Park_-_Saratoga_Monument_1-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #vanderbilt-mansion-hero{
-    background: url(resources/images/new-york/vanderbilt-mansion/Vanderbilt_Mansion_National_Historic_Site_-_17-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/vanderbilt-mansion-national-historic-site/Vanderbilt_Mansion_National_Historic_Site_-_17-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -15868,7 +15859,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #waterplace-park-hero{
-    background: url(resources/images/rhode-island/providence-ri/waterplace-park/Waterplace\,_Providence-3030.jpg) center no-repeat;
+    background: url(resources/images/rhode-island/providence-ri/waterplace-park/Waterplace\,_Providence-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #westminster-arcade-hero{
@@ -16199,7 +16190,7 @@ background: url(resources/images/maryland/ladew-topiary-garden/Manor_house_of_La
     background-size: cover;
 }
 #ocean-city-md-hero{
-background: url(resources/images/maryland/ocean-city-md/Ocean_City_MD_Boardwalk_August_2009_1-3030.jpg) center no-repeat;
+background: url(resources/images/maryland/ocean-city-md/Ocean_City_MD_Boardwalk_August_2009_1-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #swallow-falls-hero{
@@ -16457,7 +16448,7 @@ background: url(resources/images/massachusetts/plymouth/jabez-howland-house/jabe
     background-size: cover;
 }
 #mayflower-ii-hero{
-background: url(resources/images/massachusetts/plymouth/mayflower-ii/Mayflower_II\,_Water_St\,_Plymouth_493627_11108952073-3030.jpg) center no-repeat;
+background: url(resources/images/massachusetts/plymouth/mayflower-ii/Mayflower_II\,_Water_St\,_Plymouth_493627_11108952073-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #national-forefathers-hero{
@@ -16828,7 +16819,7 @@ background: url(resources/images/vermont/burlington-vt/Church_Street_Burlington_
     background-size: cover;
 }
 #crystal-lake-sp-hero{
-background: url(resources/images/vermont/crystal-lake-state-park/CrystalLakeStatePark2-3030.jpg) center no-repeat;
+background: url(resources/images/vermont/crystal-lake-state-park/CrystalLakeStatePark2-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #gold-brook-hero{
@@ -16951,7 +16942,7 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     background-size: cover;
 }
 #colonial-williamsburg-hero{
- background: url(resources/images/virginia/colonial-williamsburg/colonial-williamsburg-hero-3030.jpg) center no-repeat;
+ background: url(resources/images/virginia/colonial-williamsburg/colonial-williamsburg-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 /* #great-falls-park-hero{
@@ -17028,31 +17019,31 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
 }
 
     #lincoln-memorial-hero{
-        background: url(resources/images/washingtonDC/lincolnMemorial/lincoln-memorial-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington-dc/lincoln-memorial/lincoln-memorial-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #reflecting-pool-hero{
-        background: url(resources/images/washingtonDC/reflectigPool/reflecting-pool-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington-dc/lincoln-memorial-reflecting-pool/reflecting-pool-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #ulysses-hero{
-        background: url(resources/images/washingtonDC/ulyssesGrant/ulysses-grant-memorial-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington-dc/ulysses-s-grant-memorial/ulysses-grant-memorial-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #us-capitol-hero{
-        background: url(resources/images/washingtonDC/usCapitol/us-capitol-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington-dc/untied-states-capitol/us-capitol-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #vietnam-memorial-hero{
-        background: url(resources/images/washingtonDC/washington-dc-vietnam-veterans-memorial-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington-dc/vietnam-veterans-memorial/washington-dc-vietnam-veterans-memorial-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #washington-monument-hero{
-        background: url(resources/images/washingtonDC/washington-monument-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington-dc/washington-monument/washington-monument-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #white-house-hero{
-        background: url(resources/images/washingtonDC/whiteHouse/white-house-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington-dc/white-house/white-house-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #washington-state-hero {
@@ -17161,6 +17152,10 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     }
     #spruce-knob-hero{
         background: url(resources/images/west-virginia/spruce-knob/spruce-knob-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #harpers-ferry-hero{
+        background: url(resources/images/west-virginia/harpers-ferry/2010-09-02-Harpers-Ferry-From-Maryland-Heights-Panorama-Crop-3030.jpg) center no-repeat;
         background-size: cover;
     }
 
