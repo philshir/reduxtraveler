@@ -5102,6 +5102,10 @@ background: url(resources/images/massachusetts/salem-ma/salem-witch-museum/Salem
 background: url(resources/images/massachusetts/salem-ma/witch-house/Witch_House\,_Salem-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#adams-nhp-hero{
+    background: url(resources/images/massachusetts/adams-national-historical-park/Adams_National_Historic_Site_-_Peacefield-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #bash-bish-hero{
 background: url(resources/images/massachusetts/bash-bish-falls/Bash_Bish_Falls\,_Mount_Washington_State_Forest-1515.jpg) center no-repeat;
     background-size: cover;
@@ -16481,6 +16485,10 @@ background: url(resources/images/massachusetts/salem-ma/salem-witch-museum/Salem
 }
 #salem-witch-house-hero{
 background: url(resources/images/massachusetts/salem-ma/witch-house/Witch_House\,_Salem-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#adams-nhp-hero{
+    background: url(resources/images/massachusetts/adams-national-historical-park/Adams_National_Historic_Site_-_Peacefield-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #bash-bish-hero{
