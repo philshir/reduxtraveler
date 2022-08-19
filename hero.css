@@ -2561,6 +2561,22 @@ background: url(resources/images/colorado/florissant-fossil-beds-national-monume
     background-size: cover;
 }
 /* Connecticut */
+#case-mountain-hero{
+  background: url(resources/images/connecticut/case-pond/Case_Pond_Manchester_Connecticut-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hubbard-park-hero{
+  background: url(resources/images/connecticut/hubbard-park/lossy-page1-2560px-Castle_Craig\,_Hubbard_Park\,_located_in_Meriden\,_Connecticut_LCCN2012631518.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-frissell-hero{
+  background: url(resources/images/connecticut/mount-frissell/Highest_Point_here-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#saville-dam-hero{
+    background: url(resources/images/connecticut/saville-dam/Saville_Dam_Barkhamsted_clicked_by_me_Ashutosh-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #beinecke-book-hero{
     background: url(resources/images/connecticut/new-haven/yale-university/beinecke-library/20170420_Beinecke_Rare_Book_Library_Interior_Yale_University_New_Haven_Connecticut-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2582,7 +2598,7 @@ background: url(resources/images/connecticut/new-haven/yale-university/sterling-
     background-size: cover;
 }
 #yale-university-hero{
-background: url(resources/images/connecticut/new-haven/yale-university/Yale_Campus_from_SSS_roof-1515.jpg) center no-repeat;
+background: url(resources/images/connecticut/new-haven/yale-university/Yale_University_2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -2699,6 +2715,18 @@ background: url(resources/images/delaware/delaware-seashore-state-park/Delaware_
 }
 #dewey-beach-hero{
 background: url(resources/images/delaware/dewey-beach/DeweyBeach-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fenwick-island-light-hero{
+    background: url(resources/images/delaware/fenwick-island/fenwick-island-lighthouse/FenwicklightApril08_42_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fenwick-island-sp-hero{
+    background: url(resources/images/delaware/fenwick-island/fenwick-island-state-park/Fenwick_Island_State_Park_-_panoramio_5-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fenwick-island-hero{
+    background: url(resources/images/delaware/fenwick-island/Fenwick_Island_State_Park_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #first-state-nhp-hero{
@@ -5983,7 +6011,7 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
     background-size: cover;
 }
 #seaside-heights-hero{
-    background: url(resources/images/new-jersey/seaside-heights/seaside-heights-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/new-jersey/seaside-heights/The_Boardwalk_9139230020-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cape-may-hero{
@@ -6216,6 +6244,30 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
 
 
 /* New York */
+#lake-placid-hero{
+background: url(resources/images/new-york/lake-placid/Lake_Placid_-_Mirror_Lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sag-harbor-hero{
+background: url(resources/images/new-york/sag-harbor/Sag_Harbor_Movie_Theatre_BEE7997-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-st-john-hero{
+background: url(resources/images/new-york/new-york-city/cathedral-of-st-john-the-divine/St_John_the_Divine_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#met-cloisters-hero{
+background: url(resources/images/new-york/new-york-city/met-cloisters/The_Cloisters_-_The_MET_Cloisters_-_Joy_of_Museums-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#plaza-hotel-hero{
+background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_NYC_7918848816-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#summit-one-vanderbilt-hero{
+    background: url(resources/images/new-york/new-york-city/summit-one-vanderbilt/One_Vanderbilt_Observatory_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #buttermilk-falls-hero{
     background: url(resources/images/new-york/finger-lakes/buttermilk-falls-state-park/Buttermilk\ Falls\,\ Ithaca\,\ NY\,\ April-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6372,7 +6424,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background-size: cover;
 }
 #edge-hero{
-    background: url(resources/images/new-york/new-york-city/edge-ny/edge-hero-1515.jpg) top no-repeat;
+    background: url(resources/images/new-york/new-york-city/edge-ny/Edge_HY-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ellis-island-hero{
@@ -6501,7 +6553,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background-size: cover;
 }
 #united-nations-hero{
-    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_\(3\-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_3-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #vessel-hero{
@@ -7220,11 +7272,11 @@ background: url(resources/images/pennsylvania/philadelphia/philadelphia-city-hal
     background-size: cover;
 }
 #philadelphia-museum-art-hero{
-    background: url(resources/images/pennsylvania/philadelphia/philadelphia-museum-art/Philadelphia_Museum_of_Art_Pennsylvania_USA-1515.jpg) center no-repeat;
+    background: url(resources/images/pennsylvania/philadelphia/philadelphia-museum-art/Philadelphia_Museum_of_Art_Main_Building\,_June_18th\,_2022-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #philadelphia-hero{
-background: url(resources/images/pennsylvania/philadelphia/Philadelphia_skyline_from_South_Street_Bridge_January_2020_rotate_2_degrees_perspective_correction_crop_4-1-1515.jpg) center no-repeat;
+background: url(resources/images/pennsylvania/philadelphia/The_Philadelphia_Skyline_at_Dusk-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #philadelphias-magic-gardens-hero{
@@ -7284,7 +7336,7 @@ background: url(resources/images/pennsylvania/hersheypark/Hersheypark_view_from_
     background-size: cover;
 }
 #lancaster-county-hero{
-background: url(resources/images/pennsylvania/lancaster-county/Lancaster_County_Amish_03-1515.jpg) center no-repeat;
+background: url(resources/images/pennsylvania/lancaster-county/lossy-page1-2560px-Farm_equipment\,_pulled_by_an_Amishman_on_a_steel-wheel_wagon_in__Amish_Country\,__Lancaster_County\,_Pennsylvania_LCCN2011635708.tif-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lancaster-pa-hero{
@@ -7305,7 +7357,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-151
 }
 
 #independence-hero{
-    background: url(resources/images/pennsylvania/philadelphia/independence-hall-national-historic-park/independance-hall-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/pennsylvania/philadelphia/independence-hall-national-historic-park/Liberty_Bell\,_2016-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -8879,12 +8931,53 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
 }
 
 /* -----------------------Washington, DC ------------------------------*/
+#georgetown-dc-hero{
+    background: url(resources/images/washington-dc/georgetown/P_Street_NW\,_Georgetown\,_Washington\,_DC_45693401135-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jefferson-memorial-hero{
+    background: url(resources/images/washington-dc/jefferson-memorial/Jefferson_Memorial_Washington_April_2017_002-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#korean-memorial-hero{
+background: url(resources/images/washington-dc/korean-war-veterans-memorial/Korean_War_Veterans_Memorial_3550723044-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#library-congress-hero{
+background: url(resources/images/washington-dc/library-of-congress/Library_of_Congress_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mlk-dc-hero{
+background: url(resources/images/washington-dc/martin-luther-king-jr-memorial/Martin_Luther_King_Jr._Memorial_777c244c-cb74-4ced-9c29-ab3d06a406da-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#national-gallery-art-hero{
+background: url(resources/images/washington-dc/national-gallery-of-art/National_Gallery_of_Art\,_East_Building-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#smithsonian-castle-hero{
+background: url(resources/images/washington-dc/smithsonian-castle/Smithsonian_Building_Sunlight-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#smithsonian-air-space-hero{
+background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/Smithsonian_National_Air_and_Space_Museum\,_Washington_DC_36085958805-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#supreme-court-hero{
+    background: url(resources/images/washington-dc/united-states-supreme-court/United_states_supreme_court_building-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-cathedral-hero{
+    background: url(resources/images/washington-dc/washington-national-cathedral/Washington_National_Cathedral_Looking_SE-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #lincoln-memorial-hero{
-    background: url(resources/images/washington-dc/lincoln-memorial/lincoln-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/lincoln-memorial/USA_-_Lincoln_Memorial-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #reflecting-pool-hero{
-    background: url(resources/images/washington-dc/lincoln-memorial-reflecting-pool/reflecting-pool-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/lincoln-memorial-reflecting-pool/Washington_Monument_with_Reflecting_Pool-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ulysses-hero{
@@ -8892,20 +8985,22 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
     background-size: cover;
 }
 #us-capitol-hero{
-    background: url(resources/images/washington-dc/untied-states-capitol/us-capitol-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/united-states-capitol/lossy-page1-2560px-Aerial_view\,_United_States_Capitol_building\,_Washington\,_D.C_LCCN2010630477.tif-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #vietnam-memorial-hero{
-    background: url(resources/images/washington-dc/vietnam-veterans-memorial/washington-dc-vietnam-veterans-memorial-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/vietnam-veterans-memorial/Vietnam_Memorial_Wall_with_Washington_Monument-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #washington-monument-hero{
-    background: url(resources/images/washington-dc/washington-monument/washington-monument-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/washington-monument/lossy-page1-2560px-Aerial_view_of_Washington_Monument_and_White_House\,_Washington\,_D.C_LCCN2010630782.tif-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #white-house-hero{
-    background: url(resources/images/washington-dc/white-house/white-house-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington-dc/white-house/The_White_House\,_Washington\,_D.C._USA2-1515.jpg) center no-repeat;
     background-size: cover;
+
+/* Washington State --------------------------- */
 }
 #washington-state-hero {
     background: url(resources/images/washington/Seattle_4-hero-1515.jpg) center no-repeat;
@@ -11585,6 +11680,22 @@ background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-15
     }
 
      /*  Connecticut */
+     #case-mountain-hero{
+        background: url(resources/images/connecticut/case-pond/Case_Pond_Manchester_Connecticut-3030.jpg) center no-repeat;
+          background-size: cover;
+      }
+      #hubbard-park-hero{
+        background: url(resources/images/connecticut/hubbard-park/lossy-page1-2560px-Castle_Craig\,_Hubbard_Park\,_located_in_Meriden\,_Connecticut_LCCN2012631518.tif-3030.jpg) center no-repeat;
+          background-size: cover;
+      }
+      #mount-frissell-hero{
+        background: url(resources/images/connecticut/mount-frissell/Highest_Point_here-3030.jpg) center no-repeat;
+          background-size: cover;
+      }
+      #saville-dam-hero{
+          background: url(resources/images/connecticut/saville-dam/Saville_Dam_Barkhamsted_clicked_by_me_Ashutosh-3030.jpg) center no-repeat;
+          background-size: cover;
+      }
      #beinecke-book-hero{
         background: url(resources/images/connecticut/new-haven/yale-university/beinecke-library/20170420_Beinecke_Rare_Book_Library_Interior_Yale_University_New_Haven_Connecticut-3030.jpg) center no-repeat;
         background-size: cover;
@@ -11606,7 +11717,7 @@ background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-15
         background-size: cover;
     }
     #yale-university-hero{
-    background: url(resources/images/connecticut/new-haven/yale-university/Yale_Campus_from_SSS_roof-3030.jpg) center no-repeat;
+    background: url(resources/images/connecticut/new-haven/yale-university/Yale_University_2-3030.jpg) center no-repeat;
         background-size: cover;
     }
  #avery-point-hero{
@@ -11856,6 +11967,18 @@ background: url(resources/images/delaware/delaware-seashore-state-park/Delaware_
 }
 #dewey-beach-hero{
 background: url(resources/images/delaware/dewey-beach/DeweyBeach-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fenwick-island-light-hero{
+    background: url(resources/images/delaware/fenwick-island/fenwick-island-lighthouse/FenwicklightApril08_42_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fenwick-island-sp-hero{
+    background: url(resources/images/delaware/fenwick-island/fenwick-island-state-park/Fenwick_Island_State_Park_-_panoramio_5-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fenwick-island-hero{
+    background: url(resources/images/delaware/fenwick-island/Fenwick_Island_State_Park_-_panoramio-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #first-state-nhp-hero{
@@ -14206,7 +14329,7 @@ background: url(resources/images/nevada/mount-charleston/Mount_Charleston_and_Tr
     background-size: cover;
 }
 #seaside-heights-hero{
-    background: url(resources/images/new-jersey/seaside-heights/seaside-heights-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/new-jersey/seaside-heights/The_Boardwalk_9139230020-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #cape-may-hero{
@@ -14629,6 +14752,30 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
 }
 
     /* New York */
+    #lake-placid-hero{
+        background: url(resources/images/new-york/lake-placid/Lake_Placid_-_Mirror_Lake-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sag-harbor-hero{
+        background: url(resources/images/new-york/sag-harbor/Sag_Harbor_Movie_Theatre_BEE7997-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cathedral-st-john-hero{
+        background: url(resources/images/new-york/new-york-city/cathedral-of-st-john-the-divine/St_John_the_Divine_02-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #met-cloisters-hero{
+        background: url(resources/images/new-york/new-york-city/met-cloisters/The_Cloisters_-_The_MET_Cloisters_-_Joy_of_Museums-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #plaza-hotel-hero{
+        background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_NYC_7918848816-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #summit-one-vanderbilt-hero{
+            background: url(resources/images/new-york/new-york-city/summit-one-vanderbilt/One_Vanderbilt_Observatory_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
 #buttermilk-falls-hero{
     background: url(resources/images/new-york/finger-lakes/buttermilk-falls-state-park/Buttermilk\ Falls\,\ Ithaca\,\ NY\,\ April-3030.jpg) center no-repeat;
     background-size: cover;
@@ -14784,7 +14931,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #edge-hero{
-    background: url(resources/images/new-york/new-york-city/edge-ny/edge-hero-3030.jpg) top no-repeat;
+    background: url(resources/images/new-york/new-york-city/edge-ny/Edge_HY-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #ellis-island-hero{
@@ -14913,7 +15060,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #united-nations-hero{
-    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_\(3\-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/united-nations/United_Nations_General_Assembly_Hall_3-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #vessel-hero{
@@ -15633,11 +15780,11 @@ background: url(resources/images/pennsylvania/philadelphia/philadelphia-city-hal
     background-size: cover;
 }
 #philadelphia-museum-art-hero{
-    background: url(resources/images/pennsylvania/philadelphia/philadelphia-museum-art/Philadelphia_Museum_of_Art_Pennsylvania_USA-3030.jpg) center no-repeat;
+    background: url(resources/images/pennsylvania/philadelphia/philadelphia-museum-art/Philadelphia_Museum_of_Art_Main_Building\,_June_18th\,_2022-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #philadelphia-hero{
-background: url(resources/images/pennsylvania/philadelphia/Philadelphia_skyline_from_South_Street_Bridge_January_2020_rotate_2_degrees_perspective_correction_crop_4-1-3030.jpg) center no-repeat;
+background: url(resources/images/pennsylvania/philadelphia/The_Philadelphia_Skyline_at_Dusk-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #philadelphias-magic-gardens-hero{
@@ -15697,7 +15844,7 @@ background: url(resources/images/pennsylvania/hersheypark/Hersheypark_view_from_
     background-size: cover;
 }
 #lancaster-county-hero{
-background: url(resources/images/pennsylvania/lancaster-county/Lancaster_County_Amish_03-3030.jpg) center no-repeat;
+background: url(resources/images/pennsylvania/lancaster-county/Lancaster_County_Field_and_Farm_Implement_3264px-1000.jpg) center no-repeat;
     background-size: cover;
 }
 #lancaster-pa-hero{
@@ -15718,7 +15865,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
 }
 
 #independence-hero{
-    background: url(resources/images/pennsylvania/philadelphia/independence-hall-national-historic-park/independance-hall-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/pennsylvania/philadelphia/independence-hall-national-historic-park/Liberty_Bell\,_2016-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -16128,7 +16275,7 @@ background: url(resources/images/maine/bar-harbor/Day_3_-_Bar_Harbor\,_ME_Jays_B
     background-size: cover;
 }
 #bar-harbor-shore-path-hero{
-    background: url(resources/images/maine/bar-harbor/bar-harbor-shore-path/Shore_Path_2021-1515.jpg) center no-repeat;
+    background: url(resources/images/maine/bar-harbor/bar-harbor-shore-path/Shore_Path_2021-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #cape-elizabeth-hero{
@@ -17026,34 +17173,78 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     background-size: cover;
 }
 
-    #lincoln-memorial-hero{
-        background: url(resources/images/washington-dc/lincoln-memorial/lincoln-memorial-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #reflecting-pool-hero{
-        background: url(resources/images/washington-dc/lincoln-memorial-reflecting-pool/reflecting-pool-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #ulysses-hero{
-        background: url(resources/images/washington-dc/ulysses-s-grant-memorial/ulysses-grant-memorial-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #us-capitol-hero{
-        background: url(resources/images/washington-dc/untied-states-capitol/us-capitol-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #vietnam-memorial-hero{
-        background: url(resources/images/washington-dc/vietnam-veterans-memorial/washington-dc-vietnam-veterans-memorial-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #washington-monument-hero{
-        background: url(resources/images/washington-dc/washington-monument/washington-monument-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #white-house-hero{
-        background: url(resources/images/washington-dc/white-house/white-house-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+/* -----------------------Washington, DC ------------------------------*/
+#georgetown-dc-hero{
+    background: url(resources/images/washington-dc/georgetown/P_Street_NW\,_Georgetown\,_Washington\,_DC_45693401135-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#jefferson-memorial-hero{
+    background: url(resources/images/washington-dc/jefferson-memorial/Jefferson_Memorial_Washington_April_2017_002-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#korean-memorial-hero{
+background: url(resources/images/washington-dc/korean-war-veterans-memorial/Korean_War_Veterans_Memorial_3550723044-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#library-congress-hero{
+background: url(resources/images/washington-dc/library-of-congress/Library_of_Congress_3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mlk-dc-hero{
+background: url(resources/images/washington-dc/martin-luther-king-jr-memorial/Martin_Luther_King_Jr._Memorial_777c244c-cb74-4ced-9c29-ab3d06a406da-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#national-gallery-art-hero{
+background: url(resources/images/washington-dc/national-gallery-of-art/National_Gallery_of_Art\,_East_Building-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#smithsonian-castle-hero{
+background: url(resources/images/washington-dc/smithsonian-castle/Smithsonian_Building_Sunlight-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#smithsonian-air-space-hero{
+background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/Smithsonian_National_Air_and_Space_Museum\,_Washington_DC_36085958805-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#supreme-court-hero{
+    background: url(resources/images/washington-dc/united-states-supreme-court/United_states_supreme_court_building-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-cathedral-hero{
+    background: url(resources/images/washington-dc/washington-national-cathedral/Washington_National_Cathedral_Looking_SE-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#lincoln-memorial-hero{
+    background: url(resources/images/washington-dc/lincoln-memorial/USA_-_Lincoln_Memorial-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#reflecting-pool-hero{
+    background: url(resources/images/washington-dc/lincoln-memorial-reflecting-pool/Washington_Monument_with_Reflecting_Pool-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ulysses-hero{
+    background: url(resources/images/washington-dc/ulysses-s-grant-memorial/ulysses-grant-memorial-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#us-capitol-hero{
+    background: url(resources/images/washington-dc/united-states-capitol/lossy-page1-2560px-Aerial_view\,_United_States_Capitol_building\,_Washington\,_D.C_LCCN2010630477.tif-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vietnam-memorial-hero{
+    background: url(resources/images/washington-dc/vietnam-veterans-memorial/Vietnam_Memorial_Wall_with_Washington_Monument-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-monument-hero{
+    background: url(resources/images/washington-dc/washington-monument/lossy-page1-2560px-Aerial_view_of_Washington_Monument_and_White_House\,_Washington\,_D.C_LCCN2010630782.tif-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#white-house-hero{
+    background: url(resources/images/washington-dc/white-house/The_White_House\,_Washington\,_D.C._USA2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+/* -------------------Washington State ------------------------ */
     #washington-state-hero {
         background: url(resources/images/washington/Seattle_4-hero-3030.jpg) center no-repeat;
         background-size: cover;
