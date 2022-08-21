@@ -3117,6 +3117,10 @@ background: url(resources/images/florida/t) center no-repeat;
 background: url(resources/images/florida/everglades-national-park/shark-valley/Shark_Valley_Viewing_Tower_2\,_NPSPhoto_9255480841-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#florida-keys-hero{
+    background: url(resources/images/florida/florida-keys/Key_West_sunset_-_June_2021-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #bahia-honda-hero{
 background: url(resources/images/florida/florida-keys/bahia-honda-state-park/Bahia_Honda_State_Park-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3133,10 +3137,15 @@ background: url(resources/images/florida/florida-keys/john-pennekamp-coral-reef-
 background: url(resources/images/florida/lee-island-coast/) center no-repeat;
     background-size: cover;
 } */
-/* #captiva-hero{
-background: url(resources/images/florida/c) center no-repeat;
+
+#captiva-hero{
+background: url(resources/images/florida/lee-island-coast/captiva/North_Captiva_Island_airport1-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
+#cayo-costa-hero{
+    background: url(resources/images/florida/lee-island-coast/cayo-costa-island/Marine_shoreline_of_Cayo_Costa_Island_Pine_Island_Sound\,_Florida\,_USA_1_24301579326-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #edison-ford-hero{
 background: url(resources/images/florida/lee-island-coast/edison-and-ford-winter-estates/Edison_^_Ford_Winter_Estates_-_panoramio_1-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3147,6 +3156,10 @@ background: url(resources/images/florida/lee-island-coast/fort-myers/Fort_Myers_
 }
 #gasparilla-island-hero{
 background: url(resources/images/florida/lee-island-coast/gasparilla-island/Gasparilla_Island_SP_beach05-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gasparilla-state-hero{
+    background: url(resources/images/florida/lee-island-coast/gasparilla-island-state-park/Gasparilla_Island_SP_beach07-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #jn-ding-hero{
@@ -3161,30 +3174,38 @@ background: url(resources/images/florida/lee-island-coast/sanibel-island/Sanibel
 background: url(resources/images/florida/miami/coral-gables/fairchild-tropical-botanical-gardens/Fairchild_Tropical_Botanic_Garden\,_Miami-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #matheson-hammock-hero{
-background: url(resources/images/florida/miami/coral-gables/) center no-repeat;
+#matheson-hammock-hero{
+background: url(resources/images/florida/miami/matheson-hammocks/Twilight_Miami_Skyline-1515.jpg) center no-repeat;
     background-size: cover;
-} */
-/* #barnacle-historic-hero{
-background: url(resources/images/florida/miami/) center no-repeat;
+}
+#barnacle-historic-hero{
+background: url(resources/images/florida/miami/barnacle-historic-state-park/Coco_Grove_FL_Barnacle_SP_Munroe_House02-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #bill-baggs-hero{
 background: url(resources/images/florida/miami/bill-baggs-cape-florida-state-park/Cape_Florida_Lighthouse_9-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #coconut-grove-hero{
-background: url(resources/images/florida/miami/) center no-repeat;
+#coconut-grove-hero{
+background: url(resources/images/florida/miami/coconut-grove/Grove_Isle_morning_views_of_Coconut_Grove-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #coral-castle-hero{
 background: url(resources/images/florida/miami/coral-castle/Homestead_FL_Coral_Castle_pano02-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #plymouth-congregational-hero{
-background: url(resources/images/florida/cape-canaveral/canaveral-national-seashore/CanaveralNationalSeashore4-1515.jpg) center no-repeat;
+#pinecrest-gardens-hero{
+    background: url(resources/images/florida/miami/pinecrest-gardens/Pinecrest_Gardens_FL_park_lake_pano01-1515.jpg) center no-repeat;
+    background-size: cover;  
+}
+#plymouth-congregational-hero{
+background: url(resources/images/florida/miami/plymouth-congregational-church/Coco_Grove_FL_Plymouth_Congreg_Church01-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
+#versailles-miami-hero{
+    background: url(resources/images/florida/miami/versailles-miami/Versailles_Restaurant_-_Calle_Ocho_Miami-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #vizcaya-hero{
 background: url(resources/images/florida/miami/vizcaya-museum-and-gardens/Villa\ Vizcaya\ 2011022-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3275,10 +3296,10 @@ background: url(resources/images/florida/pensacola/) center no-repeat;
 background: url(resources/images/florida/pensacola/saenger-theatre/saenger-theatre-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #tarkiln-bayou-hero{
-background: url(resources/images/florida/pensacola/) center no-repeat;
+#tarkiln-bayou-hero{
+background: url(resources/images/florida/pensacola/tarkiln-bayou-state-park/Tarkiln_Bayou_Park_-_Walking_out_toward_the_Bayou_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #ca-d-zan-hero{
 background: url(resources/images/florida/sarasota/ca-d-zan/CadZan_Mansion-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3303,10 +3324,10 @@ background: url(resources/images/florida/sarasota/marie-selby-botanical-garden/F
 background: url(resources/images/florida/sarasota/myakka-river-state-park/Myakka_Canopy_Walkway-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #oscar-scherer-hero{
-background: url(resources/images/florida/osarasota/) center no-repeat;
+#oscar-scherer-hero{
+background: url(resources/images/florida/oscar-scherer-state-park/Oscar_Scherer_SP_Finley_Trail_South_Creek01-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #sarasota-hero{
 background: url(resources/images/florida/sarasota/Sarasota_Panorama_39918800622-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3319,10 +3340,10 @@ background: url(resources/images/florida/sarasota/siesta-key/siesta-key-hero-151
 background: url(resources/images/florida/st-armands-key/st-armands-key-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #fort-matanzas-hero{
-background: url(resources/images/florida/st-augustine/) center no-repeat;
+#fort-matanzas-hero{
+background: url(resources/images/florida/st-augustine/fort-matanzas-national-monument/Fort_Matanzas_and_Matanzas_River_3-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #don-cesar-hero{
 background: url(resources/images/florida/st-petersburg-fl/don-cesar-hotel/don-cesar-hotel-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3423,6 +3444,31 @@ background: url(resources/images/florida/corkscrew-swamp-sanctuary/Corkscrew_-_b
 background: url(resources/images/florida/dry-tortugas-national-park/Dry_Tortugas_National_Park_-_49655986136-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bush-key-hero{
+    background: url(resources/images/florida/dry-tortugas-national-park/bush-key/Bush_Key_Dry_Tortugas-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#loggerhead-key-hero{
+    background: url(resources/images/florida/dry-tortugas-national-park/loggerhead-key/National_Park1_44384401831-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coquina-beach-hero{
+background: url(resources/images/florida/coquina-beach/coquina-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-clinch-hero{
+background: url(resources/images/florida/fort-clinch-state-park/Fort_Clinch_State_Park\,_Florida\,_US_68-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bradenton-beach-hero{
+background: url(resources/images/florida/bradenton-beach/bradenton-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#anastasia-sp-hero{
+    background: url(resources/images/florida/st-augustine/anastasia-state-park/St._Augustine_Anastasia_Island_west_pano01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #fakahatchee-hero{
 background: url(resources/images/florida/fakahatchee-strand-preserve-state-park/Fakahatchee_hardwood_swamp_-_Flickr_-_pellaea_1-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3504,15 +3550,15 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #key-west-hero{
-    background: url(resources/images/florida/key-west/key-west-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/Southernmost_Beach\,_Key_West\,_Florida-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #duval-street-hero{
-    background: url(resources/images/florida/key-west/duval-street/duval-street-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/duval-street/Exile_On_Duval_Street-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mallory-square-hero{
-    background: url(resources/images/florida/key-west/mallory-square/mallory-square-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/mallory-square/Key_West_Florida_February_2020_-_Mallory_Square-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #southernmost-point-hero{
@@ -4868,7 +4914,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #oak-alley-plantation-hero{
-    background: url(resources/images/louisiana/oak-alley-plantation/Oak_alley_-_view_from_front-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/oak-alley-plantation/dirk-spijkers-PoQcfmoWoAA-unsplash-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bayou-coquille-hero{
@@ -5930,6 +5976,79 @@ background: url(resources/images/montana/virginia-city-mo/Virginia_City\,_Montan
 background: url(resources/images/montana/glacier-national-park/2015-06-19_Glacier_National_Park_U.S._8633-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#avalnache-gorge-hero{
+background: url(resources/images/montana/glacier-national-park/avalanche-gorge/Avalanche_Gorge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bowman-lake-hero{
+background: url(resources/images/montana/glacier-national-park/bowman-lake/Numa\,_Rainbow\,_Square_from_Bowman_Lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#garden-wall-hero{
+background: url(resources/images/montana/glacier-national-park/garden-wall/Glacier_NP_Peak_10-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grinnell-glacier-hero{
+background: url(resources/images/montana/glacier-national-park/grinnell-glacier/Angel_Wing_from_Grinnell_Glacier_Trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grinnell-lake-hero{
+background: url(resources/images/montana/glacier-national-park/grinnell-lake/Cataract_Creek_Valley_and_Grinnell_Lake_4119265141-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gunsight-pass-hero{
+background: url(resources/images/montana/glacier-national-park/gunsight-pass/The_Cirque_around_Lake_Ellen_Wilson_with_the_low_saddle_of_Gunsight_Pass_in_the_distant_center_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hidden-lake-overlook-hero{
+background: url(resources/images/montana/glacier-national-park/hidden-lake-overlook/Mountain_Goat_4455603396-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#iceberg-lake-hero{
+background: url(resources/images/montana/glacier-national-park/iceberg-lake/Iceberg_Lake_Trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kintla-lake-hero{
+background: url(resources/images/montana/glacier-national-park/kintla-lake/Long_Knife_Peak_from_Kintla_Lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-josephine-hero{
+background: url(resources/images/montana/glacier-national-park/lake-josephine/Lake_Josephine_4119263963-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#logan-pass-hero{
+background: url(resources/images/montana/glacier-national-park/logan-pass/Logan_Pass_GNP_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#many-glacier-lodge-hero{
+background: url(resources/images/montana/glacier-national-park/many-glacier-lodge/Many_Glacier_Lodge_-_Glacier_National_Park_33396735000-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mcdonald-creek-hero{
+    background: url(resources/images/montana/glacier-national-park/mcdonald-creek/McDonald_Creek_33234707035-1515.jpg) center no-repeat;
+    background-size: cover;   
+}
+#red-rock-falls-hero{
+background: url(resources/images/montana/glacier-national-park/red-rock-falls/Red_Rock_Falls_Panorama-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#siyeh-bend-hero{
+background: url(resources/images/montana/glacier-national-park/siyeh-bend/Mount_Siyeh_from_Siyeh_Bend-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-mary-falls-hero{
+background: url(resources/images/montana/glacier-national-park/st-mary-falls/Saint_Mary_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sun-point-hero{
+background: url(resources/images/montana/glacier-national-park/sun-point/Sun_Point_Overlook_3990047931-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#swiftcurrent-lake-hero{
+    background: url(resources/images/montana/glacier-national-park/swiftcurrent-lake/Lakeside_View_11415064175-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #going-sun-hero{
 background: url(resources/images/montana/glacier-national-park/going-to-the-sun-road/Going-to-the-Sun_Road-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7869,6 +7988,10 @@ background: url(resources/images/rhode-island/narrangansett-beach/Waves\ at\ Nar
 }
 
 /* ---------------------------South Carolina */
+#charleston-sc-hero{
+    background: url(resources/images/south-carolina/charleston-sc/leonel-heisenberg-A56yu_pmNKQ-unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #arthur-ravenel-hero{
 background: url(resources/images/south-carolina/charleston-sc/arthur-ravenel-bridge/Arthur_Ravenel_Jr_Bridge\,_West_View_of_Road_Deck_and_Tower_20160704_1-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7883,6 +8006,10 @@ background: url(resources/images/south-carolina/charleston-sc/cathedral-of-st-jo
 }
 #charles-town-landing-hero{
 background: url(resources/images/south-carolina/charleston-sc/charles-towne-landing/Adventure_ship_at_Charles_Towne_Landing\,_South_Carolina-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#circular-congregation-hero{
+    background: url(resources/images/south-carolina/charleston-sc/circular-congregational-church/circular-congregational-church-thumbnail-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #city-market-charleston-hero{
@@ -7922,7 +8049,7 @@ background: url(resources/images/south-carolina/charleston-sc/old-slave-mart-mus
     background-size: cover;
 }
 #rainbow-row-hero{
-background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-1515.jpg) bottom no-repeat;
+background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #unitarian-church-charleston-hero{
@@ -8286,6 +8413,26 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
 }
 
 /* -------------------Texas ----------------*/
+#broken-spoke-hero{
+background: url(resources/images/texas/austin/broken-spoke/broken-spoke-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#butler-metro-hero{
+background: url(resources/images/texas/austin/butler-metro-park/butler-metro-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#franklin-bbq-hero{
+background: url(resources/images/texas/austin/franklin-barbecue/Franklin_Barbecue_Austin_About_to_Open-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-mary-cathedral-hero{
+background: url(resources/images/texas/austin/st-mary-cathedral/saint-mary-catholic-church-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#zilker-botanical-hero{
+    background: url(resources/images/texas/austin/zilker-botanical-garden/Pool_-_Zilker_Botanical_Garden_-_Austin\,_Texas_-_DSC08880-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #congress-bridge-hero{
     background: url(resources/images/texas/austin/statesman-bat-observation-center/Austin_-_bats_watching_3-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8422,10 +8569,10 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background: url(resources/images/texas/el-paso/chamizal-national-memorial/Chamizal_El_Paso\,_TX_53AC4051-A0FA-4F0B-AC97-597F1FA258F1-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #el-paso-hero{
- background: url(resources/images/texas/el-paso/) center no-repeat;
+#el-paso-hero{
+ background: url(resources/images/texas/el-paso/El_Paso_Cityscape-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #franklin-mountains-sp-hero{
  background: url(resources/images/texas/el-paso/franklin-mountains-state-park/Franklin_mts_entrance-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8566,6 +8713,10 @@ background: url(resources/images/texas/alibates-flint-quarries-national-monument
 background: url(resources/images/texas/big-thicket-national-preserve/Pitcher_Plant_Sarracenia_alata\,_photographed_on_1_May_2020\,_Tyler_County\,_Texas\,_USA\,_by_William_L._Farr-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#caddo-lake-sp-hero{
+    background: url(resources/images/texas/caddo-lake-state-park/USA_-_Texas_-_Caddo_Lake_-_Mossy_Brake_Swamp_Tour_-_51398591591-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #caprock-hero{
 background: url(resources/images/texas/caprock-canyon-state-park/Caprock_Canyons_Haynes_Ridge_2005-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8608,7 +8759,7 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 
 #big-bend-hero{
-    background: url(resources/images/texas/big-bend-national-park/big-bend-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chisos-hero{
@@ -8633,6 +8784,10 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 #galveston-island-pleasure-pier-hero{
     background: url(resources/images/texas/galveston/galveston-island-historic-pleasure-pier/galveston-pleasure-island-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#galveston-island-sp{
+    background: url(resources/images/texas/galveston/galveston-island-state-park/Gfp-texas-galveston-island-state-park-overview-of-the-park-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ocean-star-hero{
@@ -9199,10 +9354,10 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
  background: url(resources/images/virginia/colonial-williamsburg/colonial-williamsburg-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
-/* #great-falls-park-hero{
- background: url(resources/images/virginia/) center no-repeat;
+#great-falls-park-hero{
+ background: url(resources/images/virginia/great-falls-potomac/019_365_Great_Falls_National_Park\,_Great_Falls\,_Virginia\,_January_19\,_2022_51830401677-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #historic-jamestowne-hero{
  background: url(resources/images/virginia/jamestown/historic-jamestown/1639_Jamestown_Church_2883847775-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9227,10 +9382,6 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
  background: url(resources/images/virginia/mcafee-knob/McAfees_Knob_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #merchants-square-hero{
- background: url(resources/images/virginia/colonial-williamsburg/) center no-repeat;
-    background-size: cover;
-} */
 #monticello-hero{
  background: url(resources/images/virginia/monticello/Thomas_Jeffersons_Monticello-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9243,10 +9394,10 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
  background: url(resources/images/virginia/mount-vernon/Mount_Vernon\,_Virginia-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #natural-bridge-va-hero{
- background: url(resources/images/virginia/shenandoah-national-park/virginia-hero-1515.jpg) center no-repeat;
+#natural-bridge-va-hero{
+ background: url(resources/images/virginia/natural-bridge-state-park-va/Natural_Bridge_large_stitched\,_July\,_2016-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #us-marine-war-memorial-hero{
  background: url(resources/images/virginia/united-states-marine-corps-war-memorial/2018-10-31_15_25_21_The_west_side_of_the_Marine_Corps_War_Memorial_in_Arlington_County\,_Virginia-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9265,6 +9416,26 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
 }
 #shenandoah-hero{
     background: url(resources/images/virginia/shenandoah-national-park/shenandoah-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dark-hollow-falls-hero{
+background: url(resources/images/virginia/shenandoah-national-park/dark-hollow-falls/2560px-Early_Fall_at_Dark_Hollow_Falls_22028259442-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hawksbill-summit-hero{
+background: url(resources/images/virginia/shenandoah-national-park/hawksbill-summit/2018-04-28_13_43_11_View_west_from_the_summit_of_Hawksbill_Mountain-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-rag-hero{
+background: url(resources/images/virginia/shenandoah-national-park/old-rag/Atop_Old_Rag_Mountain_28219264562-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#skyline-drive-hero{
+background: url(resources/images/virginia/shenandoah-national-park/skyline-drive/Late_Fall_in_Shenandoah_30642124421-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stony-man-hero{
+    background: url(resources/images/virginia/shenandoah-national-park/stony-man/2018-04-28_12_46_43_Panoramic_view_south\,_west_and_north-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #udvay-hero{
@@ -10327,7 +10498,7 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
         background-size: cover;
     }
     #san-xavier-bac-hero{
-        background: url(resources/images/arizona/mission-san-xavier-del-bac/San_Xavier_del_Bac_Chapel-1515.jpg) center no-repeat;
+        background: url(resources/images/arizona/mission-san-xavier-del-bac/San_Xavier_del_Bac_Chapel-3030.jpg) center no-repeat;
         background-size: cover;
     }
     /* #petrified-hero{
@@ -12715,6 +12886,10 @@ background: url(resources/images/florida/t) center no-repeat;
 background: url(resources/images/florida/everglades-national-park/shark-valley/Shark_Valley_Viewing_Tower_2\,_NPSPhoto_9255480841-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#florida-keys-hero{
+    background: url(resources/images/florida/florida-keys/Key_West_sunset_-_June_2021-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #bahia-honda-hero{
 background: url(resources/images/florida/florida-keys/bahia-honda-state-park/Bahia_Honda_State_Park-3030.jpg) center no-repeat;
     background-size: cover;
@@ -12731,10 +12906,14 @@ background: url(resources/images/florida/florida-keys/john-pennekamp-coral-reef-
 background: url(resources/images/florida/lee-island-coast/) center no-repeat;
     background-size: cover;
 } */
-/* #captiva-hero{
-background: url(resources/images/florida/c) center no-repeat;
+#captiva-hero{
+background: url(resources/images/florida/lee-island-coast/captiva/North_Captiva_Island_airport1-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
+#cayo-costa-hero{
+    background: url(resources/images/florida/lee-island-coast/cayo-costa-island/Marine_shoreline_of_Cayo_Costa_Island_Pine_Island_Sound\,_Florida\,_USA_1_24301579326-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #edison-ford-hero{
 background: url(resources/images/florida/lee-island-coast/edison-and-ford-winter-estates/Edison_^_Ford_Winter_Estates_-_panoramio_1-3030.jpg) center no-repeat;
     background-size: cover;
@@ -12745,6 +12924,10 @@ background: url(resources/images/florida/lee-island-coast/fort-myers/Fort_Myers_
 }
 #gasparilla-island-hero{
 background: url(resources/images/florida/lee-island-coast/gasparilla-island/Gasparilla_Island_SP_beach05-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gasparilla-state-hero{
+    background: url(resources/images/florida/lee-island-coast/gasparilla-island-state-park/Gasparilla_Island_SP_beach07-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #jn-ding-hero{
@@ -12759,30 +12942,38 @@ background: url(resources/images/florida/lee-island-coast/sanibel-island/Sanibel
 background: url(resources/images/florida/miami/coral-gables/fairchild-tropical-botanical-gardens/Fairchild_Tropical_Botanic_Garden\,_Miami-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #matheson-hammock-hero{
-background: url(resources/images/florida/miami/coral-gables/) center no-repeat;
+#matheson-hammock-hero{
+background: url(resources/images/florida/miami/matheson-hammocks/Twilight_Miami_Skyline-3030.jpg) center no-repeat;
     background-size: cover;
-} */
-/* #barnacle-historic-hero{
-background: url(resources/images/florida/miami/) center no-repeat;
+}
+#barnacle-historic-hero{
+background: url(resources/images/florida/miami/barnacle-historic-state-park/Coco_Grove_FL_Barnacle_SP_Munroe_House02-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #bill-baggs-hero{
 background: url(resources/images/florida/miami/bill-baggs-cape-florida-state-park/Cape_Florida_Lighthouse_9-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #coconut-grove-hero{
-background: url(resources/images/florida/miami/) center no-repeat;
+#coconut-grove-hero{
+background: url(resources/images/florida/miami/coconut-grove/Grove_Isle_morning_views_of_Coconut_Grove-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #coral-castle-hero{
 background: url(resources/images/florida/miami/coral-castle/Homestead_FL_Coral_Castle_pano02-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #plymouth-congregational-hero{
-background: url(resources/images/florida/cape-canaveral/canaveral-national-seashore/CanaveralNationalSeashore4-3030.jpg) center no-repeat;
+#pinecrest-gardens-hero{
+    background: url(resources/images/florida/miami/pinecrest-gardens/Pinecrest_Gardens_FL_park_lake_pano01-3030.jpg) center no-repeat;
+    background-size: cover;  
+}
+#plymouth-congregational-hero{
+background: url(resources/images/florida/miami/plymouth-congregational-church/Coco_Grove_FL_Plymouth_Congreg_Church01-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
+#versailles-miami-hero{
+    background: url(resources/images/florida/miami/versailles-miami/Versailles_Restaurant_-_Calle_Ocho_Miami-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #vizcaya-hero{
 background: url(resources/images/florida/miami/vizcaya-museum-and-gardens/Villa\ Vizcaya\ 2011022-3030.jpg) center no-repeat;
     background-size: cover;
@@ -12873,10 +13064,10 @@ background: url(resources/images/florida/pensacola/) center no-repeat;
 background: url(resources/images/florida/pensacola/saenger-theatre/saenger-theatre-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #tarkiln-bayou-hero{
-background: url(resources/images/florida/pensacola/) center no-repeat;
+#tarkiln-bayou-hero{
+background: url(resources/images/florida/pensacola/tarkiln-bayou-state-park/Tarkiln_Bayou_Park_-_Walking_out_toward_the_Bayou_-_panoramio-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #ca-d-zan-hero{
 background: url(resources/images/florida/sarasota/ca-d-zan/CadZan_Mansion-3030.jpg) center no-repeat;
     background-size: cover;
@@ -12901,10 +13092,10 @@ background: url(resources/images/florida/sarasota/marie-selby-botanical-garden/F
 background: url(resources/images/florida/sarasota/myakka-river-state-park/Myakka_Canopy_Walkway-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #oscar-scherer-hero{
-background: url(resources/images/florida/osarasota/) center no-repeat;
+#oscar-scherer-hero{
+background: url(resources/images/florida/oscar-scherer-state-park/Oscar_Scherer_SP_Finley_Trail_South_Creek01-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #sarasota-hero{
 background: url(resources/images/florida/sarasota/Sarasota_Panorama_39918800622-3030.jpg) center no-repeat;
     background-size: cover;
@@ -12917,10 +13108,10 @@ background: url(resources/images/florida/sarasota/siesta-key/siesta-key-hero-303
 background: url(resources/images/florida/st-armands-key/st-armands-key-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #fort-matanzas-hero{
-background: url(resources/images/florida/st-augustine/) center no-repeat;
+#fort-matanzas-hero{
+background: url(resources/images/florida/st-augustine/fort-matanzas-national-monument/Fort_Matanzas_and_Matanzas_River_3-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #don-cesar-hero{
 background: url(resources/images/florida/st-petersburg-fl/don-cesar-hotel/don-cesar-hotel-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -13021,6 +13212,30 @@ background: url(resources/images/florida/corkscrew-swamp-sanctuary/Corkscrew_-_b
 background: url(resources/images/florida/dry-tortugas-national-park/Dry_Tortugas_National_Park_-_49655986136-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#bush-key-hero{
+    background: url(resources/images/florida/dry-tortugas-national-park/bush-key/Bush_Key_Dry_Tortugas-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#loggerhead-key-hero{
+    background: url(resources/images/florida/dry-tortugas-national-park/loggerhead-key/National_Park1_44384401831-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#coquina-beach-hero{
+    background: url(resources/images/florida/coquina-beach/coquina-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-clinch-hero{
+    background: url(resources/images/florida/fort-clinch-state-park/Fort_Clinch_State_Park\,_Florida\,_US_68-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bradenton-beach-hero{
+    background: url(resources/images/florida/bradenton-beach/bradenton-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #anastasia-sp-hero{
+        background: url(resources/images/florida/st-augustine/anastasia-state-park/St._Augustine_Anastasia_Island_west_pano01-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #fakahatchee-hero{
 background: url(resources/images/florida/fakahatchee-strand-preserve-state-park/Fakahatchee_hardwood_swamp_-_Flickr_-_pellaea_1-3030.jpg) center no-repeat;
     background-size: cover;
@@ -13107,15 +13322,15 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #key-west-hero{
-    background: url(resources/images/florida/key-west/key-west-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/Southernmost_Beach\,_Key_West\,_Florida-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #duval-street-hero{
-    background: url(resources/images/florida/key-west/duval-street/duval-street-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/duval-street/Exile_On_Duval_Street-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #mallory-square-hero{
-    background: url(resources/images/florida/key-west/mallory-square/mallory-square-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/mallory-square/Key_West_Florida_February_2020_-_Mallory_Square-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #southernmost-point-hero{
@@ -15059,6 +15274,78 @@ background: url(resources/images/montana/virginia-city-mo/Virginia_City\,_Montan
 background: url(resources/images/montana/glacier-national-park/2015-06-19_Glacier_National_Park_U.S._8633-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#avalnache-gorge-hero{
+    background: url(resources/images/montana/glacier-national-park/avalanche-gorge/Avalanche_Gorge-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #bowman-lake-hero{
+    background: url(resources/images/montana/glacier-national-park/bowman-lake/Numa\,_Rainbow\,_Square_from_Bowman_Lake-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #garden-wall-hero{
+    background: url(resources/images/montana/glacier-national-park/garden-wall/Glacier_NP_Peak_10-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grinnell-glacier-hero{
+    background: url(resources/images/montana/glacier-national-park/grinnell-glacier/Angel_Wing_from_Grinnell_Glacier_Trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grinnell-lake-hero{
+    background: url(resources/images/montana/glacier-national-park/grinnell-lake/Cataract_Creek_Valley_and_Grinnell_Lake_4119265141-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #gunsight-pass-hero{
+    background: url(resources/images/montana/glacier-national-park/gunsight-pass/The_Cirque_around_Lake_Ellen_Wilson_with_the_low_saddle_of_Gunsight_Pass_in_the_distant_center_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hidden-lake-overlook-hero{
+    background: url(resources/images/montana/glacier-national-park/hidden-lake-overlook/Mountain_Goat_4455603396-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #iceberg-lake-hero{
+    background: url(resources/images/montana/glacier-national-park/iceberg-lake/Iceberg_Lake_Trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kintla-lake-hero{
+    background: url(resources/images/montana/glacier-national-park/kintla-lake/Long_Knife_Peak_from_Kintla_Lake-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lake-josephine-hero{
+    background: url(resources/images/montana/glacier-national-park/lake-josephine/Lake_Josephine_4119263963-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #logan-pass-hero{
+    background: url(resources/images/montana/glacier-national-park/logan-pass/Logan_Pass_GNP_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #many-glacier-lodge-hero{
+    background: url(resources/images/montana/glacier-national-park/many-glacier-lodge/Many_Glacier_Lodge_-_Glacier_National_Park_33396735000-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mcdonald-creek-hero{
+        background: url(resources/images/montana/glacier-national-park/mcdonald-creek/McDonald_Creek_33234707035-3030.jpg) center no-repeat;
+        background-size: cover;   
+    }
+    #red-rock-falls-hero{
+    background: url(resources/images/montana/glacier-national-park/red-rock-falls/Red_Rock_Falls_Panorama-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #siyeh-bend-hero{
+    background: url(resources/images/montana/glacier-national-park/siyeh-bend/Mount_Siyeh_from_Siyeh_Bend-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-mary-falls-hero{
+    background: url(resources/images/montana/glacier-national-park/st-mary-falls/Saint_Mary_Falls-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sun-point-hero{
+    background: url(resources/images/montana/glacier-national-park/sun-point/Sun_Point_Overlook_3990047931-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #swiftcurrent-lake-hero{
+        background: url(resources/images/montana/glacier-national-park/swiftcurrent-lake/Lakeside_View_11415064175-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #going-sun-hero{
 background: url(resources/images/montana/glacier-national-park/going-to-the-sun-road/Going-to-the-Sun_Road-3030.jpg) center no-repeat;
     background-size: cover;
@@ -16734,7 +17021,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
     background-size: cover;
 }
 #oak-alley-plantation-hero{
-    background: url(resources/images/louisiana/oak-alley-plantation/Oak_alley_-_view_from_front-3030.jpg) center no-repeat;
+    background: url(resources/images/louisiana/oak-alley-plantation/dirk-spijkers-PoQcfmoWoAA-unsplash-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #mardi-gras-hero{
@@ -17479,6 +17766,10 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     }
 
 /* ---------------------------South Carolina */
+#charleston-sc-hero{
+    background: url(resources/images/south-carolina/charleston-sc/leonel-heisenberg-A56yu_pmNKQ-unsplash-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #arthur-ravenel-hero{
     background: url(resources/images/south-carolina/charleston-sc/arthur-ravenel-bridge/Arthur_Ravenel_Jr_Bridge\,_West_View_of_Road_Deck_and_Tower_20160704_1-3030.jpg) center no-repeat;
         background-size: cover;
@@ -17493,6 +17784,10 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     }
     #charles-town-landing-hero{
     background: url(resources/images/south-carolina/charleston-sc/charles-towne-landing/Adventure_ship_at_Charles_Towne_Landing\,_South_Carolina-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #circular-congregation-hero{
+        background: url(resources/images/south-carolina/charleston-sc/circular-congregational-church/circular-congregational-church-thumbnail-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #city-market-charleston-hero{
@@ -17516,7 +17811,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #magnolia-plantation-hero{
-    background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/) center no-repeat;
         background-size: cover;
     }
     #exchange-provost-hero{
@@ -17532,7 +17827,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #rainbow-row-hero{
-    background: url(resources/images/south-carolina/charleston-sc/rainbow-row/rainbow-row-hero-3030.jpg) bottom no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #unitarian-church-charleston-hero{
@@ -17789,10 +18084,10 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
  background: url(resources/images/virginia/colonial-williamsburg/colonial-williamsburg-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
-/* #great-falls-park-hero{
- background: url(resources/images/virginia/) center no-repeat;
+#great-falls-park-hero{
+ background: url(resources/images/virginia/great-falls-potomac/019_365_Great_Falls_National_Park\,_Great_Falls\,_Virginia\,_January_19\,_2022_51830401677-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #historic-jamestowne-hero{
  background: url(resources/images/virginia/jamestown/historic-jamestown/1639_Jamestown_Church_2883847775-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17833,10 +18128,10 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
  background: url(resources/images/virginia/mount-vernon/Mount_Vernon\,_Virginia-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #natural-bridge-va-hero{
- background: url(resources/images/virginia/shenandoah-national-park/virginia-hero-3030.jpg) center no-repeat;
+#natural-bridge-va-hero{
+ background: url(resources/images/virginia/natural-bridge-state-park-va/Natural_Bridge_large_stitched\,_July\,_2016-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #us-marine-war-memorial-hero{
  background: url(resources/images/virginia/united-states-marine-corps-war-memorial/2018-10-31_15_25_21_The_west_side_of_the_Marine_Corps_War_Memorial_in_Arlington_County\,_Virginia-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17857,6 +18152,26 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     background: url(resources/images/virginia/shenandoah-national-park/shenandoah-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#dark-hollow-falls-hero{
+    background: url(resources/images/virginia/shenandoah-national-park/dark-hollow-falls/2560px-Early_Fall_at_Dark_Hollow_Falls_22028259442-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hawksbill-summit-hero{
+    background: url(resources/images/virginia/shenandoah-national-park/hawksbill-summit/2018-04-28_13_43_11_View_west_from_the_summit_of_Hawksbill_Mountain-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-rag-hero{
+    background: url(resources/images/virginia/shenandoah-national-park/old-rag/Atop_Old_Rag_Mountain_28219264562-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #skyline-drive-hero{
+    background: url(resources/images/virginia/shenandoah-national-park/skyline-drive/Late_Fall_in_Shenandoah_30642124421-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #stony-man-hero{
+        background: url(resources/images/virginia/shenandoah-national-park/stony-man/2018-04-28_12_46_43_Panoramic_view_south\,_west_and_north-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #udvay-hero{
     background: url(resources/images/virginia/steven-f-udvar-hazy-air-and-space-center/steven-udvay-space-center-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18453,6 +18768,26 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
 }
 
 /* -------------------Texas ----------------*/
+#broken-spoke-hero{
+    background: url(resources/images/texas/austin/broken-spoke/broken-spoke-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #butler-metro-hero{
+    background: url(resources/images/texas/austin/butler-metro-park/butler-metro-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #franklin-bbq-hero{
+    background: url(resources/images/texas/austin/franklin-barbecue/Franklin_Barbecue_Austin_About_to_Open-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #st-mary-cathedral-hero{
+    background: url(resources/images/texas/austin/st-mary-cathedral/saint-mary-catholic-church-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #zilker-botanical-hero{
+        background: url(resources/images/texas/austin/zilker-botanical-garden/Pool_-_Zilker_Botanical_Garden_-_Austin\,_Texas_-_DSC08880-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #congress-bridge-hero{
     background: url(resources/images/texas/austin/statesman-bat-observation-center/Austin_-_bats_watching_3-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18589,10 +18924,10 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background: url(resources/images/texas/el-paso/chamizal-national-memorial/Chamizal_El_Paso\,_TX_53AC4051-A0FA-4F0B-AC97-597F1FA258F1-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #el-paso-hero{
- background: url(resources/images/texas/el-paso/) center no-repeat;
+#el-paso-hero{
+ background: url(resources/images/texas/el-paso/El_Paso_Cityscape-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #franklin-mountains-sp-hero{
  background: url(resources/images/texas/el-paso/franklin-mountains-state-park/Franklin_mts_entrance-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18733,6 +19068,10 @@ background: url(resources/images/texas/alibates-flint-quarries-national-monument
 background: url(resources/images/texas/big-thicket-national-preserve/Pitcher_Plant_Sarracenia_alata\,_photographed_on_1_May_2020\,_Tyler_County\,_Texas\,_USA\,_by_William_L._Farr-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#caddo-lake-sp-hero{
+    background: url(resources/images/texas/caddo-lake-state-park/USA_-_Texas_-_Caddo_Lake_-_Mossy_Brake_Swamp_Tour_-_51398591591-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #caprock-hero{
 background: url(resources/images/texas/caprock-canyon-state-park/Caprock_Canyons_Haynes_Ridge_2005-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18775,7 +19114,7 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 
 #big-bend-hero{
-    background: url(resources/images/texas/big-bend-national-park/big-bend-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chisos-hero{
@@ -18800,6 +19139,10 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 #galveston-island-pleasure-pier-hero{
     background: url(resources/images/texas/galveston/galveston-island-historic-pleasure-pier/galveston-pleasure-island-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#galveston-island-sp{
+    background: url(resources/images/texas/galveston/galveston-island-state-park/Gfp-texas-galveston-island-state-park-overview-of-the-park-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #ocean-star-hero{
