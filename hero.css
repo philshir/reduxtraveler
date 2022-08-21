@@ -63,24 +63,29 @@ Alaska Peninsula and Aleutian Islands*/
     background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-np/Katmai_Crater_1980-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #brooks-camp-hero{
-    
-}
-#brooks-falls-hero{
-    
-}
-#hallo-bay-hero{
-
-}
-#king-salmon-hero{
-
-}
-#naknek-lake-hero{
-
-}
-#valley-ten-thousand-hero{
-
-} */
+#brooks-camp-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/brooks-camp/Mouth_of_Brooks_River\,_Brooks_Camp_04072016_-_13_26285923526-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    /* #brooks-falls-hero{
+    background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+    } */
+    #hallo-bay-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/hallo-bay/Katmai_Flyover_11_7_17_38572555591-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #king-salmon-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/king-salmon/Swans_and_geese_near_Paradise_Point_5_copy_10981687754-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #naknek-lake-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/naknek-lake/NPS_Anela_Ramos._2_27676685575-1515.jpg) no-repeat center;
+        background-size: cover;
+    }
+    /* #valley-ten-thousand-hero{
+        
+    } */
 #kodiak-island-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-1515.jpg) center no-repeat;
     background-size: cover;
@@ -118,6 +123,10 @@ background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/un
     background-size: cover;
 }
 /* Anchorage and Matanuska Susitna Valley */
+#anchorage-ak-hero{
+    background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/zetong-li-UC1HP-zhEmU-unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 /* #alaska-native-heritage-hero{
 background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/) center no-repeat;
     background-size: cover;
@@ -204,20 +213,20 @@ background: url(resources/images/alaska/interior-ak/elliott-highway/Elliott_High
 background: url(resources/images/alaska/interior-ak/fairbanks/Aerial_view_of_Fairbanks_Alaska_skyline_Quintin_Soloviev-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #hurricane-turn-hero{
-background: url(resources/images/alaska/interior-ak/) center no-repeat;
+#hurricane-turn-hero{
+background: url(resources/images/alaska/interior-ak/hurricane-turn/Hurricane_Turn_Train_JUN2015-1515.jpg) center no-repeat;
     background-size: cover;
 } 
-#kantishna-hero{
+/* #kantishna-hero{
 background: url(resources/images/alaska/interior-ak) center no-repeat;
     background-size: cover;
 }
 #murie-science-hero{
 background: url(resources/images/alaska/interior-ak) center no-repeat;
     background-size: cover;
-}*/
+} */
 #nenana-river-hero{
-background: url(resources/images/alaska/interior-ak/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/interior-ak//denali-national-park-and-preserve/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nenana-ak-hero{
@@ -253,10 +262,10 @@ background: url(resources/images/alaska/interior-ak) center no-repeat;
 background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_the_Kenai_Peninsula-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #caines-head-ak-hero{
-background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+#caines-head-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/caines-head-state-recreation-area/Our_Kayak_on_North_Beach\,_Caines_Head_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #exit-glacier-hero{
 background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/exit-glacier/Exit_Glacier_Jul09-1515.jpg) center no-repeat;
     background-size: cover;
@@ -285,18 +294,18 @@ background: url(resources/images/alaska/kenai-peninsula/kenai-ak/Holy_Assumption
 background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/Harding_Icefield_1-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #mount-marathon-hero{
-background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+#mount-marathon-hero{
+background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_the_Kenai_Peninsula-1515.jpg) center no-repeat;
     background-size: cover;
 } 
 #resurrection-hero{
-background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/resurrection-bay/Resurrection_Bay_ENBLA55-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#seward-hwy-hero{
+/* #seward-hwy-hero{
 background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
     background-size: cover;
-}*/
+} */
 #seward-ak-hero{
 background: url(resources/images/alaska/kenai-peninsula/seward/Seward_harbor-1515.jpg) center no-repeat;
     background-size: cover;
@@ -310,10 +319,10 @@ background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
 background: url(resources/images/alaska/prince-william-sound/Prince_William_Sound\,_Alaska_LCCN2010630257.tif-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #copper-river-hero{
-background: url(resources/images/alaska/prince-william-sound/) center no-repeat;
+#copper-river-hero{
+background: url(resources/images/alaska/prince-william-sound/copper-river/Copper_River_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #cordova-ak-hero{
 background: url(resources/images/alaska/prince-william-sound/cordova/Cordova_Alaska_aerial-1515.jpg) center no-repeat;
     background-size: cover;
@@ -322,10 +331,10 @@ background: url(resources/images/alaska/prince-william-sound/cordova/Cordova_Ala
 background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/kennecott/Kennecott_Hospital-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #mccarthy-ak-hero{
+#mccarthy-ak-hero{
 background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/) center no-repeat;
     background-size: cover;
-} */
+}
 #richardson-hwy-hero{
 background: url(resources/images/alaska/prince-william-sound/richardson-highway/Richardson_Highway_ENBLA04-1515.jpg) center no-repeat;
     background-size: cover;
@@ -375,6 +384,23 @@ background: url(resources/images/alaska/southeast-ak/juneau/Downtown_Juneau_with
 background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_June_2009-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#creek-street-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/creek-street/Creek_Streetjs01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#se-ak-discovery-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/southeast-alaska-discovery-center/Southeast_Alaska_Discovery_Center\,_Tongass_National_Forest\,_Ketchikan\,_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#totem-bight-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/totem-bight-state-historical-park/St._Michaels_Cathedral\,_Sitka-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#totem-heritage-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/totem-heritage-center/Totem_Heritage_Center\,_Ketchikan\,_Alaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #klondike-nhp-hero{
 background: url(resources/images/alaska/southeast-ak/klondike-nhp/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_29-1515.jpg) center no-repeat;
     background-size: cover;
@@ -395,6 +421,18 @@ background: url(resources/images/alaska/southeast-ak/petersburg/Petersburg_Alask
 background: url(resources/images/alaska/southeast-ak/sitka/Sitka_84_Elev_135-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#alaska-raptor-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/alaska-raptor-center/Alaska_Raptor_Rehabilitation_Center-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#russian-bishops-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/russian-bishops-house/Russian_Bishop_House_August_2005-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-michaels-sitka-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/st-michaels-cathedral/St._Michaels_Cathedral\,_Sitka-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #white-pass-hero{
 background: url(resources/images/alaska/southeast-ak/white-pass-yukon/Skagway-Hoonah-Angoon_Census_Area\,_In_to_the_Tunnel-1515.jpg) center no-repeat;
     background-size: cover;
@@ -403,15 +441,26 @@ background: url(resources/images/alaska/southeast-ak/white-pass-yukon/Skagway-Ho
 background: url(resources/images/alaska/southeast-ak/skagway/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_41-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #sons-norway-hero{
-background: url(resources/images/alaska/southeast-ak) center no-repeat;
+#sons-norway-hero{
+background: url(resources/images/alaska/southeast-ak/sons-of-norway/Sons_of_Norway_a731-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #wrangell-ak-hero{
 background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_Alaska-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
+#chief-shakes-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/chief-shakes-historic-site/Wrangell_Wiki_188-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#leconte-glacier-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/leconte-glacier/Sîpana_kendava_leconteAlaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #stikine-river-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/) center no-repeat;
+    background-size: cover;
+} */
 
 /* Arizona */
 #meteor-hero{
@@ -948,6 +997,55 @@ background-size: cover;
     background: url(resources/images/arkansas/hot-springs-national-park/hot-springs-buckstaff-bathhouse-hero-1515.jpg) no-repeat center;
     background-size: cover;
 }
+#bachman-wilson-hero{
+background: url(resources/images/arkansas/bentonville/crystal-bridges/bachman-wilson-house/bachman-wilson-house-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#crystal-bridges-hero{
+background: url(resources/images/arkansas/bentonville/crystal-bridges/Crystal_Bridges_Museum_of_American_Art--2012-04-12-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#downtown-bentonville-hero{
+background: url(resources/images/arkansas/bentonville/Walton_five_and_dime_Bentonville_AR_14292373504-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#arlington-hotel-hero{
+background: url(resources/images/arkansas/hot-springs-national-park/arlington-hotel/arlington-hotel-entrance-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#fordyce-bathhouse-hero{
+background: url(resources/images/arkansas/hot-springs-national-park/fordyce-bathhouse/hot-springs-fordyce-bathhouse-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#lake-catherine-hero{
+background: url(resources/images/arkansas/lake-catherine-state-park/lake-catherine-state-park-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#cedar-falls-hero{
+background: url(resources/images/arkansas/petit-jean-state-park/cedar-falls-trail/cedar-falls-trail-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#rock-house-trail-hero{
+background: url(resources/images/arkansas/petit-jean-state-park/rock-house-cave/rock-house-cave-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#blanchard-springs-hero{
+background: url(resources/images/arkansas/blanchard-springs-caverns/Ghost_Room-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#devils-den-hero{
+background: url(resources/images/arkansas/devils-den-state-park/Devils_Den_Dam_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#lake-dardenelle-hero{
+background: url(resources/images/arkansas/lake-dardenelle-state-park/lake-dardenelle-sp-hero-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#ouachita-mountains-hero{
+    background: url(resources/images/arkansas/ouachita-mountains/20131103_1407_Ouachita_Mountains-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+
 #arkansas-post-hero{
     background: url(resources/images/arkansas/arkansas-post-national-memorial/Little_Post_Bayou_P6240050-1515.jpg) no-repeat center;
     background-size: cover;
@@ -958,7 +1056,7 @@ background-size: cover;
     background-size: cover;
 }
 #centerpoint-hero{
-    background: url(resources/images/arkansas/buffalo-national-river/centerpoint-trail/buffalo-river-centerpoint-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/arkansas/buffalo-national-river/centerpoint-trail/Goat_Trail_on_Big_Bluff\,_Arkansas_-_Flickr_-_Thomas_Shahan_3-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hemmed-hollow-hero{
@@ -1201,6 +1299,70 @@ background: url(resources/images/california/california-spanish-missions/mission-
 }
 #mission-santa-ines-hero{
     background: url(resources/images/california/california-spanish-missions/mission-santa-ines/Mission_StInes_cropped-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hot-creek-hero{
+background: url(resources/images/california/hot-creek/Hot_Creek_steam-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#us-route-395-hero{
+background: url(resources/images/california/us-route-395/US_395_South_sign_near_Mono_Craters-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ed-zberg-sp-hero{
+background: url(resources/images/california/lake-tahoe/ed-zberg-sugar-pine-point-state-park/Sugar_Pine_Point_State_Park_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-lake-tahoe-hero{
+background: url(resources/images/california/lake-tahoe/south-lake-tahoe/Lake_Tahoe\,_California_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blacks-beach-hero{
+background: url(resources/images/california/san-diego/blacks-beach/Blacks-Beach-Road-From-UCSD-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lone-pine-hero{
+background: url(resources/images/california/lone-pine-ca/Lone_Pine\,_California_April_2022-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wayfarers-chapel-hero{
+background: url(resources/images/california/wayfarers-chapel/Wayfarers.1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bald-hills-road-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/bald-hills-road/Redwood_Picnic_Spot\,_California_40521964471-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#del-norte-coast-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/del-norte-coast-redwoods-state-park/Wilson_Creek_Beach\,_Del_Norte_Coast_Redwoods_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fern-canyon-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/fern-canyon/Fern_Canyon_pano_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jedediah-smith-sp-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/jedediah-smith-redwoods-state-park/Redwoods_Jedediah_Smith_Redwoods_State_Park_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#newton-drury-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/newton-b-drury-scenic-byway/Newton_B_Drury_Scenic_Byway_-_Redwood_National_Forest_35734205073-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#orick-ca-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/orick-ca/Roosevelt_elk_roam_in_Orick\,_California_LCCN2013632716.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#prairie-creek-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/prairie-creek-redwoods-state-park/Prairie_Creek_State_Park_-_James_Irvine_Trail\,_Cathedral_Tree_^_an_architect_-_Flickr_-_rachel_thecat-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#redwood-creek-hero{
+background: url(resources/images/california/redwood-national-and-state-parks/redwood-creek/Redwood_Creek_Valley_29-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tall-tree-grove-hero{
+    background: url(resources/images/california/redwood-national-and-state-parks/tall-tree-grove/Redwood_Creek_Valley_25-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -2924,7 +3086,7 @@ background: url(resources/images/florida/camp-helen-state-park/PC_Beach_Camp_Hel
     background-size: cover;
 }
 #destin-hero{
-background: url(resources/images/florida/destin/View_of_Destin\,_Florida_from_the_Destin_Harbor-1515.jpg) center no-repeat;
+background: url(resources/images/florida/destin/Crab_Island-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #grayton-beach-hero{
@@ -5650,6 +5812,14 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
 }
 
 /* Missouri */
+#lake-of-the-ozarks-hero{
+    background: url(resources/images/missouri/lake-of-the-ozark/Lake_Ozark\,_MO_Shady_Gators_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ha-ha-tonka-hero{
+    background: url(resources/images/missouri/ha-ha-tonka-state-park/Ha-Ha-Tonka-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #branson-landing-hero{
     background: url(resources/images/missouri/branson/branson-landing/branson-landing-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9268,6 +9438,14 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-national-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#new-river-bridge-hero{
+    background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-bridge/new-river-gorge-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sandstone-falls-hero{
+    background: url(resources/images/west-virginia/new-river-gorge-national-park/sandstone-falls/Sandstone_Falls\,_WV_Lower_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #spruce-knob-hero{
     background: url(resources/images/west-virginia/spruce-knob/spruce-knob-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9491,27 +9669,27 @@ Alaska Peninsula and Aleutian Islands*/
     background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-np/Katmai_Crater_1980-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #brooks-camp-hero{
-background: url(resources/images/arizona/phoenix/bartlett-lake/Bartlett_Lake_SW01-1515.jpg) center no-repeat;
+#brooks-camp-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/brooks-camp/Mouth_of_Brooks_River\,_Brooks_Camp_04072016_-_13_26285923526-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#brooks-falls-hero{
+/* #brooks-falls-hero{
 background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-1515.jpg) center no-repeat;
     background-size: cover;
-}
+} */
 #hallo-bay-hero{
-background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/hallo-bay/Katmai_Flyover_11_7_17_38572555591-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #king-salmon-hero{
-background: url(resources/images/california/muirWoods/muir-woods-hero-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/king-salmon/Swans_and_geese_near_Paradise_Point_5_copy_10981687754-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #naknek-lake-hero{
-background: url(resources/images/kentuckyOne/blackMountainKY/black-mountain-ky-hero-1515.jpg) no-repeat center;
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/naknek-lake/NPS_Anela_Ramos._2_27676685575-3030.jpg) no-repeat center;
     background-size: cover;
 }
-#valley-ten-thousand-hero{
+/* #valley-ten-thousand-hero{
     
 } */
 #kodiak-island-hero{
@@ -9551,6 +9729,10 @@ background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/un
     background-size: cover;
 }
 /* Anchorage and Matanuska Susitna Valley */
+#anchorage-ak-hero{
+    background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/zetong-li-UC1HP-zhEmU-unsplash-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 /* #alaska-native-heritage-hero{
 background: url(resources/images/alaska/anchorage-and-matanuska-susitna-valley/) center no-repeat;
     background-size: cover;
@@ -9637,20 +9819,20 @@ background: url(resources/images/alaska/interior-ak/elliott-highway/Elliott_High
 background: url(resources/images/alaska/interior-ak/fairbanks/Aerial_view_of_Fairbanks_Alaska_skyline_Quintin_Soloviev-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #hurricane-turn-hero{
-background: url(resources/images/alaska/interior-ak/) center no-repeat;
+#hurricane-turn-hero{
+background: url(resources/images/alaska/interior-ak/hurricane-turn/Hurricane_Turn_Train_JUN2015-3030.jpg) center no-repeat;
     background-size: cover;
 } 
-#kantishna-hero{
+/* #kantishna-hero{
 background: url(resources/images/alaska/interior-ak) center no-repeat;
     background-size: cover;
 }
 #murie-science-hero{
 background: url(resources/images/alaska/interior-ak) center no-repeat;
     background-size: cover;
-}*/
+} */
 #nenana-river-hero{
-background: url(resources/images/alaska/interior-ak/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/interior-ak//denali-national-park-and-preserve/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #nenana-ak-hero{
@@ -9686,10 +9868,10 @@ background: url(resources/images/alaska/interior-ak) center no-repeat;
 background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_the_Kenai_Peninsula-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #caines-head-ak-hero{
-background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+#caines-head-ak-hero{
+background: url(resources/images/alaska/kenai-peninsula/caines-head-state-recreation-area/Our_Kayak_on_North_Beach\,_Caines_Head_-_panoramio-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #exit-glacier-hero{
 background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/exit-glacier/Exit_Glacier_Jul09-3030.jpg) center no-repeat;
     background-size: cover;
@@ -9718,18 +9900,18 @@ background: url(resources/images/alaska/kenai-peninsula/kenai-ak/Holy_Assumption
 background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/Harding_Icefield_1-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #mount-marathon-hero{
-background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
+#mount-marathon-hero{
+background: url(resources/images/alaska/kenai-peninsula/mount-marathon/Mount_Alice_seen_from_Mount_Marathon-3030.jpg) center no-repeat;
     background-size: cover;
 } 
 #resurrection-hero{
-background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/resurrection-bay/Resurrection_Bay_ENBLA55-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#seward-hwy-hero{
+/* #seward-hwy-hero{
 background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
     background-size: cover;
-}*/
+} */
 #seward-ak-hero{
 background: url(resources/images/alaska/kenai-peninsula/seward/Seward_harbor-3030.jpg) center no-repeat;
     background-size: cover;
@@ -9743,10 +9925,10 @@ background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
 background: url(resources/images/alaska/prince-william-sound/Prince_William_Sound\,_Alaska_LCCN2010630257.tif-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #copper-river-hero{
-background: url(resources/images/alaska/prince-william-sound/) center no-repeat;
+#copper-river-hero{
+background: url(resources/images/alaska/prince-william-sound/copper-river/Copper_River_-_panoramio-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #cordova-ak-hero{
 background: url(resources/images/alaska/prince-william-sound/cordova/Cordova_Alaska_aerial-3030.jpg) center no-repeat;
     background-size: cover;
@@ -9755,10 +9937,10 @@ background: url(resources/images/alaska/prince-william-sound/cordova/Cordova_Ala
 background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/kennecott/Kennecott_Hospital-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #mccarthy-ak-hero{
-background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/) center no-repeat;
+#mccarthy-ak-hero{
+background: url(resources/images/alaska/prince-william-sound/mccarthy-ak/McCarthy-Airport-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #richardson-hwy-hero{
 background: url(resources/images/alaska/prince-william-sound/richardson-highway/Richardson_Highway_ENBLA04-3030.jpg) center no-repeat;
     background-size: cover;
@@ -9808,6 +9990,22 @@ background: url(resources/images/alaska/southeast-ak/juneau/Downtown_Juneau_with
 background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_June_2009-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#creek-street-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/creek-street/Creek_Streetjs01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#se-ak-discovery-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/southeast-alaska-discovery-center/Southeast_Alaska_Discovery_Center\,_Tongass_National_Forest\,_Ketchikan\,_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#totem-bight-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/totem-bight-state-historical-park/St._Michaels_Cathedral\,_Sitka-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#totem-heritage-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/totem-heritage-center/Totem_Heritage_Center\,_Ketchikan\,_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #klondike-nhp-hero{
 background: url(resources/images/alaska/southeast-ak/klondike-nhp/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_29-3030.jpg) center no-repeat;
     background-size: cover;
@@ -9828,6 +10026,18 @@ background: url(resources/images/alaska/southeast-ak/petersburg/Petersburg_Alask
 background: url(resources/images/alaska/southeast-ak/sitka/Sitka_84_Elev_135-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#alaska-raptor-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/alaska-raptor-center/Alaska_Raptor_Rehabilitation_Center-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#russian-bishops-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/russian-bishops-house/Russian_Bishop_House_August_2005-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#st-michaels-sitka-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/st-michaels-cathedral/St._Michaels_Cathedral\,_Sitka-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #white-pass-hero{
 background: url(resources/images/alaska/southeast-ak/white-pass-yukon/Skagway-Hoonah-Angoon_Census_Area\,_In_to_the_Tunnel-3030.jpg) center no-repeat;
     background-size: cover;
@@ -9836,12 +10046,20 @@ background: url(resources/images/alaska/southeast-ak/white-pass-yukon/Skagway-Ho
 background: url(resources/images/alaska/southeast-ak/skagway/Centro_historico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_41-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #sons-norway-hero{
-background: url(resources/images/alaska/southeast-ak) center no-repeat;
+#sons-norway-hero{
+background: url(resources/images/alaska/southeast-ak/sons-of-norway/Sons_of_Norway_a731-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #wrangell-ak-hero{
 background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_Alaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chief-shakes-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/chief-shakes-historic-site/Wrangell_Wiki_188-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#leconte-glacier-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/leconte-glacier/Sîpana_kendava_leconteAlaska-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -10388,6 +10606,54 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/arkansas/hot-springs-national-park/hot-springs-buckstaff-bathhouse-hero-3030.jpg) no-repeat center;
         background-size: cover;
     }
+    #bachman-wilson-hero{
+        background: url(resources/images/arkansas/bentonville/crystal-bridges/bachman-wilson-house/bachman-wilson-house-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #crystal-bridges-hero{
+        background: url(resources/images/arkansas/bentonville/crystal-bridges/Crystal_Bridges_Museum_of_American_Art--2012-04-12-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #downtown-bentonville-hero{
+        background: url(resources/images/arkansas/bentonville/Walton_five_and_dime_Bentonville_AR_14292373504-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #arlington-hotel-hero{
+        background: url(resources/images/arkansas/hot-springs-national-park/arlington-hotel/arlington-hotel-entrance-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #fordyce-bathhouse-hero{
+        background: url(resources/images/arkansas/hot-springs-national-park/fordyce-bathhouse/hot-springs-fordyce-bathhouse-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #lake-catherine-hero{
+        background: url(resources/images/arkansas/lake-catherine-state-park/lake-catherine-state-park-hero-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #cedar-falls-hero{
+        background: url(resources/images/arkansas/petit-jean-state-park/cedar-falls-trail/cedar-falls-trail-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #rock-house-trail-hero{
+        background: url(resources/images/arkansas/petit-jean-state-park/rock-house-cave/rock-house-cave-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #blanchard-springs-hero{
+        background: url(resources/images/arkansas/blanchard-springs-caverns/Ghost_Room-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #devils-den-hero{
+        background: url(resources/images/arkansas/devils-den-state-park/Devils_Den_Dam_-_panoramio-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #lake-dardenelle-hero{
+        background: url(resources/images/arkansas/lake-dardenelle-state-park/lake-dardenelle-sp-hero-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
+        #ouachita-mountains-hero{
+            background: url(resources/images/arkansas/ouachita-mountains/20131103_1407_Ouachita_Mountains-3030.jpg) no-repeat center;
+            background-size: cover;
+        }
     #arkansas-post-hero{
         background: url(resources/images/arkansas/arkansas-post-national-memorial/Little_Post_Bayou_P6240050-3030.jpg) no-repeat center;
         background-size: cover;
@@ -10398,7 +10664,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #centerpoint-hero{
-        background: url(resources/images/arkansas/buffalo-national-river/centerpoint-trail/buffalo-river-centerpoint-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/arkansas/buffalo-national-river/centerpoint-trail/Goat_Trail_on_Big_Bluff\,_Arkansas_-_Flickr_-_Thomas_Shahan_3-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hemmed-hollow-hero{
@@ -10642,6 +10908,70 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/california-spanish-missions/mission-santa-ines/Mission_StInes_cropped-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #hot-creek-hero{
+        background: url(resources/images/california/hot-creek/Hot_Creek_steam-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #us-route-395-hero{
+        background: url(resources/images/california/us-route-395/US_395_South_sign_near_Mono_Craters-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ed-zberg-sp-hero{
+        background: url(resources/images/california/lake-tahoe/ed-zberg-sugar-pine-point-state-park/Sugar_Pine_Point_State_Park_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #south-lake-tahoe-hero{
+        background: url(resources/images/california/lake-tahoe/south-lake-tahoe/Lake_Tahoe\,_California_02-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #blacks-beach-hero{
+        background: url(resources/images/california/san-diego/blacks-beach/Blacks-Beach-Road-From-UCSD-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lone-pine-hero{
+        background: url(resources/images/california/lone-pine-ca/Lone_Pine\,_California_April_2022-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #wayfarers-chapel-hero{
+        background: url(resources/images/california/wayfarers-chapel/Wayfarers.1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #bald-hills-road-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/bald-hills-road/Redwood_Picnic_Spot\,_California_40521964471-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #del-norte-coast-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/del-norte-coast-redwoods-state-park/Wilson_Creek_Beach\,_Del_Norte_Coast_Redwoods_State_Park-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fern-canyon-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/fern-canyon/Fern_Canyon_pano_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #jedediah-smith-sp-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/jedediah-smith-redwoods-state-park/Redwoods_Jedediah_Smith_Redwoods_State_Park_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #newton-drury-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/newton-b-drury-scenic-byway/Newton_B_Drury_Scenic_Byway_-_Redwood_National_Forest_35734205073-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #orick-ca-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/orick-ca/Roosevelt_elk_roam_in_Orick\,_California_LCCN2013632716.tif-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #prairie-creek-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/prairie-creek-redwoods-state-park/Prairie_Creek_State_Park_-_James_Irvine_Trail\,_Cathedral_Tree_^_an_architect_-_Flickr_-_rachel_thecat-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #redwood-creek-hero{
+        background: url(resources/images/california/redwood-national-and-state-parks/redwood-creek/Redwood_Creek_Valley_29-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #tall-tree-grove-hero{
+            background: url(resources/images/california/redwood-national-and-state-parks/tall-tree-grove/Redwood_Creek_Valley_25-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #algodones-hero{
         background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -12354,7 +12684,7 @@ background: url(resources/images/florida/camp-helen-state-park/PC_Beach_Camp_Hel
     background-size: cover;
 }
 #destin-hero{
-background: url(resources/images/florida/destin/View_of_Destin\,_Florida_from_the_Destin_Harbor-3030.jpg) center no-repeat;
+background: url(resources/images/florida/destin/Crab_Island-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #grayton-beach-hero{
@@ -14339,6 +14669,14 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
 }
 
 /* -----------------------------Missouri------------------------- */
+#lake-of-the-ozarks-hero{
+    background: url(resources/images/missouri/lake-of-the-ozark/Lake_Ozark\,_MO_Shady_Gators_01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ha-ha-tonka-hero{
+    background: url(resources/images/missouri/ha-ha-tonka-state-park/Ha-Ha-Tonka-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #branson-landing-hero{
     background: url(resources/images/missouri/branson/branson-landing/branson-landing-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17698,6 +18036,14 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     }
     #new-river-hero{
         background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-national-park-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #new-river-bridge-hero{
+        background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-bridge/new-river-gorge-bridge-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sandstone-falls-hero{
+        background: url(resources/images/west-virginia/new-river-gorge-national-park/sandstone-falls/Sandstone_Falls\,_WV_Lower_Falls-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #spruce-knob-hero{
