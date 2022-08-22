@@ -8497,6 +8497,10 @@ background: url(resources/images/texas/austin/sxsw-south-by-southwest-festival/C
 background: url(resources/images/texas/austin/texas-state-capitol/texas-state-capitol-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#wonder-bar-hero{
+    background: url(resources/images/texas/austin/wonder-bar/wonder-bar-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #zilker-park-hero{
 background: url(resources/images/texas/austin/zilker-park/ZilkerPark-2008-04-05-c-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8505,12 +8509,16 @@ background: url(resources/images/texas/austin/zilker-park/ZilkerPark-2008-04-05-
     background: url(resources/images/texas/dallas/ann-and-gabriel-barbier-mueller-museum/Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#cathedral-santuario-hero{
-background: url(resources/images/texas/dallas/ann-and-gabriel-barbier-mueller-museum/Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626-1515.jpg) center no-repeat;
+#att-discovery-district-hero{
+    background: url(resources/images/texas/dallas/att-discovery-district/att-discovery-district-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-santuario-dallas-hero{
+background: url(resources/images/texas/dallas/catholic-cathedral-of-santuario-de-guadalupe/catholic-cathedral-of-santuario-de-guadalupe-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #dallas-city-hall-hero{
-background: url(resources/images/texas/dallas/ann-and-gabriel-barbier-mueller-museum/Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626-1515.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/dallas-city-hall/dallas-city-hall-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #dallas-hero{
@@ -8529,7 +8537,7 @@ background: url(resources/images/texas/dallas/deep-ellum/deep-ellum-hero-1515.jp
 background: url(resources/images/texas/dallas/View_from_Reunion_Tower_August_2015_13-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#jfk-memorial-hero{
+#jfk-memorial-dallas-hero{
 background: url(resources/images/texas/dallas/john-f-kennedy-memorial-plaza/john-f-kennedy-memorial-plaza-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -8578,7 +8586,7 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background-size: cover;
 }
 #plaza-theatre-hero{
- background: url(resources/images/texas/el-paso/plaza-theatre/The_Plaza_Theatre-1515.jpg) center no-repeat;
+ background: url(resources/images/texas/el-paso/plaza-theatre/The_Plaza_Theatre-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #san-jacinto-hero{
@@ -8613,6 +8621,10 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background: url(resources/images/texas/houston/allens-landing/allens-landing-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#american-statesman-hero{
+    background: url(resources/images/texas/houston/american-statesmanship-park/american-statesman-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #discovery-green-hero{
 background: url(resources/images/texas/houston/discovery-green/discovery-green-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8627,6 +8639,10 @@ background: url(resources/images/texas/houston/san-jacinto-battleground-state-hi
 }
 #sesquicentennial-hero{
 background: url(resources/images/texas/houston/sesquicentennial-park/sesquicentennial-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#space-center-houston-hero{
+    background: url(resources/images/texas/houston/space-center-houston/space-center-houston-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #alamo-hero{
@@ -8863,8 +8879,16 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background: url(resources/images/texas/houston/love-lock-bridge/love-lock-bridge-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#memorial-park-houston-hero{
+    background: url(resources/images/texas/houston/memorial-park/MemorialParkHouston-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cullen-garden-hero{
+    background: url(resources/images/texas/houston/lillie-and-hugh-roy-cullen-sculpture-garden/cullen-sculpture-garden-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #st-pauls-united-hero{
-    background: url(resources/images/texas/houston/st-pauls-united-methodist-houston/st-paul-methodist-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/houston/st-pauls-united-methodist-houston/st-paul-methodist-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tranquillity-park-hero{
@@ -18852,6 +18876,10 @@ background: url(resources/images/texas/austin/sxsw-south-by-southwest-festival/C
 background: url(resources/images/texas/austin/texas-state-capitol/texas-state-capitol-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#wonder-bar-hero{
+    background: url(resources/images/texas/austin/wonder-bar/wonder-bar-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #zilker-park-hero{
 background: url(resources/images/texas/austin/zilker-park/ZilkerPark-2008-04-05-c-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18860,12 +18888,16 @@ background: url(resources/images/texas/austin/zilker-park/ZilkerPark-2008-04-05-
     background: url(resources/images/texas/dallas/ann-and-gabriel-barbier-mueller-museum/Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#cathedral-santuario-hero{
-background: url(resources/images/texas/dallas/ann-and-gabriel-barbier-mueller-museum/Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626-3030.jpg) center no-repeat;
+#att-discovery-district-hero{
+    background: url(resources/images/texas/dallas/att-discovery-district/att-discovery-district-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-santuario-dallas-hero{
+background: url(resources/images/texas/dallas/catholic-cathedral-of-santuario-de-guadalupe/catholic-cathedral-of-santuario-de-guadalupe-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #dallas-city-hall-hero{
-background: url(resources/images/texas/dallas/ann-and-gabriel-barbier-mueller-museum/Armor_and_hand_warmer_display_-_The_Ann_and_Gabriel_Barbier-Mueller_Museum_-_DSC05626-3030.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/dallas-city-hall/dallas-city-hall-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #dallas-hero{
@@ -18933,7 +18965,7 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background-size: cover;
 }
 #plaza-theatre-hero{
- background: url(resources/images/texas/el-paso/plaza-theatre/The_Plaza_Theatre-3030.jpg) center no-repeat;
+ background: url(resources/images/texas/el-paso/plaza-theatre/The_Plaza_Theatre-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #san-jacinto-hero{
@@ -18968,6 +19000,10 @@ background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthew
     background: url(resources/images/texas/houston/allens-landing/allens-landing-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#american-statesman-hero{
+    background: url(resources/images/texas/houston/american-statesmanship-park/american-statesman-park-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #discovery-green-hero{
 background: url(resources/images/texas/houston/discovery-green/discovery-green-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18982,6 +19018,10 @@ background: url(resources/images/texas/houston/san-jacinto-battleground-state-hi
 }
 #sesquicentennial-hero{
 background: url(resources/images/texas/houston/sesquicentennial-park/sesquicentennial-park-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#space-center-houston-hero{
+    background: url(resources/images/texas/houston/space-center-houston/space-center-houston-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #alamo-hero{
@@ -19216,6 +19256,14 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 #love-lock-hero{
     background: url(resources/images/texas/houston/love-lock-bridge/love-lock-bridge-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#memorial-park-houston-hero{
+    background: url(resources/images/texas/houston/memorial-park/MemorialParkHouston-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cullen-garden-hero{
+    background: url(resources/images/texas/houston/lillie-and-hugh-roy-cullen-sculpture-garden/cullen-sculpture-garden-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #st-pauls-united-hero{
