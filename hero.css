@@ -8697,6 +8697,31 @@ background: url(resources/images/texas/san-antonio/spanish-governors-palace/The_
 background: url(resources/images/texas/san-antonio/tower-of-the-americas/tower-of-the-americas-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
+#garner-sp-hero{
+    background: url(resources/images/texas/garner-state-park/Hill_Country_near_Garner_State_Park_IMG_4288-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gruene-hero{
+    background: url(resources/images/texas/new-braunfels/gruene-tx/gruene-tx-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#guadalupe-river-sp-hero{
+    background: url(resources/images/texas/guadalupe-river-state-park/Guadalupe_river_state_park_bluff-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#lost-maples-sp-hero{
+    background: url(resources/images/texas/lost-maples-state-natural-area/Lost_Maples_Scenic_View_2021-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-braunfels-hero{
+    background: url(resources/images/texas/new-braunfels/new-braunfels-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-marcos-hero{
+    background: url(resources/images/texas/san-marcos-tx/Aquarena_Boat-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #enchanted-rock-hero{
     background: url(resources/images/texas/enchanted-rock-state-natural-area/enchanted-rock-state-natural-area-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8775,17 +8800,82 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 
 #big-bend-hero{
-    background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #chisos-hero{
-    background: url(resources/images/texas/big-bend-national-park/big-bend-chisos-window-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/big-bend-window-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#southwest-big-bend-hero{
-    background: url(resources/images/texas/big-bend-national-park/big-bend-southwest-hero-1515.jpg) center no-repeat;
+#rio-grande-river-hero{
+    background: url(resources/images/texas/big-bend-national-park/rio-grande-wild-and-scenic-river/Rio_Grande_WSR_9443014740-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#boot-canyon-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/boot-canyon/Boot_Canyon-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#emory-peak-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/emory-peak/Flickr_-_ggallice_-_View_from_Emory_Peak-1515.jpg) top no-repeat;
+    background-size: cover;
+}
+#lost-mine-trail-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/lost-mine-trail/Lost_on_Lost_Mine_Trail_5483665893-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#window-trail-hero{
+background: url(resources/images/texas/big-bend-national-park/chisos-basin/window-trail/big-bend-window-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-bend-hot-springs-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/big-bend-hot-spring/Big_Bend_National_Park_PB112600-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#boquillas-canyon-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/boquillas-canyon/Gfp-mexico-boquillas-del-carmen-overlooking-the-rio-grande-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rio-grande-nature-trail-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/rio-grande-village-nature-trail/Dunes_Vista-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rio-grande-village-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/Rio_Grande_Village_Overlook_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#castolon-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/castolon-historic-district/Castolon_Army_Compound_Big_Bend_TX-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cerra-castellan-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/cerra-castellan/Big_Bend_National_Park_-_rock_formation-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fossil-discovery-hero{
+background: url(resources/images/texas/big-bend-national-park/panther-junction/fossil-discovery-exhibit/fossil-discovery-exhibit-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mule-ears-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/mule-ears-spring-trail/mule-ears-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-maverick-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/old-maverick-road/The_Old_Maverick_Dirt_Road_Explored_5-2022_-_Flickr_-_G._Lamar-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ross-maxwell-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/Sunset_at_Big_Bend_National_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sam-nail-ranch-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/sam-nail-ranch/Sam_Nail_Ranch_ruins-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tuff-canyon-hero{
+    background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/tuff-canyon/tuff-canyon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #santa-elena-hero{
     background: url(resources/images/texas/big-bend-national-park/santa-elena/santa-elena-canyon-hero-1136.jpg) center no-repeat;
     background-size: cover;
@@ -8824,6 +8914,38 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 #guadalupe-peak-hero{
     background: url(resources/images/texas/guadalupe-mountains-national-park/guadalupe-peak/guadalupe-mountains-peak-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dog-canyon-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/dog-canyon/Slowly_climbing_Dog_Canyon_5508678378-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#el-capitan-guadalupe-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/el-capitan/El_Capitan_from_US_Route_62_DSC_5495_ed_ad-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-basin-dunes-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/salt-basin-dunes/Salt_Basin_Dunes_-_Flickr_-_aspidoscelis-1515.jpg) top no-repeat;
+    background-size: cover;
+}
+#grotto-mckittrick-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/grotto/The_Grotto_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#manzanita-spring-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/manzanita-spring/Manzanita_Spring_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pratt-cabin-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/pratt-cabin/Pratt_Cabin_2-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#smith-springs-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/smith-spring-trail/Smith_Spring_Trail_3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#frijole-ranch-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/frijole-ranch/Frijole_Ranch_4-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -19076,6 +19198,30 @@ background: url(resources/images/texas/san-antonio/spanish-governors-palace/The_
 background: url(resources/images/texas/san-antonio/tower-of-the-americas/tower-of-the-americas-hero-3030.jpg) top no-repeat;
     background-size: cover;
 }
+#garner-sp-hero{
+    background: url(resources/images/texas/garner-state-park/Hill_Country_near_Garner_State_Park_IMG_4288-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gruene-hero{
+    background: url(resources/images/texas/new-braunfels/gruene-tx/gruene-tx-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#guadalupe-river-sp-hero{
+    background: url(resources/images/texas/guadalupe-river-state-park/Guadalupe_river_state_park_bluff-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#lost-maples-sp-hero{
+    background: url(resources/images/texas/lost-maples-state-natural-area/Lost_Maples_Scenic_View_2021-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#new-braunfels-hero{
+    background: url(resources/images/texas/new-braunfels/new-braunfels-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-marcos-hero{
+    background: url(resources/images/texas/san-marcos-tx/Aquarena_Boat-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #enchanted-rock-hero{
     background: url(resources/images/texas/enchanted-rock-state-natural-area/enchanted-rock-state-natural-area-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -19154,17 +19300,82 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 }
 
 #big-bend-hero{
-    background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #chisos-hero{
     background: url(resources/images/texas/big-bend-national-park/big-bend-chisos-window-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#southwest-big-bend-hero{
-    background: url(resources/images/texas/big-bend-national-park/big-bend-southwest-hero-3030.jpg) center no-repeat;
+#rio-grande-river-hero{
+    background: url(resources/images/texas/big-bend-national-park/rio-grande-wild-and-scenic-river/Rio_Grande_WSR_9443014740-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#boot-canyon-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/boot-canyon/Boot_Canyon-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#emory-peak-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/emory-peak/Flickr_-_ggallice_-_View_from_Emory_Peak-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#lost-mine-trail-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/lost-mine-trail/Lost_on_Lost_Mine_Trail_5483665893-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#window-trail-hero{
+background: url(resources/images/texas/big-bend-national-park/chisos-basin/window-trail/big-bend-window-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-bend-hot-springs-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/big-bend-hot-spring/Big_Bend_National_Park_PB112600-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boquillas-canyon-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/boquillas-canyon/Gfp-mexico-boquillas-del-carmen-overlooking-the-rio-grande-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rio-grande-nature-trail-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/rio-grande-village-nature-trail/Dunes_Vista-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rio-grande-village-hero{
+background: url(resources/images/texas/big-bend-national-park/rio-grande-village/Rio_Grande_Village_Overlook_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#castolon-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/castolon-historic-district/Castolon_Army_Compound_Big_Bend_TX-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cerra-castellan-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/cerra-castellan/Big_Bend_National_Park_-_rock_formation-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fossil-discovery-hero{
+background: url(resources/images/texas/big-bend-national-park/panther-junction/fossil-discovery-exhibit/fossil-discovery-exhibit-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mule-ears-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/mule-ears-spring-trail/mule-ears-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-maverick-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/old-maverick-road/The_Old_Maverick_Dirt_Road_Explored_5-2022_-_Flickr_-_G._Lamar-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ross-maxwell-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/Sunset_at_Big_Bend_National_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#sam-nail-ranch-hero{
+background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/sam-nail-ranch/Sam_Nail_Ranch_ruins-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#tuff-canyon-hero{
+    background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/tuff-canyon/tuff-canyon-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #santa-elena-hero{
     background: url(resources/images/texas/big-bend-national-park/santa-elena/santa-elena-canyon-hero-1136.jpg) center no-repeat;
     background-size: cover;
@@ -19205,7 +19416,38 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background: url(resources/images/texas/guadalupe-mountains-national-park/guadalupe-peak/guadalupe-mountains-peak-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
-
+#dog-canyon-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/dog-canyon/Slowly_climbing_Dog_Canyon_5508678378-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#el-capitan-guadalupe-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/el-capitan/El_Capitan_from_US_Route_62_DSC_5495_ed_ad-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-basin-dunes-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/salt-basin-dunes/Salt_Basin_Dunes_-_Flickr_-_aspidoscelis-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#grotto-mckittrick-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/grotto/The_Grotto_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#manzanita-spring-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/manzanita-spring/Manzanita_Spring_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#pratt-cabin-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/pratt-cabin/Pratt_Cabin_2-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#smith-springs-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/mckittrick-canyon/smith-spring-trail/Smith_Spring_Trail_3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#frijole-ranch-hero{
+    background: url(resources/images/texas/guadalupe-mountains-national-park/frijole-ranch/Frijole_Ranch_4-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #buffalo-bayou-park-hero{
     background: url(resources/images/texas/houston/buffalo-bayou-park/buffalo-bayou-park-hero-3030.jpg) center no-repeat;
     background-size: cover;
