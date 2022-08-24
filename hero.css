@@ -9658,13 +9658,205 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
 #white-house-hero{
     background: url(resources/images/washington-dc/white-house/The_White_House\,_Washington\,_D.C._USA2-1515.jpg) center no-repeat;
     background-size: cover;
-
-/* Washington State --------------------------- */
 }
+/* Washington State --------------------------- */
 #washington-state-hero {
     background: url(resources/images/washington/Seattle_4-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#alta-vista-trail-hero{
+background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bench-snow-hero{
+background: url(resources/images/washington/mount-rainier-national-park/bench-and-snow-lakes-trail/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._50204798af164f1da1e9bf3e2546cfe9-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#box-canyon-wa-hero{
+background: url(resources/images/washington/mount-rainier-national-park/box-canyon/Box_Canyon_of_the_Cowlitz\,_Mount_Rainier_National_Park_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#burroughs-mountain-trail-hero{
+background: url(resources/images/washington/mount-rainier-national-park/burroughs-mountain-trail/First_Burroughs_mountain_-_Flickr_-_brewbooks-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#carbon-glacier{
+background: url(resources/images/washington/mount-rainier-national-park/carbon-glacier-trail/Carbon_Glacier-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fremont-lookout-hero{
+background: url(resources/images/washington/mount-rainier-national-park/fremont-lookout/Leaving_Fremont_Lookout_-_Flickr_-_brewbooks-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#frozen-lake-hero{
+background: url(resources/images/washington/mount-rainier-national-park/frozen-lake/People_hiking_on_Burroughs_Mountain_and_Wonderland_trails_near_Frozen_Lake._45ce5397e27a42acbb4807f0afb7e411-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glacier-basin-hero{
+background: url(resources/images/washington/mount-rainier-national-park/glacier-basin-trail/Mt_Rainier_Glacier_Basin_Trail_2017_04-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grove-patriarchs-hero{
+background: url(resources/images/washington/mount-rainier-national-park/grove-of-the-patriarchs-trail/MRNP_—_Grove_of_the_Patriarchs_Nature_Trail_footbridge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ipsut-creek-hero{
+background: url(resources/images/washington/mount-rainier-national-park/ipsut-creek/Ipsut_Falls_and_Ipsut_Creek_-_Flickr_-_brewbooks-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #longmire-hero{
+background: url(resources/images/washington/Seattle_4-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+} */
+#mowich-lake-hero{
+background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pinnacle-peak-wa-hero{
+background: url(resources/images/washington/mount-rainier-national-park/pinnacle-peak/Pinnacle_Peak-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#reflection-lakes-wa-hero{
+background: url(resources/images/washington/mount-rainier-national-park/reflection-lakes/Mt_Rainier_&_Reflection_Lakes_8082913563-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sourdough-ridge-trail-hero{
+background: url(resources/images/washington/mount-rainier-national-park/sourdough-ridge-trail/Sourdough_Ridge_-_30099232047-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spray-park-hero{
+background: url(resources/images/washington/mount-rainier-national-park/spray-park-trail/Hiking_In_Spray_Park_39679234-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#steamboat-prow-hero{
+background: url(resources/images/washington/mount-rainier-national-park/steamboat-prow/Steamboat_Prow_5869-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sunrise-visitor-hero{
+background: url(resources/images/washington/mount-rainier-national-park/sunrise-visitor-center/Sunrise_Visitor_Center_in_front_of_Mount_Rainier_9b89d246-0ee7-4d61-af4d-2d1b7a37291a-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tolmie-peak-hero{
+background: url(resources/images/washington/mount-rainier-national-park/tolmie-peak-lookout-trail/Tolmie_Peak-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cascade-pass-hero{
+background: url(resources/images/washington/north-cascades-national-park/cascade-pass/Cascade_Pass-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gorge-powerhouse-hero{
+background: url(resources/images/washington/north-cascades-national-park/gorge-powerhouse/gorge-powerhouse-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#happy-creek-forest-hero{
+background: url(resources/images/washington/north-cascades-national-park/happy-creek-forest-walk/happy-creek-forest-walk-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ladder-creek-falls-hero{
+background: url(resources/images/washington/north-cascades-national-park/ladder-creek-falls-and-garden/ladder-creek-falls-and-garden-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-chelan-hero{
+background: url(resources/images/washington/north-cascades-national-park/lake-chelan-national-recreation-area/Stehekin_Chelan-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#newhalem-hero{
+background: url(resources/images/washington/north-cascades-national-park/newhalem/newhalem-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rainbow-falls-wa-hero{
+background: url(resources/images/washington/north-cascades-national-park/rainbow-falls/Rainbow_Falls_near_Stehekin_Washington-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ross-lake-hero{
+background: url(resources/images/washington/north-cascades-national-park/ross-lake-national-recreation-area/Ross_Lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stehekin-hero{
+background: url(resources/images/washington/north-cascades-national-park/stehekin/Stehekin_River_Valley-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sterling-munro-hero{
+background: url(resources/images/washington/north-cascades-national-park/sterling-munro-trail/Sterling_Munro_Trail_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#thunder-creek-trail-hero{
+background: url(resources/images/washington/north-cascades-national-park/thunder-creek-trail/Thunder_Creek-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#trail-cedars-nature-hero{
+background: url(resources/images/washington/north-cascades-national-park/trail-of-the-cedars-nature-walk/Newhalem\,_WA_-_Trail_of_the_Cedars_10-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#washington-pass-hero{
+background: url(resources/images/washington/north-cascades-national-park/washington-pass/washington-pass-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#winthrop-wa-hero{
+background: url(resources/images/washington/north-cascades-national-park/winthrop-wa/Winthrop\,_USA_19801491829-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cape-alava-hero{
+background: url(resources/images/washington/olympic-national-park/cape-alava/The_western_terminus_of_the_PNT_at_Cape_Alava_in_Olympic_National_Park_27331385534-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#elwha-river-hero{
+background: url(resources/images/washington/olympic-national-park/elwha-river/Elwha_River_-_Humes_Ranch_Area2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hoh-river-trail-hero{
+background: url(resources/images/washington/olympic-national-park/hoh-rain-forest/hoh-river-trail/Hoh_River_Trail_2017_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hurricane-hill-hero{
+background: url(resources/images/washington/olympic-national-park/hurricane-ridge/hurricane-hill-trail/Hurricane_Hill_trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kalaloch-ruby-hero{
+background: url(resources/images/washington/olympic-national-park/ruby-beach/Ruby_Beach\,_Olympic_National_Park\,_on_a_Late_September_Afternoon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-crescent-hero{
+background: url(resources/images/washington/olympic-national-park/lake-crescent/Lake_Crescent_spring-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-cushman-hero{
+background: url(resources/images/washington/olympic-national-park/lake-cushman/Lake_Cushman_Pano-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#marymere-falls-hero{
+background: url(resources/images/washington/olympic-national-park/marymere-falls/Marymere_Falls_2022-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mora-rialto-hero{
+background: url(resources/images/washington/olympic-national-park/rialto-beach/Olympic_Rialto_Beach_28-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-olympus-hero{
+background: url(resources/images/washington/olympic-national-park/hurricane-ridge/mount-olympus/Mount_Olympus\,_Washington_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#obstruction-point-hero{
+background: url(resources/images/washington/olympic-national-park/hurricane-ridge/obstruction-point-road/Obstruction_Peak_with_Obstruction_Point_Road-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ozette-hero{
+background: url(resources/images/washington/olympic-national-park/ozette/Lake_Ozette-flickr-3028149782-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#quinault-hero{
+background: url(resources/images/washington/olympic-national-park/quinault/Lake_Quinault_Mist-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sol-duc-falls-hero{
+background: url(resources/images/washington/olympic-national-park/sol-duc-valley/sol-duc-falls/Olympic_National_Park\,_Sol_Duc_Falls_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sol-duc-hero{
+    background: url(resources/images/washington/olympic-national-park/sol-duc-valley/Sol_Duc_River-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #mt-rainier-hero{
     background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9895,6 +10087,243 @@ background: url(resources/images/wisconsin/willow-river-state-park/02WillowFalls
     background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#amphitheater-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/amphitheater-lake/Amphitheater_Lake_29539902098-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bradley-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/bradley-lake/Bradley_Lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cascade-canyon-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/cascade-canyon/Cascade_canyon_trail_overlook_teton_20190713_094632_1_crop-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cunningham-cabin-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/cunningham-cabin-historic-site/Cunningham_Cabin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#death-canyon-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/death-canyon/Grand_Teton_Death_Canyon_WY1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#granite-canyon-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/granite-canyon/Grand_Teton_NP_Granite_Canyon_WY1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gros-venture-river-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/gros-venture-river/Gros_Ventre_River-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hidden-falls-wy-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/hidden-falls/Hidden_Falls_8_NZ-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jackson-lake-dam-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/jackson-lake-dam/Jackson_Lake_Dam_2_8612672131-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jackson-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/jackson-lake/Colter_bay_boats_20100822_080110_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jenny-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/jenny-lake/Jenny_Lake_Cascade_Canyon_GTNP1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#laurance-preserve-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/laurance-s-rockefeller-preserve/LSR_Preserve_entrance_GTNP1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#leigh-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/leigh-lake/Leigh_Lake_With_Mt_Moran_264131103-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oxbow-bend-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/oxbow-bend/Oxbow_Bend\,_Grand_Teton_National_Park_9965544863-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#schwabacher-landing-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/schwabacher-landing/Schwabacher_landing_reflection_Grand_Teton_national_park_-_Flickr_-_Mferbfriske-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#signal-mtn-summit-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/signal-mountain-summit/) center no-repeat;
+    background-size: cover;
+}
+#slide-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/slide-lake/Lower_Slide_Lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#snake-river-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/snake-river-grand-teton/Snake_River_with_Teton_Range_in_background2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#string-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/string-lake/String_Lake_-_panoramio_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taggart-lake-hero{
+background: url(resources/images/wyoming/grand-teton-national-park/taggart-lake/Taggart_Lake_29805486345-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #artist-point-yellowstone-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/) center no-repeat;
+    background-size: cover;
+} */
+#brink-lower-falls-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/brink-of-the-lower-falls/The_Brink_of_the_Lower_Falls_in_Grand_Canyon_of_the_Yellowstone-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lookout-point-yellowstone-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/lookout-point-grand-canyon-of-the-yellowstone/Lower_Falls_frm_Lookout_Point-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-rock-point-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/red-rock-point/Hikers_on_the_Red_Rock_Point_Trail_48637693601-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#upper-falls-yellowstone-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/upper-falls/Upper_Falls_Yellowstone_26-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#canyon-village-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/canyon-village/Views_along_Grand_Loop_Road_from_Tower_Junction_to_Canyon_Village_41856391055-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dragons-mouth-spring-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/dragons-mouth-spring/Dragons_Mouth_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dunraven-pass-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/dunraven-pass/Wildflowers_and_Mt._Washburn_near_Dunraven_Pass_36637727185-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hayden-valley-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/hayden-valley/Upper_Hayden_Valley_YNP1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-washburn-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/mount-washburn/View_of_Mt._Washburn_from_Grand_Loop_Road_south_of_Tower_Campground_16529462828-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mud-volcano-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/mud-volcano/Mud_Volcano\,_Yellowstone_NP-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sulphur-caldron-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/sulphur-caldron/Sulphur_Caldron_06-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fishing-bridge-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/fishing-bridge/Construction_at_Fishing_Bridge_30338496157-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-butte-overlook-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/lake-butte-overlook/Yellowstone_Lake_20454184082-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-lake-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/yellowstone-lake/Yellowstone_Lake_West_Thumb_YNP1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#buffalo-ranch-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/buffalo-ranch/Lamar_Buffalo_Ranch_21352937563-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cooke-city-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/cooke-city/Cooke_City_Store2_NRHP_86000527_Park_County\,_MT-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lamar-valley-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/lamar-valley/Summer_in_Lamar_Valley_\(29098765417\)-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tower-fall-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/tower-fall/Tower_Fall_28883678363-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #fountain-paint-pots-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/) center no-repeat;
+    background-size: cover;
+} */
+#grand-prismatic-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/midway-geyser-basin/grand-prismatic-spring/Grand_Prismatic_Spring-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fairy-falls-wy-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/fairy-falls/Fairy_Falls_and_fall_color_44896200524-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#firehole-river-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/firehole-river/Firehole_river_at_Upper_Geyser_Basin-2008-june-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#imperial-geyser-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/imperial-geyser/Imperial_Geyser_looking_south\,_Yellowstone-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blacktail-plateau-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/Enjoying_sunset_on_Blacktail_Deer_Plateau_44036004381-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bunsen-peak-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/bunsen-peak-road/Views_of_the_Gardner_River_along_the_Bunsen_Peak_Road_41434157820-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ft-yellowstone-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/historic-fort-yellowstone/Fort_Yellowstone_Historic_District-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yellowstone-mammoth-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/mammoth-hot-springs/Mammoth_Terraces-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#obsidian-cliff-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/obsidian-cliff/Columnar-jointed_rhyolitic_obsidian_lava_flow_Roaring_Mountain_Member\,_Plateau_Rhyolite-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gibbon-falls-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/gibbon-falls/Yellowstone_National_Park_WY\,_USA\,_Gibbon_Falls_--_2022_--_2649-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#norris-geyser-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/norris-geyser-basin/norris-basin-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#roaring-mountain-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/roaring-mountains/Roaring_Mountain_YNP2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cliff-geyser-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/cliff-geyser/Cliff_Geyser_3_8040053212-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#great-fountain-geyser-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/great-fountain-geyser/Great_Fountain_Geyser_33757684886-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#opalescent-pool-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/opalescent-pool/Black_Sand_Basin_2817356204-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lone-star-geyser-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/lone-star-geyser/Lone_Star_Geyser_on_a_sunny_afternoon_35765928955-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-faithful-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/Old_Faithful_Geyser_20170822-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-pool-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/west-thumb-geyser-basin/black-pool/Steaming_Black_Pool_at_sunrise_36920816146-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#west-thumb-geyser-hero{
+    background: url(resources/images/wyoming/yellowstone-national-park/west-thumb-geyser-basin/West_Thumb_Geyser_Basin_6-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #mormon-row-hero{
     background: url(resources/images/wyoming/mormon-row/Mormon_Row_Historic_District-1515.jpg) center no-repeat;
     background-size: cover;
@@ -18400,6 +18829,198 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
         background-position-y: -175px;
     }
+    #alta-vista-trail-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #bench-snow-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/bench-and-snow-lakes-trail/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._50204798af164f1da1e9bf3e2546cfe9-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #box-canyon-wa-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/box-canyon/Box_Canyon_of_the_Cowlitz\,_Mount_Rainier_National_Park_01-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #burroughs-mountain-trail-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/burroughs-mountain-trail/First_Burroughs_mountain_-_Flickr_-_brewbooks-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #carbon-glacier{
+        background: url(resources/images/washington/mount-rainier-national-park/carbon-glacier-trail/Carbon_Glacier-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fremont-lookout-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/fremont-lookout/Leaving_Fremont_Lookout_-_Flickr_-_brewbooks-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #frozen-lake-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/frozen-lake/People_hiking_on_Burroughs_Mountain_and_Wonderland_trails_near_Frozen_Lake._45ce5397e27a42acbb4807f0afb7e411-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #glacier-basin-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/glacier-basin-trail/Mt_Rainier_Glacier_Basin_Trail_2017_04-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #grove-patriarchs-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/grove-of-the-patriarchs-trail/MRNP_—_Grove_of_the_Patriarchs_Nature_Trail_footbridge-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ipsut-creek-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/ipsut-creek/Ipsut_Falls_and_Ipsut_Creek_-_Flickr_-_brewbooks-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #longmire-hero{
+        background: url(resources/images/washington/Seattle_4-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        } */
+        #mowich-lake-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #pinnacle-peak-wa-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/pinnacle-peak/Pinnacle_Peak-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #reflection-lakes-wa-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/reflection-lakes/Mt_Rainier_&_Reflection_Lakes_8082913563-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sourdough-ridge-trail-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/sourdough-ridge-trail/Sourdough_Ridge_-_30099232047-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #spray-park-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/spray-park-trail/Hiking_In_Spray_Park_39679234-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #steamboat-prow-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/steamboat-prow/Steamboat_Prow_5869-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sunrise-visitor-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/sunrise-visitor-center/Sunrise_Visitor_Center_in_front_of_Mount_Rainier_9b89d246-0ee7-4d61-af4d-2d1b7a37291a-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #tolmie-peak-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/tolmie-peak-lookout-trail/Tolmie_Peak-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cascade-pass-hero{
+        background: url(resources/images/washington/north-cascades-national-park/cascade-pass/Cascade_Pass-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #gorge-powerhouse-hero{
+        background: url(resources/images/washington/north-cascades-national-park/gorge-powerhouse/gorge-powerhouse-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #happy-creek-forest-hero{
+        background: url(resources/images/washington/north-cascades-national-park/happy-creek-forest-walk/happy-creek-forest-walk-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ladder-creek-falls-hero{
+        background: url(resources/images/washington/north-cascades-national-park/ladder-creek-falls-and-garden/ladder-creek-falls-and-garden-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lake-chelan-hero{
+        background: url(resources/images/washington/north-cascades-national-park/lake-chelan-national-recreation-area/Stehekin_Chelan-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #newhalem-hero{
+        background: url(resources/images/washington/north-cascades-national-park/newhalem/newhalem-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #rainbow-falls-wa-hero{
+        background: url(resources/images/washington/north-cascades-national-park/rainbow-falls/Rainbow_Falls_near_Stehekin_Washington-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ross-lake-hero{
+        background: url(resources/images/washington/north-cascades-national-park/ross-lake-national-recreation-area/Ross_Lake-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #stehekin-hero{
+        background: url(resources/images/washington/north-cascades-national-park/stehekin/Stehekin_River_Valley-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sterling-munro-hero{
+        background: url(resources/images/washington/north-cascades-national-park/sterling-munro-trail/Sterling_Munro_Trail_01-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #thunder-creek-trail-hero{
+        background: url(resources/images/washington/north-cascades-national-park/thunder-creek-trail/Thunder_Creek-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #trail-cedars-nature-hero{
+        background: url(resources/images/washington/north-cascades-national-park/trail-of-the-cedars-nature-walk/Newhalem\,_WA_-_Trail_of_the_Cedars_10-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #washington-pass-hero{
+        background: url(resources/images/washington/north-cascades-national-park/washington-pass/washington-pass-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #winthrop-wa-hero{
+        background: url(resources/images/washington/north-cascades-national-park/winthrop-wa/Winthrop\,_USA_19801491829-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cape-alava-hero{
+        background: url(resources/images/washington/olympic-national-park/cape-alava/The_western_terminus_of_the_PNT_at_Cape_Alava_in_Olympic_National_Park_27331385534-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #elwha-river-hero{
+        background: url(resources/images/washington/olympic-national-park/elwha-river/Elwha_River_-_Humes_Ranch_Area2-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hoh-river-trail-hero{
+        background: url(resources/images/washington/olympic-national-park/hoh-rain-forest/hoh-river-trail/Hoh_River_Trail_2017_02-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hurricane-hill-hero{
+        background: url(resources/images/washington/olympic-national-park/hurricane-ridge/hurricane-hill-trail/Hurricane_Hill_trail-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #kalaloch-ruby-hero{
+        background: url(resources/images/washington/olympic-national-park/ruby-beach/Ruby_Beach\,_Olympic_National_Park\,_on_a_Late_September_Afternoon-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lake-crescent-hero{
+        background: url(resources/images/washington/olympic-national-park/lake-crescent/Lake_Crescent_spring-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lake-cushman-hero{
+        background: url(resources/images/washington/olympic-national-park/lake-cushman/Lake_Cushman_Pano-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #marymere-falls-hero{
+        background: url(resources/images/washington/olympic-national-park/marymere-falls/Marymere_Falls_2022-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #mora-rialto-hero{
+        background: url(resources/images/washington/olympic-national-park/rialto-beach/Olympic_Rialto_Beach_28-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #mount-olympus-hero{
+        background: url(resources/images/washington/olympic-national-park/hurricane-ridge/mount-olympus/Mount_Olympus\,_Washington_-_panoramio-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #obstruction-point-hero{
+        background: url(resources/images/washington/olympic-national-park/hurricane-ridge/obstruction-point-road/Obstruction_Peak_with_Obstruction_Point_Road-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ozette-hero{
+        background: url(resources/images/washington/olympic-national-park/ozette/Lake_Ozette-flickr-3028149782-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #quinault-hero{
+        background: url(resources/images/washington/olympic-national-park/quinault/Lake_Quinault_Mist-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sol-duc-falls-hero{
+        background: url(resources/images/washington/olympic-national-park/sol-duc-valley/sol-duc-falls/Olympic_National_Park\,_Sol_Duc_Falls_01-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sol-duc-hero{
+            background: url(resources/images/washington/olympic-national-park/sol-duc-valley/Sol_Duc_River-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #mt-rainier-hero{
         background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -18638,6 +19259,242 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #amphitheater-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/amphitheater-lake/Amphitheater_Lake_29539902098-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #bradley-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/bradley-lake/Bradley_Lake-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cascade-canyon-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/cascade-canyon/Cascade_canyon_trail_overlook_teton_20190713_094632_1_crop-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cunningham-cabin-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/cunningham-cabin-historic-site/Cunningham_Cabin-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #death-canyon-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/death-canyon/Grand_Teton_Death_Canyon_WY1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #granite-canyon-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/granite-canyon/Grand_Teton_NP_Granite_Canyon_WY1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #gros-venture-river-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/gros-venture-river/Gros_Ventre_River-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hidden-falls-wy-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/hidden-falls/Hidden_Falls_8_NZ-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #jackson-lake-dam-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/jackson-lake-dam/Jackson_Lake_Dam_2_8612672131-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #jackson-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/jackson-lake/Colter_bay_boats_20100822_080110_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #jenny-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/jenny-lake/Jenny_Lake_Cascade_Canyon_GTNP1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #laurance-preserve-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/laurance-s-rockefeller-preserve/LSR_Preserve_entrance_GTNP1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #leigh-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/leigh-lake/Leigh_Lake_With_Mt_Moran_264131103-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #oxbow-bend-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/oxbow-bend/Oxbow_Bend\,_Grand_Teton_National_Park_9965544863-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #schwabacher-landing-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/schwabacher-landing/Schwabacher_landing_reflection_Grand_Teton_national_park_-_Flickr_-_Mferbfriske-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #signal-mtn-summit-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/signal-mountain-summit/) center no-repeat;
+            background-size: cover;
+        }
+        #slide-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/slide-lake/Lower_Slide_Lake-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #snake-river-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/snake-river-grand-teton/Snake_River_with_Teton_Range_in_background2-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #string-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/string-lake/String_Lake_-_panoramio_2-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #taggart-lake-hero{
+        background: url(resources/images/wyoming/grand-teton-national-park/taggart-lake/Taggart_Lake_29805486345-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #artist-point-yellowstone-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/) center no-repeat;
+            background-size: cover;
+        } */
+        #brink-lower-falls-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/brink-of-the-lower-falls/The_Brink_of_the_Lower_Falls_in_Grand_Canyon_of_the_Yellowstone-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lookout-point-yellowstone-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/lookout-point-grand-canyon-of-the-yellowstone/Lower_Falls_frm_Lookout_Point-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #red-rock-point-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/red-rock-point/Hikers_on_the_Red_Rock_Point_Trail_48637693601-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #upper-falls-yellowstone-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/upper-falls/Upper_Falls_Yellowstone_26-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #canyon-village-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/canyon-village/Views_along_Grand_Loop_Road_from_Tower_Junction_to_Canyon_Village_41856391055-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #dragons-mouth-spring-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/dragons-mouth-spring/Dragons_Mouth_-_panoramio-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #dunraven-pass-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/dunraven-pass/Wildflowers_and_Mt._Washburn_near_Dunraven_Pass_36637727185-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hayden-valley-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/hayden-valley/Upper_Hayden_Valley_YNP1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #mount-washburn-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/mount-washburn/View_of_Mt._Washburn_from_Grand_Loop_Road_south_of_Tower_Campground_16529462828-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #mud-volcano-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/mud-volcano/Mud_Volcano\,_Yellowstone_NP-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sulphur-caldron-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/sulphur-caldron/Sulphur_Caldron_06-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fishing-bridge-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/fishing-bridge/Construction_at_Fishing_Bridge_30338496157-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lake-butte-overlook-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/lake-butte-overlook/Yellowstone_Lake_20454184082-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #yellowstone-lake-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/yellowstone-lake/Yellowstone_Lake_West_Thumb_YNP1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #buffalo-ranch-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/buffalo-ranch/Lamar_Buffalo_Ranch_21352937563-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cooke-city-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/cooke-city/Cooke_City_Store2_NRHP_86000527_Park_County\,_MT-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lamar-valley-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/lamar-valley/Summer_in_Lamar_Valley_\(29098765417\)-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #tower-fall-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/tower-fall/Tower_Fall_28883678363-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #fountain-paint-pots-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/) center no-repeat;
+            background-size: cover;
+        } */
+        #grand-prismatic-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/midway-geyser-basin/grand-prismatic-spring/Grand_Prismatic_Spring-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #fairy-falls-wy-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/fairy-falls/Fairy_Falls_and_fall_color_44896200524-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #firehole-river-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/firehole-river/Firehole_river_at_Upper_Geyser_Basin-2008-june-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #imperial-geyser-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/imperial-geyser/Imperial_Geyser_looking_south\,_Yellowstone-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #blacktail-plateau-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/Enjoying_sunset_on_Blacktail_Deer_Plateau_44036004381-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #bunsen-peak-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/bunsen-peak-road/Views_of_the_Gardner_River_along_the_Bunsen_Peak_Road_41434157820-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ft-yellowstone-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/historic-fort-yellowstone/Fort_Yellowstone_Historic_District-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #yellowstone-mammoth-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/mammoth-hot-springs/Mammoth_Terraces-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #obsidian-cliff-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/obsidian-cliff/Columnar-jointed_rhyolitic_obsidian_lava_flow_Roaring_Mountain_Member\,_Plateau_Rhyolite-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #gibbon-falls-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/gibbon-falls/Yellowstone_National_Park_WY\,_USA\,_Gibbon_Falls_--_2022_--_2649-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #norris-geyser-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/norris-geyser-basin/norris-basin-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #roaring-mountain-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/roaring-mountains/Roaring_Mountain_YNP2-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cliff-geyser-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/cliff-geyser/Cliff_Geyser_3_8040053212-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #great-fountain-geyser-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/great-fountain-geyser/Great_Fountain_Geyser_33757684886-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #opalescent-pool-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/opalescent-pool/Black_Sand_Basin_2817356204-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lone-star-geyser-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/lone-star-geyser/Lone_Star_Geyser_on_a_sunny_afternoon_35765928955-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #old-faithful-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/Old_Faithful_Geyser_20170822-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #black-pool-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/west-thumb-geyser-basin/black-pool/Steaming_Black_Pool_at_sunrise_36920816146-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #west-thumb-geyser-hero{
+            background: url(resources/images/wyoming/yellowstone-national-park/west-thumb-geyser-basin/West_Thumb_Geyser_Basin_6-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #mormon-row-hero{
         background: url(resources/images/wyoming/mormon-row/Mormon_Row_Historic_District-3030.jpg) center no-repeat;
         background-size: cover;
@@ -18670,7 +19527,7 @@ background: url(resources/images/tennessee/b) center no-repeat;
     background-size: cover;
 }
 #burgess-falls-hero{
-background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #roan-mtn-hero{
