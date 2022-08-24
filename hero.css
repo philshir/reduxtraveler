@@ -1416,7 +1416,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #death-valley-hero{
-    background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/death-valley-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #dantes-hero{
@@ -1550,7 +1550,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #zumwalt-meadow-hero{
-    background: url(resources/images/california/kings-canyon-national-park/zumwalt-meadow/Zumwalt_Meadow_Kings_Canyon-1515.jpg) center no-repeat;
+    background: url(resources/images/california/kings-canyon-national-park/zumwalt-meadow/Zumwalt_Meadow_Kings_Canyon-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 
@@ -2549,7 +2549,7 @@ background: url(resources/images/california/walker-canyon/walker-canyon-hero-151
     background-size: cover;
 }
 #congress-hero{
-    background: url(resources/images/california/sequoia-national-park/sherman/sequoia-general-sherman-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/sequoia-national-park/general-sherman-tree/sequoia-general-sherman-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #moro-hero{
@@ -9666,39 +9666,43 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     background-size: cover;
 }
 #mt-rainier-hero{
-    background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mt-rainier-np-hero{
-    background: url(resources/images/washington/mt-rainier/Mount_Rainier_3-reflection-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_3-reflection-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #mount-rainer-trails-hero{
-    background: url(resources/images/washington/mt-rainier/skagit-river-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/skagit-river-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #narada-hero{
-    background: url(resources/images/washington/mt-rainier/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nisqually-hero{
-    background: url(resources/images/washington/mt-rainier/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #paradise-wa-hero{
-    background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#diablo-lake-hero{
+    background: url(resources/images/washington/north-cascades-national-park/diablo-lake/diablo-lake-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mt-st-helens-hero{
-    background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-st-helens-national-volcanic-monument/Mt_St_Helens_NVM_July_2018-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #hoh-hero{
-    background: url(resources/images/washington/olympic-np/hoh-rain-forest/hoh-rain-forest-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/olympic-national-park/hoh-rain-forest/hoh-rain-forest-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hurricane-ridge-hero{
-    background: url(resources/images/washington/olympic-np/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/olympic-national-park/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #seattle-hero {
@@ -9880,27 +9884,23 @@ background: url(resources/images/wisconsin/willow-river-state-park/02WillowFalls
 
 /* ------------------------------Wyoming-------------------------- */
 #wyoming-hero{
-    background: url(resources/images/wyoming/grand-teton-national-park/wyoming-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/Landscape_of_Jackson_Hole\,_October_2010-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #devils-tower-hero{
-    background: url(resources/images/wyoming/devils-tower/devils-tower-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/devils-tower-national-monument/Devils_Tower-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #grand-teton-hero{
-    background: url(resources/images/wyoming/grand-teton-national-park/grand-teton-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mormon-row-hero{
+    background: url(resources/images/wyoming/mormon-row/Mormon_Row_Historic_District-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #yellowstone-hero {
-    background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#yellowstone-southwest-hero {
-    background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/morning-glory-pool-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#yellowstone-northwest-hero {
-    background: url(resources/images/wyoming/yellowstone-national-park/norris-geyser-basin/norris-basin-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/Old_Faithful_Geyser_20170822-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #yellowstone-upper-basin-hero {
@@ -11338,7 +11338,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #death-valley-hero{
-        background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/death-valley-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #dantes-hero{
@@ -11472,7 +11472,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #zumwalt-meadow-hero{
-        background: url(resources/images/california/kings-canyon-national-park/zumwalt-meadow/Zumwalt_Meadow_Kings_Canyon-3030.jpg) center no-repeat;
+        background: url(resources/images/california/kings-canyon-national-park/zumwalt-meadow/Zumwalt_Meadow_Kings_Canyon-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     
@@ -12465,7 +12465,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #congress-hero{
-        background: url(resources/images/california/sequoia-national-park/sherman/sequoia-general-sherman-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/sequoia-national-park/general-sherman-tree/sequoia-general-sherman-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #moro-hero{
@@ -18401,51 +18401,54 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-position-y: -175px;
     }
     #mt-rainier-hero{
-        background: url(resources/images/washington/mt-rainier/Mount_Rainier_panorama_2-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position-y: -100px;
     }
     #mt-rainier-np-hero{
-        background: url(resources/images/washington/mt-rainier/Mount_Rainier_3-reflection-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_3-reflection-hero-3030.jpg) top no-repeat;
         background-size: cover;
         background-position-y: -72px;
     }
     #mount-rainer-trails-hero{
-        background: url(resources/images/washington/mt-rainier/skagit-river-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/skagit-river-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #narada-hero{
-        background: url(resources/images/washington/mt-rainier/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/narada-falls/Narada_Falls\,_Mount_Rainier_National_Park\,_equirectangular_panorama_02-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #nisqually-hero{
-        background: url(resources/images/washington/mt-rainier/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/nisqually-vista-trail/Mt_Rainier_Panorama_from_the_south-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #paradise-wa-hero{
-        background: url(resources/images/washington/mt-rainier/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-3030.jpg) center no-repeat;
         background-size: cover;
         background-position-y: -70px;
     }
-    #mt-st-helens-hero{
-        background: url(resources/images/washington/mount-st-helens/Mt_St_Helens_NVM_July_2018-hero-3030.jpg) center no-repeat;
+    #diablo-lake-hero{
+        background: url(resources/images/washington/north-cascades-national-park/diablo-lake/diablo-lake-3030.jpg) center no-repeat;
         background-size: cover;
-        background-position-y: -100px;
+    }
+    #mt-st-helens-hero{
+        background: url(resources/images/washington/mount-st-helens-national-volcanic-monument/Mt_St_Helens_NVM_July_2018-hero-3030.jpg) top no-repeat;
+        background-size: cover;
     }
     #hoh-hero{
-        background: url(resources/images/washington/olympic-np/hoh-rain-forest/hoh-rain-forest-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/olympic-national-park/hoh-rain-forest/hoh-rain-forest-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hurricane-ridge-hero{
-        background: url(resources/images/washington/olympic-np/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/olympic-national-park/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #kalaloch-ruby-hero{
-        background: url(resources/images/washington/olympic-np/ruby-beach/Ruby_Beach\,_Olympic_National_Park\,_on_a_Late_September_Afternoon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/olympic-national-park/ruby-beach/Ruby_Beach\,_Olympic_National_Park\,_on_a_Late_September_Afternoon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mora-rialto-hero{
-        background: url(resources/images/washington/olympic-np/rialto-beach/Olympic_Rialto_Beach_28.jpg-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/olympic-national-park/rialto-beach/Olympic_Rialto_Beach_28.jpg-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #seattle-hero {
@@ -18628,23 +18631,19 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
     }
     #devils-tower-hero{
-        background: url(resources/images/wyoming/devils-tower/devils-tower-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/devils-tower-national-monument/Devils_Tower-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #grand-teton-hero{
-        background: url(resources/images/wyoming/grand-teton-national-park/grand-teton-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mormon-row-hero{
+        background: url(resources/images/wyoming/mormon-row/Mormon_Row_Historic_District-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #yellowstone-hero {
-        background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #yellowstone-southwest-hero {
-        background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/morning-glory-pool-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #yellowstone-northwest-hero {
-        background: url(resources/images/wyoming/yellowstone-national-park/norris-geyser-basin/norris-basin-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/upper-geyser-basin/Old_Faithful_Geyser_20170822-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #yellowstone-upper-basin-hero {
