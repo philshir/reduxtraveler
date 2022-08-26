@@ -217,14 +217,14 @@ background: url(resources/images/alaska/interior-ak/fairbanks/Aerial_view_of_Fai
 background: url(resources/images/alaska/interior-ak/hurricane-turn/Hurricane_Turn_Train_JUN2015-1515.jpg) center no-repeat;
     background-size: cover;
 } 
-/* #kantishna-hero{
-background: url(resources/images/alaska/interior-ak) center no-repeat;
+#kantishna-hero{
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/kantishna/Denali_From_Kantishna_7956401934-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #murie-science-hero{
-background: url(resources/images/alaska/interior-ak) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/murie-science-and-learning-center/Murie_Science_and_Learning_Center_38750578611-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #nenana-river-hero{
 background: url(resources/images/alaska/interior-ak//denali-national-park-and-preserve/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-1515.jpg) center no-repeat;
     background-size: cover;
@@ -241,22 +241,22 @@ background: url(resources/images/alaska/interior-ak/parks-highway/Hurricane_Gulc
 background: url(resources/images/alaska/interior-ak/steese-highway/Steese_NCA-Birch_Ck_print-96_23480267490-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #talkeetna-roadhouse-hero{
-background: url(resources/images/alaska/interior-ak/talkeetna/) center no-repeat;
+#talkeetna-roadhouse-hero{
+background: url(resources/images/alaska/interior-ak/talkeetna-roadhouse/Talkeetna_Roadhouse_41938439291-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #talkeetna-hero{
 background: url(resources/images/alaska/interior-ak/talkeetna/Northern_lights_in_Talkeetna\,_Alaska_33576487241-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #teklanika-river-hero{
-background: url(resources/images/alaska/interior-ak/) center no-repeat;
+#teklanika-river-hero{
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/teklanika-river/The_Teklanika_River_seen_from_the_backside_of_Cathedral_Mountain_on_July_26\,_2019._94004efe-f0f7-46b5-97de-ccbb414779ef-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tolkat-river-hero{
-background: url(resources/images/alaska/interior-ak) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/toklat-river/Toklat_Waters_7980875919-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 /* Kenai Peninsula */
 #kenai-peninsula-hero{
 background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_the_Kenai_Peninsula-1515.jpg) center no-repeat;
@@ -302,10 +302,10 @@ background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_t
 background: url(resources/images/alaska/kenai-peninsula/resurrection-bay/Resurrection_Bay_ENBLA55-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #seward-hwy-hero{
-background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+#seward-hwy-hero{
+background: url(resources/images/alaska/kenai-peninsula/seward-highway/Scenic_view_from_the_Seward_highway_in_the_Chugach_National_Forest\,_Alaska_LCCN2010630958.tif-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #seward-ak-hero{
 background: url(resources/images/alaska/kenai-peninsula/seward/Seward_harbor-1515.jpg) center no-repeat;
     background-size: cover;
@@ -360,10 +360,10 @@ background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/W
 background: url(resources/images/alaska/southeast-ak/alaska-maritime-highway/Malaspina_At_Skagway-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #alaska-state-hero{
-background: url(resources/images/alaska/southeast-ak/juneau/) center no-repeat;
+#alaska-state-hero{
+background: url(resources/images/alaska/southeast-ak/juneau/alaska-state-capitol/Alaska_State_Capitol_Building-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #glacier-bay-hero{
 background: url(resources/images/alaska/southeast-ak/glacier-bay-national-park-and-preserve/Marjorie_Glacier\,_Glacier_Bay_National_Park_&_Preserve_6808651843-1515.jpg) center no-repeat;
     background-size: cover;
@@ -384,6 +384,10 @@ background: url(resources/images/alaska/southeast-ak/juneau/Downtown_Juneau_with
 background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_June_2009-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#star-ketchikan-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/ketchikan-star/Ketchikan\,_Alaska_The_Star_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #creek-street-hero{
     background: url(resources/images/alaska/southeast-ak/ketchikan/creek-street/Creek_Streetjs01-1515.jpg) center no-repeat;
     background-size: cover;
@@ -400,15 +404,18 @@ background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_Ju
     background: url(resources/images/alaska/southeast-ak/ketchikan/totem-heritage-center/Totem_Heritage_Center\,_Ketchikan\,_Alaska-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
+#sitka-nhp-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/sitka-national-historical-park/Sitka_National_Historical_Park_48754592307-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #klondike-nhp-hero{
 background: url(resources/images/alaska/southeast-ak/klondike-nhp/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_29-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #mendenhall-hero{
-background: url(resources/images/alaska/southeast-ak/) center no-repeat;
+#mendenhall-hero{
+background: url(resources/images/alaska/southeast-ak/mendenhall-glacier/Mendenhall_Glacier_Alaska-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #misty-fjords-hero{
 background: url(resources/images/alaska/southeast-ak/misty-fjords-national-monument/One_of_the_many_ocean_inlets_in_Misty_Fjords_National_Monument-1515.jpg) center no-repeat;
     background-size: cover;
@@ -457,10 +464,14 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background: url(resources/images/alaska/southeast-ak/wrangell/leconte-glacier/Sîpana_kendava_leconteAlaska-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #stikine-river-hero{
-    background: url(resources/images/alaska/southeast-ak/wrangell/) center no-repeat;
+#wrangell-narrows-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell-narrows/Dorothea_Packer_Wrangell_Narrows_131-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
+#stikine-river-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/stikine-river/Mt_Glenora_Stikine_Valley_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 /* Arizona */
 #meteor-hero{
@@ -7266,7 +7277,7 @@ background: url(resources/images/oregon/columbia-river-gorge/bridal-veil-falls/K
     background-size: cover;
 }
 #bridge-of-the-gods-hero{
-background: url(resources/images/oregon/columbia-river-gorge/bridge-of-the-gods/Bridge_of_the_Gods-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/columbia-river-gorge/bridge-of-the-gods/Bridge_of_the_Gods-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #chanticleer-point-hero{
@@ -7314,7 +7325,7 @@ background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-p
     background-size: cover;
 } */
 #historic-columbia-river-highway-hero{
-background: url(resources/images/oregon/columbia-river-gorge/historic-columbia-river-highway/Vista_House\,_Columbia_River_Highway\,_Oregon_23884096162-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/columbia-river-gorge/historic-columbia-river-highway/Vista_House\,_Columbia_River_Highway\,_Oregon_23884096162-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 /* #hole-wall-falls-hero{
@@ -7346,7 +7357,7 @@ background: url(resources/images/oregon/columbia-river-gorge/punch-bowl-falls/Pu
     background-size: cover;
 }
 #rooster-rock-hero{
-background: url(resources/images/oregon/columbia-river-gorge/rooster-rock-state-park/Rooster_Rock_State_Park\,_Oregon\,_2019_-_05-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/columbia-river-gorge/rooster-rock-state-park/Rooster_Rock_State_Park\,_Oregon\,_2019_-_05-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #starvation-creek-hero{
@@ -7395,7 +7406,7 @@ background: url(resources/images/oregon/john-day-fossil-beds-national-monument/s
     background-size: cover;
 }
 #lava-butte-or-hero{
-background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/newberry-national-volcanic-monument/newberry-lava-butte/Newberry_Volcanic_Park\,_OR_8-28-13c_10103442586-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #newberry-monument-hero{
@@ -7505,7 +7516,7 @@ background: url(resources/images/oregon/oregon-coast/tillamook-or/Tillamook_Chee
 }
 /* Portland, OR */
 #cathedral-park-hero{
-    background: url(resources/images/oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-1515.jpg) center no-repeat;
+    background: url(resources/images/oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #grotto-or-hero{
@@ -7525,7 +7536,7 @@ background: url(resources/images/oregon/portland-or/mcmenamins-kennedy-school/Ke
     background-size: cover;
 }
 #mill-ends-hero{
-background: url(resources/images/oregon/portland-or/mills-end-park/Mill_Ends_Park_2007-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/portland-or/mills-end-park/Mill_Ends_Park_2007-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #oregon-historical-society-hero{
@@ -7533,11 +7544,11 @@ background: url(resources/images/oregon/portland-or/oregon-historical-society-mu
     background-size: cover;
 }
 #pittock-mansion-hero{
-background: url(resources/images/oregon/portland-or/pittock-mansion/Rear_of_Pittock_Mansion-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/portland-or/pittock-mansion/Rear_of_Pittock_Mansion-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #portland-aerial-hero{
-background: url(resources/images/oregon/portland-or/portland-aerial-tram/PortlandTramCar3-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/portland-or/portland-aerial-tram/PortlandTramCar3-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #portland-japanese-hero{
@@ -7610,7 +7621,7 @@ background: url(resources/images/oregon/southeast-oregon/warner-valley/Warner_We
     background-size: cover;
 }
 #hells-canyon-hero{
-background: url(resources/images/oregon/hells-canyon-national-recreation-area/Hell_Canyon_4487060137-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/hells-canyon-national-recreation-area/Hell_Canyon_4487060137-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #mount-hood-railroad-hero{
@@ -7622,7 +7633,7 @@ background: url(resources/images/oregon/mount-hood-scenic-byway/Glaciers_on_Moun
     background-size: cover;
 }
 #mount-hood-hero{
-background: url(resources/images/oregon/mount-hood/Mount_Hood_2619s-1515.jpg) center no-repeat;
+background: url(resources/images/oregon/mount-hood/Mount_Hood_2619s-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #mount-jeff-hero{
@@ -10569,14 +10580,14 @@ background: url(resources/images/alaska/interior-ak/fairbanks/Aerial_view_of_Fai
 background: url(resources/images/alaska/interior-ak/hurricane-turn/Hurricane_Turn_Train_JUN2015-3030.jpg) center no-repeat;
     background-size: cover;
 } 
-/* #kantishna-hero{
-background: url(resources/images/alaska/interior-ak) center no-repeat;
+#kantishna-hero{
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/kantishna/Denali_From_Kantishna_7956401934-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #murie-science-hero{
-background: url(resources/images/alaska/interior-ak) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/murie-science-and-learning-center/Murie_Science_and_Learning_Center_38750578611-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #nenana-river-hero{
 background: url(resources/images/alaska/interior-ak//denali-national-park-and-preserve/nenana-river/Afluente_del_río_Nenana\,_McKinley_Park\,_Alaska\,_Estados_Unidos\,_2017-08-31\,_DD_06-3030.jpg) center no-repeat;
     background-size: cover;
@@ -10593,22 +10604,22 @@ background: url(resources/images/alaska/interior-ak/parks-highway/Hurricane_Gulc
 background: url(resources/images/alaska/interior-ak/steese-highway/Steese_NCA-Birch_Ck_print-96_23480267490-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #talkeetna-roadhouse-hero{
-background: url(resources/images/alaska/interior-ak/talkeetna/) center no-repeat;
+#talkeetna-roadhouse-hero{
+background: url(resources/images/alaska/interior-ak/talkeetna-roadhouse/Talkeetna_Roadhouse_41938439291-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #talkeetna-hero{
 background: url(resources/images/alaska/interior-ak/talkeetna/Northern_lights_in_Talkeetna\,_Alaska_33576487241-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #teklanika-river-hero{
-background: url(resources/images/alaska/interior-ak/) center no-repeat;
+#teklanika-river-hero{
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/teklanika-river/The_Teklanika_River_seen_from_the_backside_of_Cathedral_Mountain_on_July_26\,_2019._94004efe-f0f7-46b5-97de-ccbb414779ef-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #tolkat-river-hero{
-background: url(resources/images/alaska/interior-ak) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/toklat-river/Toklat_Waters_7980875919-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 /* Kenai Peninsula */
 #kenai-peninsula-hero{
 background: url(resources/images/alaska/kenai-peninsula/Lakes_and_mountains_on_the_Kenai_Peninsula-3030.jpg) center no-repeat;
@@ -10654,10 +10665,10 @@ background: url(resources/images/alaska/kenai-peninsula/mount-marathon/Mount_Ali
 background: url(resources/images/alaska/kenai-peninsula/resurrection-bay/Resurrection_Bay_ENBLA55-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #seward-hwy-hero{
-background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+#seward-hwy-hero{
+background: url(resources/images/alaska/kenai-peninsula/seward-highway/Scenic_view_from_the_Seward_highway_in_the_Chugach_National_Forest\,_Alaska_LCCN2010630958.tif-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #seward-ak-hero{
 background: url(resources/images/alaska/kenai-peninsula/seward/Seward_harbor-3030.jpg) center no-repeat;
     background-size: cover;
@@ -10712,10 +10723,10 @@ background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/W
 background: url(resources/images/alaska/southeast-ak/alaska-maritime-highway/Malaspina_At_Skagway-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #alaska-state-hero{
-background: url(resources/images/alaska/southeast-ak/juneau/) center no-repeat;
+#alaska-state-hero{
+background: url(resources/images/alaska/southeast-ak/juneau/alaska-state-capitol/Alaska_State_Capitol_Building-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #glacier-bay-hero{
 background: url(resources/images/alaska/southeast-ak/glacier-bay-national-park-and-preserve/Marjorie_Glacier\,_Glacier_Bay_National_Park_&_Preserve_6808651843-3030.jpg) center no-repeat;
     background-size: cover;
@@ -10736,6 +10747,10 @@ background: url(resources/images/alaska/southeast-ak/juneau/Downtown_Juneau_with
 background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_June_2009-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#star-ketchikan-hero{
+    background: url(resources/images/alaska/southeast-ak/ketchikan/ketchikan-star/Ketchikan\,_Alaska_The_Star_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #creek-street-hero{
     background: url(resources/images/alaska/southeast-ak/ketchikan/creek-street/Creek_Streetjs01-3030.jpg) center no-repeat;
     background-size: cover;
@@ -10752,14 +10767,18 @@ background: url(resources/images/alaska/southeast-ak/ketchikan/Ketchikan_sign_Ju
     background: url(resources/images/alaska/southeast-ak/ketchikan/totem-heritage-center/Totem_Heritage_Center\,_Ketchikan\,_Alaska-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#sitka-nhp-hero{
+    background: url(resources/images/alaska/southeast-ak/sitka/sitka-national-historical-park/Sitka_National_Historical_Park_48754592307-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #klondike-nhp-hero{
 background: url(resources/images/alaska/southeast-ak/klondike-nhp/Centro_histórico_de_Skagway\,_Alaska\,_Estados_Unidos\,_2017-08-18\,_DD_29-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #mendenhall-hero{
-background: url(resources/images/alaska/southeast-ak/) center no-repeat;
+#mendenhall-hero{
+background: url(resources/images/alaska/southeast-ak/mendenhall-glacier/Mendenhall_Glacier_Alaska-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #misty-fjords-hero{
 background: url(resources/images/alaska/southeast-ak/misty-fjords-national-monument/One_of_the_many_ocean_inlets_in_Misty_Fjords_National_Monument-3030.jpg) center no-repeat;
     background-size: cover;
@@ -10806,6 +10825,14 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
 }
 #leconte-glacier-hero{
     background: url(resources/images/alaska/southeast-ak/wrangell/leconte-glacier/Sîpana_kendava_leconteAlaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wrangell-narrows-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell-narrows/Dorothea_Packer_Wrangell_Narrows_131-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#stikine-river-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/stikine-river/Mt_Glenora_Stikine_Valley_01-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -16864,7 +16891,7 @@ background: url(resources/images/oregon/columbia-river-gorge/bridal-veil-falls/K
     background-size: cover;
 }
 #bridge-of-the-gods-hero{
-background: url(resources/images/oregon/columbia-river-gorge/bridge-of-the-gods/Bridge_of_the_Gods-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/columbia-river-gorge/bridge-of-the-gods/Bridge_of_the_Gods-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #chanticleer-point-hero{
@@ -16912,7 +16939,7 @@ background: url(resources/images/oregon/columbia-river-gorge/beacon-rock-state-p
     background-size: cover;
 } */
 #historic-columbia-river-highway-hero{
-background: url(resources/images/oregon/columbia-river-gorge/historic-columbia-river-highway/Vista_House\,_Columbia_River_Highway\,_Oregon_23884096162-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/columbia-river-gorge/historic-columbia-river-highway/Vista_House\,_Columbia_River_Highway\,_Oregon_23884096162-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 /* #hole-wall-falls-hero{
@@ -16944,7 +16971,7 @@ background: url(resources/images/oregon/columbia-river-gorge/punch-bowl-falls/Pu
     background-size: cover;
 }
 #rooster-rock-hero{
-background: url(resources/images/oregon/columbia-river-gorge/rooster-rock-state-park/Rooster_Rock_State_Park\,_Oregon\,_2019_-_05-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/columbia-river-gorge/rooster-rock-state-park/Rooster_Rock_State_Park\,_Oregon\,_2019_-_05-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #starvation-creek-hero{
@@ -16993,7 +17020,7 @@ background: url(resources/images/oregon/john-day-fossil-beds-national-monument/s
     background-size: cover;
 }
 #lava-butte-or-hero{
-background: url(resources/images/oregon/newberry-national-volcanic-monument/Newberry_Volcanic_National_Monument\,_Paulina_Peak_Overlook-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/newberry-national-volcanic-monument/newberry-lava-butte/Newberry_Volcanic_Park\,_OR_8-28-13c_10103442586-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #newberry-monument-hero{
@@ -17103,7 +17130,7 @@ background: url(resources/images/oregon/oregon-coast/tillamook-or/Tillamook_Chee
 }
 /* Portland, OR */
 #cathedral-park-hero{
-    background: url(resources/images/oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-3030.jpg) center no-repeat;
+    background: url(resources/images/oregon/portland-or/cathedral-park/St_Johns_Bridge_from_Cathedral_Park_downstream_-_Portland\,_Oregon-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #grotto-or-hero{
@@ -17123,7 +17150,7 @@ background: url(resources/images/oregon/portland-or/mcmenamins-kennedy-school/Ke
     background-size: cover;
 }
 #mill-ends-hero{
-background: url(resources/images/oregon/portland-or/mills-end-park/Mill_Ends_Park_2007-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/portland-or/mills-end-park/Mill_Ends_Park_2007-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #oregon-historical-society-hero{
@@ -17131,11 +17158,11 @@ background: url(resources/images/oregon/portland-or/oregon-historical-society-mu
     background-size: cover;
 }
 #pittock-mansion-hero{
-background: url(resources/images/oregon/portland-or/pittock-mansion/Rear_of_Pittock_Mansion-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/portland-or/pittock-mansion/Rear_of_Pittock_Mansion-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #portland-aerial-hero{
-background: url(resources/images/oregon/portland-or/portland-aerial-tram/PortlandTramCar3-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/portland-or/portland-aerial-tram/PortlandTramCar3-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #portland-japanese-hero{
@@ -17208,7 +17235,7 @@ background: url(resources/images/oregon/southeast-oregon/warner-valley/Warner_We
     background-size: cover;
 }
 #hells-canyon-hero{
-background: url(resources/images/oregon/hells-canyon-national-recreation-area/Hell_Canyon_4487060137-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/hells-canyon-national-recreation-area/Hell_Canyon_4487060137-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #mount-hood-railroad-hero{
@@ -17220,7 +17247,7 @@ background: url(resources/images/oregon/mount-hood-scenic-byway/Glaciers_on_Moun
     background-size: cover;
 }
 #mount-hood-hero{
-background: url(resources/images/oregon/mount-hood/Mount_Hood_2619s-3030.jpg) center no-repeat;
+background: url(resources/images/oregon/mount-hood/Mount_Hood_2619s-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #mount-jeff-hero{
