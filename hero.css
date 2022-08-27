@@ -60,7 +60,7 @@
 /* Alaska 
 Alaska Peninsula and Aleutian Islands*/
 #katmai-np-hero{
-    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-np/Katmai_Crater_1980-1515.jpg) center no-repeat;
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/Katmai_Crater_1980-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #brooks-camp-hero{
@@ -111,7 +111,7 @@ background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/un
     background-size: cover;
 } */
 #lake-clark-np-hero{
-background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/lake-clark-np/Chakachamna_Lake_near_Lake_Clark\,_Alaska-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/lake-clark-national-park-and-preserve/Chakachamna_Lake_near_Lake_Clark\,_Alaska-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mcneil-river-hero{
@@ -198,11 +198,11 @@ background: url(resources/images/alaska/interior-ak/denali-highway/Denali_Highwa
     background-size: cover;
 }
 #denali-np-hero{
-background: url(resources/images/alaska/interior-ak/denali-np/Every_Road-_Denali_7945497984-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/Every_Road-_Denali_7945497984-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #denali-hero{
-background: url(resources/images/alaska/interior-ak/denali-np/denali/Mount_McKinley_and_Denali_National_Park_Road_2048px-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/denali/Mount_McKinley_and_Denali_National_Park_Road_2048px-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #elliot-hwy-hero{
@@ -267,7 +267,7 @@ background: url(resources/images/alaska/kenai-peninsula/caines-head-state-recrea
     background-size: cover;
 }
 #exit-glacier-hero{
-background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/exit-glacier/Exit_Glacier_Jul09-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/exit-glacier/Exit_Glacier_Jul09-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* #fort-mcgilvray-hero{
@@ -275,7 +275,7 @@ background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
     background-size: cover;
 } */
 #harding-icefield-hero{
-background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/harding-icefield/Harding_Icefield-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/harding-icefield/Harding_Icefield-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #homer-ak-hero{
@@ -291,7 +291,7 @@ background: url(resources/images/alaska/kenai-peninsula/kenai-ak/Holy_Assumption
     background-size: cover;
 }
 #kenai-np-hero{
-background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/Harding_Icefield_1-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/Harding_Icefield_1-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mount-marathon-hero{
@@ -4081,6 +4081,30 @@ background: url(resources/images/hawaii/maui/hana/HanaBeachPark-1515.jpg) no-rep
 background: url(resources/images/hawaii/maui/hana/road-to-hana/Hana_Belt_Road\,_Between_Haiku_and_Kaipahulu\,_Hana_vicinity_Maui_County\,_Hawaii-1515.jpg) no-repeat center;
     background-size: cover;
 }
+#hookipa-hero{
+background: url(resources/images/hawaii/maui/hookipa/Hookipa_Beach_3521261612-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#kahanu-garden-hero{
+background: url(resources/images/hawaii/maui/kahanu-garden/Maui-Piilanihale-canoehouse-enclosure-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#kaumahina-hero{
+background: url(resources/images/hawaii/maui/kaumahina/Starr-090618-1118-Epipremnum_pinnatum-climbing_Eucalyptus_trees-Kaumahina_Wayside_Hana_Hwy-Maui_24338837373-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#keanae-hero{
+background: url(resources/images/hawaii/maui/keanae-arboretum/Rainbow-eucalyptus-Keanae-Arboretum-Maui-Trailblazer-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#puaa-hero{
+background: url(resources/images/hawaii/maui/puaa-kaa/Starr-140222-0353-Dicranopteris_linearis-habit_with_waterfall_and_pool-Puaa_Kaa_Hana_Hwy-Maui_25147393361-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#waianapanapa-hero{
+    background: url(resources/images/hawaii/maui/waianapanapa-sp/20190213_SKJ0839-1515.jpg) no-repeat center;
+    background-size: cover;
+}
 #enchanted-floral-kula-hero{
 background: url(resources/images/hawaii/maui/enchanted-floral-gardens/Starr-980529-4235-Hymenocallis_sp-flower-Enchanting_Floral_Gardens_of_Kula-Maui_24514038655-1515.jpg) no-repeat center;
     background-size: cover;
@@ -4512,12 +4536,28 @@ background: url(resources/images/idaho/galena-summit/Sawtooth_Valley_ID1-1515.jp
 background: url(resources/images/idaho/menan-buttes/Menan_Buttes-_Wyoming_big_sagebrush_steppe_23496626626-1515.jpg) no-repeat center;
     background-size: cover;
 }
+#perrine-bridge-hero{
+    background: url(resources/images/idaho/perrine-memorial-bridge/Perrine_bridge_20070602-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#big-southern-butte-hero{
+    background: url(resources/images/idaho/big-southern-butte/Nearing_the_Big_Butte_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#ketchum-hero{
+    background: url(resources/images/idaho/ketchum-id/Ketchum_Sun_Valley_in_winter-1515.jpg) no-repeat center;
+    background-size: cover;
+}
 #sawtooth-nra-hero{
 background: url(resources/images/idaho/sawtooth-national-recreation-area/Sawtooth_Mountains_and_Salmon_River-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #shoshone-falls-hero{
 background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_Falls_-_panoramio-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#stanley-lake-hero{
+    background: url(resources/images/idaho/stanley-lake/Stanley_Lake-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #sun-valley-hero{
@@ -4816,7 +4856,7 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
     background-size: cover;
 }
 #pella-ia-hero{
-    background: url(resources/images/iowa/pella-ia/Information_Center_in_Pella_IA_-_panoramio-1515.jpg) no-repeat center;
+    background: url(resources/images/iowa/pella-ia/Information_Center_in_Pella_IA_-_panoramio-1515.jpg) no-repeat bottom;
     background-size: cover;
 }
 
@@ -6093,12 +6133,12 @@ background: url(resources/images/montana/glacier-national-park/sun-point/Sun_Poi
     background-size: cover;
 }
 #swiftcurrent-lake-hero{
-    background: url(resources/images/montana/glacier-national-park/swiftcurrent-lake/Lakeside_View_11415064175-1515.jpg) center no-repeat;
+    background: url(resources/images/montana/glacier-national-park/swiftcurrent-lake/Lakeside_View_11415064175-1515.jpg) top no-repeat;
     background-size: cover;
 }
 
 #going-sun-hero{
-background: url(resources/images/montana/glacier-national-park/going-to-the-sun-road/Going-to-the-Sun_Road-1515.jpg) center no-repeat;
+background: url(resources/images/montana/glacier-national-park/going-to-the-sun-road/Going-to-the-Sun_Road-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #highline-trail-hero{
@@ -7347,7 +7387,7 @@ background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrenc
 }
 /* ----------------------------North Dakota ----------------------------*/
 #bismarck-hero{
-    background: url(resources/images/north-dakota/bismarck-nd/2009-0521-ND-StateCapitol_cropped-1515.jpg) center no-repeat;
+    background: url(resources/images/north-dakota/bismarck-nd/2009-0521-ND-StateCapitol_cropped-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #fargo-hero{
@@ -7368,6 +7408,22 @@ background: url(resources/images/north-dakota/white-butte/White_butte_1-1515.jpg
 }
 #worlds-buffalo-hero{
     background: url(resources/images/north-dakota/worlds-largest-buffalo/Buffalo_statue_jamestown_north_dakota-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#theodore-np-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/View_of_Theodore_Roosevelt_National_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#medora-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/medora-nd/Chimney_Park_from_Theodore_Roosevelt_National_Park_Medora_ND1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#theodore-north-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/north-unit/Little_Missouri_River_North_Unit_TR_National_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#theodore-south-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/south-unit/Painted_Canyon_overlook_Theodore_Roosevelt_NP2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -8308,6 +8364,22 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
 }
 
 /* ----------------------South Dakota */
+#falls-park-hero{
+background: url(resources/images/south-dakota/falls-park/Sioux_falls_sd_lg-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-st-joseph-hero{
+background: url(resources/images/south-dakota/cathedral-of-st-joseph/St._Joseph_Cathedral_Sioux_Falls_31-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#needles-hwy-hero{
+background: url(resources/images/south-dakota/needles-highway/Needles_Highway_05-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#needles-black-hills-hero{
+    background: url(resources/images/south-dakota/needles/South_Dakota_-_Needles_-_20200919091900-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #crazy-horse-memorial-hero{
     background: url(resources/images/south-dakota/crazy-horse-memorial/CrazyHorse-1515.jpg) center no-repeat;
     background-size: cover;
@@ -10235,10 +10307,10 @@ background: url(resources/images/wisconsin/door-county/ephraim-wi/Ephraim_Water_
 background: url(resources/images/wisconsin/door-county/peninsula-state-park/Gfp-wisconsin-peninsula-state-park-islands-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #ridges-sanctuary-hero{
-background: url(resources/images/wisconsin/grand-teton-national-park/wyoming-hero-1515.jpg) center no-repeat;
+#ridges-sanctuary-hero{
+background: url(resources/images/wisconsin/ridges-sanctuary/The_Ridges_Sanctuary-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #sister-bay-hero{
 background: url(resources/images/wisconsin/door-county/sister-bay-wi/Sister_Bay_Harbor_in_Door_County\,_Wisconsin\,_May_25\,_2013-1515.jpg) center no-repeat;
     background-size: cover;
@@ -10411,6 +10483,10 @@ background: url(resources/images/wyoming/grand-teton-national-park/string-lake/S
 }
 #taggart-lake-hero{
 background: url(resources/images/wyoming/grand-teton-national-park/taggart-lake/Taggart_Lake_29805486345-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jackson-wy-hero{
+    background: url(resources/images/wyoming/jackson-wy/Jackson_from_snowking-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #artist-point-yellowstone-hero{
@@ -10658,7 +10734,7 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
     /* Alaska 
 Alaska Peninsula and Aleutian Islands*/
 #katmai-np-hero{
-    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-np/Katmai_Crater_1980-3030.jpg) center no-repeat;
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/Katmai_Crater_1980-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #brooks-camp-hero{
@@ -10709,7 +10785,7 @@ background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/un
     background-size: cover;
 } */
 #lake-clark-np-hero{
-background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/lake-clark-np/Chakachamna_Lake_near_Lake_Clark\,_Alaska-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/lake-clark-national-park-and-preserve/Chakachamna_Lake_near_Lake_Clark\,_Alaska-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #mcneil-river-hero{
@@ -10796,11 +10872,11 @@ background: url(resources/images/alaska/interior-ak/denali-highway/Denali_Highwa
     background-size: cover;
 }
 #denali-np-hero{
-background: url(resources/images/alaska/interior-ak/denali-np/Every_Road-_Denali_7945497984-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/Every_Road-_Denali_7945497984-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #denali-hero{
-background: url(resources/images/alaska/interior-ak/denali-np/denali/Mount_McKinley_and_Denali_National_Park_Road_2048px-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/interior-ak/denali-national-park-and-preserve/denali/Mount_McKinley_and_Denali_National_Park_Road_2048px-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #elliot-hwy-hero{
@@ -10865,7 +10941,7 @@ background: url(resources/images/alaska/kenai-peninsula/caines-head-state-recrea
     background-size: cover;
 }
 #exit-glacier-hero{
-background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/exit-glacier/Exit_Glacier_Jul09-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/exit-glacier/Exit_Glacier_Jul09-3030.jpg) center no-repeat;
     background-size: cover;
 }
 /* #fort-mcgilvray-hero{
@@ -10873,7 +10949,7 @@ background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
     background-size: cover;
 } */
 #harding-icefield-hero{
-background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/harding-icefield/Harding_Icefield-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/harding-icefield/Harding_Icefield-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #homer-ak-hero{
@@ -10889,7 +10965,7 @@ background: url(resources/images/alaska/kenai-peninsula/kenai-ak/Holy_Assumption
     background-size: cover;
 }
 #kenai-np-hero{
-background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-np/Harding_Icefield_1-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/Harding_Icefield_1-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #mount-marathon-hero{
@@ -14674,6 +14750,30 @@ background: url(resources/images/hawaii/maui/hana/HanaBeachPark-3030.jpg) no-rep
 background: url(resources/images/hawaii/maui/hana/road-to-hana/Hana_Belt_Road\,_Between_Haiku_and_Kaipahulu\,_Hana_vicinity_Maui_County\,_Hawaii-3030.jpg) no-repeat center;
     background-size: cover;
 }
+#hookipa-hero{
+    background: url(resources/images/hawaii/maui/hookipa/Hookipa_Beach_3521261612-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #kahanu-garden-hero{
+    background: url(resources/images/hawaii/maui/kahanu-garden/Maui-Piilanihale-canoehouse-enclosure-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #kaumahina-hero{
+    background: url(resources/images/hawaii/maui/kaumahina/Starr-090618-1118-Epipremnum_pinnatum-climbing_Eucalyptus_trees-Kaumahina_Wayside_Hana_Hwy-Maui_24338837373-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #keanae-hero{
+    background: url(resources/images/hawaii/maui/keanae-arboretum/Rainbow-eucalyptus-Keanae-Arboretum-Maui-Trailblazer-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #puaa-hero{
+    background: url(resources/images/hawaii/maui/puaa-kaa/Starr-140222-0353-Dicranopteris_linearis-habit_with_waterfall_and_pool-Puaa_Kaa_Hana_Hwy-Maui_25147393361-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #waianapanapa-hero{
+        background: url(resources/images/hawaii/maui/waianapanapa-sp/20190213_SKJ0839-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
 #enchanted-floral-kula-hero{
 background: url(resources/images/hawaii/maui/enchanted-floral-gardens/Starr-980529-4235-Hymenocallis_sp-flower-Enchanting_Floral_Gardens_of_Kula-Maui_24514038655-3030.jpg) no-repeat center;
     background-size: cover;
@@ -15105,12 +15205,28 @@ background: url(resources/images/idaho/galena-summit/Sawtooth_Valley_ID1-3030.jp
 background: url(resources/images/idaho/menan-buttes/Menan_Buttes-_Wyoming_big_sagebrush_steppe_23496626626-3030.jpg) no-repeat center;
     background-size: cover;
 }
+#perrine-bridge-hero{
+    background: url(resources/images/idaho/perrine-memorial-bridge/Perrine_bridge_20070602-3030.jpg) no-repeat center;
+    background-size: cover;
+}
+#ketchum-hero{
+    background: url(resources/images/idaho/ketchum-id/Ketchum_Sun_Valley_in_winter-3030.jpg) no-repeat center;
+    background-size: cover;
+}
+#big-southern-butte-hero{
+    background: url(resources/images/idaho/big-southern-butte/Nearing_the_Big_Butte_-_panoramio-3030.jpg) no-repeat center;
+    background-size: cover;
+}
 #sawtooth-nra-hero{
 background: url(resources/images/idaho/sawtooth-national-recreation-area/Sawtooth_Mountains_and_Salmon_River-3030.jpg) no-repeat center;
     background-size: cover;
 }
 #shoshone-falls-hero{
 background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_Falls_-_panoramio-3030.jpg) no-repeat center;
+    background-size: cover;
+}
+#stanley-lake-hero{
+    background: url(resources/images/idaho/stanley-lake/Stanley_Lake-3030.jpg) no-repeat center;
     background-size: cover;
 }
 #sun-valley-hero{
@@ -15409,7 +15525,7 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
         background-size: cover;
     }
     #pella-ia-hero{
-        background: url(resources/images/iowa/pella-ia/Information_Center_in_Pella_IA_-_panoramio-3030.jpg) no-repeat center;
+        background: url(resources/images/iowa/pella-ia/Information_Center_in_Pella_IA_-_panoramio-3030.jpg) no-repeat bottom;
         background-size: cover;
     }
     
@@ -16216,7 +16332,7 @@ background: url(resources/images/montana/glacier-national-park/2015-06-19_Glacie
         background-size: cover;
     }
 #going-sun-hero{
-background: url(resources/images/montana/glacier-national-park/going-to-the-sun-road/Going-to-the-Sun_Road-3030.jpg) center no-repeat;
+background: url(resources/images/montana/glacier-national-park/going-to-the-sun-road/Going-to-the-Sun_Road-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #highline-trail-hero{
@@ -17193,7 +17309,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
 
     /* ----------------------------North Dakota ----------------------------*/
 #bismarck-hero{
-    background: url(resources/images/north-dakota/bismarck-nd/2009-0521-ND-StateCapitol_cropped-3030.jpg) center no-repeat;
+    background: url(resources/images/north-dakota/bismarck-nd/2009-0521-ND-StateCapitol_cropped-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #fargo-hero{
@@ -17214,6 +17330,22 @@ background: url(resources/images/north-dakota/white-butte/White_butte_1-3030.jpg
 }
 #worlds-buffalo-hero{
     background: url(resources/images/north-dakota/worlds-largest-buffalo/Buffalo_statue_jamestown_north_dakota-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#theodore-np-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/View_of_Theodore_Roosevelt_National_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#medora-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/medora-nd/Chimney_Park_from_Theodore_Roosevelt_National_Park_Medora_ND1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#theodore-north-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/north-unit/Little_Missouri_River_North_Unit_TR_National_Park-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#theodore-south-hero{
+    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/south-unit/Painted_Canyon_overlook_Theodore_Roosevelt_NP2-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -18906,6 +19038,22 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     }
 
   /* ----------------------South Dakota */
+  #falls-park-hero{
+    background: url(resources/images/south-dakota/falls-park/Sioux_falls_sd_lg-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cathedral-st-joseph-hero{
+    background: url(resources/images/south-dakota/cathedral-of-st-joseph/St._Joseph_Cathedral_Sioux_Falls_31-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #needles-hwy-hero{
+    background: url(resources/images/south-dakota/needles-highway/Needles_Highway_05-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #needles-black-hills-hero{
+        background: url(resources/images/south-dakota/needles/South_Dakota_-_Needles_-_20200919091900-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
   #crazy-horse-memorial-hero{
     background: url(resources/images/south-dakota/crazy-horse-memorial/CrazyHorse-3030.jpg) center no-repeat;
     background-size: cover;
@@ -19628,10 +19776,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     background: url(resources/images/wisconsin/door-county/peninsula-state-park/Gfp-wisconsin-peninsula-state-park-islands-3030.jpg) center no-repeat;
         background-size: cover;
     }
-  /*   #ridges-sanctuary-hero{
-    background: url(resources/images/wisconsin/door-county/) center no-repeat;
+    #ridges-sanctuary-hero{
+    background: url(resources/images/wisconsin/ridges-sanctuary/The_Ridges_Sanctuary-3030.jpg) center no-repeat;
         background-size: cover;
-    } */
+    }
     #sister-bay-hero{
     background: url(resources/images/wisconsin/door-county/sister-bay-wi/Sister_Bay_Harbor_in_Door_County\,_Wisconsin\,_May_25\,_2013-3030.jpg) center no-repeat;
         background-size: cover;
@@ -19804,6 +19952,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         }
         #taggart-lake-hero{
         background: url(resources/images/wyoming/grand-teton-national-park/taggart-lake/Taggart_Lake_29805486345-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #jackson-wy-hero{
+            background: url(resources/images/wyoming/jackson-wy/Jackson_from_snowking-3030.jpg) center no-repeat;
             background-size: cover;
         }
         /* #artist-point-yellowstone-hero{
