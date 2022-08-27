@@ -67,10 +67,10 @@ Alaska Peninsula and Aleutian Islands*/
     background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/brooks-camp/Mouth_of_Brooks_River\,_Brooks_Camp_04072016_-_13_26285923526-1515.jpg) center no-repeat;
         background-size: cover;
     }
-    /* #brooks-falls-hero{
-    background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-1515.jpg) center no-repeat;
-        background-size: cover;
-    } */
+    #brooks-falls-hero{
+        background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/Katmai_Crater_1980-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #hallo-bay-hero{
     background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/hallo-bay/Katmai_Flyover_11_7_17_38572555591-1515.jpg) center no-repeat;
         background-size: cover;
@@ -641,6 +641,30 @@ background: url(resources/images/arizona/glen-canyon-national-recreation-area/le
 background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/Saguaro_National_Park_East-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#desert-ecology-hero{
+    background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/desert-ecology-trail/Desert_Ecology_Trail_3442968701-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tanque-verde-hero{
+    background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/tanque-verde-ridge-trail/Saguaro_habitat_31680894623-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cactus-garden-hero{
+    background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/cactus-garden-trail/cactus-garden-trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hugh-norris-hero{
+    background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/hugh-norris-trail/Hugh_Norris_Trail_18_6968722417-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sendero-esperanza-hero{
+    background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/sendero-esperanza-trail/Wandering_107735283-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#valley-view-overlook-hero{
+    background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/valley-view-overlook-trail/valley-view-overlook-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 #chelly-hero{
     background: url(resources/images/arizona/canyon-de-chelly-national-monument/canyon-de-chelly-hero-1515.jpg) center no-repeat;
@@ -1184,10 +1208,6 @@ background: url(resources/images/arkansas/lake-dardenelle-state-park/lake-darden
     background: url(resources/images/arkansas/petit-jean-state-park/cedar-creek-trail/petit-jean-cedar-creek-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#cedar-falls-hero{
-    background: url(resources/images/arkansas/petit-jean-state-park/petit-jean-cedar-falls-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #seven-hollows-hero{
     background: url(resources/images/arkansas/petit-jean-state-park/seven-hollows-trail/petit-jean-seven-hollows-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1390,7 +1410,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #antelope-valley-hero{
-    background: url(resources/images/california/antelope-valley-preserve/Wildflowers_at_California_Poppy_Reserve-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/antelope-valley-california-poppy-reserve-state-natural-reserve/Wildflowers_at_California_Poppy_Reserve-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bodie-hero{
@@ -1741,7 +1761,7 @@ background: url(resources/images/california/los-angeles/sunset-boulevard/Sunset_
     background-size: cover;
 }
 #tcl-chinese-hero{
-background: url(resources/images/california/los-angeles/tcl-chinese-theatre/2013\,_Hollywood_Boulevard\,_TCL_Chinese_Theatre_-_panoramio-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/tcl-chinese-theatre/Graumans_Chinese_Theatre-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #echo-park-hero{
@@ -1822,7 +1842,7 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
     background-size: cover;
 }
 #hollywood-sign-hero{
-    background: url(resources/images/california/los-angeles/hollywood-sign/hollywood-sign-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/hollywood-sign/2560px-Hollywood_Sign-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hollywood-walk-hero{
@@ -2875,7 +2895,7 @@ background: url(resources/images/colorado/florissant-fossil-beds-national-monume
     background-size: cover;
 }
 #san-juan-skyway-hero{
-    background: url(resources/images/colorado/san-juan/san-juan-skyway-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/million-dollar-highway/Highway_550_the_Million_Dollar_Highway_between_Silverton_and_Ouray_in_Colorado_29466637288-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* Connecticut */
@@ -3074,7 +3094,8 @@ background: url(resources/images/delaware/winterthur-museum-garden-and-library/W
 
 /* Florida */
 #cape-canaveral-hero{
-    background: url(resources/images/florida/cape-canaveral/Space_shuttles_Atlantis_STS-125_and_Endeavour_STS-400_on_launch_pads-1515.jpg)
+    background: url(resources/images/florida/cape-canaveral/Space_shuttles_Atlantis_STS-125_and_Endeavour_STS-400_on_launch_pads-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #canaveral-seashore-hero{
     background: url(resources/images/florida/cape-canaveral/canaveral-national-seashore/CanaveralNationalSeashore4-1515.jpg) center no-repeat;
@@ -3097,7 +3118,7 @@ background: url(resources/images/florida/camp-helen-state-park/PC_Beach_Camp_Hel
     background-size: cover;
 }
 #destin-hero{
-background: url(resources/images/florida/destin/Crab_Island-1515.jpg) center no-repeat;
+background: url(resources/images/florida/destin/Crab_Island-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #grayton-beach-hero{
@@ -3432,7 +3453,7 @@ background: url(resources/images/florida/big-cat-rescue/Tiger_Couple_291101732-1
     background-size: cover;
 }
 #caladesi-island-hero{
-background: url(resources/images/florida/cape-canaveral/canaveral-national-seashore/CanaveralNationalSeashore4-1515.jpg) center no-repeat;
+background: url(resources/images/florida/caladesi-island-state-park/Sunset_Over_Hurricane_Pass_7853564074-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #clearwater-beach-hero{
@@ -3776,7 +3797,7 @@ background: url(resources/images/georgia/savannah/wormsloe-historic-site/Worlsol
     background-size: cover;
 }
 #jekyll-island-hero{
-background: url(resources/images/georgia/jekyll-island/jekyll-island-hero-1515.jpg) center no-repeat;
+background: url(resources/images/georgia/jekyll-island/21-06-070-beach-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #okefenokee-nwr-hero{
@@ -3813,6 +3834,18 @@ background: url(resources/images/georgia/st-simons-island/st-simons-island-hero-
 }
 #tybee-hero{
     background: url(resources/images/georgia/savannah/tybee-island/tybee-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#anna-ruby-falls-hero{
+    background: url(resources/images/georgia/anna-ruby-falls/Anna_Ruby_Falls_Helen_Georgia_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#brasstown-hero{
+    background: url(resources/images/georgia/brasstown-bald/View_from_Brasstown_Bald_6241053591-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-frederica-hero{
+    background: url(resources/images/georgia/fort-frederica-national-monument/Fort_Frederica_National_Monument_97-3030.jpg) top no-repeat;
     background-size: cover;
 }
 
@@ -4807,7 +4840,11 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
     background-size: cover;
 }
 #mammoth-hero{
-    background: url(resources/images/kentucky/mammoth-cave-national-park/mammoth-cave-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/kentucky/mammoth-cave-national-park/Mammoth_Cave_Historic_Entrance_NPS-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#green-river-ky-hero{
+    background: url(resources/images/kentucky/mammoth-cave-national-park/green-river/Green_River_NPS-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #belle-louisville-hero{
@@ -4895,7 +4932,7 @@ background: url(resources/images/kentucky/kentucky-bourbon-trail/Jim_Beam_-_Amer
     background-size: cover;
 }
 #kentucky-horse-park-hero{
-background: url(resources/images/kentucky/lexington/Lexington\,_KY\,_USA_-_panoramio_1-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/kentucky-horse-park/Gate_at_Kentucky_Horse_Park-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #kentucky-state-capitol-hero{
@@ -4903,7 +4940,7 @@ background: url(resources/images/kentucky/kentucky-state-capitol/U.S._Route_60_F
     background-size: cover;
 }
 #lexington-hero{
-background: url(resources/images/kentucky/lexington/Lexington\,_KY\,_USA_-_panoramio_1-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/Lexington\,_KY\,_USA_-_panoramio_1-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #natural-bridge-kentucky-hero{
@@ -4911,7 +4948,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #red-river-gorge-hero{
-    background: url(resources/images/kentucky/red-river-gorge-geological-area/Red_River_Gorge_-_Motherlode_4-1515.jpg) center no-repeat;
+    background: url(resources/images/kentucky/red-river-gorge-geological-area/Red_River_Gorge_-_Motherlode_4-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 
@@ -6496,6 +6533,10 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
 background: url(resources/images/new-mexico/abiquiu/ghost-ranch/Ghost_Ranch_redrock_cliffs-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#plaza-blanca-hero{
+    background: url(resources/images/new-mexico/abiquiu/plaza-blanca-historic-district/Plaza_Blanca\,_Abiquiu\,_New_Mexico_43605000194-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #aztec-ruins-hero{
 background: url(resources/images/new-mexico/aztec-ruins-national-monument/Aztec_Ruins_National_Monument_by_RO-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6553,13 +6594,13 @@ background: url(resources/images/new-mexico/santa-fe/barrio-de-analco-historic-d
     background-size: cover;
 }
 #canyon-road-nm-hero{
-    background: url(resources/images/new-mexico/santa-fe/canyon-road/Canyon_Road_in_Santa_Fe\,_New_Mexico\,_USA_\(103\)-1515.jpg) center no-repeat;
+    background: url(resources/images/new-mexico/santa-fe/canyon-road/Canyon_Road_in_Santa_Fe\,_New_Mexico\,_USA_103-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #cathedral-st-francis-hero{
-background: url(resources/images/new-mexico/santa-fe/) center no-repeat;
+#cathedral-st-francis-hero{
+background: url(resources/images/new-mexico/santa-fe/cathedral-basilica-of-st-francis-de-assisi/Cathedral_Basilica_of_St._Francis_of_Assisi_-_A_-_Sarah_Stierch-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #cristo-rey-church-hero{
 background: url(resources/images/new-mexico/santa-fe/cristo-rey-church/Cristo_Rey_Church\,_1120_Canyon_Rd\,_Santa_Fe\,_USA_-_panoramio_\(1\)-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6700,6 +6741,50 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background: url(resources/images/new-mexico/carlsbad-caverns-national-park/View_inside_Carlsbad_Cavern-66-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bat-flight-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/bat-flight/Bat_Flight_from_inside_Natural_Entrance_51337179183-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hall-white-giant-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/hall-of-the-white-giant/Hall_of_the_White_Giant\,_Carlsbad_Cavern_51202026945-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kings-palace-nm-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/kings-palace/Pool_-_Green_Lake_Room\,_Carlsbad_Cavern_51202310532-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#left-hand-tunnel-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/left-hand-tunnel/Sherwood_Forest\,_Left_Hand_Tunnel\,_Carlsbad_Cavern_51336949951-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lower-cave-carlsbad-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/lower-cave/Visitors_-_Lower_Cave_Tour\,_Carlsbad_Cavern_51203917759-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#natural-entrance-carlsbad-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/natural-entrance/Historic_Carlsbad_Caverns_in_New_Mexico-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rattlesnake-springs-nm-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/rattlesnake-springs/Rattlesnake_Springs_Picnic_Area_51234084261-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#slaughter-cave-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/slaughter-canyon-cave/Clansman\,_Slaughter_Canyon_Cave_51203372248-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spider-cave-hero{
+background: url(resources/images/new-mexico/carlsbad-caverns-national-park/slaughter-canyon-cave/spider-cave/A_Forest_of_Columns_-_Spider_Cave_51203069916-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#walnut-canyon-desert-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/walnut-canyon-desert-drive/Walnut_Canyon_Overlook_51202787716-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#valles-caldera-hero{
+    background: url(resources/images/new-mexico/valles-caldera-national-preserve/Coyote_Call_Trail_looking_out_towards_Valles_Caldera\,_New_Mexico_7262022058-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
 #santa-fe-hero{
     background: url(resources/images/new-mexico/santa-fe/santa-fe-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6708,8 +6793,106 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-15
     background: url(resources/images/new-mexico/white-sands-national-park/white-sands-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
-
+#bernard-beimer-hero{
+background: url(resources/images/new-mexico/taos/bernard-j-beimer-house/Beimer_House\,_Taos\,_NM-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dh-lawrence-ranch-hero{
+background: url(resources/images/new-mexico/taos/d-h-lawrence-ranch/Lawrence_Ranch-view_up_to_Memorial-ext-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#eanger-irving-hero{
+background: url(resources/images/new-mexico/taos/eanger-irving-couse-house-and-studio/Couse_Studio\,_Taos_NM-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ernest-blumenschein-hero{
+background: url(resources/images/new-mexico/taos/eanger-irving-couse-house-and-studio/Couse_Studio\,_Taos_NM-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kit-house-hero{
+background: url(resources/images/new-mexico/taos/kit-carson-house/Kit_Carson_Home\,_courtyard-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-loma-plaza-hero{
+background: url(resources/images/new-mexico/taos/la-loma-plaza-historic-district/La_Loma_Plaza_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-morada-hero{
+background: url(resources/images/new-mexico/taos/la-morada-de-nuestra-senora-de-guadalupe/La_Morada_de_Nuestra_Senora_de_Guadalupe_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#leon-gaspard-hero{
+background: url(resources/images/new-mexico/taos/leon-gaspard-house/Gaspard_Detail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mabel-dodge-hero{
+background: url(resources/images/new-mexico/taos/mabel-dodge-luhan-house/Mabel_Dodge_Luhan_6-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#martinez-hacienda-hero{
+background: url(resources/images/new-mexico/taos/martinez-hacienda/Martinez_Hacienda_Exterior_Front_of_Hacienda-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#nicolai-fechin-hero{
+background: url(resources/images/new-mexico/taos/nicolai-fechin-house/Taos_Fechin_House-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ojo-hot-springs-barn-hero{
+background: url(resources/images/new-mexico/taos/ojo-calienta-hot-springs-round-barn/Ojo_Caliente_Hot_Springs_Round_Barn-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ojo-hot-springs-hero{
+background: url(resources/images/new-mexico/taos/ojo-caliente-hot-springs/Ojo-Caliente_16075267771-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#our-lady-guadalupe-hero{
+background: url(resources/images/new-mexico/taos/our-lady-of-guadalupe-parish/Our_Lady_of_Guadalupe_Church_5-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#picuris-pueblo-hero{
+background: url(resources/images/new-mexico/taos/picuris-pueblo/Picuris_Pueblo\,_NM\,_Campo_Santo_and_San_Lorenzo_Church\,_2011_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#posi-ouinge-hero{
+background: url(resources/images/new-mexico/taos/posi-ouinge/Poshuouinge_potsherds-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ranchos-taos-plaza-hero{
+background: url(resources/images/new-mexico/taos/ranchos-de-taos-plaza/Ranchos_de_Taos\,_New_Mexico_45187540562-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rio-grande-gorge-bridge-hero{
+background: url(resources/images/new-mexico/taos/rio-grande-gorge-bridge/Rio_Grande_Gorge_Bridge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-francisco-asis-taos-hero{
+background: url(resources/images/new-mexico/taos/san-francisco-de-asis-mission-church/Taos_County_-_San_Francisco_de_Asis_Mission_Church_-_20210812114832-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-jose-gracia-hero{
+background: url(resources/images/new-mexico/taos/san-jose-de-gracia-church/Las_Trampas_-_San_José_de_Gracia_Church-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taos-downtown-hero{
+background: url(resources/images/new-mexico/taos/taos-downtown-historic-district/Taos_Downtown_Historic_District_-1NM-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taos-inn-hero{
+background: url(resources/images/new-mexico/taos/taos-inn/Taos\,_New_Mexico_USA_-_panoramio_96-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taos-plaza-hero{
+background: url(resources/images/new-mexico/taos/taos-plaza/Taos_Plaza_9-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taos-pueblo-hero{
+background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_plaza_la_fonda-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#taos-ski-valley-hero{
+    background: url(resources/images/new-mexico/taos/taos-ski-valley/Taos_Ski_Valley\,_New_Mexico_7334022700-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 /* New York */
 #lake-placid-hero{
@@ -6765,7 +6948,7 @@ background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_
     background-size: cover;
 }
 #montauk-hero{
-    background: url(resources/images/new-york/montauk/Montauk_Point_Lighthouse_2008-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/montauk/Montauk_Point_Lighthouse_2008-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #montauk-point-light-hero{
@@ -6801,7 +6984,7 @@ background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_
     background-size: cover;
 }
 #mount-marcy-hero{
-    background: url(resources/images/new-york/mount-marcy/Mount_Marcy\,_Avalanche_Mountain\,_Mount_Colden_from_Algonquin_Peak-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/mount-marcy/2016-09-04_11_58_54_The_summit_of_Mount_Marcy_at_the_end_of_the_Van_Hoevenberg_Trail\,_7.4_miles_south_of_the_trailhead\,_in_Keene\,_Essex_County\,_New_York-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ny-capitol-hero{
@@ -6884,7 +7067,7 @@ background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_
     background-size: cover;
 }
 #chrysler-building-hero{
-    background: url(resources/images/new-york/new-york-city/chrysler/Chrysler_Building_2005_4-1515.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/chrysler-building/Chrysler_Building_2005_4-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #dumbo-hero{
@@ -7242,7 +7425,7 @@ background: url(resources/images/oklahoma/natural-falls-state-park/Natural_Falls
     background-size: cover;
 }
 #pops-restaurant-hero{
-background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Route_66\,_Arcadia\,_Oklahoma\,_04404a-1515.jpg) center no-repeat;
+background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Route_66\,_Arcadia\,_Oklahoma\,_04404a-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #salt-plains-nwr-hero{
@@ -7250,7 +7433,7 @@ background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Rout
     background-size: cover;
 }
 #turner-falls-hero{
-    background: url(resources/images/oklahoma/turner-falls/Turner_Falls_Park_with_the_Pool-1515.jpg) center no-repeat;
+    background: url(resources/images/oklahoma/turner-falls/Turner_Falls_Park_with_the_Pool-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #washita-battlefield-hero{
@@ -7916,7 +8099,7 @@ background: url(resources/images/rhode-island/newport-ri/newport-casino/ITHF_Gro
     background-size: cover;
 }
 #newport-cliff-walk-hero{
-background: url(resources/images/rhode-island/newport-ri/newport-cliff-walk/newport-cliff-walk-hero-1515.jpg) center no-repeat;
+background: url(resources/images/rhode-island/newport-ri/newport-cliff-walk/newport-cliff-walk-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #ocean-drive-historic-hero{
@@ -8012,7 +8195,7 @@ background: url(resources/images/south-carolina/charleston-sc/battery-charleston
     background-size: cover;
 }
 #cathedral-st-john-charleston-hero{
-background: url(resources/images/south-carolina/charleston-sc/cathedral-of-st-john-the-baptist/) center no-repeat;
+background: url(resources/images/south-carolina/charleston-sc/cathedral-of-st-john-the-baptist/Cathedral_of_St._John_the_Baptist\,_Harleston_Village\,_Charleston\,_SC_49364357332-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #charles-town-landing-hero{
@@ -8039,16 +8222,20 @@ background: url(resources/images/south-carolina/charleston-sc/fort-moultrie/fort
 background: url(resources/images/south-carolina/charleston-sc/fort-sumter/Fort_Sumter_3-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#french-hugenot-hero{
-background: url(resources/images/south-carolina/charleston-sc/french-hugenot-church/) center no-repeat;
+#french-huguenot-hero{
+background: url(resources/images/south-carolina/charleston-sc/french-huguenot-church/Huguenot_Church_in_French_Quarter-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #magnolia-plantation-hero{
-background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-1515.jpg) center no-repeat;
+background: url(resources/images/south-carolina/charleston-sc/magnolia-plantation/magnolia-plantation-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #exchange-provost-hero{
 background: url(resources/images/south-carolina/charleston-sc/old-exchange-and-provost-dungeon/old-exchange-and-provost-dungeon-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fireproof-building-hero{
+    background: url(resources/images/south-carolina/charleston-sc/fireproof-building/City_Fireproof_Building\,_French_Quarter\,_Charleston\,_SC_49392290826-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #husk-sc-hero{
@@ -8060,7 +8247,7 @@ background: url(resources/images/south-carolina/charleston-sc/old-slave-mart-mus
     background-size: cover;
 }
 #rainbow-row-hero{
-background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-1515.jpg) bottom no-repeat;
+background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #unitarian-church-charleston-hero{
@@ -8083,6 +8270,10 @@ background: url(resources/images/south-carolina/charleston-sc/white-point-garden
 background: url(resources/images/south-carolina/myrtle-beach/broadway-at-the-beach/broadway-at-the-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#brookgreen-gardens-hero{
+    background: url(resources/images/south-carolina/) center no-repeat;
+    background-size: cover;
+}
 #hilton-head-hero{
 background: url(resources/images/south-carolina/hilton-head-island/Hilton_Head_Island-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8097,10 +8288,6 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
 }
 #south-carolina-hero{
     background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#charleston-sc-hero{
-    background: url(resources/images/south-carolina/charleston-sc/waterfront-park/charleston-pineapple-fountain-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #angel-oak-hero{
@@ -8179,18 +8366,38 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
 }
 
 /* Tennessee */
-/* #big-south-fork-hero{
-background: url(resources/images/tennessee/b) center no-repeat;
+#chattanooga-hero{
+    background: url(resources/images/tennessee/chattanooga/Chattanooga_Skyline_2018-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chickamauga-chattanooga-hero{
+    background: url(resources/images/tennessee/chattanooga/chickamauga-and-chattanooga-national-military-park/Chickamauga_and_Chattanooga_National_Military_Park_35601538066-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lookout-incline-hero{
+    background: url(resources/images/tennessee/chattanooga/lookout-mountain-incline-railway/Inclinerailway-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ruby-falls-hero{
+    background: url(resources/images/tennessee/chattanooga/ruby-falls/Ruby_falls_0233-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chattanooga-choo-hero{
+    background: url(resources/images/tennessee/chattanooga/chattanooga-choo-choo-hotel/Terminal_StationChattanooga-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-south-fork-hero{
+background: url(resources/images/tennessee/big-south-fork-national/South-twin-arch-bsf-tn1-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #burgess-falls-hero{
-background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/burgess-falls-state-park/Burgess_Falls_-_Tennessee-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #roan-mtn-hero{
-background: url(resources/images/tennessee/) center no-repeat;
+background: url(resources/images/tennessee/roan-mountain-state-park/Roan-Mountain-CDP-and-mountain-tn1-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #rock-island-sp-hero{
 background: url(resources/images/tennessee/rock-island-state-park/rock-island-state-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8891,6 +9098,10 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/texas/big-bend-national-park/santa-elena/santa-elena-canyon-hero-1136.jpg) center no-repeat;
     background-size: cover;
 }
+#galveston-hero{
+    background: url(resources/images/texas/galveston/Galveston_March_2022_35_Galveston_Island_Historic_Pleasure_Pier-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #bishops-palace-hero{
     background: url(resources/images/texas/galveston/1892-bishops-place/1892-bishops-palace-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9112,7 +9323,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #buckskin-hero{
-    background: url(resources/images/utah/buckskin-gulch/buckskin-gulch-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/utah/buckskin-gulch/buckskin-gulch-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #canyonlands-hero{
@@ -9349,11 +9560,19 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-narrows-hero{
-    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #zion-subway-hero{
     background: url(resources/images/utah/zion-national-park/zion-subway/Subway_Zion1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#paria-river-hero{
+    background: url(resources/images/utah/paria-canyon/Paria_River_-_4048563770-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kanarra-falls-hero{
+    background: url(resources/images/utah/kanarra-canyon/Kanarra_Canyon\,_DyeClan.com_-_panoramio_13-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 
@@ -9370,16 +9589,20 @@ background: url(resources/images/vermont/bingham-falls/BinghamFallsVT-1515.jpg) 
 background: url(resources/images/vermont/burlington-vt/Church_Street_Burlington_5-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#church-marketplace-hero{
+    background: url(resources/images/vermont/burlington-vt/church-street-marketplace/Head_of_Church_Street_HD-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #crystal-lake-sp-hero{
 background: url(resources/images/vermont/crystal-lake-state-park/CrystalLakeStatePark2-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #gold-brook-hero{
-background: url(resources/images/vermont/) center no-repeat;
+background: url(resources/images/vermont/gold-brook-covered-bridge/Emilys_Bridge-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #green-mtn-nf-hero{
-background: url(resources/images/vermont/green-mountain-national-forest/Mount_Aeolus_Vermont_20211012_173159-1515.jpg) center no-repeat;
+background: url(resources/images/vermont/green-mountain-national-forest/Londonderry_Vermont_October_2021_005-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #hildene-hero{
@@ -9415,7 +9638,7 @@ background: url(resources/images/vermont/mount-equinox-drive/2020-10-17_13_40_49
     background-size: cover;
 }
 #mount-mansfield-hero{
-background: url(resources/images/vermont/mount-mansfield/2017-09-11_13_44_58_View_north_from_the_summit_of_Mount_Mansfield-1515.jpg) center no-repeat;
+background: url(resources/images/vermont/mount-mansfield/Mt_Mansfield_StevensvilleRd_20080319-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* #mount-pisgah-hero{
@@ -9434,22 +9657,22 @@ background: url(resources/images/vermont/smugglers-notch/Smugglers_Notch_Vermont
 background: url(resources/images/vermont/sterling-pond-trail/RS011-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #stowe-recreation-hero{
-background: url(resources/images/vermont/st) center no-repeat;
-    background-size: cover;
-} */
-#stowe-vt-hero{
-background: url(resources/images/vermont/stowe-vt/2017-09-11_13_10_01_View_east-southeast_towards_Stowe_Ski_Resort_from_the_Long_Trail-1515.jpg) center no-repeat;
+#stowe-recreation-hero{
+background: url(resources/images/vermont/stowe-vt/stowe-recreation-path/Stowe_Recreation_Path-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #stowe-mountain-resort-hero{
-    background: url(resources/images/vermont/stowe-vt/2017-09-11_13_10_01_View_east-southeast_towards_Stowe_Ski_Resort_from_the_Long_Trail-1515.jpg) center no-repeat;
+#stowe-vt-hero{
+background: url(resources/images/vermont/stowe-vt/jeffrey-clayton-oY-il7J1vio-unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stowe-mountain-resort-hero{
+    background: url(resources/images/vermont/stowe-vt/stowe-mountain-resort/Stowe_vt_gondola_20060409-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #trapp-family-lodge-hero{
-    background: url(resources/images/vermont/stowe-vt/) center no-repeat;
+    background: url(resources/images/vermont/stowe-vt/trapp-family-lodge/Trapp_Family_Lodge_2014-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #underhill-sp-hero{
 background: url(resources/images/vermont/underhill-state-park/2017-09-11_13_10_01_View_east-southeast_towards_Stowe_Ski_Resort_from_the_Long_Trail-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9573,6 +9796,22 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
 }
 #shenandoah-hero{
     background: url(resources/images/virginia/shenandoah-national-park/shenandoah-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bearfence-trail-hero{
+background: url(resources/images/virginia/shenandoah-national-park/bearfence-trail/bearfence-trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blackrock-summit-hero{
+background: url(resources/images/virginia/shenandoah-national-park/blackrock-summit/blackrock-summit-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#frazier-discovery-hero{
+background: url(resources/images/virginia/shenandoah-national-park/frazier-discover-trail/frazier-discovery-trail-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#limberlost-trail-hero{
+    background: url(resources/images/virginia/shenandoah-national-park/limberlost-trail/limberlost-trail-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #dark-hollow-falls-hero{
@@ -9946,10 +10185,6 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
 }
 
 /* West Virginia */
-#west-virginia-hero{
-    background: url(resources/images/west-virginia/new-river-gorge-national-park/west-virginia-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #german-valley-hero{
     background: url(resources/images/west-virginia/german-valley/german-valley-wv-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9959,7 +10194,7 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
     background-size: cover;
 }
 #new-river-hero{
-    background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-national-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/west-virginia/new-river-gorge-national-park/west-virginia-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #new-river-bridge-hero{
@@ -10178,10 +10413,10 @@ background: url(resources/images/wyoming/grand-teton-national-park/string-lake/S
 background: url(resources/images/wyoming/grand-teton-national-park/taggart-lake/Taggart_Lake_29805486345-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #artist-point-yellowstone-hero{
-background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/) center no-repeat;
+#artist-point-yellowstone-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/Grand_Canyon_of_Yellowstone_and_Lower_falls\,_Wyoming\,_United_States-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #brink-lower-falls-hero{
 background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/brink-of-the-lower-falls/The_Brink_of_the_Lower_Falls_in_Grand_Canyon_of_the_Yellowstone-1515.jpg) center no-repeat;
     background-size: cover;
@@ -10430,10 +10665,10 @@ Alaska Peninsula and Aleutian Islands*/
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/brooks-camp/Mouth_of_Brooks_River\,_Brooks_Camp_04072016_-_13_26285923526-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #brooks-falls-hero{
-background: url(resources/images/california/algodones-dunes/algodones-dunes-hero-1515.jpg) center no-repeat;
+#brooks-falls-hero{
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/Katmai_Crater_1980-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #hallo-bay-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/hallo-bay/Katmai_Flyover_11_7_17_38572555591-3030.jpg) center no-repeat;
     background-size: cover;
@@ -10982,10 +11217,30 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
     background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/Saguaro_National_Park_East-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    /* #tucson-mtn-hero{
-        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/) center no-repeat;
+    #desert-ecology-hero{
+        background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/desert-ecology-trail/Desert_Ecology_Trail_3442968701-3030.jpg) center no-repeat;
         background-size: cover;
-    } */
+    }
+    #tanque-verde-hero{
+        background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-district/tanque-verde-ridge-trail/Saguaro_habitat_31680894623-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #cactus-garden-hero{
+        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/cactus-garden-trail/cactus-garden-trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hugh-norris-hero{
+        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/hugh-norris-trail/Hugh_Norris_Trail_18_6968722417-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sendero-esperanza-hero{
+        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/sendero-esperanza-trail/Wandering_107735283-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #valley-view-overlook-hero{
+        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/valley-view-overlook-trail/valley-view-overlook-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     
     #aqua-hero{
         background: url(resources/images/arizona/aqua-fria-national-monument/agua-fria-nm-hero-3300h2475w.jpg) center no-repeat;
@@ -11554,10 +11809,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/arkansas/petit-jean-state-park/cedar-creek-trail/petit-jean-cedar-creek-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #cedar-falls-hero{
-        background: url(resources/images/arkansas/petit-jean-state-park/petit-jean-cedar-falls-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #seven-hollows-hero{
         background: url(resources/images/arkansas/petit-jean-state-park/seven-hollows-trail/petit-jean-seven-hollows-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -11758,7 +12009,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #antelope-valley-hero{
-        background: url(resources/images/california/antelope-valley-preserve/Wildflowers_at_California_Poppy_Reserve-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/antelope-valley-california-poppy-reserve-state-natural-reserve/Wildflowers_at_California_Poppy_Reserve-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bodie-hero{
@@ -12107,7 +12358,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #tcl-chinese-hero{
-        background: url(resources/images/california/los-angeles/tcl-chinese-theatre/2013\,_Hollywood_Boulevard\,_TCL_Chinese_Theatre_-_panoramio-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/tcl-chinese-theatre/Graumans_Chinese_Theatre-3030.jpg) center no-repeat;
             background-size: cover;
         }
     #echo-park-hero{
@@ -12188,7 +12439,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #hollywood-sign-hero{
-        background: url(resources/images/california/los-angeles/hollywood-sign/hollywood-sign-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/hollywood-sign/2560px-Hollywood_Sign-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #hollywood-walk-hero{
@@ -13366,7 +13617,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #san-juan-skyway-hero{
-        background: url(resources/images/colorado/san-juan/san-juan-skyway-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/million-dollar-highway/Highway_550_the_Million_Dollar_Highway_between_Silverton_and_Ouray_in_Colorado_29466637288-3030.jpg) center no-repeat;
         background-size: cover;
     }
 
@@ -13434,7 +13685,8 @@ background: url(resources/images/delaware/winterthur-museum-garden-and-library/W
 
 /* Florida */
 #cape-canaveral-hero{
-    background: url(resources/images/florida/cape-canaveral/Space_shuttles_Atlantis_STS-125_and_Endeavour_STS-400_on_launch_pads-3030.jpg)
+    background: url(resources/images/florida/cape-canaveral/Space_shuttles_Atlantis_STS-125_and_Endeavour_STS-400_on_launch_pads-3030.jpg) center no-repeat;
+    background-size: cover;
 }
 #canaveral-seashore-hero{
     background: url(resources/images/florida/cape-canaveral/canaveral-national-seashore/CanaveralNationalSeashore4-3030.jpg) center no-repeat;
@@ -13457,7 +13709,7 @@ background: url(resources/images/florida/camp-helen-state-park/PC_Beach_Camp_Hel
     background-size: cover;
 }
 #destin-hero{
-background: url(resources/images/florida/destin/Crab_Island-3030.jpg) center no-repeat;
+background: url(resources/images/florida/destin/Crab_Island-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #grayton-beach-hero{
@@ -13791,7 +14043,7 @@ background: url(resources/images/florida/big-cat-rescue/Tiger_Couple_291101732-3
     background-size: cover;
 }
 #caladesi-island-hero{
-background: url(resources/images/florida/cape-canaveral/canaveral-national-seashore/CanaveralNationalSeashore4-3030.jpg) center no-repeat;
+background: url(resources/images/florida/caladesi-island-state-park/Sunset_Over_Hurricane_Pass_7853564074-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #clearwater-beach-hero{
@@ -14123,7 +14375,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
         background-size: cover;
     }
     #skidaway-island-hero{
-    background: url(resources/images/georgia/savannah/sk) center no-repeat;
+    background: url(resources/images/georgia/savannah/skidaway-island/) center no-repeat;
         background-size: cover;
     }
     #squares-savannah-hero{
@@ -14139,7 +14391,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
         background-size: cover;
     }
     #jekyll-island-hero{
-    background: url(resources/images/georgia/jekyll-island/jekyll-island-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/georgia/jekyll-island/21-06-070-beach-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #okefenokee-nwr-hero{
@@ -14178,7 +14430,18 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
         background: url(resources/images/georgia/savannah/tybee-island/tybee-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-
+    #anna-ruby-falls-hero{
+        background: url(resources/images/georgia/anna-ruby-falls/Anna_Ruby_Falls_Helen_Georgia_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #brasstown-hero{
+        background: url(resources/images/georgia/brasstown-bald/View_from_Brasstown_Bald_6241053591-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fort-frederica-hero{
+        background: url(resources/images/georgia/fort-frederica-national-monument/Fort_Frederica_National_Monument_97-3030.jpg) top no-repeat;
+        background-size: cover;
+    }
     /* Hawaii */
 /* Big Island */
 #chain-craters-hero{
@@ -15169,7 +15432,11 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
     background-size: cover;
 }
 #mammoth-hero{
-    background: url(resources/images/kentucky/mammoth-cave-national-park/mammoth-cave-hero-2273wPortrait.jpg) center no-repeat;
+    background: url(resources/images/kentucky/mammoth-cave-national-park/Mammoth_Cave_Historic_Entrance_NPS-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#green-river-ky-hero{
+    background: url(resources/images/kentucky/mammoth-cave-national-park/green-river/Green_River_NPS-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #belle-louisville-hero{
@@ -15257,7 +15524,7 @@ background: url(resources/images/kentucky/kentucky-bourbon-trail/Jim_Beam_-_Amer
     background-size: cover;
 }
 #kentucky-horse-park-hero{
-background: url(resources/images/kentucky/lexington/Lexington\,_KY\,_USA_-_panoramio_1-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/kentucky-horse-park/Gate_at_Kentucky_Horse_Park-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #kentucky-state-capitol-hero{
@@ -15265,7 +15532,7 @@ background: url(resources/images/kentucky/kentucky-state-capitol/U.S._Route_60_F
     background-size: cover;
 }
 #lexington-hero{
-background: url(resources/images/kentucky/lexington/Lexington\,_KY\,_USA_-_panoramio_1-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/Lexington\,_KY\,_USA_-_panoramio_1-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #natural-bridge-kentucky-hero{
@@ -15273,7 +15540,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #red-river-gorge-hero{
-    background: url(resources/images/kentucky/red-river-gorge-geological-area/Red_River_Gorge_-_Motherlode_4-3030.jpg) center no-repeat;
+    background: url(resources/images/kentucky/red-river-gorge-geological-area/Red_River_Gorge_-_Motherlode_4-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 
@@ -16112,6 +16379,10 @@ background: url(resources/images/new-hampshire/wolfeboro/Wolfeboro_Docks-3030.jp
 background: url(resources/images/new-mexico/abiquiu/ghost-ranch/Ghost_Ranch_redrock_cliffs-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#plaza-blanca-hero{
+    background: url(resources/images/new-mexico/abiquiu/plaza-blanca-historic-district/Plaza_Blanca\,_Abiquiu\,_New_Mexico_43605000194-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #aztec-ruins-hero{
 background: url(resources/images/new-mexico/aztec-ruins-national-monument/Aztec_Ruins_National_Monument_by_RO-3030.jpg) center no-repeat;
     background-size: cover;
@@ -16169,13 +16440,13 @@ background: url(resources/images/new-mexico/santa-fe/barrio-de-analco-historic-d
     background-size: cover;
 }
 #canyon-road-nm-hero{
-    background: url(resources/images/new-mexico/santa-fe/canyon-road/Canyon_Road_in_Santa_Fe\,_New_Mexico\,_USA_\(103\)-3030.jpg) center no-repeat;
+    background: url(resources/images/new-mexico/santa-fe/canyon-road/Canyon_Road_in_Santa_Fe\,_New_Mexico\,_USA_103-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #cathedral-st-francis-hero{
-background: url(resources/images/new-mexico/santa-fe/) center no-repeat;
+#cathedral-st-francis-hero{
+background: url(resources/images/new-mexico/santa-fe/cathedral-basilica-of-st-francis-de-assisi/Cathedral_Basilica_of_St._Francis_of_Assisi_-_A_-_Sarah_Stierch-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #cristo-rey-church-hero{
 background: url(resources/images/new-mexico/santa-fe/cristo-rey-church/Cristo_Rey_Church\,_1120_Canyon_Rd\,_Santa_Fe\,_USA_-_panoramio_\(1\)-3030.jpg) center no-repeat;
     background-size: cover;
@@ -16228,6 +16499,50 @@ background: url(resources/images/new-mexico/santa-fe/governors-palace/SantaFePla
 background: url(resources/images/new-mexico/santa-fe/san-miguel-chapel/Santa_Fe_San_miguel_chapel-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#bat-flight-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/bat-flight/Bat_Flight_from_inside_Natural_Entrance_51337179183-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #hall-white-giant-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/hall-of-the-white-giant/Hall_of_the_White_Giant\,_Carlsbad_Cavern_51202026945-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kings-palace-nm-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/kings-palace/Pool_-_Green_Lake_Room\,_Carlsbad_Cavern_51202310532-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #left-hand-tunnel-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/left-hand-tunnel/Sherwood_Forest\,_Left_Hand_Tunnel\,_Carlsbad_Cavern_51336949951-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #lower-cave-carlsbad-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/lower-cave/Visitors_-_Lower_Cave_Tour\,_Carlsbad_Cavern_51203917759-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #natural-entrance-carlsbad-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/natural-entrance/Historic_Carlsbad_Caverns_in_New_Mexico-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rattlesnake-springs-nm-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/rattlesnake-springs/Rattlesnake_Springs_Picnic_Area_51234084261-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #slaughter-cave-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/slaughter-canyon-cave/Clansman\,_Slaughter_Canyon_Cave_51203372248-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #spider-cave-hero{
+    background: url(resources/images/new-mexico/carlsbad-caverns-national-park/slaughter-canyon-cave/spider-cave/A_Forest_of_Columns_-_Spider_Cave_51203069916-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #walnut-canyon-desert-hero{
+        background: url(resources/images/new-mexico/carlsbad-caverns-national-park/walnut-canyon-desert-drive/Walnut_Canyon_Overlook_51202787716-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #valles-caldera-hero{
+        background: url(resources/images/new-mexico/valles-caldera-national-preserve/Coyote_Call_Trail_looking_out_towards_Valles_Caldera\,_New_Mexico_7262022058-3030.jpg) center no-repeat;
+        background-size: cover; 
+    }
 #santa-fe-plaza-hero{
 background: url(resources/images/new-mexico/santa-fe/santa-fe-plaza/Enjoying_coffee_at_the_Santa_Fe_Plaza-3030.jpg) center no-repeat;
     background-size: cover;
@@ -16324,6 +16639,106 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background: url(resources/images/new-mexico/white-sands-national-park/white-sands-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#bernard-beimer-hero{
+    background: url(resources/images/new-mexico/taos/bernard-j-beimer-house/Beimer_House\,_Taos\,_NM-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #dh-lawrence-ranch-hero{
+    background: url(resources/images/new-mexico/taos/d-h-lawrence-ranch/Lawrence_Ranch-view_up_to_Memorial-ext-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #eanger-irving-hero{
+    background: url(resources/images/new-mexico/taos/eanger-irving-couse-house-and-studio/Couse_Studio\,_Taos_NM-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ernest-blumenschein-hero{
+    background: url(resources/images/new-mexico/taos/eanger-irving-couse-house-and-studio/Couse_Studio\,_Taos_NM-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kit-house-hero{
+    background: url(resources/images/new-mexico/taos/kit-carson-house/Kit_Carson_Home\,_courtyard-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #la-loma-plaza-hero{
+    background: url(resources/images/new-mexico/taos/la-loma-plaza-historic-district/La_Loma_Plaza_4-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #la-morada-hero{
+    background: url(resources/images/new-mexico/taos/la-morada-de-nuestra-senora-de-guadalupe/La_Morada_de_Nuestra_Senora_de_Guadalupe_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #leon-gaspard-hero{
+    background: url(resources/images/new-mexico/taos/leon-gaspard-house/Gaspard_Detail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mabel-dodge-hero{
+    background: url(resources/images/new-mexico/taos/mabel-dodge-luhan-house/Mabel_Dodge_Luhan_6-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #martinez-hacienda-hero{
+    background: url(resources/images/new-mexico/taos/martinez-hacienda/Martinez_Hacienda_Exterior_Front_of_Hacienda-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #nicolai-fechin-hero{
+    background: url(resources/images/new-mexico/taos/nicolai-fechin-house/Taos_Fechin_House-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ojo-hot-springs-barn-hero{
+    background: url(resources/images/new-mexico/taos/ojo-calienta-hot-springs-round-barn/Ojo_Caliente_Hot_Springs_Round_Barn-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ojo-hot-springs-hero{
+    background: url(resources/images/new-mexico/taos/ojo-caliente-hot-springs/Ojo-Caliente_16075267771-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #our-lady-guadalupe-hero{
+    background: url(resources/images/new-mexico/taos/our-lady-of-guadalupe-parish/Our_Lady_of_Guadalupe_Church_5-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #picuris-pueblo-hero{
+    background: url(resources/images/new-mexico/taos/picuris-pueblo/Picuris_Pueblo\,_NM\,_Campo_Santo_and_San_Lorenzo_Church\,_2011_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #posi-ouinge-hero{
+    background: url(resources/images/new-mexico/taos/posi-ouinge/Poshuouinge_potsherds-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ranchos-taos-plaza-hero{
+    background: url(resources/images/new-mexico/taos/ranchos-de-taos-plaza/Ranchos_de_Taos\,_New_Mexico_45187540562-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rio-grande-gorge-bridge-hero{
+    background: url(resources/images/new-mexico/taos/rio-grande-gorge-bridge/Rio_Grande_Gorge_Bridge-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-francisco-asis-taos-hero{
+    background: url(resources/images/new-mexico/taos/san-francisco-de-asis-mission-church/Taos_County_-_San_Francisco_de_Asis_Mission_Church_-_20210812114832-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-jose-gracia-hero{
+    background: url(resources/images/new-mexico/taos/san-jose-de-gracia-church/Las_Trampas_-_San_José_de_Gracia_Church-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #taos-downtown-hero{
+    background: url(resources/images/new-mexico/taos/taos-downtown-historic-district/Taos_Downtown_Historic_District_-1NM-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #taos-inn-hero{
+    background: url(resources/images/new-mexico/taos/taos-inn/Taos\,_New_Mexico_USA_-_panoramio_96-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #taos-plaza-hero{
+    background: url(resources/images/new-mexico/taos/taos-plaza/Taos_Plaza_9-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #taos-pueblo-hero{
+    background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_plaza_la_fonda-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #taos-ski-valley-hero{
+        background: url(resources/images/new-mexico/taos/taos-ski-valley/Taos_Ski_Valley\,_New_Mexico_7334022700-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 
     /* New York */
     #lake-placid-hero{
@@ -16379,7 +16794,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #montauk-hero{
-    background: url(resources/images/new-york/montauk/Montauk_Point_Lighthouse_2008-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/montauk/Montauk_Point_Lighthouse_2008-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #montauk-point-light-hero{
@@ -16415,7 +16830,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #mount-marcy-hero{
-    background: url(resources/images/new-york/mount-marcy/Mount_Marcy\,_Avalanche_Mountain\,_Mount_Colden_from_Algonquin_Peak-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/mount-marcy/2016-09-04_11_58_54_The_summit_of_Mount_Marcy_at_the_end_of_the_Van_Hoevenberg_Trail\,_7.4_miles_south_of_the_trailhead\,_in_Keene\,_Essex_County\,_New_York-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #ny-capitol-hero{
@@ -16497,7 +16912,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #chrysler-building-hero{
-    background: url(resources/images/new-york/new-york-city/chrysler/Chrysler_Building_2005_4-3030.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/chrysler-building/Chrysler_Building_2005_4-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #dumbo-hero{
@@ -16856,7 +17271,7 @@ background: url(resources/images/oklahoma/natural-falls-state-park/Natural_Falls
     background-size: cover;
 }
 #pops-restaurant-hero{
-background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Route_66\,_Arcadia\,_Oklahoma\,_04404a-3030.jpg) center no-repeat;
+background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Route_66\,_Arcadia\,_Oklahoma\,_04404a-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #salt-plains-nwr-hero{
@@ -16864,7 +17279,7 @@ background: url(resources/images/oklahoma/pops-restaurant/Pops_Restaurant\,_Rout
     background-size: cover;
 }
 #turner-falls-hero{
-    background: url(resources/images/oklahoma/turner-falls/Turner_Falls_Park_with_the_Pool-3030.jpg) center no-repeat;
+    background: url(resources/images/oklahoma/turner-falls/Turner_Falls_Park_with_the_Pool-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #washita-battlefield-hero{
@@ -17531,7 +17946,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #newport-cliff-walk-hero{
-    background: url(resources/images/rhode-island/newport-ri/newport-cliff-walk/newport-cliff-walk-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/rhode-island/newport-ri/newport-cliff-walk/newport-cliff-walk-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #ocean-drive-historic-hero{
@@ -18368,10 +18783,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     }
 
 /* ---------------------------South Carolina */
-#charleston-sc-hero{
-    background: url(resources/images/south-carolina/charleston-sc/leonel-heisenberg-A56yu_pmNKQ-unsplash-3030.jpg) center no-repeat;
-    background-size: cover;
-}
+
 #arthur-ravenel-hero{
     background: url(resources/images/south-carolina/charleston-sc/arthur-ravenel-bridge/Arthur_Ravenel_Jr_Bridge\,_West_View_of_Road_Deck_and_Tower_20160704_1-3030.jpg) center no-repeat;
         background-size: cover;
@@ -18381,7 +18793,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #cathedral-st-john-charleston-hero{
-    background: url(resources/images/south-carolina/charleston-sc/cathedral-of-st-john-the-baptist/) center no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/cathedral-of-st-john-the-baptist/Cathedral_of_St._John_the_Baptist\,_Harleston_Village\,_Charleston\,_SC_49364357332-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #charles-town-landing-hero{
@@ -18408,16 +18820,20 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     background: url(resources/images/south-carolina/charleston-sc/fort-sumter/Fort_Sumter_3-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #french-hugenot-hero{
-    background: url(resources/images/south-carolina/charleston-sc/french-hugenot-church/) center no-repeat;
+    #french-huguenot-hero{
+    background: url(resources/images/south-carolina/charleston-sc/french-huguenot-church/Huguenot_Church_in_French_Quarter-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #magnolia-plantation-hero{
-    background: url(resources/images/south-carolina/charleston-sc/) center no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/magnolia-plantation/magnolia-plantation-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #exchange-provost-hero{
     background: url(resources/images/south-carolina/charleston-sc/old-exchange-and-provost-dungeon/old-exchange-and-provost-dungeon-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #fireproof-building-hero{
+        background: url(resources/images/south-carolina/charleston-sc/fireproof-building/City_Fireproof_Building\,_French_Quarter\,_Charleston\,_SC_49392290826-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #husk-sc-hero{
@@ -18429,7 +18845,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #rainbow-row-hero{
-    background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-3030.jpg) bottom no-repeat;
+    background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #unitarian-church-charleston-hero{
@@ -18469,7 +18885,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #charleston-sc-hero{
-        background: url(resources/images/south-carolina/charleston-sc/waterfront-park/charleston-pineapple-fountain-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/south-carolina/charleston-sc/leonel-heisenberg-A56yu_pmNKQ-unsplash-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #angel-oak-hero{
@@ -18559,16 +18975,20 @@ background: url(resources/images/vermont/bingham-falls/BinghamFallsVT-3030.jpg) 
 background: url(resources/images/vermont/burlington-vt/Church_Street_Burlington_5-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#church-marketplace-hero{
+    background: url(resources/images/vermont/burlington-vt/church-street-marketplace/Head_of_Church_Street_HD-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #crystal-lake-sp-hero{
 background: url(resources/images/vermont/crystal-lake-state-park/CrystalLakeStatePark2-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #gold-brook-hero{
-background: url(resources/images/vermont/) center no-repeat;
+background: url(resources/images/vermont/gold-brook-covered-bridge/Emilys_Bridge-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #green-mtn-nf-hero{
-background: url(resources/images/vermont/green-mountain-national-forest/Mount_Aeolus_Vermont_20211012_173159-3030.jpg) center no-repeat;
+background: url(resources/images/vermont/green-mountain-national-forest/Londonderry_Vermont_October_2021_005-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #hildene-hero{
@@ -18604,7 +19024,7 @@ background: url(resources/images/vermont/mount-equinox-drive/2020-10-17_13_40_49
     background-size: cover;
 }
 #mount-mansfield-hero{
-background: url(resources/images/vermont/mount-mansfield/2017-09-11_13_44_58_View_north_from_the_summit_of_Mount_Mansfield-3030.jpg) center no-repeat;
+background: url(resources/images/vermont/mount-mansfield/Mt_Mansfield_StevensvilleRd_20080319-3030.jpg) center no-repeat;
     background-size: cover;
 }
 /* #mount-pisgah-hero{
@@ -18623,12 +19043,20 @@ background: url(resources/images/vermont/smugglers-notch/Smugglers_Notch_Vermont
 background: url(resources/images/vermont/sterling-pond-trail/RS011-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #stowe-recreation-hero{
-background: url(resources/images/vermont/st) center no-repeat;
+#stowe-recreation-hero{
+background: url(resources/images/vermont/stowe-vt/stowe-recreation-path/Stowe_Recreation_Path-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #stowe-vt-hero{
-background: url(resources/images/vermont/stowe-vt/2017-09-11_13_10_01_View_east-southeast_towards_Stowe_Ski_Resort_from_the_Long_Trail-3030.jpg) center no-repeat;
+background: url(resources/images/vermont/stowe-vt/jeffrey-clayton-oY-il7J1vio-unsplash-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#stowe-mountain-resort-hero{
+    background: url(resources/images/vermont/stowe-vt/stowe-mountain-resort/Stowe_vt_gondola_20060409-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#trapp-family-lodge-hero{
+    background: url(resources/images/vermont/stowe-vt/trapp-family-lodge/Trapp_Family_Lodge_2014-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #underhill-sp-hero{
@@ -18752,6 +19180,22 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
 }
 #shenandoah-hero{
     background: url(resources/images/virginia/shenandoah-national-park/shenandoah-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bearfence-trail-hero{
+background: url(resources/images/virginia/shenandoah-national-park/bearfence-trail/bearfence-trail-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#blackrock-summit-hero{
+background: url(resources/images/virginia/shenandoah-national-park/blackrock-summit/blackrock-summit-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#frazier-discovery-hero{
+background: url(resources/images/virginia/shenandoah-national-park/frazier-discover-trail/frazier-discovery-trail-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#limberlost-trail-hero{
+    background: url(resources/images/virginia/shenandoah-national-park/limberlost-trail/limberlost-trail-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #dark-hollow-falls-hero{
@@ -19134,10 +19578,6 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
         
     }
-    #west-virginia-hero{
-        background: url(resources/images/west-virginia/new-river-gorge-national-park/west-virginia-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #german-valley-hero{
         background: url(resources/images/west-virginia/german-valley/german-valley-wv-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -19147,7 +19587,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
     }
     #new-river-hero{
-        background: url(resources/images/west-virginia/new-river-gorge-national-park/new-river-gorge-national-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/west-virginia/new-river-gorge-national-park/west-virginia-hero-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #new-river-bridge-hero{
@@ -19543,24 +19983,44 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
     }
     #yellowstone-grand-canyon-hero {
-        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/grand-canyon-yellowstone-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/Grand_Canyon_of_Yellowstone_and_Lower_falls\,_Wyoming\,_United_States-3030.jpg) center no-repeat;
         background-size: cover;
     }
 
 
 /* Tennessee */
-/* #big-south-fork-hero{
-background: url(resources/images/tennessee/b) center no-repeat;
+#chattanooga-hero{
+    background: url(resources/images/tennessee/chattanooga/Chattanooga_Skyline_2018-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chickamauga-chattanooga-hero{
+    background: url(resources/images/tennessee/chattanooga/chickamauga-and-chattanooga-national-military-park/Chickamauga_and_Chattanooga_National_Military_Park_35601538066-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lookout-incline-hero{
+    background: url(resources/images/tennessee/chattanooga/lookout-mountain-incline-railway/Inclinerailway-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ruby-falls-hero{
+    background: url(resources/images/tennessee/chattanooga/ruby-falls/Ruby_falls_0233-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chattanooga-choo-hero{
+    background: url(resources/images/tennessee/chattanooga/chattanooga-choo-choo-hotel/Terminal_StationChattanooga-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-south-fork-hero{
+background: url(resources/images/tennessee/big-south-fork-national/South-twin-arch-bsf-tn1-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #burgess-falls-hero{
-background: url(resources/images/tennessee/gatlinburg/gatlinburg-hero-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/burgess-falls-state-park/Burgess_Falls_-_Tennessee-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #roan-mtn-hero{
-background: url(resources/images/tennessee/) center no-repeat;
+background: url(resources/images/tennessee/roan-mountain-state-park/Roan-Mountain-CDP-and-mountain-tn1-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #rock-island-sp-hero{
     background: url(resources/images/tennessee/rock-island-state-park/rock-island-state-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -20267,6 +20727,10 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/texas/galveston/1892-bishops-place/1892-bishops-palace-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#galveston-hero{
+    background: url(resources/images/texas/galveston/Galveston_March_2022_35_Galveston_Island_Historic_Pleasure_Pier-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #galveston-beach-hero{
     background: url(resources/images/texas/galveston/galveston-beach/galveston-beach-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -20483,7 +20947,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #buckskin-hero{
-    background: url(resources/images/utah/buckskin-gulch/buckskin-gulch-hero-2273wPortrait.jpg) center no-repeat;
+    background: url(resources/images/utah/buckskin-gulch/buckskin-gulch-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 
@@ -20684,11 +21148,19 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-narrows-hero{
-    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-hero-2273wPortrait.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #zion-subway-hero{
     background: url(resources/images/utah/zion-national-park/zion-subway/Subway_Zion1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#paria-river-hero{
+    background: url(resources/images/utah/paria-canyon/Paria_River_-_4048563770-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kanarra-falls-hero{
+    background: url(resources/images/utah/kanarra-canyon/Kanarra_Canyon\,_DyeClan.com_-_panoramio_13-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 }
