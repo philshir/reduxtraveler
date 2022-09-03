@@ -1227,7 +1227,7 @@ body {
   margin: 5px 0;
   font-size: 12px;
   font-family: Arial, sans-serif;
-  
+  font-weight: 700;
 }
 .bold {
   font-weight: 700;
@@ -1484,6 +1484,22 @@ margin-bottom: 40px;
   text-align: center;
   margin: 10px 0;
 }
+
+/* itinerary and best of card layout */
+@media only screen and (min-width: 445px) {
+  
+.itineraries .flex{
+  flex-direction: row;
+
+}
+
+.itineraries .flex .trail-description{
+  width: 60%
+  
+}
+  
+}
+
 
 @media only screen and (min-width: 460px) {
   
@@ -1822,6 +1838,7 @@ article a {
 }
 .caption {
   font-size: 12px;
+  line-height: 18px;
   bottom: 10px;
 }
 .caption-portrait {

@@ -2365,7 +2365,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #lombard-hero{
-    background: url(resources/images/california/san-francisco/lombard/lombard-street-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/lombard-street/lombard-street-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #muir-beach-hero{
@@ -2631,6 +2631,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
 #clouds-rest-hero{
     background: url(resources/images/california/yosemite-national-park/clouds-rest/Yosemite_Valley_From_Clouds_Rest-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -200px;
 }
 #glacier-point-hero{
     background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-1515.jpg) center no-repeat;
@@ -2813,6 +2814,7 @@ background: url(resources/images/colorado/telluride/Tellurides_main_street-1515.
 #maroon-bells-hero{
 background: url(resources/images/colorado/maroon-bells/Aspen-maroon-bells-colorado-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #mt-elbert-hero{
 background: url(resources/images/colorado/mount-elbert/Mount_Elbert_and_horses-1515.jpg) center no-repeat;
@@ -2831,7 +2833,7 @@ background: url(resources/images/colorado/pawnee-buttes/Pawnee_Buttes2010-1515.j
     background-size: cover;
 }
 #red-rock-amphitheatre-hero{
-background: url(resources/images/colorado/red-rocks-park-and-amphitheatre/Red\ Rocks\ Amphitheatre\ in\ February-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/red-rocks-park-and-amphitheatre/Red\ Rocks\ Amphitheatre\ in\ February-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #rifle-falls-hero{
@@ -3413,7 +3415,7 @@ background: url(resources/images/florida/st-petersburg-fl/Downtown_St._Petersbur
     background-size: cover;
 }
 #sunshine-skyway-bridge-hero{
-background: url(resources/images/florida/st-petersburg-fl/sunshine-skyway-bridge/sunshine-skyway-bridge-hero-1515.jpg) center no-repeat;
+background: url(resources/images/florida/st-petersburg-fl/sunshine-skyway-bridge/sunshine-skyway-bridge-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #vinoy-park-hotel-hero{
@@ -5002,7 +5004,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #oak-alley-plantation-hero{
-    background: url(resources/images/louisiana/oak-alley-plantation/dirk-spijkers-PoQcfmoWoAA-unsplash-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/oak-alley-plantation/dirk-spijkers-PoQcfmoWoAA-unsplash-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #bayou-coquille-hero{
@@ -5030,7 +5032,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #riverfront-plaza-hero{
-    background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/riverfront-plaza-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/Baton_Rouge_Louisiana_waterfront_aerial_view-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #uss-kidd-hero{
@@ -5094,11 +5096,11 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #galatoires-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #legends-park-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #pat-obriens-hero{
@@ -5106,7 +5108,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #riverwalk-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #spanish-plaza-hero{
@@ -5126,7 +5128,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background-size: cover;
 }
 #st-louis-cemetery-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/st-louis-cemetery/Saint_Louis_Cemetery_1_New_Orleans_1_Nov_2017_11-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* --------------------------Maine---------------------------------------- */
@@ -5624,7 +5626,11 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
 }
 
 
-/* Michigan */
+/* MICHIGAN */
+#isle-royale-hero{
+    background: url(resources/images/michigan/isle-royale-national-park/Rock_Harbor_Lighthouse_at_Isle_Royale_National_park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #brockway-mountain-hero{
 background: url(resources/images/michigan/keweenaw-peninsula/brockway-mountain-drive/Brockway_Mountain_Drive_east_overlook-1515.jpg) center no-repeat;
     background-size: cover;
@@ -5634,7 +5640,7 @@ background: url(resources/images/michigan/keweenaw-peninsula/calumet-mi/Calumet-
     background-size: cover;
 }
 #copper-country-trail-hero{
-background: url(resources/images/michigan/keweenaw-peninsula/copper-country-trail/Copper_Country_Trail_-_Fall_Foliage_-_NARA_-_7717796-1515.jpg) center no-repeat;
+background: url(resources/images/michigan/keweenaw-peninsula/copper-country-trail/Copper_Country_Trail_-_Fall_Foliage_-_NARA_-_7717796-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #copper-harbor-mi-hero{
@@ -5646,7 +5652,7 @@ background: url(resources/images/michigan/keweenaw-peninsula/delaware-mine/Delaw
     background-size: cover;
 }
 #ft-wilkins-sp-hero{
-background: url(resources/images/michigan/keweenaw-peninsula/fort-wilkins-historic-state-park/Up_fort_wilkins_01_m1_screen-1515.jpg) center no-repeat;
+background: url(resources/images/michigan/keweenaw-peninsula/fort-wilkins-historic-state-park/Up_fort_wilkins_01_m1_screen-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #keweenaw-nhp-hero{
@@ -5694,7 +5700,7 @@ background: url(resources/images/michigan/porcupine-mountains/Gfp-michigan-porcu
     background-size: cover;
 }
 #presque-isle-hero{
-background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/pierce-stocking-scenic-drive/Pierce_Stocking_Scenic_Drive_ba2b311b-a0d2-442b-9a88-d8317f324d7f-1515.jpg) center no-repeat;
+background: url(resources/images/michigan/porcupine-mountains/presque-isle-river/Potholes_Presque_Isle_River\,_Porcupine_Mountains_State_Park\,_Upper_Peninsula_of_Michigan\,_USA_21466113862-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bond-falls-hero{
@@ -5702,11 +5708,11 @@ background: url(resources/images/michigan/bond-falls/Bond_Falls_2020_-_2-1515.jp
     background-size: cover;
 }
 #grand-island-nra-hero{
-background: url(resources/images/michigan/grand-isle-national-recreation-area/Grand_Island_East_Channel_Lighthouse-1515.jpg) center no-repeat;
+background: url(resources/images/michigan/grand-isle-national-recreation-area/Grand_Island_East_Channel_Lighthouse-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #mackinac-bridge-hero{
-background: url(resources/images/michigan/mackinac-bridge/Mackinac_Bridge_from_Mackinaw_City-1515.jpg) center no-repeat;
+background: url(resources/images/michigan/mackinac-bridge/Mackinac_Bridge_from_Mackinaw_City-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #michigan-hero{
@@ -5718,7 +5724,7 @@ background: url(resources/images/michigan/palms-book-state-park/Kitch_raft-1515.
     background-size: cover;
 }
 #pictured-rocks-hero{
-background: url(resources/images/michigan/pictured-rocks-national-lakeshore/Pictured_Rocks_National_Lakeshore_arch-1515.jpg) center no-repeat;
+background: url(resources/images/michigan/pictured-rocks-national-lakeshore/Pictured_Rocks_National_Lakeshore_arch-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #pierce-stocking-hero{
@@ -5726,7 +5732,7 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 #sleeping-bear-dunes-hero{
-background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/Dune_Overlook_in_the_Sleeping_Bear_Dunes_National_Lakeshore-1515.jpg) center no-repeat;
+background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/Dune_Overlook_in_the_Sleeping_Bear_Dunes_National_Lakeshore-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #tahquamenon-falls-hero{
@@ -5738,6 +5744,19 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 /*---------------------------- Minnesota --------------------------*/
+#voyageurs-np-hero{
+    background: url(resources/images/minnesota/voyageurs-national-park/Rainy_Lake_at_Kettle_Falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#kabetogama-lake-hero{
+    background: url(resources/images/minnesota/voyageurs-national-park/kabetogama-lake/Gfp-minnesota-voyaguers-national-park-overlook-of-kabetogama-on-a-rainy-day-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rainy-lake-hero{
+background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/Inside_channel_on_Rainy_Lake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #aerial-lift-bridge-hero{
  background: url(resources/images/minnesota/duluth/aerial-lift-brdige/AerialLiftBridgeNight-1515.jpg) center no-repeat;
     background-size: cover;
@@ -5819,7 +5838,7 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 #blue-mounds-hero{
- background: url(resources/images/minnesota/blue-mounds-state-park/Blue_Mounds_State_Park_outcrop-1515.jpg) center no-repeat;
+ background: url(resources/images/minnesota/blue-mounds-state-park/Blue_Mounds_State_Park_outcrop-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #boundary-waters-hero{
@@ -5835,7 +5854,7 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 #excelsior-mn-hero{
- background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-1515.jpg) center no-repeat;
+ background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #franconia-sculpture-hero{
@@ -5871,7 +5890,7 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 #lake-minnetonka-hero{
- background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-1515.jpg) center no-repeat;
+ background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #palisade-head-hero{
@@ -5883,7 +5902,7 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 #silver-bay-hero{
- background: url(resources/images/minnesota/silver-bay-mn/Split_Rock\,_Silver_Bay_18685280138-1515.jpg) center no-repeat;
+ background: url(resources/images/minnesota/silver-bay-mn/Split_Rock\,_Silver_Bay_18685280138-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #split-rock-light-hero{
@@ -7427,6 +7446,48 @@ background: url(resources/images/north-dakota/white-butte/White_butte_1-1515.jpg
     background-size: cover;
 }
 
+/*--------------------------OHIO----------------------------------------------- */
+#brandywine-falls-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/brandywine-falls/Brandywine_Falls_29999191633-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#beaver-marsh-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/beaver-marsh/Towpath_Trail_bridge_crossing_Beaver_Marsh-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#blue-hen-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/blue-hen-falls/Blue_Hen_Falls_30544992131-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-mill-hero{
+background: url(resources/images/cuyahoga-valley-national-park/boston-mill-visitor-center/boston-mill-visitor-center-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bridal-veil-oh-hero{
+background: url(resources/images/cuyahoga-valley-national-park/bridal-veil-falls-cuyahoga/bridal-veil-falls-cuyahoga-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#canal-exploration-hero{
+background: url(resources/images/cuyahoga-valley-national-park/canal-exploration-center/canal-exploration-center-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cuyahoga-railroad-hero{
+background: url(resources/images/cuyahoga-valley-national-park/cuyahoga-valley-scenic-railroad/Ohio_&_Erie_Canalway_-_Chugging_along_the_Canal_-_NARA_-_7720782-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#everett-bridge-hero{
+background: url(resources/images/cuyahoga-valley-national-park/everett-road-covered-bridge/Everett_Road_Covered_Bridge-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ledges-oh-hero{
+background: url(resources/images/cuyahoga-valley-national-park/ledges/Ledges_at_Cuyahoga_Valley_National_Park_10544131024-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ohio-erie-canal-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/ohio-and-erie-canal-towpath/Ohio_and_Erie_Canal_Towpath_Trail_Section-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 /* ---------------------Oklahoma */
 #heavener-runestone-hero{
     background: url(resources/images/oklahoma/heavener-runestone-park/heavener-runestone-park-1515.jpg) center no-repeat;
@@ -8035,8 +8096,9 @@ background: url(resources/images/pennsylvania/lancaster-county/central-market/Ce
     background-size: cover;
 }
 #fallingwater-hero{
-background: url(resources/images/pennsylvania/fallingwater/Fallingwater3-1515.jpg) center no-repeat;
+background: url(resources/images/pennsylvania/fallingwater/Fallingwater3-1515.jpg) top no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #gettysburg-hero{
 background: url(resources/images/pennsylvania/gettysburg-national-military-park/Gettysburg_Battlefield\,_Pennsylvania\,_US_97-1515.jpg) center no-repeat;
@@ -9422,17 +9484,15 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/utah/canyonlands-national-park/island-in-the-sky/) center no-repeat;
     background-size: cover;
 }
-#needles-hero{
-    background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #chesler-park-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #druid-arch-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/druid-arch/Druid_Arch._Needles_District._Canyonlands_UT._9862534466-1515.jpg) top no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #canyonlands-maze-hero{
     background: url(resources/images/utah/canyonlands-national-park/maze/Chocolate_Drops_from_Maze_Overlook_14182277989-1515.jpg) center no-repeat;
@@ -9637,6 +9697,34 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 #zion-subway-hero{
     background: url(resources/images/utah/zion-national-park/zion-subway/Subway_Zion1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#canyon-overlook-trail-hero{
+background: url(resources/images/utah/zion-national-park/canyon-overlook-trail/Overlook_trail_view_-_Zion_Canyon-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#checkerboard-mesa-hero{
+background: url(resources/images/utah/zion-national-park/checkerboard-mesa/Checkerboard_Mesa_and_Crazy_Quilt_Mesa-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#emerald-pools-hero{
+background: url(resources/images/utah/zion-national-park/emerald-pools/Lower_Emerald_Pools_Trail\,_Zion_National_Park_5521079015-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grotto-trail-hero{
+background: url(resources/images/utah/zion-national-park/grotto-trail/Zion_NP\,_End_of_Grotto_Trail_5-1-14i_14359680462-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kolob-canyons-hero{
+    background: url(resources/images/utah/zion-national-park/kolob-arch/Kolob_Canyons\,_Walk_to_the_Kolob_Arch_Zion_National_Park_3440688580-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#observation-point-hero{
+    background: url(resources/images/utah/zion-national-park/observation-point-trail/Observation_Point\,_Zion-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#riverside-walk-hero{
+background: url(resources/images/utah/zion-national-park/riverside-walk/Riverside_Walk_to_Zion_Narrows\,_Zion_Canyon\,_Zion_National_Park\,_Utah_8096066362-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #paria-river-hero{
@@ -10287,10 +10375,10 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
 }
 
 /* --------------------Wisconsin --------------------------------*/
-#baileys-harbor-hero{
-    background: url(resources/images/wisconsin/door-county/baileys-harbor/The_Baileys_Harbor\,_Wisconsin_area_is_a_vacationland_for_people_from_California_to_Chicago-1515.jpg) center no-repeat;
-        background-size: cover;
-    }
+#door-county-hero{
+    background: url(resources/images/wisconsin/door-county/dave-hoefler-9h09cnC6oBc-unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #baileys-harbor-hero{
 background: url(resources/images/wisconsin/door-county/baileys-harbor/The_Baileys_Harbor\,_Wisconsin_area_is_a_vacationland_for_people_from_California_to_Chicago-1515.jpg) center no-repeat;
     background-size: cover;
@@ -10351,12 +10439,16 @@ background: url(resources/images/wisconsin/madison-wi/wisconsin-state-capitol/Wi
 background: url(resources/images/wisconsin/milwaukee/Downtown_Milwaukee_from_Pier_Wisconsin-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#apostle-islands-hero{
-background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-1515.jpg) center no-repeat;
+#copper-falls-hero{
+    background: url(resources/images/wisconsin/copper-falls-state-park/Copper_Falls_State_Park_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #apostle-islands-hero{
 background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#house-of-the-rock-hero{
+background: url(resources/images/wisconsin/house-on-the-rock/House_on_the_rock_2296-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #devils-lake-sp-hero{
@@ -10667,7 +10759,7 @@ background: url(resources/images/wyoming/yellowstone-national-park/west-thumb-ge
     background-size: cover;
 }
 #yellowstone-grand-canyon-hero {
-    background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/grand-canyon-yellowstone-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/wyoming/yellowstone-national-park/grand-canyon-of-the-yellowstone/Grand_Canyon_of_Yellowstone_and_Lower_falls\,_Wyoming\,_United_States-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -13032,7 +13124,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #lombard-hero{
-        background: url(resources/images/california/san-francisco/lombard/lombard-street-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/lombard-street/lombard-street-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #muir-beach-hero{
@@ -13629,7 +13721,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #red-rock-amphitheatre-hero{
-    background: url(resources/images/colorado/red-rocks-park-and-amphitheatre/Red\ Rocks\ Amphitheatre\ in\ February-3030.jpg) center no-repeat;
+    background: url(resources/images/colorado/red-rocks-park-and-amphitheatre/Red\ Rocks\ Amphitheatre\ in\ February-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #rifle-falls-hero{
@@ -14079,7 +14171,7 @@ background: url(resources/images/florida/st-petersburg-fl/Downtown_St._Petersbur
     background-size: cover;
 }
 #sunshine-skyway-bridge-hero{
-background: url(resources/images/florida/st-petersburg-fl/sunshine-skyway-bridge/sunshine-skyway-bridge-hero-3030.jpg) center no-repeat;
+background: url(resources/images/florida/st-petersburg-fl/sunshine-skyway-bridge/sunshine-skyway-bridge-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #vinoy-park-hotel-hero{
@@ -15661,6 +15753,14 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
 }
 
     /*---------------------------- Minnesota --------------------------*/
+    #kabetogama-lake-hero{
+        background: url(resources/images/minnesota/voyageurs-national-park/kabetogama-lake/Gfp-minnesota-voyaguers-national-park-overlook-of-kabetogama-on-a-rainy-day-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #rainy-lake-hero{
+    background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/Inside_channel_on_Rainy_Lake-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #aerial-lift-bridge-hero{
     background: url(resources/images/minnesota/duluth/aerial-lift-brdige/AerialLiftBridgeNight-3030.jpg) center no-repeat;
        background-size: cover;
@@ -15742,7 +15842,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
        background-size: cover;
    }
    #blue-mounds-hero{
-    background: url(resources/images/minnesota/blue-mounds-state-park/Blue_Mounds_State_Park_outcrop-3030.jpg) center no-repeat;
+    background: url(resources/images/minnesota/blue-mounds-state-park/Blue_Mounds_State_Park_outcrop-3030.jpg) top no-repeat;
        background-size: cover;
    }
    #boundary-waters-hero{
@@ -15758,7 +15858,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
        background-size: cover;
    }
    #excelsior-mn-hero{
-    background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-3030.jpg) center no-repeat;
+    background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-3030.jpg) bottom no-repeat;
        background-size: cover;
    }
    #franconia-sculpture-hero{
@@ -15794,7 +15894,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
        background-size: cover;
    }
    #lake-minnetonka-hero{
-    background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-3030.jpg) center no-repeat;
+    background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-3030.jpg) top no-repeat;
        background-size: cover;
    }
    #palisade-head-hero{
@@ -15806,7 +15906,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
        background-size: cover;
    }
    #silver-bay-hero{
-    background: url(resources/images/minnesota/silver-bay-mn/Split_Rock\,_Silver_Bay_18685280138-3030.jpg) center no-repeat;
+    background: url(resources/images/minnesota/silver-bay-mn/Split_Rock\,_Silver_Bay_18685280138-3030.jpg) top no-repeat;
        background-size: cover;
    }
    #split-rock-light-hero{
@@ -17349,6 +17449,48 @@ background: url(resources/images/north-dakota/white-butte/White_butte_1-3030.jpg
     background-size: cover;
 }
 
+/*--------------------------OHIO----------------------------------------------- */
+#brandywine-falls-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/brandywine-falls/Brandywine_Falls_29999191633-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#beaver-marsh-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/beaver-marsh/Towpath_Trail_bridge_crossing_Beaver_Marsh-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#blue-hen-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/blue-hen-falls/Blue_Hen_Falls_30544992131-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boston-mill-hero{
+background: url(resources/images/cuyahoga-valley-national-park/boston-mill-visitor-center/boston-mill-visitor-center-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bridal-veil-oh-hero{
+background: url(resources/images/cuyahoga-valley-national-park/bridal-veil-falls-cuyahoga/bridal-veil-falls-cuyahoga-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#canal-exploration-hero{
+background: url(resources/images/cuyahoga-valley-national-park/canal-exploration-center/canal-exploration-center-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cuyahoga-railroad-hero{
+background: url(resources/images/cuyahoga-valley-national-park/cuyahoga-valley-scenic-railroad/Ohio_&_Erie_Canalway_-_Chugging_along_the_Canal_-_NARA_-_7720782-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#everett-bridge-hero{
+background: url(resources/images/cuyahoga-valley-national-park/everett-road-covered-bridge/Everett_Road_Covered_Bridge-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ledges-oh-hero{
+background: url(resources/images/cuyahoga-valley-national-park/ledges/Ledges_at_Cuyahoga_Valley_National_Park_10544131024-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ohio-erie-canal-hero{
+    background: url(resources/images/cuyahoga-valley-national-park/ohio-and-erie-canal-towpath/Ohio_and_Erie_Canal_Towpath_Trail_Section-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
     /* ---------------------Oklahoma */
 #heavener-runestone-hero{
     background: url(resources/images/oklahoma/heavener-runestone-park/heavener-runestone-park-3030.jpg) center no-repeat;
@@ -18170,7 +18312,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
     background-size: cover;
 }
 #oak-alley-plantation-hero{
-    background: url(resources/images/louisiana/oak-alley-plantation/dirk-spijkers-PoQcfmoWoAA-unsplash-3030.jpg) center no-repeat;
+    background: url(resources/images/louisiana/oak-alley-plantation/dirk-spijkers-PoQcfmoWoAA-unsplash-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #mardi-gras-hero{
@@ -18202,7 +18344,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #riverfront-plaza-hero{
-        background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/riverfront-plaza-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/baton-rouge/riverfront-plaza/Baton_Rouge_Louisiana_waterfront_aerial_view-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #uss-kidd-hero{
@@ -18264,12 +18406,11 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #galatoires-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/galatoires-restaurant/galatoires-hero-3030.jpg) top no-repeat;
         background-size: cover;
-        background-position-y: -100px;
     }
     #legends-park-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/bourbon-street/legends-park/legends-park-hero-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #jackson-brewery-hero{
@@ -18800,7 +18941,11 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     background-size: cover;
 }
 
-    /* Michigan */
+    /* MICHIGAN */
+    #isle-royale-hero{
+        background: url(resources/images/michigan/isle-royale-national-park/Rock_Harbor_Lighthouse_at_Isle_Royale_National_park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #brockway-mountain-hero{
     background: url(resources/images/michigan/keweenaw-peninsula/brockway-mountain-drive/Brockway_Mountain_Drive_east_overlook-3030.jpg) center no-repeat;
         background-size: cover;
@@ -18810,7 +18955,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #copper-country-trail-hero{
-    background: url(resources/images/michigan/keweenaw-peninsula/copper-country-trail/Copper_Country_Trail_-_Fall_Foliage_-_NARA_-_7717796-3030.jpg) center no-repeat;
+    background: url(resources/images/michigan/keweenaw-peninsula/copper-country-trail/Copper_Country_Trail_-_Fall_Foliage_-_NARA_-_7717796-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #copper-harbor-mi-hero{
@@ -18822,7 +18967,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #ft-wilkins-sp-hero{
-    background: url(resources/images/michigan/keweenaw-peninsula/fort-wilkins-historic-state-park/Up_fort_wilkins_01_m1_screen-3030.jpg) center no-repeat;
+    background: url(resources/images/michigan/keweenaw-peninsula/fort-wilkins-historic-state-park/Up_fort_wilkins_01_m1_screen-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #keweenaw-nhp-hero{
@@ -18870,7 +19015,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #presque-isle-hero{
-    background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/pierce-stocking-scenic-drive/Pierce_Stocking_Scenic_Drive_ba2b311b-a0d2-442b-9a88-d8317f324d7f-3030.jpg) center no-repeat;
+    background: url(resources/images/michigan/porcupine-mountains/presque-isle-river/Potholes_Presque_Isle_River\,_Porcupine_Mountains_State_Park\,_Upper_Peninsula_of_Michigan\,_USA_21466113862-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bond-falls-hero{
@@ -18878,11 +19023,11 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #grand-island-nra-hero{
-    background: url(resources/images/michigan/grand-isle-national-recreation-area/Grand_Island_East_Channel_Lighthouse-3030.jpg) center no-repeat;
+    background: url(resources/images/michigan/grand-isle-national-recreation-area/Grand_Island_East_Channel_Lighthouse-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #mackinac-bridge-hero{
-    background: url(resources/images/michigan/mackinac-bridge/Mackinac_Bridge_from_Mackinaw_City-3030.jpg) center no-repeat;
+    background: url(resources/images/michigan/mackinac-bridge/Mackinac_Bridge_from_Mackinaw_City-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #michigan-hero{
@@ -18894,7 +19039,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #pictured-rocks-hero{
-    background: url(resources/images/michigan/pictured-rocks-national-lakeshore/Pictured_Rocks_National_Lakeshore_arch-3030.jpg) center no-repeat;
+    background: url(resources/images/michigan/pictured-rocks-national-lakeshore/Pictured_Rocks_National_Lakeshore_arch-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #pierce-stocking-hero{
@@ -18902,7 +19047,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #sleeping-bear-dunes-hero{
-    background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/Dune_Overlook_in_the_Sleeping_Bear_Dunes_National_Lakeshore-3030.jpg) center no-repeat;
+    background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore/Dune_Overlook_in_the_Sleeping_Bear_Dunes_National_Lakeshore-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #tahquamenon-falls-hero{
@@ -19820,8 +19965,8 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     background: url(resources/images/wisconsin/milwaukee/Downtown_Milwaukee_from_Pier_Wisconsin-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #apostle-islands-hero{
-    background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-3030.jpg) center no-repeat;
+    #copper-falls-hero{
+        background: url(resources/images/wisconsin/copper-falls-state-park/Copper_Falls_State_Park_-_panoramio-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #apostle-islands-hero{
@@ -21123,17 +21268,15 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/utah/canyonlands-national-park/island-in-the-sky/upheaval-dome/canyonlands-upheaval-dome-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#needles-hero{
-    background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-3030.jpg) center no-repeat;
-    background-size: cover;
-}
 #chesler-park-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-3030.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #druid-arch-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/druid-arch/Druid_Arch._Needles_District._Canyonlands_UT._9862534466-3030.jpg) top no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #canyonlands-maze-hero{
     background: url(resources/images/utah/canyonlands-national-park/maze/Chocolate_Drops_from_Maze_Overlook_14182277989-3030.jpg) center no-repeat;
@@ -21307,6 +21450,34 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/utah/zion-national-park/zion-subway/Subway_Zion1-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#canyon-overlook-trail-hero{
+    background: url(resources/images/utah/zion-national-park/canyon-overlook-trail/Overlook_trail_view_-_Zion_Canyon-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #checkerboard-mesa-hero{
+    background: url(resources/images/utah/zion-national-park/checkerboard-mesa/Checkerboard_Mesa_and_Crazy_Quilt_Mesa-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #emerald-pools-hero{
+    background: url(resources/images/utah/zion-national-park/emerald-pools/Lower_Emerald_Pools_Trail\,_Zion_National_Park_5521079015-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #grotto-trail-hero{
+    background: url(resources/images/utah/zion-national-park/grotto-trail/Zion_NP\,_End_of_Grotto_Trail_5-1-14i_14359680462-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kolob-canyons-hero{
+        background: url(resources/images/utah/zion-national-park/kolob-arch/Kolob_Canyons\,_Walk_to_the_Kolob_Arch_Zion_National_Park_3440688580-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #observation-point-hero{
+        background: url(resources/images/utah/zion-national-park/observation-point-trail/Observation_Point\,_Zion-3030.jpg) bottom no-repeat;
+        background-size: cover;
+    }
+    #riverside-walk-hero{
+    background: url(resources/images/utah/zion-national-park/riverside-walk/Riverside_Walk_to_Zion_Narrows\,_Zion_Canyon\,_Zion_National_Park\,_Utah_8096066362-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #paria-river-hero{
     background: url(resources/images/utah/paria-canyon/Paria_River_-_4048563770-3030.jpg) center no-repeat;
     background-size: cover;
