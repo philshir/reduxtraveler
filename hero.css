@@ -2775,6 +2775,59 @@ background: url(resources/images/colorado/colorado-springs/pikes-peak/Pikes_Peak
 background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#casa-bonita-hero{
+background: url(resources/images/colorado/denver/casa-bonita/Casabonitadenver-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-immaculate-conception-hero{
+background: url(resources/images/colorado/denver/cathedral-basilica-of-the-immaculate-conception/Denver\,_Church_of_the_Immaculate_Conception-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#confluence-park-hero{
+background: url(resources/images/colorado/denver/confluence-park/Confluence_Park_10094572583-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#daniels-fisher-hero{
+background: url(resources/images/colorado/denver/daniels-and-fisher-tower/Daniels_&_Fisher_Tower_view_from_Curtis_&_15th_Street-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flatirons-co-hero{
+background: url(resources/images/colorado/denver/flatirons/The_Flatirons_in_autumn.-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#larimer-square-hero{
+background: url(resources/images/colorado/denver/larimer-square/Larimer_Square_northeast_past_14th_Street-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pearl-mall-hero{
+background: url(resources/images/colorado/denver/pearl-street-mall/Boulder_Colorado_-_Perl_Street_Mall_-2005-10-14T205944-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#treasure-falls-hero{
+background: url(resources/images/colorado/treasure-falls/Treasure_Falls\,_CO_plunge_June_2013-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#independence-pass-hero{
+background: url(resources/images/colorado/independence-pass/Independence_Pass_-_North_Fork_Lake_Creek\,_Colorado_44651567895-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hanging-lake-hero{
+background: url(resources/images/colorado/hanging-lake/Hanging_Lake_8-18_15613179035-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crystal-mill-hero{
+background: url(resources/images/colorado/crystal-mill/The_Crystal_Mill_2014-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#breckenridge-hero{
+background: url(resources/images/colorado/breckenridge-co/Breckenridge_Ski_Resort\,_July_2016-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pagosa-springs-hero{
+background: url(resources/images/colorado/pagosa-springs/Hot_Springs-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #co-state-capitol-hero{
     background: url(resources/images/colorado/denver/colorado-state-capitol/Coloradocapitolhill2-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2885,17 +2938,147 @@ background: url(resources/images/colorado/florissant-fossil-beds-national-monume
     background-size: cover;
 }
 #mesa-verde-hero{
-    background: url(resources/images/colorado/mesa-verde/mesa-verde-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/mesa-verde-national-park/mesa-verde-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#balcony-house-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/balcony-house/Balcony_House\,_Mesa_Verde\,_Colorado_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chapin-mesa-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/chapin-mesa/Soda_Canyon\,_Chapin_Mesa\,_Mesa_Verde_National_Park_4848049605-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cliff-palace-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/cliff-palace/Cliff_Palace_Overlook\,_Chapin_Mesa\,_Mesa_Verde_National_Park_4848047309-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#far-view-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/far-view/Far_View_Tower\,_Mesa_Verde_National_Park_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #petroglyph-point-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/) center no-repeat;
+    background-size: cover;
+} */
+#soda-canyon-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/soda-canyon/Mesa_Verde_National_Park_Little_Soda_Canyon_2006_09_11-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spruce-tree-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/spruce-tree-house/Spruce_Tree_House_15120918866-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#square-tower-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/square-tower-house/Square_Tower_House\,_Mesa_Verde_Park\,_Colorado\,_US_09-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wetherill-mesa-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/Hike_from_Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851720881-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#long-house-hero{
+background: url(resources/images/colorado/mesa-verde-national-park/long-house/Long_House_Cliff_Dwelling\,_Mesa_Verde_8-08_15263997498-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#step-house-hero{
+    background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/step-house/Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851664137-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #painted-mines-hero{
     background: url(resources/images/colorado/painted-mine-interpretive-park/painted-mines-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rocky-mountains-hero{
-    background: url(resources/images/colorado/rocky-mountain/rocky-mountains-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/rocky-mountain-national-park/rocky-mountains-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#adams-falls-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/adams-falls/Adams_Falls_2619565225-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #alberta-falls-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/) center no-repeat;
+    background-size: cover;
+} */
+#bear-lake-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/夏の湖_Bear_Lake_in_A_Summer_8412570949-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bierstadt-lake-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/bierstadt-lake/Bierstadt_Lake\,_Rocky_Mountain_National_Park\,_USA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cub-lake-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/cub-lake/Cub_lake_37509698712-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dream-lake-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/dream-lake/Dream_Lake_9452192920-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flattop-mountain-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/flattop-mountain/Flattop_Mountains_Trail\,_Rocky_Mountain_National_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hallett-peak-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/hallett-peak/Hallett_Peak_&_Tyndall_Glacier-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-haiyaha-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/lake-haiyaha/Hallets_Peak_reflected_in_Lake_Haiyaha_at_darn_in_Rocky_Mountain_National_Park._NPS-Debra_Miller_18659267056-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#loch-rmnp-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/loch/The_Loch-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #mills-lake-rmnp-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/) center no-repeat;
+    background-size: cover;
+} */
+#ouzel-falls-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/ouzel-falls/Ouzel-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sprague-lake-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/sprague-lake/Sprague_Lake_inlet-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #timberline-falls-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/) center no-repeat;
+    background-size: cover;
+} */
+#alpine-visitors-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/alpine-visitors-center/alpine-visitors-center-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-lake-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/grand-lake/New_Day\,_Grand_Lake\,_CO_8-12_27572172296-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+/* #horseshoe-park-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/h) center no-repeat;
+    background-size: cover;
+} */
+#lily-lake-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/lily-lake/Lily_Lake\,_CO-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#longs-peak-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/longs-peak/Longs_Peak_from_Dream_Lake_Trail_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-fall-river-hero{
+background: url(resources/images/colorado/rocky-mountain-national-park/old-fall-river-road/old-fall-river-road-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#trail-ridge-hero{
+    background: url(resources/images/colorado/rocky-mountain-national-park/trail-ridge-road/Trail_Ridge_Road\,_Rocky_Mountains_National_Park_20110824_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #san-juan-skyway-hero{
     background: url(resources/images/colorado/million-dollar-highway/Highway_550_the_Million_Dollar_Highway_between_Silverton_and_Ouray_in_Colorado_29466637288-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3852,6 +4035,23 @@ background: url(resources/images/georgia/st-simons-island/st-simons-island-hero-
 }
 
 /* Hawaii */
+/* Kauai ----------------------------*/
+#kauai-hero{
+background: url(resources/images/hawaii/kauai/Napali_Coast_Sunset_33005540040-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#kalalau-trail-hero{
+background: url(resources/images/hawaii/kauai/kalalau-trail-kauai/Kalalau_Trail\,_Napali_Coast\,_Kapaa_502888_16714377519-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#napali-coast-hero{
+background: url(resources/images/hawaii/kauai/napali-coast/Na_Pali_Coast_Unsplash-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#poipu-beach-hero{
+    background: url(resources/images/hawaii/kauai/poipu-beach/Poipu_Beach_Park\,_Koloa_-_panoramio_2-1515.jpg) no-repeat center;
+    background-size: cover;
+}
 /* Big Island */
 #chain-craters-hero{
     background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-national-park/chain-of-craters-road/Chain_of_Craters_Road-1515.jpg) no-repeat center;
@@ -6431,7 +6631,7 @@ background: url(resources/images/new-hampshire/wolfeboro/Wolfeboro_Docks-1515.jp
     background-size: cover;
 }
 #paris-hero{
-    background: url(resources/images/nevada/las-vegas/paris-las-vegas/paris-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/paris-las-vegas/Las_Vegas_Paris_By_Night\,_1_December_2007-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #planet-hollywood-hero{
@@ -6468,6 +6668,14 @@ background: url(resources/images/new-hampshire/wolfeboro/Wolfeboro_Docks-1515.jp
 }
 #boundary-peak-hero{
 background: url(resources/images/nevada/boundary-peak/2015-05-03_11_30_54_View_of_Boundary_Peak\,_Nevada_from_about_12820_feet_on_the_ridgeline_to_the_northeast-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#gold-butte-nm-hero{
+    background: url(resources/images/nevada/gold-butte-national-monument/Gold_Butte_National_Monument_-_50594721791-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#whitney-pockets-hero{
+    background: url(resources/images/nevada/whitney-pocket/Caves_6243408775-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lake-mead-hero{
@@ -6584,6 +6792,10 @@ background: url(resources/images/nebraska/smith-falls-state-park/Smith_Falls\,_N
 }
 
 /* New Mexico */
+#rio-grande-del-norte-hero{
+    background: url(resources/images/new-mexico/rio-grande-del-norte-national-monument/Rio_Grande_WSR_9443014740-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #abiquiu-hero{
     background: url(resources/images/new-mexico/abiquiu/Abiquiu\,_New_Mexico_29595763807-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6945,7 +7157,7 @@ background: url(resources/images/new-mexico/taos/taos-plaza/Taos_Plaza_9-1515.jp
     background-size: cover;
 }
 #taos-pueblo-hero{
-background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_plaza_la_fonda-1515.jpg) center no-repeat;
+background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_Pueblo-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #taos-ski-valley-hero{
@@ -9383,6 +9595,14 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 
 /* Utah */
+#factory-butte-hero{
+    background: url(resources/images/utah/factory-butte/Scenery_north_of_Hanksville\,_Utah-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#utah-route-12-hero{
+    background: url(resources/images/utah/utah-state-route-12/Utah_State_Route_24\,_Near_Mile_92_view_in_Direction_North-West_110814_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #antelope-island-hero{
     background: url(resources/images/utah/antelope-island-state-park/Salt_Lake_-_White_Rock_Bay_-_výhled_z_Buffalo_Pointu\,_Antelope_Island_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9680,11 +9900,11 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-hero{
-    background: url(resources/images/utah/zion-national-park/angels-landing/angels-landing-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/matthias-mullie--qg1-dATq0U-unsplash-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #zion-canyon-hero{
-    background: url(resources/images/utah/zion-national-park/zion-canyon-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/zion-canyon/karan-chawla-Mnm-xauNtEs-unsplash-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #angels-landing-hero{
@@ -10487,6 +10707,34 @@ background: url(resources/images/wisconsin/willow-river-state-park/02WillowFalls
 /* ------------------------------Wyoming-------------------------- */
 #wyoming-hero{
     background: url(resources/images/wyoming/Landscape_of_Jackson_Hole\,_October_2010-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#morning-glory-pool-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/morning-glory-pool/morning-glory-pool-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wind-river-range-hero{
+background: url(resources/images/wyoming/wind-river-range/Wind_River_Range_July_2017_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cirque-towers-hero{
+background: url(resources/images/wyoming/cirque-of-the-towers/The_Cirque_of_the_Towers_8538787361-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#green-river-lakes-hero{
+background: url(resources/images/wyoming/green-river-lakes/Green_River_Lakes-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hot-springs-sp-hero{
+background: url(resources/images/wyoming/hot-springs-state-park/Thermopilis_terraces_WY1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pinedale-wy-hero{
+background: url(resources/images/wyoming/pinedale-wy/Overlooking_Pinedale\,_WY_from_the_east_in_the_winter\,_Dec_2016-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#buffalo-bill-center-hero{
+    background: url(resources/images/wyoming/buffalo-bill-center-of-the-west/Buffalo_Bill_Historical_Center_001-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #devils-tower-hero{
@@ -13773,17 +14021,145 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #mesa-verde-hero{
-        background: url(resources/images/colorado/mesa-verde/mesa-verde-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/mesa-verde-national-park/mesa-verde-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #balcony-house-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/balcony-house/Balcony_House\,_Mesa_Verde\,_Colorado_-_panoramio-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #chapin-mesa-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/chapin-mesa/Soda_Canyon\,_Chapin_Mesa\,_Mesa_Verde_National_Park_4848049605-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cliff-palace-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/cliff-palace/Cliff_Palace_Overlook\,_Chapin_Mesa\,_Mesa_Verde_National_Park_4848047309-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #far-view-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/far-view/Far_View_Tower\,_Mesa_Verde_National_Park_-_panoramio-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #petroglyph-point-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/) center no-repeat;
+            background-size: cover;
+        } */
+        #soda-canyon-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/soda-canyon/Mesa_Verde_National_Park_Little_Soda_Canyon_2006_09_11-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #spruce-tree-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/spruce-tree-house/Spruce_Tree_House_15120918866-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #square-tower-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/square-tower-house/Square_Tower_House\,_Mesa_Verde_Park\,_Colorado\,_US_09-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #wetherill-mesa-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/Hike_from_Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851720881-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #long-house-hero{
+        background: url(resources/images/colorado/mesa-verde-national-park/long-house/Long_House_Cliff_Dwelling\,_Mesa_Verde_8-08_15263997498-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #step-house-hero{
+            background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/step-house/Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851664137-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #painted-mines-hero{
         background: url(resources/images/colorado/painted-mine-interpretive-park/painted-mines-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #rocky-mountains-hero{
-        background: url(resources/images/colorado/rocky-mountain/rocky-mountains-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/rocky-mountain-national-park/rocky-mountains-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #adams-falls-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/adams-falls/Adams_Falls_2619565225-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #alberta-falls-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/) center no-repeat;
+            background-size: cover;
+        } */
+        #bear-lake-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/夏の湖_Bear_Lake_in_A_Summer_8412570949-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #bierstadt-lake-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/bierstadt-lake/Bierstadt_Lake\,_Rocky_Mountain_National_Park\,_USA-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cub-lake-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/cub-lake/Cub_lake_37509698712-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #dream-lake-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/dream-lake/Dream_Lake_9452192920-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #flattop-mountain-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/flattop-mountain/Flattop_Mountains_Trail\,_Rocky_Mountain_National_Park-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hallett-peak-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/hallett-peak/Hallett_Peak_&_Tyndall_Glacier-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lake-haiyaha-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/lake-haiyaha/Hallets_Peak_reflected_in_Lake_Haiyaha_at_darn_in_Rocky_Mountain_National_Park._NPS-Debra_Miller_18659267056-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #loch-rmnp-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/loch/The_Loch-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #mills-lake-rmnp-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/) center no-repeat;
+            background-size: cover;
+        } */
+        #ouzel-falls-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/ouzel-falls/Ouzel-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #sprague-lake-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/sprague-lake/Sprague_Lake_inlet-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #timberline-falls-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/) center no-repeat;
+            background-size: cover;
+        } */
+        #alpine-visitors-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/alpine-visitors-center/alpine-visitors-center-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #grand-lake-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/grand-lake/New_Day\,_Grand_Lake\,_CO_8-12_27572172296-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        /* #horseshoe-park-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/h) center no-repeat;
+            background-size: cover;
+        } */
+        #lily-lake-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/lily-lake/Lily_Lake\,_CO-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #longs-peak-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/longs-peak/Longs_Peak_from_Dream_Lake_Trail_-_panoramio-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #old-fall-river-hero{
+        background: url(resources/images/colorado/rocky-mountain-national-park/old-fall-river-road/old-fall-river-road-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #trail-ridge-hero{
+            background: url(resources/images/colorado/rocky-mountain-national-park/trail-ridge-road/Trail_Ridge_Road\,_Rocky_Mountains_National_Park_20110824_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #san-juan-skyway-hero{
         background: url(resources/images/colorado/million-dollar-highway/Highway_550_the_Million_Dollar_Highway_between_Silverton_and_Ouray_in_Colorado_29466637288-3030.jpg) center no-repeat;
         background-size: cover;
@@ -14612,6 +14988,23 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     }
     /* Hawaii */
 /* Big Island */
+/* Kauai ----------------------------*/
+#kauai-hero{
+    background: url(resources/images/hawaii/kauai/Napali_Coast_Sunset_33005540040-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #kalalau-trail-hero{
+    background: url(resources/images/hawaii/kauai/kalalau-trail-kauai/Kalalau_Trail\,_Napali_Coast\,_Kapaa_502888_16714377519-3030Napali_Coast_Sunset_33005540040-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #napali-coast-hero{
+    background: url(resources/images/hawaii/kauai/napali-coast/Na_Pali_Coast_Unsplash-3030Napali_Coast_Sunset_33005540040-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #poipu-beach-hero{
+        background: url(resources/images/hawaii/kauai/poipu-beach/Poipu_Beach_Park\,_Koloa_-_panoramio_2-3030Napali_Coast_Sunset_33005540040-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
 #chain-craters-hero{
     background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-national-park/chain-of-craters-road/Chain_of_Craters_Road-3030.jpg) no-repeat center;
     background-size: cover;
@@ -16169,7 +16562,7 @@ background: url(resources/images/missouri/st-louis/malcolm-w-martin-memorial-par
     background-size: cover;
 }
 #paris-hero{
-    background: url(resources/images/nevada/las-vegas/paris-las-vegas/paris-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/nevada/las-vegas/paris-las-vegas/Las_Vegas_Paris_By_Night\,_1_December_2007-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #planet-hollywood-hero{
@@ -16206,6 +16599,14 @@ background: url(resources/images/missouri/st-louis/malcolm-w-martin-memorial-par
 }
 #boundary-peak-hero{
 background: url(resources/images/nevada/boundary-peak/2015-05-03_11_30_54_View_of_Boundary_Peak\,_Nevada_from_about_12820_feet_on_the_ridgeline_to_the_northeast-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#gold-butte-nm-hero{
+    background: url(resources/images/nevada/gold-butte-national-monument/Gold_Butte_National_Monument_-_50594721791-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#whitney-pockets-hero{
+    background: url(resources/images/nevada/whitney-pocket/Caves_6243408775-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #lake-mead-hero{
@@ -16587,6 +16988,10 @@ background: url(resources/images/new-hampshire/wolfeboro/Wolfeboro_Docks-3030.jp
 }
 
     /* New Mexico */
+    #rio-grande-del-norte-hero{
+        background: url(resources/images/new-mexico/rio-grande-del-norte-national-monument/Rio_Grande_WSR_9443014740-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
 #abiquiu-hero{
     background: url(resources/images/new-mexico/abiquiu/Abiquiu\,_New_Mexico_29595763807-3030.jpg) center no-repeat;
     background-size: cover;
@@ -16948,7 +17353,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
         background-size: cover;
     }
     #taos-pueblo-hero{
-    background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_plaza_la_fonda-3030.jpg) center no-repeat;
+    background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_Pueblo-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #taos-ski-valley-hero{
@@ -20011,6 +20416,34 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background: url(resources/images/wyoming/grand-teton-national-park/wyoming-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #morning-glory-pool-hero{
+        background: url(resources/images/wyoming/yellowstone-national-park/morning-glory-pool/morning-glory-pool-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #wind-river-range-hero{
+        background: url(resources/images/wyoming/wind-river-range/Wind_River_Range_July_2017_1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cirque-towers-hero{
+        background: url(resources/images/wyoming/cirque-of-the-towers/The_Cirque_of_the_Towers_8538787361-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #green-river-lakes-hero{
+        background: url(resources/images/wyoming/green-river-lakes/Green_River_Lakes-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hot-springs-sp-hero{
+        background: url(resources/images/wyoming/hot-springs-state-park/Thermopilis_terraces_WY1-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #pinedale-wy-hero{
+        background: url(resources/images/wyoming/pinedale-wy/Overlooking_Pinedale\,_WY_from_the_east_in_the_winter\,_Dec_2016-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #buffalo-bill-center-hero{
+            background: url(resources/images/wyoming/buffalo-bill-center-of-the-west/Buffalo_Bill_Historical_Center_001-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #devils-tower-hero{
         background: url(resources/images/wyoming/devils-tower-national-monument/Devils_Tower-3030.jpg) center no-repeat;
         background-size: cover;
@@ -21170,6 +21603,14 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 
 /* Utah */
+#factory-butte-hero{
+    background: url(resources/images/utah/factory-butte/Scenery_north_of_Hanksville\,_Utah-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#utah-route-12-hero{
+    background: url(resources/images/utah/utah-state-route-12/Utah_State_Route_24\,_Near_Mile_92_view_in_Direction_North-West_110814_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #antelope-island-hero{
     background: url(resources/images/utah/antelope-island-state-park/Salt_Lake_-_White_Rock_Bay_-_výhled_z_Buffalo_Pointu\,_Antelope_Island_-_panoramio-3030.jpg) center no-repeat;
     background-size: cover;
@@ -21431,11 +21872,11 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-hero{
-    background: url(resources/images/utah/zion-national-park/angels-landing/angels-landing-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/matthias-mullie--qg1-dATq0U-unsplash-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #zion-canyon-hero{
-    background: url(resources/images/utah/zion-national-park/zion-canyon-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/zion-canyon/karan-chawla-Mnm-xauNtEs-unsplash-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #angels-landing-hero{
