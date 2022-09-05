@@ -474,6 +474,23 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
 }
 
 /* Arizona */
+#blue-canyon-hero{
+background: url(resources/images/arizona/blue-canyon/More_from_Blue_Canyon_4521795480-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#coal-mine-canyon-hero{
+background: url(resources/images/arizona/coal-mine-canyon/Coal_Mine_Canyon_4509342013-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#grand-falls-little-co-hero{
+background: url(resources/images/arizona/grand-falls-of-the-little-colorado-river/GrandFallsOfTheLittleColoradoRiverByPhilKonstantin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ha-ho-no-geh-hero{
+    background: url(resources/images/arizona/ha-ho-no-geh/Ha-Ho-No-Geh_Sunrise_5017869808-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #meteor-hero{
     background: url(resources/images/arizona/meteor-crater-natural-landmark/meteor-crater--hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1332,6 +1349,272 @@ background: url(resources/images/california/california-spanish-missions/mission-
     background: url(resources/images/california/california-spanish-missions/mission-santa-ines/Mission_StInes_cropped-1515.jpg) center no-repeat;
     background-size: cover;
 }
+
+#manzanar-hero{
+background: url(resources/images/california/manzanar-national-historic-site/Manzanar_Internment_Camp_661-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#piedras-blancas-hero{
+background: url(resources/images/california/piedras-blancas-light-station/Piedras_Blancas_Light_Station_Outstanding_Natural_Area_36420953382-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salmon-creek-hero{
+background: url(resources/images/california/salmon-creek-falls/Salmon_Creek_Falls_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sand-dollar-beach-hero{
+background: url(resources/images/california/sand-dollar-beach/A_drive_down_the_PCH-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#harmony-headlands-hero{
+background: url(resources/images/california/harmony-headlands-state-park/Coastline_Looking_South_-_Harmony_Headlands_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#henry-cowell-sp-hero{
+background: url(resources/images/california/henry-cowell-redwoods-state-park/Large_Trees_and_Small_Girl_at_Henry_Cowell_Redwoods_State_Park_in_California_-_June_2022-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#oceano-dunes-svra-hero{
+background: url(resources/images/california/oceano-dunes-svra/Sand_dunes_-_Oceano_CA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#spooners-cove-hero{
+background: url(resources/images/california/montana-de-oro-state-park/spooners-cove/Spooners_Cove_-_Spooner_Ranch_House_-_Flickr_-_docentjoyce-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#valencia-peak-hero{
+background: url(resources/images/california/montana-de-oro-state-park/valencia-peak/Montana_de_Oro_State_Park_-_California_Poppy_-_Flickr_-_docentjoyce-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#william-hearst-beach-hero{
+background: url(resources/images/california/william-randolph-hearst-memorial-beach/North_Coast\,_Hearst-San_Simeon_state_park_49978340726-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#angels-railway-hero{
+background: url(resources/images/california/los-angeles/angels-flight-railway/Los_Angeles._Angels_Flight._2022-03-02_14-13-45-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-central-library-hero{
+background: url(resources/images/california/los-angeles/los-angeles-central-library/Los_Angeles_Public_Library_2571166072-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#la-viaducts-hero{
+background: url(resources/images/california/los-angeles/los-angeles-river-viaducts/Los_Angeles_River_through_downtown_evening-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pershing-square-hero{
+background: url(resources/images/california/los-angeles/pershing-square/Pershing_Square-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hollyhock-house-hero{
+background: url(resources/images/california/los-angeles/hollyhock-house/Hollyhock_House_8-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hollywood-forever-hero{
+background: url(resources/images/california/los-angeles/hollywood-forever-cemetery/Hollywood_Cemetery\,_6000_Santa_Monica_Blvd_Hollywood_1783-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#griffith-park-hero{
+background: url(resources/images/california/los-angeles/griffith-park/griffith-park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pinks-hero{
+background: url(resources/images/california/los-angeles/pinks-hot-dogs/PinksHotDogs1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#elysian-park-hero{
+background: url(resources/images/california/los-angeles/elysian-park/SR_110_south_Academy_Road_exit_from_Elysian_Park_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#exposition-park-hero{
+background: url(resources/images/california/los-angeles/exposition-park/Exposition_Park_Rose_Garden\,_Exposition_Blvd._at_Vermont_Ave._University_Park_15-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-creek-bridge-hero{
+background: url(resources/images/california/pacific-coast-highway-big-sur/big-creek-bridge/Big_Creek_Bridge_-_panoramio_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#henry-miller-library-hero{
+background: url(resources/images/california/pacific-coast-highway-big-sur/henry-miller-memorial-library/Henry_Miller_Memorial_Library_33967824138-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-sur-lighthouse-hero{
+background: url(resources/images/california/pacific-coast-highway-big-sur/point-sur-lighthouse/Aerial_view_of_Point_Sur-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#soberanes-point-hero{
+background: url(resources/images/california/pacific-coast-highway-big-sur/garrapata-state-park/soberanes-point/Garrapata_State_Park_Soberanes_Point_2019_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#california-capitol-hero{
+background: url(resources/images/california/sacramento/california-state-capitol/Sacramento\,-California---State-Capitol-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#catehdral-blessed-ca-hero{
+background: url(resources/images/california/sacramento/cathedral-of-the-blessed-sacrament-ca/Blessed_Sacrament_Cathedral_in_Sacramento_California_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crocker-art-hero{
+background: url(resources/images/california/sacramento/crocker-art-museum/Crocker2_35484-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#delta-king-hero{
+background: url(resources/images/california/sacramento/delta-king/Delta_King-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fanny-anns-hero{
+background: url(resources/images/california/sacramento/fanny-anns/Old_Sacramento_State_Historic_Park_5-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stanford-mansion-hero{
+background: url(resources/images/california/sacramento/leland-stanford-mansion-state-historic-park/Stanford_Mansion_-_Sacramento\,_California_6007570640-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#old-sacramento-hero{
+background: url(resources/images/california/sacramento/old-sacramento-state-historic-park/Sacramento_old_town_12-25-10_16_Wiki-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sacramento-hero{
+background: url(resources/images/california/sacramento/Sacramento_Skyline_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#state-capitol-park-hero{
+background: url(resources/images/california/sacramento/state-capitol-park-world-peace-rose-garden/California_State_Capitol_Park_World_Peace_Rose_Garden_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sutters-fort-hero{
+background: url(resources/images/california/sacramento/sutters-fort-state-historic-park/Sutters_Fort\,_Panoramic_view_looking_West_from_the_Central_Building-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#tower-bridge-hero{
+background: url(resources/images/california/sacramento/tower-bridge/Tower_Bridge_Sacramento_edit-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#transamerica-pyramid-hero{
+background: url(resources/images/california/san-francisco/transamerica-pyramid/Transamerica_Pyramid_a_Columbus_Ave_-_San_Francisco_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bubblegum-alley-hero{
+background: url(resources/images/california/san-luis-obispo/bubblegum-alley/Bubble_Gum_Alley-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cerro-san-luis-hero{
+background: url(resources/images/california/san-luis-obispo/cerro-san-luis-obispo/Cerro_San_Luis-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#madonna-inn-hero{
+background: url(resources/images/california/san-luis-obispo/madonna-inn/Madonna_Inn_44464364941-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-luis-obispo-hero{
+background: url(resources/images/california/san-luis-obispo/San_Luis_Obispo_-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chumash-painted-hero{
+background: url(resources/images/california/santa-barbara/chumash-painted-cave/Chumash_Painted_Cave_4_6072563332-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#el-presidio-santa-barbara-hero{
+background: url(resources/images/california/santa-barbara/el-presidio-de-santa-barbara/Santa_Barbara_27464081981-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#leadbetter-beach-hero{
+background: url(resources/images/california/santa-barbara/leadbetter-beach/2014_10_02_sb-beachwalk1_15246238910-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barbara-botanical-hero{
+background: url(resources/images/california/santa-barbara/santa-barbara-botanical-garden/Penstemon_heterophyllus_blue_gem-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barbara-courthouse-hero{
+background: url(resources/images/california/santa-barbara/santa-barbara-county-courthouse/Santa_Barbara_Courthouse_Exterior-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#barbara-museum-natural-hero{
+background: url(resources/images/california/santa-barbara/santa-barbara-museum-of-natural-history/Santa_Barbara_Museum_of_Natural_History_-_exterior-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#shoreline-park-hero{
+background: url(resources/images/california/santa-barbara/shoreline-park/SB_ShorelineParkWest_20150916-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stearns-wharf-hero{
+background: url(resources/images/california/santa-barbara/stearns-wharf/Stearns_Wharf_2577491033-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#natural-bridges-beach-hero{
+background: url(resources/images/california/santa-cruz/natural-bridges-state-beach/Natural_Bridges_State_Beach_Aug_2019_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#walton-lighthouse-hero{
+background: url(resources/images/california/santa-cruz/walton-lighthouse/The_Jetty._Lighthouse_-_Santa_Cruz_19647519470-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#west-cliff-drive-hero{
+background: url(resources/images/california/santa-cruz/west-cliff-drive/Santa_Cruz_01940-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wilder-ranch-sp-hero{
+background: url(resources/images/california/santa-cruz/wilder-ranch-state-park/Wilder_Ranch_State_Park_cliffs-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#half-moon-bay-hero{
+background: url(resources/images/california/half-moon-bay/Half_Moon_Bay_State_Beach_1_2018-07-09-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pismo-beach-hero{
+background: url(resources/images/california/pismo-beach/Pismo_Beach_-_panoramio_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ritz-half-moon-hero{
+background: url(resources/images/california/half-moon-bay/ritz-carlton-half-moon-bay/Ritz-Carlton_in_Half_Moon_Bay\,_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-buenaventura-beach-hero{
+background: url(resources/images/california/ventura/san-buenaventura-state-beach/San_Buenaventura_State_Beach_Ventura_Pier_2015-01-04-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ventura-hero{
+background: url(resources/images/california/ventura/Ventura_Pier_with_fishermen_2013-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-bear-lake-hero{
+background: url(resources/images/california/big-bear-lake/Boulder_Bay\,_Big_Bear_Lake\,_CA_4-15_24227774120-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#black-hill-trail-hero{
+background: url(resources/images/california/black-hill-trail/View_of_Morro_Rock_with_fog_bank_rolling_in_from_the_southwest\,_the_town_of_Morro_Bay-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#devils-slide-hero{
+background: url(resources/images/california/devils-slide/Devils_Slide_16490751540-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fossil-falls-hero{
+background: url(resources/images/california/fossil-falls/Fossil_Falls_-_Coso_Range-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#moonstone-beach-hero{
+background: url(resources/images/california/moonstone-beach/Moonstone_Beach_Side_View-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mystery-spot-hero{
+background: url(resources/images/california/mystery-spot/Entrance_of_mystery_spot\,USA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ragged-point-hero{
+background: url(resources/images/california/ragged-point/Pacific_Blue_Big_Sur_125816843-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#red-hill-cinder-hero{
+background: url(resources/images/california/red-hill-cinder-cone/Volcanic_cinder_cone_fossil_falls-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#roaring-camp-hero{
+    background: url(resources/images/california/roaring-camp/Roaring_Camp_7_Sonora-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #hot-creek-hero{
 background: url(resources/images/california/hot-creek/Hot_Creek_steam-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2380,8 +2663,8 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background: url(resources/images/california/san-francisco/palace-fine-arts/palace-of-fine-arts-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#santa-cruz-hero{
-    background: url(resources/images/california/santa-cruz/sant-cruz-hero-1515.jpg) center no-repeat;
+#santa-cruz-beach-boardwalk-hero{
+    background: url(resources/images/california/santa-cruz/santa-cruz-beach-baordwalk/sant-cruz-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #palm-springs-hero{
@@ -3278,6 +3561,18 @@ background: url(resources/images/delaware/winterthur-museum-garden-and-library/W
 }
 
 /* Florida */
+#peanut-island-hero{
+    background: url(resources/images/florida/peanut-island/Peanut-Island-Web-3879_49369852022-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crystal-river-fl-hero{
+    background: url(resources/images/florida/crystal-river/Near_by_Three_Sisters_Spring_at_Crystal_River_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#seven-mile-bridge-hero{
+    background: url(resources/images/florida/florida-keys/seven-mile-bridge/Seven_mile_bridge\ 1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #cape-canaveral-hero{
     background: url(resources/images/florida/cape-canaveral/Space_shuttles_Atlantis_STS-125_and_Endeavour_STS-400_on_launch_pads-1515.jpg) center no-repeat;
     background-size: cover;
@@ -5255,6 +5550,35 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#bacchus-parade-hero{
+background: url(resources/images/louisiana/new-orleans/mardi-gras/bacchus-parade/lossy-page1-2560px-Mardi_Gras_Parade\,_New_Orleans\,_Louisiana_LCCN2011646907.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#endymion-parade-hero{
+background: url(resources/images/louisiana/new-orleans/mardi-gras/endymion-parade/Mardi_Gras_2020\,_New_Orleans\,_Lousiana_-_40-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mardi-gras-world-hero{
+background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-world/mardi-gras-world-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#orpheus-parade-hero{
+background: url(resources/images/louisiana/new-orleans/mardi-gras/orpheus-parade/Orpheus_Parade_New_Orleans_Carnival_2019_-_Mirage\,_Oasis-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rex-parade-hero{
+background: url(resources/images/louisiana/new-orleans/mardi-gras/rex-parade/Krewe_of_Rex_Parade_73-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#zulu-parade-hero{
+background: url(resources/images/louisiana/new-orleans/mardi-gras/zulu-parade/Zulu_Parade_2010_New_Orleans_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-pontchartrain-hero{
+    background: url(resources/images/louisiana/lake-pontchartrain-causeway/Lake_Pontchartrain_Causeway_2011-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #algiers-point-hero{
     background: url(resources/images/louisiana/new-orleans/algiers-point/algiers-point-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -11746,6 +12070,22 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
         background: url(resources/images/arizona/mount-lemmon/mt-lemmon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #blue-canyon-hero{
+        background: url(resources/images/arizona/blue-canyon/More_from_Blue_Canyon_4521795480-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #coal-mine-canyon-hero{
+        background: url(resources/images/arizona/coal-mine-canyon/Coal_Mine_Canyon_4509342013-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #grand-falls-little-co-hero{
+        background: url(resources/images/arizona/grand-falls-of-the-little-colorado-river/GrandFallsOfTheLittleColoradoRiverByPhilKonstantin-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #ha-ho-no-geh-hero{
+            background: url(resources/images/arizona/ha-ho-no-geh/Ha-Ho-No-Geh_Sunrise_5017869808-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #meteor-hero{
         background: url(resources/images/arizona/meteor-crater-natural-landmark/meteor-crater--hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -13387,8 +13727,8 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/san-francisco/palace-fine-arts/palace-of-fine-arts-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #santa-cruz-hero{
-        background: url(resources/images/california/santa-cruz/sant-cruz-hero-3030.jpg) center no-repeat;
+    #santa-cruz-beach-boardwalk-hero{
+        background: url(resources/images/california/santa-cruz/santa-cruz-beach-baordwalk/sant-cruz-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #palm-springs-hero{
@@ -14228,6 +14568,18 @@ background: url(resources/images/delaware/winterthur-museum-garden-and-library/W
 }
 
 /* Florida */
+#peanut-island-hero{
+    background: url(resources/images/florida/peanut-island/Peanut-Island-Web-3879_49369852022-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#crystal-river-fl-hero{
+    background: url(resources/images/florida/crystal-river/Near_by_Three_Sisters_Spring_at_Crystal_River_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#seven-mile-bridge-hero{
+    background: url(resources/images/florida/florida-keys/seven-mile-bridge/Seven_mile_bridge\ 1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #cape-canaveral-hero{
     background: url(resources/images/florida/cape-canaveral/Space_shuttles_Atlantis_STS-125_and_Endeavour_STS-400_on_launch_pads-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18724,6 +19076,34 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #bacchus-parade-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/bacchus-parade/lossy-page1-2560px-Mardi_Gras_Parade\,_New_Orleans\,_Louisiana_LCCN2011646907.tif-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #endymion-parade-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/endymion-parade/Mardi_Gras_2020\,_New_Orleans\,_Lousiana_-_40-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #mardi-gras-world-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/mardi-gras-world/mardi-gras-world-hero-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #orpheus-parade-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/orpheus-parade/Orpheus_Parade_New_Orleans_Carnival_2019_-_Mirage\,_Oasis-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #rex-parade-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/rex-parade/Krewe_of_Rex_Parade_73-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #zulu-parade-hero{
+        background: url(resources/images/louisiana/new-orleans/mardi-gras/zulu-parade/Zulu_Parade_2010_New_Orleans_02-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #lake-pontchartrain-hero{
+            background: url(resources/images/louisiana/lake-pontchartrain-causeway/Lake_Pontchartrain_Causeway_2011-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #bayou-coquille-hero{
         background: url(resources/images/louisiana/jean-lafitte-national-historical-park-and-preserve-barataria-preserve/bayou-coquille-trail/barataria-coquille-trail-hero-3030.jpg) center no-repeat;
         background-size: cover;
