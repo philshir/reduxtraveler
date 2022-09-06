@@ -688,7 +688,11 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #horseshoe-hero{
-    background: url(resources/images/arizona/glen-canyon-national-recreation-area/horseshoe-bend/horseshoe-bend-hero-1137wPortrait.jpg) center no-repeat;
+    background: url(resources/images/arizona/glen-canyon-national-recreation-area/horseshoe-bend/Grand_Canyon_Horseshoe_Bend_50MP-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#glen-canyon-dam-hero{
+    background: url(resources/images/arizona/glen-canyon-national-recreation-area/glen-canyon-dam/glen-canyon-dam-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #humphreys-hero{
@@ -828,7 +832,7 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
     background-size: cover;
 }
 #havasu-hero{
-    background: url(resources/images/arizona/grand-canyon-national-park/havasu-creek/Beaver_falls-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/grand-canyon-national-park/havasu-creek/stephen-leonardi-TvzRUkSlCy4-unsplash-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #phanton-ranch-hero{
@@ -4232,6 +4236,18 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
 }
 
 /* -------------------------Georgia */
+#skidaway-island-hero{
+    background: url(resources/images/georgia/savannah/skidaway-island-state-park/Skidaway_Island_State_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#amicalola-falls-hero{
+    background: url(resources/images/georgia/amicalola-falls/Amicalola_Falls_20404383932-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dahlonega-hero{
+    background: url(resources/images/georgia/dahlonega-ga/Lake_at_Dahlonega_Georgia_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #cathedral-st-john-savannah-hero{
 background: url(resources/images/georgia/savannah/cathedral-basilica-of-st-john-the-baptist/cathedral-basilica-of-st-john-the-baptist-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4325,7 +4341,7 @@ background: url(resources/images/georgia/st-simons-island/st-simons-island-hero-
     background-size: cover;
 }
 #fort-frederica-hero{
-    background: url(resources/images/georgia/fort-frederica-national-monument/Fort_Frederica_National_Monument_97-3030.jpg) top no-repeat;
+    background: url(resources/images/georgia/fort-frederica-national-monument/Fort_Frederica_National_Monument_97-1515.jpg) top no-repeat;
     background-size: cover;
 }
 
@@ -4514,6 +4530,14 @@ background: url(resources/images/hawaii/hawaii-big-island/akaka-falls-state-park
 }
 
 /* Maui */
+#papalaua-hero{
+    background: url(resources/images/hawaii/maui/papalaua-state-wayside-park/Crawling_Tree_49392301042-1515.jpg) no-repeat center;
+    background-size: cover; 
+}
+#molokini-crater-hero{
+    background: url(resources/images/hawaii/maui/molokini-crater/Snorkeling_in_Molokini_Unsplash-1515.jpg) no-repeat center;
+    background-size: cover; 
+}
 #alexander-baldwin-hero{
     background: url(resources/images/hawaii/maui/alexander-and-baldwin-sugar-museum/Maui-Puunene-Sugar-Museum-1515.jpg) no-repeat center;
     background-size: cover;
@@ -5016,6 +5040,10 @@ background: url(resources/images/hawaii/oahu/windward-side/polynesian-cultural-c
 #borah-peak-hero{
     background: url(resources/images/idaho/borah-peak/Mount_Borah_2009-1515.jpg) no-repeat center;
     background-size: cover;
+}
+#lehmi-pass-hero{
+    background: url(resources/images/idaho/lehmi-pass/LewisClark_NatHistTrail_23683326455-1515.jpg) no-repeat center;
+    background-size: cover; 
 }
 #city-rocks-hero{
 background: url(resources/images/idaho/city-of-rocks-national-reserve/Morning_Glory_Spire\,_City_of_Rocks_NR-1515.jpg) no-repeat center;
@@ -6264,7 +6292,7 @@ background: url(resources/images/michigan/sleeping-bear-dunes-national-lakeshore
     background-size: cover;
 }
 #traverse-city-hero{
-    background: url(resources/images/michigan/traverse-city/Traverse_City_Clinch_Park_Beach-1515.jpg) center no-repeat;
+    background: url(resources/images/michigan/traverse-city/nick-perez-EpFjmHIIJgo-unsplash-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /*---------------------------- Minnesota --------------------------*/
@@ -6366,7 +6394,7 @@ background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/In
     background-size: cover;
 }
 #boundary-waters-hero{
- background: url(resources/images/minnesota/boundary-waters-canoe-area/Rainy_River-1515.jpg) center no-repeat;
+ background: url(resources/images/minnesota/boundary-waters-canoe-area/BWCA_-_FALL_08-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cathedral-saint-paul-hero{
@@ -6442,7 +6470,7 @@ background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/In
     background-size: cover;
 }
 #two-harbors-mn-hero{
- background: url(resources/images/minnesota/two-harbors-mn/Agate_Bay\,_Two_Harbors\,_Minnesota-1515.jpg) center no-repeat;
+ background: url(resources/images/minnesota/two-harbors-mn/From_the_Air_Agate_Bay\,_One_of_the_two_harbors_in_Two_Harbors\,_MN_2886742460-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wayzata-hero{
@@ -6557,10 +6585,10 @@ background: url(resources/images/missouri/st-louis/forest-park/forest-park-hero-
 background: url(resources/images/missouri/st-louis/gateway-arch-national-park/Gateway_Arch\,_St._Louis\,_Missouri\,_U.S.A-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #gateway-arch-hero{
-background: url(resources/images/missouri/st-louis/gateway-arch-national-park/gateway-arch/) center no-repeat;
+#gateway-arch-hero{
+background: url(resources/images/missouri/st-louis/gateway-arch-national-park/gateway-arch/gateway-arch--1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #malcolm-martin-park-hero{
 background: url(resources/images/missouri/st-louis/malcolm-w-martin-memorial-park/Gateway_Geyser-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6602,6 +6630,10 @@ background: url(resources/images/montana/billings/) center no-repeat;
 #virginia-city-hero{
 background: url(resources/images/montana/virginia-city-mo/Virginia_City\,_Montana-1515.jpg) center no-repeat;
     background-size: cover;
+}
+#whitefish-mt-hero{
+    background: url(resources/images/montana/whitefish/Whitefish_Montana_Railroad_Depot-1515.jpg) top no-repeat;
+    background-size: cover; 
 }
 #glacier-np-hero{
 background: url(resources/images/montana/glacier-national-park/2015-06-19_Glacier_National_Park_U.S._8633-1515.jpg) center no-repeat;
@@ -7481,7 +7513,7 @@ background: url(resources/images/new-mexico/taos/taos-plaza/Taos_Plaza_9-1515.jp
     background-size: cover;
 }
 #taos-pueblo-hero{
-background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_Pueblo-1515.jpg) center no-repeat;
+background: url(resources/images/new-mexico/taos/taos-pueblo/Taos_Pueblo-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #taos-ski-valley-hero{
@@ -8925,8 +8957,12 @@ background: url(resources/images/south-carolina/myrtle-beach/broadway-at-the-bea
     background-size: cover;
 }
 #brookgreen-gardens-hero{
-    background: url(resources/images/south-carolina/) center no-repeat;
+    background: url(resources/images/south-carolina/brookgreen-gardens/Brookgreen_Gardens_-__The_Visionaries_-1515.jpg) center no-repeat;
     background-size: cover;
+}
+#beaufort-sc-hero{
+    background: url(resources/images/south-carolina/beaufort-sc/Joseph_Johnson_House\,_Beaufort\,_South_Carolina-1515.jpg) center no-repeat;
+    background-size: cover; 
 }
 #hilton-head-hero{
 background: url(resources/images/south-carolina/hilton-head-island/Hilton_Head_Island-1515.jpg) center no-repeat;
@@ -9434,7 +9470,7 @@ background: url(resources/images/texas/dallas/klyde-warren-park/Uptown_Dallas_an
     background-size: cover;
 }
 #margot-bill-hero{
-background: url(resources/images/texas/dallas/margot-and-bill-winspear-opera-house/Winspear_Opera_House_27-1515.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/margot-and-bill-winspear-opera-house/Winspear_Opera_House_20-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #nasher-sculpture-hero{
@@ -10098,6 +10134,10 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/utah/goosenecks-state-park/goosenecks-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#forrest-point-hero{
+    background: url(resources/images/utah/forrest-gump-point/Arizona_1248-A_3690087616-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #golden-spike-hero{
     background: url(resources/images/utah/golden-spike-national-monument/A_meeting_of_the_engines_at_the_Golden_Spike_National_Historic_Site\,_Utah_angled_view-1515.jpg) center no-repeat;
     background-size: cover;
@@ -10618,6 +10658,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     background: url(resources/images/washington/Seattle_4-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#summerland-trail-hero{
+    background: url(resources/images/washington/mount-rainier-national-park/summerland-trail/Summerland_Mount_Rainier_National_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #alta-vista-trail-hero{
 background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-1515.jpg) center no-repeat;
     background-size: cover;
@@ -10658,10 +10702,10 @@ background: url(resources/images/washington/mount-rainier-national-park/grove-of
 background: url(resources/images/washington/mount-rainier-national-park/ipsut-creek/Ipsut_Falls_and_Ipsut_Creek_-_Flickr_-_brewbooks-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #longmire-hero{
-background: url(resources/images/washington/Seattle_4-hero-1515.jpg) center no-repeat;
+#longmire-hero{
+background: url(resources/images/washington/mount-rainier-national-park/longmire/Longmire_Administration_Building_2015-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #mowich-lake-hero{
 background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-1515.jpg) center no-repeat;
     background-size: cover;
@@ -10849,6 +10893,22 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
 }
 #hurricane-ridge-hero{
     background: url(resources/images/washington/olympic-national-park/hurricane-ridge/Hurricane_Ridge_panorama_2-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#steptoe-butte-hero{
+    background: url(resources/images/washington/steptoe-butte-state-park/03-39-16\,_steptoe_butte_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kamiak-butte-hero{
+    background: url(resources/images/washington/kamiak-butte-county-park/01-01-08\,_fields_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palouse-wa-hero{
+    background: url(resources/images/washington/palouse-wa/Palouse_above_Robinson_Park\,_Moscow\,_ID_9-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palouse-falls-sp-hero{
+    background: url(resources/images/washington/palouse-falls-state-park/04-15-01-palouse-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #seattle-hero {
@@ -12051,7 +12111,11 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
         background-size: cover;
     }
     #horseshoe-hero{
-        background: url(resources/images/arizona/glen-canyon-national-recreation-area/horseshoe-bend/horseshoe-bend-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/arizona/glen-canyon-national-recreation-area/horseshoe-bend/Grand_Canyon_Horseshoe_Bend_50MP-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #glen-canyon-dam-hero{
+        background: url(resources/images/arizona/glen-canyon-national-recreation-area/glen-canyon-dam/glen-canyon-dam-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #jerome-hero{
@@ -12212,7 +12276,7 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
         background-size: cover;
     }
     #havasu-hero{
-        background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-west-canyon-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/grand-canyon-national-park/havasu-creek/stephen-leonardi-TvzRUkSlCy4-unsplash-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #phanton-ranch-hero{
@@ -15242,6 +15306,18 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
 }
 
     /* -------------------------Georgia */
+    #skidaway-island-hero{
+        background: url(resources/images/georgia/savannah/skidaway-island-state-park/Skidaway_Island_State_Park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #amicalola-falls-hero{
+        background: url(resources/images/georgia/amicalola-falls/Amicalola_Falls_20404383932-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #dahlonega-hero{
+        background: url(resources/images/georgia/dahlonega-ga/Lake_at_Dahlonega_Georgia_-_panoramio-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #cathedral-st-john-savannah-hero{
     background: url(resources/images/georgia/savannah/cathedral-basilica-of-st-john-the-baptist/cathedral-basilica-of-st-john-the-baptist-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -15523,6 +15599,14 @@ background: url(resources/images/hawaii/hawaii-big-island/akaka-falls-state-park
 }
 
 /* Maui */
+#papalaua-hero{
+    background: url(resources/images/hawaii/maui/papalaua-state-wayside-park/Crawling_Tree_49392301042-3030.jpg) no-repeat center;
+    background-size: cover; 
+}
+#molokini-crater-hero{
+    background: url(resources/images/hawaii/maui/molokini-crater/Snorkeling_in_Molokini_Unsplash-3030.jpg) no-repeat center;
+    background-size: cover; 
+}
 #alexander-baldwin-hero{
     background: url(resources/images/hawaii/maui/alexander-and-baldwin-sugar-museum/Maui-Puunene-Sugar-Museum-3030.jpg) no-repeat center;
     background-size: cover;
@@ -16025,6 +16109,10 @@ background: url(resources/images/hawaii/oahu/windward-side/polynesian-cultural-c
 #borah-peak-hero{
     background: url(resources/images/idaho/borah-peak/Mount_Borah_2009-3030.jpg) no-repeat center;
     background-size: cover;
+}
+#lehmi-pass-hero{
+    background: url(resources/images/idaho/lehmi-pass/LewisClark_NatHistTrail_23683326455-3030.jpg) no-repeat center;
+    background-size: cover; 
 }
 #city-rocks-hero{
 background: url(resources/images/idaho/city-of-rocks-national-reserve/Morning_Glory_Spire\,_City_of_Rocks_NR-3030.jpg) no-repeat center;
@@ -16591,7 +16679,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
        background-size: cover;
    }
    #boundary-waters-hero{
-    background: url(resources/images/minnesota/boundary-waters-canoe-area/Rainy_River-3030.jpg) center no-repeat;
+    background: url(resources/images/minnesota/boundary-waters-canoe-area/BWCA_-_FALL_08-3030.jpg) center no-repeat;
        background-size: cover;
    }
    #cathedral-saint-paul-hero{
@@ -16667,7 +16755,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
        background-size: cover;
    }
    #two-harbors-mn-hero{
-    background: url(resources/images/minnesota/two-harbors-mn/Agate_Bay\,_Two_Harbors\,_Minnesota-3030.jpg) center no-repeat;
+    background: url(resources/images/minnesota/two-harbors-mn/From_the_Air_Agate_Bay\,_One_of_the_two_harbors_in_Two_Harbors\,_MN_2886742460-3030.jpg) center no-repeat;
        background-size: cover;
    }
    #wayzata-hero{
@@ -16782,10 +16870,10 @@ background: url(resources/images/missouri/st-louis/forest-park/forest-park-hero-
 background: url(resources/images/missouri/st-louis/gateway-arch-national-park/Gateway_Arch\,_St._Louis\,_Missouri\,_U.S.A-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #gateway-arch-hero{
-background: url(resources/images/missouri/st-louis/gateway-arch-national-park/gateway-arch/) center no-repeat;
+#gateway-arch-hero{
+background: url(resources/images/missouri/st-louis/gateway-arch-national-park/gateway-arch/gateway-arch--3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #malcolm-martin-park-hero{
 background: url(resources/images/missouri/st-louis/malcolm-w-martin-memorial-park/Gateway_Geyser-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17107,6 +17195,10 @@ background: url(resources/images/montana/billings/) center no-repeat;
 #virginia-city-hero{
 background: url(resources/images/montana/virginia-city-mo/Virginia_City\,_Montana-3030.jpg) center no-repeat;
     background-size: cover;
+}
+#whitefish-mt-hero{
+    background: url(resources/images/montana/whitefish/Whitefish_Montana_Railroad_Depot-3030.jpg) top no-repeat;
+    background-size: cover; 
 }
 #glacier-np-hero{
 background: url(resources/images/montana/glacier-national-park/2015-06-19_Glacier_National_Park_U.S._8633-3030.jpg) center no-repeat;
@@ -19840,7 +19932,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #traverse-city-hero{
-        background: url(resources/images/michigan/traverse-city/Traverse_City_Clinch_Park_Beach-3030.jpg) center no-repeat;
+        background: url(resources/images/michigan/traverse-city/nick-perez-EpFjmHIIJgo-unsplash-3030.jpg) center no-repeat;
         background-size: cover;
     }
 
@@ -19929,6 +20021,14 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     #broadway-beach-hero{
     background: url(resources/images/south-carolina/myrtle-beach/broadway-at-the-beach/broadway-at-the-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
+    }
+    #brookgreen-gardens-hero{
+        background: url(resources/images/south-carolina/brookgreen-gardens/Brookgreen_Gardens_-__The_Visionaries_-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #beaufort-sc-hero{
+        background: url(resources/images/south-carolina/beaufort-sc/Joseph_Johnson_House\,_Beaufort\,_South_Carolina-3030.jpg) center no-repeat;
+        background-size: cover; 
     }
     #hilton-head-hero{
     background: url(resources/images/south-carolina/hilton-head-island/Hilton_Head_Island-3030.jpg) center no-repeat;
@@ -20378,6 +20478,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
         background-position-y: -175px;
     }
+    #summerland-trail-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/summerland-trail/Summerland_Mount_Rainier_National_Park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #alta-vista-trail-hero{
         background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-3030.jpg) center no-repeat;
             background-size: cover;
@@ -20418,10 +20522,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background: url(resources/images/washington/mount-rainier-national-park/ipsut-creek/Ipsut_Falls_and_Ipsut_Creek_-_Flickr_-_brewbooks-3030.jpg) center no-repeat;
             background-size: cover;
         }
-        /* #longmire-hero{
-        background: url(resources/images/washington/Seattle_4-hero-3030.jpg) center no-repeat;
+        #longmire-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/longmire/Longmire_Administration_Building_2015-3030.jpg) center no-repeat;
             background-size: cover;
-        } */
+        }
         #mowich-lake-hero{
         background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-3030.jpg) center no-repeat;
             background-size: cover;
@@ -20621,6 +20725,23 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background: url(resources/images/washington/olympic-national-park/rialto-beach/Olympic_Rialto_Beach_28.jpg-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+#steptoe-butte-hero{
+    background: url(resources/images/washington/steptoe-butte-state-park/03-39-16\,_steptoe_butte_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kamiak-butte-hero{
+    background: url(resources/images/washington/kamiak-butte-county-park/01-01-08\,_fields_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#palouse-wa-hero{
+    background: url(resources/images/washington/palouse-wa/Palouse_above_Robinson_Park\,_Moscow\,_ID_9-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#palouse-falls-sp-hero{
+    background: url(resources/images/washington/palouse-falls-state-park/04-15-01-palouse-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
     #seattle-hero {
         background: url(resources/images/washington/seattle/Seattle_3-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -21500,7 +21621,7 @@ background: url(resources/images/texas/dallas/klyde-warren-park/Uptown_Dallas_an
     background-size: cover;
 }
 #margot-bill-hero{
-background: url(resources/images/texas/dallas/margot-and-bill-winspear-opera-house/Winspear_Opera_House_27-3030.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/margot-and-bill-winspear-opera-house/Winspear_Opera_House_20-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #nasher-sculpture-hero{
@@ -22145,6 +22266,18 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 #fisher-towers-hero{
     background: url(resources/images/utah/fisher-tower/The_Titan-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#goblin-valley-hero{
+    background: url(resources/images/utah/goblin-valley-state-park/goblin-valley-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#goosenecks-hero{
+    background: url(resources/images/utah/goosenecks-state-park/goosenecks-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#forrest-point-hero{
+    background: url(resources/images/utah/forrest-gump-point/Arizona_1248-A_3690087616-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #golden-spike-hero{
