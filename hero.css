@@ -10662,13 +10662,18 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     background: url(resources/images/washington/mount-rainier-national-park/summerland-trail/Summerland_Mount_Rainier_National_Park-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#skyline-trail-hero{
+    background: url(resources/images/washington/mount-rainier-national-park/skyline-trail/Mt_Rainier_Skyline_Trail_2017_05-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #alta-vista-trail-hero{
-background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-1515.jpg) center no-repeat;
+background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #bench-snow-hero{
-background: url(resources/images/washington/mount-rainier-national-park/bench-and-snow-lakes-trail/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._50204798af164f1da1e9bf3e2546cfe9-1515.jpg) center no-repeat;
+background: url(resources/images/washington/mount-rainier-national-park/bench-and-snow-lakes-trail/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._50204798af164f1da1e9bf3e2546cfe9-1515.jpg) top no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #box-canyon-wa-hero{
 background: url(resources/images/washington/mount-rainier-national-park/box-canyon/Box_Canyon_of_the_Cowlitz\,_Mount_Rainier_National_Park_01-1515.jpg) center no-repeat;
@@ -10707,12 +10712,13 @@ background: url(resources/images/washington/mount-rainier-national-park/longmire
     background-size: cover;
 }
 #mowich-lake-hero{
-background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-1515.jpg) center no-repeat;
+background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #pinnacle-peak-wa-hero{
 background: url(resources/images/washington/mount-rainier-national-park/pinnacle-peak/Pinnacle_Peak-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -500px;
 }
 #reflection-lakes-wa-hero{
 background: url(resources/images/washington/mount-rainier-national-park/reflection-lakes/Mt_Rainier_&_Reflection_Lakes_8082913563-1515.jpg) center no-repeat;
@@ -10856,12 +10862,14 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
 }
 
 #mt-rainier-hero{
-    background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-1515.jpg) top no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #mt-rainier-np-hero{
     background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_3-reflection-hero-1515.jpg) top no-repeat;
     background-size: cover;
+
 }
 #mount-rainer-trails-hero{
     background: url(resources/images/washington/mount-rainier-national-park/skagit-river-hero-1515.jpg) center no-repeat;
@@ -10876,7 +10884,7 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
     background-size: cover;
 }
 #paradise-wa-hero{
-    background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/washington/mount-rainier-national-park/paradise/Mount_Rainier_-_Paradise_-_Dead_Horse_Creek_Trail_-_August_2014_-_01-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #diablo-lake-hero{
@@ -20482,12 +20490,16 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background: url(resources/images/washington/mount-rainier-national-park/summerland-trail/Summerland_Mount_Rainier_National_Park-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #skyline-trail-hero{
+        background: url(resources/images/washington/mount-rainier-national-park/skyline-trail/Mt_Rainier_Skyline_Trail_2017_05-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #alta-vista-trail-hero{
-        background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/alta-vista-trail/A_View_from_Paradise_6997802213-3030.jpg) bottom no-repeat;
             background-size: cover;
         }
         #bench-snow-hero{
-        background: url(resources/images/washington/mount-rainier-national-park/bench-and-snow-lakes-trail/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._50204798af164f1da1e9bf3e2546cfe9-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/bench-and-snow-lakes-trail/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._50204798af164f1da1e9bf3e2546cfe9-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #box-canyon-wa-hero{
@@ -20527,7 +20539,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
             background-size: cover;
         }
         #mowich-lake-hero{
-        background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/mowich-lake/Mowich_Lake_2014-07-11\,_03-3030.jpg) bottom no-repeat;
             background-size: cover;
         }
         #pinnacle-peak-wa-hero{
@@ -20675,7 +20687,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
             background-size: cover;
         }
     #mt-rainier-hero{
-        background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-3030.jpg) top no-repeat;
         background-size: cover;
         background-position-y: -100px;
     }
@@ -20697,9 +20709,8 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
     }
     #paradise-wa-hero{
-        background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_from_above_Myrtle_Falls_in_August-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/paradise/Mount_Rainier_-_Paradise_-_Dead_Horse_Creek_Trail_-_August_2014_-_01-3030.jpg) center no-repeat;
         background-size: cover;
-        background-position-y: -70px;
     }
     #diablo-lake-hero{
         background: url(resources/images/washington/north-cascades-national-park/diablo-lake/diablo-lake-3030.jpg) center no-repeat;
