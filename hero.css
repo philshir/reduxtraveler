@@ -980,12 +980,12 @@ background-size: cover;
     background-size: cover;
 }
 #bell-courthouse-hero{
-    background: url(resources/images/arizona/sedona/courthouse-butte-and-bell-rock-loop/sedona-courthouse-bell-rock-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/courthouse-butte-and-bell-rock-loop/Bell_Rock_in_Sedona_Arizona-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chapel-hero{
-        background: url(resources/images/arizona/sedona/chapel-of-the-holy-cross/sedona-chapel-holy-cross-hero-1515.jpg) center no-repeat;
-        background-size: cover;
+    background: url(resources/images/arizona/sedona/chapel-of-the-holy-cross/Chapel_of_the_Holy_Cross_Sedona\,_Arizona_30530128245-1515.jpg) center no-repeat;
+    background-size: cover;
 }
 #devils-bridge-hero{
     background: url(resources/images/arizona/sedona/devils-bridge-trail/sedona-devils-bridge-hero-1515.jpg) center no-repeat;
@@ -996,7 +996,7 @@ background-size: cover;
     background-size: cover;
 }
 #airport-mesa-hero{
-    background: url(resources/images/arizona/sedona/airport-mesa/sedona-scenic-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/sedona/airport-mesa/michelle-williams-PMHsJRsfBbw-unsplash-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #airport-scenic-hero{
@@ -1005,6 +1005,10 @@ background-size: cover;
 }
 #west-fork-hero{
     background: url(resources/images/arizona/sedona/west-fork-of-oak-creek/West_Fork_of_Oak_Creek\,_reflections-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#sedona-hero{
+    background: url(resources/images/arizona/sedona/Sedona_in_Arizona_-_2013-09-17-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #sonora-museum-hero{
@@ -1269,7 +1273,7 @@ background: url(resources/images/arkansas/lake-dardenelle-state-park/lake-darden
     background-size: cover;
 }
 #mission-san-diego-hero {
-    background: url(resources/images/california/california-spanish-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/california-spanish-missions/mission-san-diego-de-alcala/Mission_San_Diego_de_Alcala_-_church-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mission-san-carlos-borromeo-hero {
@@ -4171,7 +4175,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #st-bernard-church-hero{
-    background: url(resources/images/florida/miami/st-bernard-de-clairvaux-church/st-bernard-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/st-bernard-de-clairvaux-church/st-bernard-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #wynwood-walls-hero{
@@ -6480,7 +6484,7 @@ background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/In
 
 /* Mississippi */
 #mississippi-gulf-coast-hero{
-    background: url(resources/images/mississippi/mississippi-gulf-coast/The_Beau_Rivage_Hotel_in_Biloxi\,_Mississippi-1515.jpg) center no-repeat;
+    background: url(resources/images/mississippi/mississippi-gulf-coast/The_Beau_Rivage_Hotel_in_Biloxi\,_Mississippi-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #natchez-ms-hero{
@@ -12362,11 +12366,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #bell-courthouse-hero{
-        background: url(resources/images/arizona/sedona/courthouse-butte-and-bell-rock-loop/sedona-courthouse-bell-rock-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/courthouse-butte-and-bell-rock-loop/Bell_Rock_in_Sedona_Arizona-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #chapel-hero{
-            background: url(resources/images/arizona/sedona/chapel-of-the-holy-cross/sedona-chapel-holy-cross-hero-3030.jpg) center no-repeat;
+            background: url(resources/images/arizona/sedona/chapel-of-the-holy-cross/Chapel_of_the_Holy_Cross_Sedona\,_Arizona_30530128245-3030.jpg) center no-repeat;
             background-size: cover;
     }
     #devils-bridge-hero{
@@ -12378,7 +12382,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #airport-mesa-hero{
-        background: url(resources/images/arizona/sedona/airport-mesa/sedona-scenic-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/sedona/airport-mesa/michelle-williams-PMHsJRsfBbw-unsplash-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #airport-scenic-hero{
@@ -12387,6 +12391,10 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
     #west-fork-hero{
         background: url(resources/images/arizona/sedona/west-fork-of-oak-creek/West_Fork_of_Oak_Creek\,_reflections-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #sedona-hero{
+        background: url(resources/images/arizona/sedona/Sedona_in_Arizona_-_2013-09-17-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #black-mountain-hero{
@@ -12676,7 +12684,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #mission-san-diego-hero {
-        background: url(resources/images/california/california-spanish-missions/mission-san-diego/Mission_San_Diego_de_Alcala_-_church-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/california-spanish-missions/mission-san-diego-de-alcala/Mission_San_Diego_de_Alcala_-_church-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mission-san-carlos-borromeo-hero {
@@ -15249,8 +15257,9 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #st-bernard-church-hero{
-    background: url(resources/images/florida/miami/st-bernard-de-clairvaux-church/st-bernard-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/st-bernard-de-clairvaux-church/st-bernard-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
+    background-position-y: 100px;
 }
 #wynwood-walls-hero{
     background: url(resources/images/florida/miami/wynwood-walls/wynwood-walls-hero-3030.jpg) center no-repeat;
@@ -16773,7 +16782,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
    
   /* Mississippi */
 #mississippi-gulf-coast-hero{
-    background: url(resources/images/mississippi/mississippi-gulf-coast/The_Beau_Rivage_Hotel_in_Biloxi\,_Mississippi-3030.jpg) center no-repeat;
+    background: url(resources/images/mississippi/mississippi-gulf-coast/The_Beau_Rivage_Hotel_in_Biloxi\,_Mississippi-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #natchez-ms-hero{

@@ -23,13 +23,6 @@ document.addEventListener("click", function(event) {
 });
 
 
-/*const mapper = document.querySelector(".map")
-mapper.addEventListener("click", (e) => {
-  console.log(e.offsetX)
-  console.log(e.offsetY)
-})*/
-
-
 const dropdown = document.getElementsByClassName("dropdown-btn");
 let i;
 
