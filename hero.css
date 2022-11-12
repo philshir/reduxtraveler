@@ -10959,6 +10959,26 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
     background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#leavenworth-hero {
+    background: url(resources/images/washington/leavenworth-wa/Leavenworth\,_WA_-_Front_Street_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kamiak-butte-hero {
+    background: url(resources/images/washington/kamiak-butte-county-park/01-01-08\,_fields_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palouse-falls-sp-hero {
+    background: url(resources/images/washington/palouse-falls-state-park/04-15-01-palouse-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#palouse-wa-hero {
+    background: url(resources/images/washington/palouse-wa/Palouse_above_Robinson_Park\,_Moscow\,_ID_9-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#steptoe-butte-hero{
+    background: url(resources/images/washington/steptoe-butte-state-park/03-39-16\,_steptoe_butte_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 /* West Virginia */
 #german-valley-hero{
@@ -20797,6 +20817,28 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
         
     }
+    #leavenworth-hero {
+        background: url(resources/images/washington/leavenworth-wa/Leavenworth\,_WA_-_Front_Street_02-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #kamiak-butte-hero {
+        background: url(resources/images/washington/kamiak-butte-county-park/01-01-08\,_fields_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palouse-falls-sp-hero {
+        background: url(resources/images/washington/palouse-falls-state-park/04-15-01-palouse-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palouse-wa-hero {
+        background: url(resources/images/washington/palouse-wa/Palouse_above_Robinson_Park\,_Moscow\,_ID_9-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #steptoe-butte-hero{
+        background: url(resources/images/washington/steptoe-butte-state-park/03-39-16\,_steptoe_butte_-_panoramio-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
+
     #german-valley-hero{
         background: url(resources/images/west-virginia/german-valley/german-valley-wv-hero-3030.jpg) center no-repeat;
         background-size: cover;
