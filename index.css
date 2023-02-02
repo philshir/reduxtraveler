@@ -1494,6 +1494,12 @@ text-decoration: underline;
   margin: 10px 0;
 }
 
+.new-tab {
+  height: 18px;
+    width: 18px;
+    margin-left: 4px;
+}
+
 /* itinerary and best of card layout */
 @media only screen and (min-width: 445px) {
   
