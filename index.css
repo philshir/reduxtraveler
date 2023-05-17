@@ -1228,6 +1228,10 @@ body {
   font-weight: 700;
   color: #000;
 }
+.semi-bold{
+  font-weight: 700;
+  color: #4d4d4d;
+}
 .verd a {
   font-weight: 700;
 }
