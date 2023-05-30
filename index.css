@@ -145,6 +145,15 @@ a:hover, .description-one a:hover {
 .social-links-footer a svg:hover {
   fill: #8fcffa
 }
+.directions-link{
+  color: black;
+  font-weight: 500!important ;
+}
+.directions-link:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
 .mission-table {
   margin: 0 auto;
   padding: 50px 0;
