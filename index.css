@@ -127,7 +127,8 @@ margin: 10px;
   color: #0071bc;
 }
 a:hover, .description-one a:hover {
-  color: #8fcffa;
+  /* color: #8fcffa; */
+  text-decoration: underline;
 }
 .third-party-img {
   font-size: 8px!important;
@@ -172,9 +173,9 @@ h3 a {
 a:visited {
   color: navy;
 }
-a:visited:hover {
+/* a:visited:hover {
   color: #8fcffa;
-}
+} */
 
 a.itin-menu {
   padding: 0 !important;
