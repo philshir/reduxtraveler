@@ -897,6 +897,9 @@ h2 a {
   color: #fff;
   font-family: Arial, sans-serif;
 }
+.caption-credit {
+  font-size: 8px;
+}
 .caption a {
   color: #fff;
 }
@@ -1886,6 +1889,9 @@ article a {
 .caption-portrait {
   font-size: 12px;
   bottom: 10px;
+}
+.caption-credit {
+  font-size: 10px;
 }
 .title-text {
 margin: 0 auto;
