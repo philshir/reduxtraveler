@@ -432,7 +432,7 @@ article {
   justify-content: center;
   flex-direction: column;
   margin: 0 auto;
-  padding-bottom: 20px;
+  /* padding-bottom: 20px; */
   width: 100%;
 }
 .map-main {
@@ -464,7 +464,7 @@ article {
 .map p {
   margin: 0 10px;
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
 }
 
@@ -892,13 +892,13 @@ h2 a {
   border-radius: 0 25px 25px 0;
   position: absolute;
   bottom: 10px;
-  font-size: 10px;
+  font-size: 8px;
   background: rgba(58, 58, 58, 0.7);
   color: #fff;
   font-family: Arial, sans-serif;
 }
-.caption-credit {
-  font-size: 8px;
+.caption-title {
+  font-size: 10px;
 }
 .caption a {
   color: #fff;
@@ -1883,15 +1883,15 @@ article a {
   font-size: 18px;
 }
 .caption {
-  font-size: 12px;
+  font-size: 10px;
   line-height: 18px;
 }
 .caption-portrait {
   font-size: 12px;
   bottom: 10px;
 }
-.caption-credit {
-  font-size: 10px;
+.caption-title {
+  font-size: 12px;
 }
 .title-text {
 margin: 0 auto;
@@ -1905,8 +1905,11 @@ max-width: 1170px;
   .slider {
     top: 80px;
   }
-  .map {
+/*   .map {
     margin-bottom: 50px;
+  } */
+  .map p {
+    font-size: 28px;
   }
   .map svg {
     max-width: 900px;
