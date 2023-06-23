@@ -5235,11 +5235,11 @@ background: url(resources/images/chicago/chicago-l/El_track_tunnel_at_Illinois_I
     background-size: cover;
 }
 #chicago-lakefront-hero{
-background: url(resources/images/chicago/chicago-lakefront-trail/Calumet_Park_Fieldhouse-1515.jpg) no-repeat center;
+background: url(resources/images/chicago/chicago-lakefront-trail/Chicago\ LFT\ GC-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #chicago-hero{
-background: url(resources/images/chicago/Chicago-1515.jpg) no-repeat center;
+background: url(resources/images/chicago/) no-repeat center;
     background-size: cover;
 }
 #ernest-hemingway-birthplace-hero{
@@ -5275,7 +5275,7 @@ background: url(resources/images/chicago/midway-plaisance/Panorama_of_the_Founta
     background-size: cover;
 }
 #millennium-park-hero{
-background: url(resources/images/chicago/millennium-park/The_Bean_-_Cloud_Gate_35031895994-1515.jpg) no-repeat center;
+background: url(resources/images/chicago/millennium-park/) no-repeat center;
     background-size: cover;
 }
 #morton-arboretum-hero{
@@ -5295,7 +5295,7 @@ background: url(resources/images/chicago/oriental-institute-museum/Interior_view
     background-size: cover;
 }
 #pullman-nm-hero{
-background: url(resources/images/chicago/pullman-national-monument/Chicago-1515.jpg) no-repeat center;
+background: url(resources/images/chicago/pullman-national-monument/Pullman\ National\ Monument\ -\ 50239624088-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #driehaus-museum-hero{
@@ -5308,6 +5308,10 @@ background: url(resources/images/chicago/rockefeller-chapel/Rockefeller_Memorial
 }
 #shedd-aquarium-hero{
 background: url(resources/images/chicago/shedd-aquarium/John_G_Shedd_Aquarium_15613710221-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#st-mary-angels-hero{
+    background: url(resources/images/chicago/st-mary-of-angels/St._Mary_of_Angels_Chicago-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #unity-temple-hero{
@@ -6233,10 +6237,6 @@ background: url(resources/images/michigan/keweenaw-peninsula/fort-wilkins-histor
 background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#keweenaw-peninsula-hero{
-background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #mclain-sp-hero{
 background: url(resources/images/michigan/keweenaw-peninsula/mclain-state-park/Gfp-michigan-mclain-state-park-lighthouse-and-people-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6339,10 +6339,6 @@ background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/In
  background: url(resources/images/minnesota/duluth/canal-park/Duluth_Canal_Park_Lakewalk-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#duluth-hero{
- background: url(resources/images/minnesota/duluth/Duluth_Drone-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #enger-tower-hero{
  background: url(resources/images/minnesota/duluth/enger-tower/Enger_Observation_Tower_2014-10-06_-_4-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6428,7 +6424,7 @@ background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/In
     background-size: cover;
 }
 #excelsior-mn-hero{
- background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-1515.jpg) bottom no-repeat;
+ background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Steamboat_Minnehaha_in_Excelsior_harbor_2014-07-16-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #franconia-sculpture-hero{
@@ -16611,11 +16607,11 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
         background-size: cover;
     }
     #chicago-lakefront-hero{
-    background: url(resources/images/chicago/chicago-lakefront-trail/Calumet_Park_Fieldhouse-3030.jpg) no-repeat center;
+    background: url(resources/images/chicago/chicago-lakefront-trail/Chicago\ LFT\ GC-3030.jpg) no-repeat center;
         background-size: cover;
     }
     #chicago-hero{
-    background: url(resources/images/chicago/Chicago-3030.jpg) no-repeat center;
+    background: url(resources/images/chicago/) no-repeat center;
         background-size: cover;
     }
     #ernest-hemingway-birthplace-hero{
@@ -16651,7 +16647,7 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
         background-size: cover;
     }
     #millennium-park-hero{
-    background: url(resources/images/chicago/millennium-park/The_Bean_-_Cloud_Gate_35031895994-3030.jpg) no-repeat center;
+    background: url(resources/images/chicago/millennium-park/) no-repeat center;
         background-size: cover;
     }
     #morton-arboretum-hero{
@@ -16671,7 +16667,7 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
         background-size: cover;
     }
     #pullman-nm-hero{
-    background: url(resources/images/chicago/pullman-national-monument/Chicago-3030.jpg) no-repeat center;
+    background: url(resources/images/chicago/pullman-national-monument/Pullman\ National\ Monument\ -\ 50239624088-3030.jpg) no-repeat center;
         background-size: cover;
     }
     #driehaus-museum-hero{
@@ -16684,6 +16680,10 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
     }
     #shedd-aquarium-hero{
     background: url(resources/images/chicago/shedd-aquarium/John_G_Shedd_Aquarium_15613710221-3030.jpg) no-repeat center;
+        background-size: cover;
+    }
+    #st-mary-angels-hero{
+        background: url(resources/images/chicago/st-mary-of-angels/St._Mary_of_Angels_Chicago-3030.jpg) no-repeat center;
         background-size: cover;
     }
     #unity-temple-hero{
@@ -17020,7 +17020,7 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
        background-size: cover;
    }
    #excelsior-mn-hero{
-    background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Excelsior\,_Minnesota_2018-3030.jpg) bottom no-repeat;
+    background: url(resources/images/minnesota/lake-minnetonka/excelsior-mn/Steamboat_Minnehaha_in_Excelsior_harbor_2014-07-16-3030.jpg) bottom no-repeat;
        background-size: cover;
    }
    #franconia-sculpture-hero{
@@ -20177,10 +20177,6 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
     #keweenaw-nhp-hero{
-    background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #keweenaw-peninsula-hero{
     background: url(resources/images/michigan/keweenaw-peninsula/keweenaw-national-historical-park/Hanka-3030.jpg) center no-repeat;
         background-size: cover;
     }
