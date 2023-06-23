@@ -5130,10 +5130,6 @@ background: url(resources/images/chicago/chicago-loop/chicago-board-of-trade-bui
 background: url(resources/images/chicago/chicago-loop/chicago-cultural-center/Chicago_Cultural_Center_and_Chicago_Public_Library\,_Chicago_June_30\,_2012-42-1515.jpg) no-repeat center;
     background-size: cover;
 }
-#chicago-loop-hero{
-background: url(resources/images/chicago/chicago-loop/) no-repeat center;
-    background-size: cover;
-}
 #chicago-riverwalk-hero{
 background: url(resources/images/chicago/chicago-loop/chicago-riverwalk/The_Chicago_Riverwalk-1515.jpg) no-repeat center;
     background-size: cover;
@@ -5187,7 +5183,7 @@ background: url(resources/images/chicago/lincoln-park/chicago-history-museum/Chi
     background-size: cover;
 }
 #lincoln-park-zoo-hero{
-background: url(resources/images/chicago/lincoln-park/lincoln-park-zoo/Lincoln_Park_01-1515.jpg) no-repeat center;
+background: url(resources/images/chicago/lincoln-park/lincoln-park-zoo/Lincoln\ Park\ Zoo\ -entrance-10May2005-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #lincoln-park-hero{
@@ -16563,7 +16559,7 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
         background-size: cover;
     }
     #lincoln-park-zoo-hero{
-    background: url(resources/images/chicago/lincoln-park/lincoln-park-zoo/Lincoln_Park_01-3030.jpg) no-repeat center;
+    background: url(resources/images/chicago/lincoln-park/lincoln-park-zoo/Lincoln\ Park\ Zoo\ -entrance-10May2005-3030.jpg) no-repeat center;
         background-size: cover;
     }
     #lincoln-park-hero{
