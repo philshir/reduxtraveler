@@ -6463,6 +6463,10 @@ background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/In
  background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-1515.jpg) top no-repeat;
     background-size: cover;
 }
+#minnesota-capitol{
+    background: url(resources/images/minnesota/minnesota-state-capitol/Minnesota_State_Capitol\,_Saint_Paul\,_Minnesota-1515.jpg) center no-repeat;
+       background-size: cover;
+   }
 #palisade-head-hero{
  background: url(resources/images/minnesota/palisade-head/Palisade\,_Shovel_Point-1515.jpg) center no-repeat;
     background-size: cover;
@@ -11030,7 +11034,7 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
 
 /* --------------------Wisconsin --------------------------------*/
 #door-county-hero{
-    background: url(resources/images/wisconsin/door-county/dave-hoefler-9h09cnC6oBc-unsplash-1515.jpg) center no-repeat;
+    background: url(resources/images/wisconsin/door-county/) center no-repeat;
     background-size: cover;
 }
 #baileys-harbor-hero{
@@ -11101,7 +11105,7 @@ background: url(resources/images/wisconsin/milwaukee/Downtown_Milwaukee_from_Pie
 background: url(resources/images/wisconsin/apostle-islands-national-lakeshore/Sea_kayaking_along_Apostle_Islands_National_Lakeshore_7666824620-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#house-of-the-rock-hero{
+#house-on-the-rock-hero{
 background: url(resources/images/wisconsin/house-on-the-rock/House_on_the_rock_2296-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -17059,6 +17063,10 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background: url(resources/images/minnesota/lake-minnetonka/Big_Island\,_Lake_Minnetonka_2021-05-09_01-3030.jpg) top no-repeat;
        background-size: cover;
    }
+   #minnesota-capitol{
+    background: url(resources/images/minnesota/minnesota-state-capitol/Minnesota_State_Capitol\,_Saint_Paul\,_Minnesota-3030.jpg) center no-repeat;
+       background-size: cover;
+   }
    #palisade-head-hero{
     background: url(resources/images/minnesota/palisade-head/Palisade\,_Shovel_Point-3030.jpg) center no-repeat;
        background-size: cover;
@@ -21158,7 +21166,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
 
     /* --------------------Wisconsin --------------------------------*/
     #door-county-hero{
-        background: url(resources/images/wisconsin/door-county/dave-hoefler-9h09cnC6oBc-unsplash-3030.jpg) center no-repeat;
+        background: url(resources/images/wisconsin/door-county/) center no-repeat;
         background-size: cover;
     }
 #baileys-harbor-hero{
