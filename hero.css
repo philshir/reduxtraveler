@@ -11336,7 +11336,7 @@ background: url(resources/images/wyoming/yellowstone-national-park/cooke-city/Co
     background-size: cover;
 }
 #lamar-valley-hero{
-background: url(resources/images/wyoming/yellowstone-national-park/lamar-valley/Summer_in_Lamar_Valley_\(29098765417\)-1515.jpg) center no-repeat;
+background: url(resources/images/wyoming/yellowstone-national-park/lamar-valley/Summer_in_Lamar_Valley_\29098765417\-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tower-fall-hero{
@@ -11347,6 +11347,11 @@ background: url(resources/images/wyoming/yellowstone-national-park/tower-fall/To
 background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/) center no-repeat;
     background-size: cover;
 } */
+#yellowstone-lower-basin-hero{
+    background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+
 #grand-prismatic-hero{
 background: url(resources/images/wyoming/yellowstone-national-park/midway-geyser-basin/grand-prismatic-spring/Grand_Prismatic_Spring-1515.jpg) center no-repeat;
     background-size: cover;
@@ -21464,7 +21469,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
             background-size: cover;
         }
         #lamar-valley-hero{
-        background: url(resources/images/wyoming/yellowstone-national-park/lamar-valley/Summer_in_Lamar_Valley_\(29098765417\)-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/yellowstone-national-park/lamar-valley/Summer_in_Lamar_Valley_\29098765417\-3030.jpg) center no-repeat;
             background-size: cover;
         }
         #tower-fall-hero{
@@ -21475,6 +21480,11 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/) center no-repeat;
             background-size: cover;
         } */
+        #yellowstone-lower-basin-hero{
+            background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
+                background-size: cover;
+            }
+
         #grand-prismatic-hero{
         background: url(resources/images/wyoming/yellowstone-national-park/midway-geyser-basin/grand-prismatic-spring/Grand_Prismatic_Spring-3030.jpg) center no-repeat;
             background-size: cover;
