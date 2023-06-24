@@ -91,7 +91,7 @@ background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/ko
     background-size: cover;
 }
 #kodiak-ak-hero{
-background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-ak/Prospect_Park_New_York_October_2015_003-1515.jpg) center no-repeat;
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-ak/Kodiak\,\ View\ from\ Pillar\ Mountain.jpg-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #alaska-maritime-nwr-hero{
@@ -11516,10 +11516,6 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
 
     /* Alaska 
 Alaska Peninsula and Aleutian Islands*/
-#katmai-np-hero{
-    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/Katmai_Crater_1980-3030.jpg) center no-repeat;
-    background-size: cover;
-}
 #brooks-camp-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/brooks-camp/Mouth_of_Brooks_River\,_Brooks_Camp_04072016_-_13_26285923526-3030.jpg) center no-repeat;
     background-size: cover;
@@ -11548,7 +11544,7 @@ background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/ko
     background-size: cover;
 }
 #kodiak-ak-hero{
-background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-ak/Prospect_Park_New_York_October_2015_003-3030.jpg) center no-repeat;
+background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-ak/Kodiak\,\ View\ from\ Pillar\ Mountain.jpg-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #alaska-maritime-nwr-hero{
