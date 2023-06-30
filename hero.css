@@ -6399,6 +6399,10 @@ background: url(resources/images/minnesota/voyageurs-national-park/rainy-lake/In
  background: url(resources/images/minnesota/minneapolis/minnehaha-park/View_of_Minnehaha_Falls-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#paisley-park-hero{
+    background: url(resources/images/minnesota/paisley-park/20150502-PaisleyParkStudio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #prospect-park-water-hero{
  background: url(resources/images/minnesota/minneapolis/prospect-park-water-tower/Prospect_park_witchs_hat_fall-1515.jpg) center no-repeat;
     background-size: cover;
@@ -17000,6 +17004,10 @@ background: url(resources/images/kentucky/natural-bridge-state-resort-park/Natur
     background: url(resources/images/minnesota/minneapolis/minnehaha-park/View_of_Minnehaha_Falls-3030.jpg) center no-repeat;
        background-size: cover;
    }
+   #paisley-park-hero{
+    background: url(resources/images/minnesota/paisley-park/20150502-PaisleyParkStudio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
    #prospect-park-water-hero{
     background: url(resources/images/minnesota/minneapolis/prospect-park-water-tower/Prospect_park_witchs_hat_fall-3030.jpg) center no-repeat;
        background-size: cover;
