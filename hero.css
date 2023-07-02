@@ -4172,7 +4172,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #little-havana-hero{
-    background: url(resources/images/florida/miami/little-havana/little-havana-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/little-havana/Little\ Havana\,\ Miami\,\ Florida\ 2021\ -\ Welcome-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #south-beach-hero{
@@ -7694,14 +7694,22 @@ background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_
     background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#charging-bull-hero{
+    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/charging-bull-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #chinatown-nyc-hero{
     background: url(resources/images/new-york/new-york-city/nyc-chinatown/chinatown-nyc-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #little-italy-nyc-hero{
-    background: url(resources/images/new-york/new-york-city/little-it) center no-repeat;
+#corona-park-hero{
+    background: url(resources/images/new-york/new-york-city/flushing-meadows-corona-park/Flushing_Meadows–Corona_Park-2-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
+#little-italy-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/little-italy/little-italy-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #shops-hudson-yards-hero{
     background: url(resources/images/new-york/new-york-city/shops-and-restaurants-at-hudson-yards/Hudson_Yards_Plaza_March_2019_31-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7848,6 +7856,10 @@ background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_
     background: url(resources/images/new-york/new-york-city/statue-of-lIberty/statue-of-liberty-hero-1515.jpg) center no-repeat;
     background-size: cover; 
 }
+#summit-one-vanderbilt-hero{
+    background: url(resources/images/new-york/new-york-city/summit-one-vanderbilt/One_Vanderbilt_Observatory_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #times-square-hero{
     background: url(resources/images/new-york/new-york-city/times-square/times-square-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7861,7 +7873,7 @@ background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_
     background-size: cover;
 }
 #vessel-hero{
-    background: url(resources/images/new-york/new-york-city/vessel/vessel-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/vessel/vessel-interior-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #washington-square-park-hero{
@@ -7906,6 +7918,10 @@ background: url(resources/images/new-york/new-york-city/plaza-hotel/Plaza_Hotel_
 }
 #prospect-observation-hero{
     background: url(resources/images/new-york/niagara-falls/prospect-point/prospect-point-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rainbow-bridge-hero{
+    background: url(resources/images/new-york/niagara-falls/rainbow-bridge/RainbowBridge_NiagaraFalls-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #whirlpool-sp-hero{
@@ -8630,7 +8646,7 @@ background: url(resources/images/pennsylvania/philadelphia/penns-landing/Olympia
     background-size: cover;
 }
 #pennypack-park-hero{
-background: url(resources/images/pennsylvania/philadelphia/benjamin-franklin-bridge/Ben_Franklin_Bridge-3-1515.jpg) center no-repeat;
+background: url(resources/images/pennsylvania/philadelphia/pennypack-park/Pennypack_Creek_from_Pennypack_Trail_in_Pennypack_Park-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #philadelphia-city-hall-hero{
@@ -10623,7 +10639,7 @@ background: url(resources/images/virginia/shenandoah-national-park/skyline-drive
     background-size: cover;
 }
 #korean-memorial-hero{
-background: url(resources/images/washington-dc/korean-war-veterans-memorial/Korean_War_Veterans_Memorial_3550723044-1515.jpg) center no-repeat;
+background: url(resources/images/washington-dc/korean-war-veterans-memorial/) center no-repeat;
     background-size: cover;
 }
 #library-congress-hero{
@@ -10657,6 +10673,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
 
 #lincoln-memorial-hero{
     background: url(resources/images/washington-dc/lincoln-memorial/USA_-_Lincoln_Memorial-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#peace-monument-hero{
+    background: url(resources/images/washington-dc/peace-monument/Peace_Monument_9-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #reflecting-pool-hero{
@@ -15549,7 +15569,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #little-havana-hero{
-    background: url(resources/images/florida/miami/little-havana/little-havana-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/little-havana/Little\ Havana\,\ Miami\,\ Florida\ 2021\ -\ Welcome-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #south-beach-hero{
@@ -18298,14 +18318,22 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background: url(resources/images/new-york/new-york-city/central-park/Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_15351915006-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#charging-bull-hero{
+    background: url(resources/images/new-york/new-york-city/bowling-green-charging-bull/charging-bull-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #chinatown-nyc-hero{
     background: url(resources/images/new-york/new-york-city/nyc-chinatown/chinatown-nyc-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
-/* #little-italy-nyc-hero{
-    background: url(resources/images/new-york/new-york-city/little-it) center no-repeat;
+#corona-park-hero{
+    background: url(resources/images/new-york/new-york-city/flushing-meadows-corona-park/Flushing_Meadows–Corona_Park-2-3030.jpg) center no-repeat;
     background-size: cover;
-} */
+}
+#little-italy-nyc-hero{
+    background: url(resources/images/new-york/new-york-city/little-italy/little-italy-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #shops-hudson-yards-hero{
     background: url(resources/images/new-york/new-york-city/shops-and-restaurants-at-hudson-yards/Hudson_Yards_Plaza_March_2019_31-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18439,6 +18467,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background: url(resources/images/new-york/new-york-city/guggenheim-museum/NYC_-_Guggenheim_Museum-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
+
 #st-patricks-cathedral-hero{
     background: url(resources/images/new-york/new-york-city/st-patricks-cathedral/NYC_-_St_Patrick_Cathedral_-_Facade_and_Atlas-3030.jpg) bottom no-repeat;
     background-size: cover;
@@ -18450,6 +18479,10 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
 #statue-liberty-hero{
     background: url(resources/images/new-york/new-york-city/statue-of-lIberty/statue-of-liberty-hero-3030.jpg) center no-repeat;
     background-size: cover; 
+}
+#summit-one-vanderbilt-hero{
+    background: url(resources/images/new-york/new-york-city/summit-one-vanderbilt/One_Vanderbilt_Observatory_1-3030.jpg) center no-repeat;
+    background-size: cover;
 }
 #times-square-hero{
     background: url(resources/images/new-york/new-york-city/times-square/times-square-hero-3030.jpg) center no-repeat;
@@ -18464,7 +18497,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
     background-size: cover;
 }
 #vessel-hero{
-    background: url(resources/images/new-york/new-york-city/vessel/vessel-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/new-york/new-york-city/vessel/vessel-interior-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #washington-square-park-hero{
@@ -18509,6 +18542,10 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
 }
 #prospect-observation-hero{
     background: url(resources/images/new-york/niagara-falls/prospect-point/prospect-point-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rainbow-bridge-hero{
+    background: url(resources/images/new-york/niagara-falls/rainbow-bridge/RainbowBridge_NiagaraFalls-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #whirlpool-sp-hero{
@@ -19234,7 +19271,7 @@ background: url(resources/images/pennsylvania/philadelphia/penns-landing/Olympia
     background-size: cover;
 }
 #pennypack-park-hero{
-background: url(resources/images/pennsylvania/philadelphia/benjamin-franklin-bridge/Ben_Franklin_Bridge-3-3030.jpg) center no-repeat;
+background: url(resources/images/pennsylvania/philadelphia/pennypack-park/Pennypack_Creek_from_Pennypack_Trail_in_Pennypack_Park-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #philadelphia-city-hall-hero{
@@ -20753,7 +20790,7 @@ background: url(resources/images/virginia/shenandoah-national-park/frazier-disco
     background-size: cover;
 }
 #korean-memorial-hero{
-background: url(resources/images/washington-dc/korean-war-veterans-memorial/Korean_War_Veterans_Memorial_3550723044-3030.jpg) center no-repeat;
+background: url(resources/images/washington-dc/korean-war-veterans-memorial/) center no-repeat;
     background-size: cover;
 }
 #library-congress-hero{
@@ -20787,6 +20824,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
 
 #lincoln-memorial-hero{
     background: url(resources/images/washington-dc/lincoln-memorial/USA_-_Lincoln_Memorial-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#peace-monument-hero{
+    background: url(resources/images/washington-dc/peace-monument/Peace_Monument_9-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #reflecting-pool-hero{
