@@ -83,15 +83,32 @@ Alaska Peninsula and Aleutian Islands*/
     background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/naknek-lake/NPS_Anela_Ramos._2_27676685575-1515.jpg) no-repeat center;
         background-size: cover;
     }
-    /* #valley-ten-thousand-hero{
-        
-    } */
+    #valley-ten-thousand-hero{
+        background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/valley-of-ten-thousand-smokes/Views_from_western-most_Knife_Creek_Glacier-1515.jpg) center no-repeat;
+    background-size: cover;
+    }
 #kodiak-island-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#afognak-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/afognak-island-state-park/Afognak_coastline-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #kodiak-ak-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-ak/Kodiak\,\ View\ from\ Pillar\ Mountain.jpg-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-abercrombie-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/fort-abercrombie-state-historical-park/Fort_Abercrombie-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kodiak-history-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-history-museum/210714_Kodiak_History_Museum_51325436228-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kodiak-nwr-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-national-wildlife-refuge/Scenery\,_Kodiak_National_Wildlife_Refuge-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #alaska-maritime-nwr-hero{
@@ -270,10 +287,10 @@ background: url(resources/images/alaska/kenai-peninsula/caines-head-state-recrea
 background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/exit-glacier/Exit_Glacier_Jul09-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #fort-mcgilvray-hero{
-background: url(resources/images/alaska/kenai-peninsula) center no-repeat;
+#fort-mcgilvray-hero{
+background: url(resources/images/alaska/kenai-peninsula/) center no-repeat;
     background-size: cover;
-} */
+}
 #harding-icefield-hero{
 background: url(resources/images/alaska/kenai-peninsula/kenai-fjords-national-park/harding-icefield/Harding_Icefield-1515.jpg) center no-repeat;
     background-size: cover;
@@ -339,12 +356,16 @@ background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/)
 background: url(resources/images/alaska/prince-william-sound/richardson-highway/Richardson_Highway_ENBLA04-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#root-glacier-hero{
+    background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais-national-park-and-preserve/root-glacier-trail/Backpackers_Exploring_a_pool_on_the_Root_Glacier_2_21587560302-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #valdez-ak-hero{
 background: url(resources/images/alaska/prince-william-sound/valdez/Valdez\,_Alaska_Harbor_Panorama-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#wrangell-st-elais-hero{
-background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/Wrangell_St_Elias_National_Park\,_McCarthy_Road\,_Chitina\,_Alaska\,_USA_28_June_2009-1515.jpg) center no-repeat;
+#wrangell-st-elias-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elias-national-park-and-preserve/Wrangell_St_Elias_National_Park\,_McCarthy_Road\,_Chitina\,_Alaska\,_USA_28_June_2009-1515.jpg) center no-repeat;
     background-size: cover;
 }
 /* Southeast Alaska */
@@ -462,6 +483,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
 }
 #leconte-glacier-hero{
     background: url(resources/images/alaska/southeast-ak/wrangell/leconte-glacier/Sîpana_kendava_leconteAlaska-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#petroglyph-beach-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/petroglyph-beach-state-historic-park/Wrangell_Petroglygh_Wiki_10W-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wrangell-narrows-hero{
@@ -11560,15 +11585,32 @@ background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/ka
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/naknek-lake/NPS_Anela_Ramos._2_27676685575-3030.jpg) no-repeat center;
     background-size: cover;
 }
-/* #valley-ten-thousand-hero{
-    
-} */
+#valley-ten-thousand-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/katmai-national-park-and-preserve/valley-of-ten-thousand-smokes/Views_from_western-most_Knife_Creek_Glacier-3030.jpg) center no-repeat;
+background-size: cover;
+}
 #kodiak-island-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/Pasagshak_Bay_village\,_Kodiak_Island-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#afognak-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/afognak-island-state-park/Afognak_coastline-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #kodiak-ak-hero{
 background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-ak/Kodiak\,\ View\ from\ Pillar\ Mountain.jpg-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-abercrombie-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/fort-abercrombie-state-historical-park/Fort_Abercrombie-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kodiak-history-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-history-museum/210714_Kodiak_History_Museum_51325436228-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kodiak-nwr-hero{
+    background: url(resources/images/alaska/alaska-peninsula-and-aleutian-islands/kodiak-island/kodiak-national-wildlife-refuge/Scenery\,_Kodiak_National_Wildlife_Refuge-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #alaska-maritime-nwr-hero{
@@ -11816,12 +11858,16 @@ background: url(resources/images/alaska/prince-william-sound/mccarthy-ak/McCarth
 background: url(resources/images/alaska/prince-william-sound/richardson-highway/Richardson_Highway_ENBLA04-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#root-glacier-hero{
+    background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais-national-park-and-preserve/root-glacier-trail/Backpackers_Exploring_a_pool_on_the_Root_Glacier_2_21587560302-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #valdez-ak-hero{
 background: url(resources/images/alaska/prince-william-sound/valdez/Valdez\,_Alaska_Harbor_Panorama-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#wrangell-st-elais-hero{
-background: url(resources/images/alaska/prince-william-sound/wrangell-st-elais/Wrangell_St_Elias_National_Park\,_McCarthy_Road\,_Chitina\,_Alaska\,_USA_28_June_2009-3030.jpg) center no-repeat;
+#wrangell-st-elias-hero{
+background: url(resources/images/alaska/prince-william-sound/wrangell-st-elias-national-park-and-preserve/Wrangell_St_Elias_National_Park\,_McCarthy_Road\,_Chitina\,_Alaska\,_USA_28_June_2009-3030.jpg) center no-repeat;
     background-size: cover;
 }
 /* Southeast Alaska */
@@ -11939,6 +11985,10 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
 }
 #leconte-glacier-hero{
     background: url(resources/images/alaska/southeast-ak/wrangell/leconte-glacier/Sîpana_kendava_leconteAlaska-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#petroglyph-beach-hero{
+    background: url(resources/images/alaska/southeast-ak/wrangell/petroglyph-beach-state-historic-park/Wrangell_Petroglygh_Wiki_10W-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #wrangell-narrows-hero{
