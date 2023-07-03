@@ -1310,11 +1310,6 @@ background: url(resources/images/arkansas/lake-dardenelle-state-park/lake-darden
 }
 
 /* California */
-
-#california-missions-hero {
-    background: url(resources/images/california/california-missions/mission-san-luis-rey/california-missions-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #mission-san-diego-hero {
     background: url(resources/images/california/california-spanish-missions/mission-san-diego-de-alcala/Mission_San_Diego_de_Alcala_-_church-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -12796,10 +12791,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
 
     /* California */
-    #california-missions-hero {
-        background: url(resources/images/california/california-missions/mission-san-luis-rey/california-missions-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #mission-san-diego-hero {
         background: url(resources/images/california/california-spanish-missions/mission-san-diego-de-alcala/Mission_San_Diego_de_Alcala_-_church-hero-3030.jpg) center no-repeat;
         background-size: cover;
