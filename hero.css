@@ -1783,6 +1783,10 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background: url(resources/images/california/death-valley-national-park/death-valley-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#artists-drive-hero{
+    background: url(resources/images/california/death-valley-national-park/artists-drive/Artists_Drive\,_Death_Valley-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #dantes-hero{
     background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-dantes-view-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1958,11 +1962,6 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background: url(resources/images/california/lake-tahoe/palisades-tahoe-squaw-valley/Squaw_Valley_Gondola-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#south-lake-tahoe-hero{
-    background: url(resources/images/california/lake-tahoe/) center no-repeat;
-    background-size: cover;
-}
-
 #lassen-hero{
     background: url(resources/images/california/lassen-volcanic-national-park/lassen-volcanic-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2050,7 +2049,7 @@ background: url(resources/images/california/los-angeles/sunset-strip/chateau-mar
     background-size: cover;
 }
 #comedy-store-hero{
-background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/ComedyStore\ 02-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rainbow-la-hero{
@@ -2071,10 +2070,6 @@ background: url(resources/images/california/los-angeles/sunset-strip/viper-room/
 }
 #whiskey-go-hero{
 background: url(resources/images/california/los-angeles/sunset-strip/whiskey-a-go-go/Whisky_a_Go-Go-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#hollywood-hero{
-background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mulholland-drive-hero{
@@ -2114,7 +2109,7 @@ background: url(resources/images/california/los-angeles/la-brea-tar-pits/La_Brea
     background-size: cover;
 }
 #lacma-hero{
-background: url(resources/images/california/los-angeles/los-angeles-county-museum-of-art-lacma/los-angeles-countu-museum-of-art-lacma-hero-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/los-angeles-county-museum-of-art-lacma/los-angeles-county-museum-of-art-lacma-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #melrose-ave-hero{
@@ -2168,10 +2163,6 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
 }
 #grove-farmers-hero{
     background: url(resources/images/california/los-angeles/grove-and-farmers-market/grove-farmers-market-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#hollywood-boulevard-hero{
-    background: url(resources/images/california/los-angeles/hollywood-boulevard/Los_Angeles_2016_Hollywood_boulevard\,_Kodak_Theatre_4-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #hollywood-sign-hero{
@@ -2536,7 +2527,7 @@ background: url(resources/images/california/san-francisco/golden-gate-national-r
 background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-barry/Fort-Barry-Marin-Headlands-Florin-WLM-05-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#fort-cronkhite{
+#fort-cronkhite-hero{
 background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-cronkhite/Fort_Cronkhite_Sausalito\,_CA-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -2702,7 +2693,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #muir-beach-hero{
-    background: url(resources/images/california/muir-beack-and-outlook/muir-beach-outlook-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/muir-beach-and-overlook/Muir_Beach\,_CA\,_USA_-_panoramio-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #painted-ladies-hero{
@@ -13262,6 +13253,10 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/death-valley-national-park/death-valley-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #artists-drive-hero{
+        background: url(resources/images/california/death-valley-national-park/artists-drive/Artists_Drive\,_Death_Valley-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #dantes-hero{
         background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-dantes-view-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -13417,10 +13412,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/lake-tahoe/emerald-bay-state-park/Emerald_Bay_State_Park_2-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #ed-zberg-sp-hero{
-        background: url(resources/images/california/lake-tahoe/) center no-repeat;
-        background-size: cover;
-    }
     #heavenly-mountain-hero{
         background: url(resources/images/california/lake-tahoe/heavenly-mountain-resort/Heavenly_Gondola_Base-3030.jpg) center no-repeat;
         background-size: cover;
@@ -13435,10 +13426,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
     #palisades-tahoe-hero{
         background: url(resources/images/california/lake-tahoe/palisades-tahoe-squaw-valley/Squaw_Valley_Gondola-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #south-lake-tahoe-hero{
-        background: url(resources/images/california/lake-tahoe/) center no-repeat;
         background-size: cover;
     }
     #lassen-hero{
@@ -13528,7 +13515,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #comedy-store-hero{
-    background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-3030.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/ComedyStore\ 02-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #rainbow-la-hero{
@@ -13549,10 +13536,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
     #whiskey-go-hero{
     background: url(resources/images/california/los-angeles/sunset-strip/whiskey-a-go-go/Whisky_a_Go-Go-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #hollywood-hero{
-    background: url(resources/images/california/los-angeles/broad/broad-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mulholland-drive-hero{
@@ -13592,7 +13575,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #lacma-hero{
-    background: url(resources/images/california/los-angeles/los-angeles-county-museum-of-art-lacma/los-angeles-countu-museum-of-art-lacma-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/los-angeles-county-museum-of-art-lacma/los-angeles-county-museum-of-art-lacma-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #melrose-ave-hero{
@@ -13646,10 +13629,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
     #grove-farmers-hero{
         background: url(resources/images/california/los-angeles/grove-and-farmers-market/grove-farmers-market-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #hollywood-boulevard-hero{
-        background: url(resources/images/california/los-angeles/hollywood-boulevard/Los_Angeles_2016_Hollywood_boulevard\,_Kodak_Theatre_4-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #hollywood-sign-hero{
@@ -14007,7 +13986,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-barry/Fort-Barry-Marin-Headlands-Florin-WLM-05-3030.jpg) center no-repeat;
             background-size: cover;
         }
-        #fort-cronkhite{
+        #fort-cronkhite-hero{
         background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/fort-cronkhite/Fort_Cronkhite_Sausalito\,_CA-3030.jpg) center no-repeat;
             background-size: cover;
         }
@@ -14174,8 +14153,8 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #muir-beach-hero{
-        background: url(resources/images/california/muir-beack-and-outlook/muir-beach-outlook-hero-3030.jpg) center no-repeat;
-        background-size: cover;
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/muir-beach-and-overlook/Muir_Beach\,_CA\,_USA_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
     }
     #painted-ladies-hero{
         background: url(resources/images/california/san-francisco/painted-ladies-one/painted-ladies-hero-3030.jpg) center no-repeat;
