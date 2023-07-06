@@ -9223,7 +9223,7 @@ background: url(resources/images/tennessee/great-smoky-mountains-national-park/n
     background-size: cover;
 }
 #oconaluftee-hero{
-background: url(resources/images/tennessee/great-smoky-mountains-national-park/oconaluftee/Oconaluftee_Visitor_Center\,_Great_Smoky_Mountains_National_Park\,_Smokemont\,_NC_\(49112771146\)-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/great-smoky-mountains-national-park/oconaluftee/Oconaluftee_Visitor_Center\,_Great_Smoky_Mountains_National_Park\,_Smokemont\,_NC_49112771146-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rainbow-falls-hero{
@@ -9267,7 +9267,7 @@ background: url(resources/images/tennessee/nashville/gaylord-opryland-resort/Cas
     background-size: cover;
 }
 #grand-ole-opry-hero{
-background: url(resources/images/tennessee/nashville/grand-ole-opry/Grand_Ole_Opry_\(97056906\)-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/grand-ole-opry/Grand_Ole_Opry_97056906-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #gulch-nashville-hero{
@@ -9279,31 +9279,39 @@ background: url(resources/images/tennessee/nashville/nashville-gulch/nashville-g
     background-size: cover;
 }
 #john-seigenthaler-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/john-seigenthaler-pedestrian-bridge/john-seigenthaler-pedestrian-bridge-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#johnny-cash-museum-hero{
+    background: url(resources/images/tennessee/nashville/johnny-cash-museum/Johnny_Cash_Museum\,_Nashville-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #natchez-trace-bridge-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/natchez-trace-parkway-bridge/Natchez_Trace_Parkway_Bridge-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #percy-warner-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/percy-warner-park/percy-warner-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #princes-chicken-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/princes-hot-chicken/princes-hot-chicken-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #radnor-lake-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/radnor-lake-state-park/radnor-lake-state-park-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ryman-auditorium-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/ryman-auditorium/ryman-auditorium-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tenn-state-capitol-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-1515.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/tennessee-state-capitol/tennessee-state-capitol-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#twelve-south-hero{
+    background: url(resources/images/tennessee/nashville/twelve-south/twelve-south-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cummins-falls-hero{
@@ -9341,7 +9349,7 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
     background-size: cover;
 }
 #laurel-falls-hero{
-    background: url(resources/images/tennessee/great-smoky-mountains-national-park/laurel-falls/laurel-falls-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/tennessee/great-smoky-mountains-national-park/laurel-falls/laural-falls-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #beale-hero{
@@ -9358,6 +9366,10 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
 }
 #memphis-pyramid-hero{
     background: url(resources/images/tennessee/memphis/memphis-pyramid/memphis-pyramid-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#memphis-zoo-hero{
+    background: url(resources/images/tennessee/memphis/memphis-zoo/MemphisZooentrance-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #orpheum-hero{
@@ -9403,7 +9415,7 @@ background: url(resources/images/texas/austin/st-mary-cathedral/saint-mary-catho
     background-size: cover;
 }
 #congress-bridge-hero{
-    background: url(resources/images/texas/austin/statesman-bat-observation-center/Austin_-_bats_watching_3-1515.jpg) center no-repeat;
+    background: url(resources/images/texas/austin/statesman-bat-observation-center/) center no-repeat;
     background-size: cover;
 }
 #austin-city-limits-hero{
@@ -9503,7 +9515,7 @@ background: url(resources/images/texas/dallas/deep-ellum/deep-ellum-hero-1515.jp
     background-size: cover;
 }
 #fair-park-hero{
-background: url(resources/images/texas/dallas/View_from_Reunion_Tower_August_2015_13-1515.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/fair-park/Texas_Centennial_Exposition_Buildings_at_the_Fair_Park\,_Dallas.-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #jfk-memorial-dallas-hero{
@@ -9631,7 +9643,7 @@ background: url(resources/images/texas/san-antonio/hemisfair-park/HemisFair_Park
     background-size: cover;
 }
 #concepcion-tx-hero{
-background: url(resources/images/texas/san-antonio/mission-concepcion/) center no-repeat;
+background: url(resources/images/texas/san-antonio/mission-concepcion/mission-concepcion-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-francisco-espada-hero{
@@ -9770,10 +9782,6 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 
 #big-bend-hero{
     background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-1515.jpg) top no-repeat;
-    background-size: cover;
-}
-#chisos-hero{
-    background: url(resources/images/texas/big-bend-national-park/chisos-basin/big-bend-window-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rio-grande-river-hero{
@@ -21735,7 +21743,7 @@ background: url(resources/images/tennessee/great-smoky-mountains-national-park/n
     background-size: cover;
 }
 #oconaluftee-hero{
-background: url(resources/images/tennessee/great-smoky-mountains-national-park/oconaluftee/Oconaluftee_Visitor_Center\,_Great_Smoky_Mountains_National_Park\,_Smokemont\,_NC_\(49112771146\)-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/great-smoky-mountains-national-park/oconaluftee/Oconaluftee_Visitor_Center\,_Great_Smoky_Mountains_National_Park\,_Smokemont\,_NC_49112771146-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #rainbow-falls-hero{
@@ -21779,7 +21787,7 @@ background: url(resources/images/tennessee/nashville/gaylord-opryland-resort/Cas
     background-size: cover;
 }
 #grand-ole-opry-hero{
-background: url(resources/images/tennessee/nashville/grand-ole-opry/Grand_Ole_Opry_\(97056906\)-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/grand-ole-opry/Grand_Ole_Opry_97056906-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #gulch-nashville-hero{
@@ -21791,31 +21799,39 @@ background: url(resources/images/tennessee/nashville/nashville-gulch/nashville-g
     background-size: cover;
 }
 #john-seigenthaler-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/john-seigenthaler-pedestrian-bridge/john-seigenthaler-pedestrian-bridge-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#johnny-cash-museum-hero{
+    background: url(resources/images/tennessee/nashville/johnny-cash-museum/Johnny_Cash_Museum\,_Nashville-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #natchez-trace-bridge-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/natchez-trace-parkway-bridge/Natchez_Trace_Parkway_Bridge-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #percy-warner-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/percy-warner-park/percy-warner-park-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #princes-chicken-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/princes-hot-chicken/princes-hot-chicken-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #radnor-lake-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/radnor-lake-state-park/radnor-lake-state-park-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #ryman-auditorium-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/ryman-auditorium/ryman-auditorium-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #tenn-state-capitol-hero{
-background: url(resources/images/tennessee/nashville/belle-meade-plantation/Belle_Meade_Plantation_33521401036-3030.jpg) center no-repeat;
+background: url(resources/images/tennessee/nashville/tennessee-state-capitol/tennessee-state-capitol-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#twelve-south-hero{
+    background: url(resources/images/tennessee/nashville/twelve-south/twelve-south-3030.jpg) center no-repeat;
     background-size: cover;
 }
 /* #carnton-hero{
@@ -21857,7 +21873,7 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
     background-size: cover;
 }
 #laurel-falls-hero{
-    background: url(resources/images/tennessee/great-smoky-mountains-national-park/laurel-falls/laurel-falls-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/tennessee/great-smoky-mountains-national-park/laurel-falls/laural-falls-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #beale-hero{
@@ -21874,6 +21890,10 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
 }
 #memphis-pyramid-hero{
     background: url(resources/images/tennessee/memphis/memphis-pyramid/memphis-pyramid-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#memphis-zoo-hero{
+    background: url(resources/images/tennessee/memphis/memphis-zoo/MemphisZooentrance-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #orpheum-hero{
@@ -21919,7 +21939,7 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
         background-size: cover;
     }
 #congress-bridge-hero{
-    background: url(resources/images/texas/austin/statesman-bat-observation-center/Austin_-_bats_watching_3-3030.jpg) center no-repeat;
+    background: url(resources/images/texas/austin/statesman-bat-observation-center/) center no-repeat;
     background-size: cover;
 }
 #austin-city-limits-hero{
@@ -22019,7 +22039,7 @@ background: url(resources/images/texas/dallas/deep-ellum/deep-ellum-hero-3030.jp
     background-size: cover;
 }
 #fair-park-hero{
-background: url(resources/images/texas/dallas/View_from_Reunion_Tower_August_2015_13-3030.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/fair-park/Texas_Centennial_Exposition_Buildings_at_the_Fair_Park\,_Dallas.-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #jfk-memorial-hero{
@@ -22055,7 +22075,7 @@ background: url(resources/images/texas/dallas/sixth-floor-museum-at-dealey-plaza
     background-size: cover;
 }
 #cathedral-church-st-matthew-hero{
-background: url(resources/images/texas/dallas/st-matthews-cathedral//St._Matthews_Cathedral_-_Dallas_02-3030.jpg) center no-repeat;
+background: url(resources/images/texas/dallas/st-matthews-cathedral/St._Matthews_Cathedral_-_Dallas_02-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #chamizal-nm-hero{
@@ -22147,7 +22167,7 @@ background: url(resources/images/texas/san-antonio/hemisfair-park/HemisFair_Park
     background-size: cover;
 }
 #concepcion-tx-hero{
-background: url(resources/images/texas/san-antonio/mission-concepcion/) center no-repeat;
+background: url(resources/images/texas/san-antonio/mission-concepcion/mission-concepcion-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #san-francisco-espada-hero{
@@ -22285,10 +22305,6 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
 
 #big-bend-hero{
     background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-3030.jpg) top no-repeat;
-    background-size: cover;
-}
-#chisos-hero{
-    background: url(resources/images/texas/big-bend-national-park/big-bend-chisos-window-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #rio-grande-river-hero{
