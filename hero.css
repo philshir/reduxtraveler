@@ -3092,7 +3092,7 @@ background: url(resources/images/colorado/denver/casa-bonita/Casabonitadenver-15
     background-size: cover;
 }
 #cathedral-immaculate-conception-hero{
-background: url(resources/images/colorado/denver/cathedral-basilica-of-the-immaculate-conception/Denver\,_Church_of_the_Immaculate_Conception-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/denver/cathedral-basilica-of-the-immaculate-conception/Denver\,_Church_of_the_Immaculate_ConceptionDenver\,_Church_of_the_Immaculate_Conception-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #confluence-park-hero{
@@ -3153,11 +3153,11 @@ background: url(resources/images/colorado/pagosa-springs/Hot_Springs-1515.jpg) c
     background-size: cover;
 }
 #snowmass-hero{
-    background: url(resources/images/colorado/snowmass-co/Snowmass_gondola_and_Ski_area-1515.jpg) center no-repeat;
+    background: url(resources/images/colorado/snowmass-co/) center no-repeat;
     background-size: cover;
 }
 #aspen-hero{
-background: url(resources/images/colorado/aspen/Aspen_south_Galena_street-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/aspen/) center no-repeat;
     background-size: cover;
 }
 #durango-hero{
@@ -3247,10 +3247,6 @@ background: url(resources/images/colorado/florissant-fossil-beds-national-monume
 }
 #great-sand-hero{
     background: url(resources/images/colorado/great-sand-dunes-national-park/great-sand-dunes-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#mesa-verde-hero{
-    background: url(resources/images/colorado/mesa-verde-national-park/mesa-verde-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #balcony-house-hero{
@@ -7011,6 +7007,10 @@ background: url(resources/images/new-hampshire/wolfeboro/Wolfeboro_Docks-1515.jp
     background: url(resources/images/nevada/las-vegas/new-york-new-york-casino/new-york-new-york-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#palazzo-hero{
+    background: url(resources/images/nevada/las-vegas/palazzo-at-the-venetian-resort/Palazzo_Casino\,_Las_Vegas_3479650636-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #paris-hero{
     background: url(resources/images/nevada/las-vegas/paris-las-vegas/Las_Vegas_Paris_By_Night\,_1_December_2007-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9056,7 +9056,7 @@ background: url(resources/images/south-dakota/needles-highway/Needles_Highway_05
     background-size: cover;
 }
 #crazy-horse-memorial-hero{
-    background: url(resources/images/south-dakota/crazy-horse-memorial/CrazyHorse-1515.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/crazy-horse-memorial/) center no-repeat;
     background-size: cover;
 }
 #sylvan-lake-hero{
@@ -14675,11 +14675,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #snowmass-hero{
-        background: url(resources/images/colorado/snowmass-co/Snowmass_gondola_and_Ski_area-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/snowmass-co/) center no-repeat;
         background-size: cover;
     }
     #aspen-hero{
-    background: url(resources/images/colorado/aspen/Aspen_south_Galena_street-3030.jpg) center no-repeat;
+    background: url(resources/images/colorado/aspen/) center no-repeat;
         background-size: cover;
     }
     #durango-hero{
@@ -14768,10 +14768,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
     #great-sand-hero{
         background: url(resources/images/colorado/great-sand-dunes-national-park/great-sand-dunes-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #mesa-verde-hero{
-        background: url(resources/images/colorado/mesa-verde-national-park/mesa-verde-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #balcony-house-hero{
@@ -17358,6 +17354,10 @@ background: url(resources/images/missouri/st-louis/malcolm-w-martin-memorial-par
 }
 #nyny-hero{
     background: url(resources/images/nevada/las-vegas/new-york-new-york-casino/new-york-new-york-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#palazzo-hero{
+    background: url(resources/images/nevada/las-vegas/palazzo-at-the-venetian-resort/Palazzo_Casino\,_Las_Vegas_3479650636-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #paris-hero{
@@ -20457,7 +20457,7 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
         background-size: cover;
     }
   #crazy-horse-memorial-hero{
-    background: url(resources/images/south-dakota/crazy-horse-memorial/CrazyHorse-3030.jpg) center no-repeat;
+    background: url(resources/images/south-dakota/crazy-horse-memorial/) center no-repeat;
     background-size: cover;
 }
 #sylvan-lake-hero{
