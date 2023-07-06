@@ -1889,10 +1889,6 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background: url(resources/images/california/joshua-tree-national-park/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#kings-canyon-hero{
-    background: url(resources/images/california/kings-canyon-national-park/kings-canyon-panoramic-point-hero-1515-.jpg) center no-repeat;
-    background-size: cover;
-}
 #grants-grove-hero{
     background: url(resources/images/california/kings-canyon-national-park/grant-grove/kings-canyon-grant-grove-hero-1515-.jpg) center no-repeat;
     background-size: cover;
@@ -2899,14 +2895,6 @@ background: url(resources/images/california/walker-canyon/walker-canyon-hero-151
     background-size: cover;
 }
 
-#sequoia-hero{
-    background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-hero-1136wPortrait.jpg) center no-repeat;
-    background-size: cover;
-}
-#congress-hero{
-    background: url(resources/images/california/sequoia-national-park/general-sherman-tree/sequoia-general-sherman-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #moro-hero{
     background: url(resources/images/california/sequoia-national-park/moro-rock/moro-rock-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2958,7 +2946,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-position-y: -200px;
 }
 #glacier-point-hero{
-    background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset\,_Yosemite_NP\,_CA\,_US_-_Diliff-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #el-capitan-hero{
@@ -3002,11 +2990,11 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-size: cover;
 }
 #glen-aulin-hero{
-    background: url(resources/images/california/yosemite-national-park/half-dome/yosemite-half-dome-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/glen-aulin/Glen_Aulin-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lembert-dome-hero{
-    background: url(resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/lembert-dome/Lembert_dome_east-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lyell-canyon-hero{
@@ -3022,7 +3010,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-size: cover;
 }
 #olmstead-point-hero{
-    background: url(resources/images/california/yosemite-national-park/tioga-pass/olmstead-point/Olmstead_Point_-_panoramio_\(1\)-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/olmstead-point/Olmstead_Point_-_panoramio_1-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tenaya-lake-hero{
@@ -13359,10 +13347,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/joshua-tree-national-park/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #kings-canyon-hero{
-        background: url(resources/images/california/kings-canyon-national-park/kings-canyon-panoramic-point-hero-3030-.jpg) center no-repeat;
-        background-size: cover;
-    }
     #grants-grove-hero{
         background: url(resources/images/california/kings-canyon-national-park/grant-grove/kings-canyon-grant-grove-hero-3030-.jpg) center no-repeat;
         background-size: cover;
@@ -14357,14 +14341,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     
-    #sequoia-hero{
-        background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-giant-trees-parker-group-hero-2273wPortrait.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #congress-hero{
-        background: url(resources/images/california/sequoia-national-park/general-sherman-tree/sequoia-general-sherman-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #moro-hero{
         background: url(resources/images/california/sequoia-national-park/moro-rock/moro-rock-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -14414,7 +14390,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #glacier-point-hero{
-        background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier-Point-at-Sunset-Yosemite-NP-CA-US-Diliff-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset\,_Yosemite_NP\,_CA\,_US_-_Diliff-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #el-capitan-hero{
@@ -14458,11 +14434,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #glen-aulin-hero{
-        background: url(resources/images/california/yosemite-national-park/half-dome/yosemite-half-dome-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/glen-aulin/Glen_Aulin-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lembert-dome-hero{
-        background: url(resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/lembert-dome/Lembert_dome_east-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lyell-canyon-hero{
@@ -14478,7 +14454,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #olmstead-point-hero{
-        background: url(resources/images/california/yosemite-national-park/tioga-pass/olmstead-point/Olmstead_Point_-_panoramio_\(1\)-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/olmstead-point/Olmstead_Point_-_panoramio_1-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #tenaya-lake-hero{
