@@ -2466,7 +2466,7 @@ background: url(resources/images/california/san-diego/san-diego-central-library/
     background-size: cover;
 }
 #san-diego-zoo-hero{
-background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-1515.jpg) center no-repeat;
+background: url(resources/images/california/san-diego/san-diego-zoo/San_Diego_Zoo_April_2013_16-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #seaport-village-hero{
@@ -2697,11 +2697,11 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #painted-ladies-hero{
-    background: url(resources/images/california/san-francisco/painted-ladies-one/painted-ladies-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/painted-ladies/painted-ladies-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #palace-fine-arts-hero{
-    background: url(resources/images/california/san-francisco/palace-fine-arts/palace-of-fine-arts-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/palace-of-fine-arts/palace-of-fine-arts-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #santa-cruz-beach-boardwalk-hero{
@@ -13730,7 +13730,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
 }
 
     #muir-woods-hero{
-        background: url(resources/images/california/muirWoods/muir-woods-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/) center no-repeat;
         background-size: cover;
     }
 
@@ -13863,10 +13863,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/san-diego/belmont-park/Giant_Dipper_Roller_Coaster-10-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #blacks-beach-hero{
-    background: url(resources/images/california/san-diego/bl) center no-repeat;
-        background-size: cover;
-    }
     #cowles-mtn-hero{
     background: url(resources/images/california/san-diego/cowles-mountain/Cowles_Mountain-3030.jpg) center no-repeat;
         background-size: cover;
@@ -13924,7 +13920,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #san-diego-zoo-hero{
-    background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-3030.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/san-diego-zoo/San_Diego_Zoo_April_2013_16-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #seaport-village-hero{
@@ -14034,6 +14030,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/) center no-repeat;
             background-size: cover;
         } */
+        
         #china-beach-hero{
         background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/san-francisco-area/china-beach/Laika_ac_China_Beach_6419558385-3030.jpg) center no-repeat;
             background-size: cover;
@@ -14115,7 +14112,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #san-francisco-cable-car-hero{
-        background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/San_Francisco_California\,_USA\,_Cable_Car_--_2012_--_4180-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/) center no-repeat;
             background-size: cover;
         }
         #san-francisco-maritime-park-hero{
@@ -14157,11 +14154,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background-size: cover;
     }
     #painted-ladies-hero{
-        background: url(resources/images/california/san-francisco/painted-ladies-one/painted-ladies-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/painted-ladies/painted-ladies-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #palace-fine-arts-hero{
-        background: url(resources/images/california/san-francisco/palace-fine-arts/palace-of-fine-arts-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/palace-of-fine-arts/palace-of-fine-arts-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #santa-cruz-beach-boardwalk-hero{
