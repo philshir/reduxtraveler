@@ -5362,7 +5362,7 @@ background: url(resources/images/iowa/des-moines/Skyline_downtown_Des_Moines-151
     background-size: cover;
 }
 #iowa-capitol-hero{
-background: url(resources/images/iowa/des-moines/Skyline_downtown_Des_Moines-1515.jpg) no-repeat center;
+background: url(resources/images/iowa/des-moines/iowa-state-capitol/Iowa_-_Iowa_State_Capitol_-_20200703102609-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #pappajohn-sculpture-hero{
@@ -6598,6 +6598,35 @@ background: url(resources/images/missouri/st-louis/citygarden-sculpture-park/cit
 background: url(resources/images/missouri/st-louis/crown-candy-kitchen/crown-candy-kitchen-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#delmar-loop-hero{
+    background: url(resources/images/missouri/st-louis/delmar-loop/delmar-loop-hero-1515.jpg) center no-repeat;
+    background-size: cover;   
+}
+#kiener-plaza-hero{
+    background: url(resources/images/missouri/st-louis/kiener-plaza/kiener-plaza-hero-1515.jpg) center no-repeat;
+    background-size: cover;  
+}
+#mo-botanical-garden-hero{
+    background: url(resources/images/missouri/st-louis/missouri-botanical-garden/Botanical_Garden\,_Saint_Louis-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#st-charles-historic-hero{
+    background: url(resources/images/missouri/st-louis/st-charles-historic-district/st-charles-historic-district-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#union-station-st-louis-hero{
+    background: url(resources/images/missouri/st-louis/st-louis-union-station/St._Louis_Union_Station_17577826564-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#ted-drewes-hero{
+    background: url(resources/images/missouri/st-louis/ted-drewes-frozen-custard/ted-drewes-frozen-custard-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#tower-grove-park-hero{
+    background: url(resources/images/missouri/st-louis/tower-grove-park/Tower_Grove_Park_Scene_1-1515.jpg) center no-repeat;
+    background-size: cover;  
+}
+
 #forest-park-hero{
 background: url(resources/images/missouri/st-louis/forest-park/forest-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -16789,7 +16818,7 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
         background-size: cover;
     }
     #iowa-capitol-hero{
-    background: url(resources/images/iowa/des-moines/Skyline_downtown_Des_Moines-3030.jpg) no-repeat center;
+    background: url(resources/images/iowa/des-moines/iowa-state-capitol/Iowa_-_Iowa_State_Capitol_-_20200703102609-3030.jpg) no-repeat center;
         background-size: cover;
     }
     #pappajohn-sculpture-hero{
@@ -16797,7 +16826,7 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
         background-size: cover;
     }
     #terrace-hill-hero{
-    background: url(resources/images/iowa/des-moines/terrace-hill/TerraceHill-3030.jpg) no-repeat center;
+    background: url(resources/images/iowa/des-moines/terrace-hill/) no-repeat center;
         background-size: cover;
     }
     #effigy-mounds-hero{
@@ -17248,6 +17277,34 @@ background: url(resources/images/missouri/st-louis/citygarden-sculpture-park/cit
 #crown-candy-kitchen-hero{
 background: url(resources/images/missouri/st-louis/crown-candy-kitchen/crown-candy-kitchen-hero-3030.jpg) center no-repeat;
     background-size: cover;
+}
+#delmar-loop-hero{
+    background: url(resources/images/missouri/st-louis/delmar-loop/delmar-loop-hero-3030.jpg) center no-repeat;
+    background-size: cover;   
+}
+#kiener-plaza-hero{
+    background: url(resources/images/missouri/st-louis/kiener-plaza/kiener-plaza-hero-3030.jpg) center no-repeat;
+    background-size: cover;  
+}
+#mo-botanical-garden-hero{
+    background: url(resources/images/missouri/st-louis/missouri-botanical-garden/Botanical_Garden\,_Saint_Louis-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#st-charles-historic-hero{
+    background: url(resources/images/missouri/st-louis/st-charles-historic-district/st-charles-historic-district-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#union-station-st-louis-hero{
+    background: url(resources/images/missouri/st-louis/st-louis-union-station/St._Louis_Union_Station_17577826564-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#ted-drewes-hero{
+    background: url(resources/images/missouri/st-louis/ted-drewes-frozen-custard/ted-drewes-frozen-custard-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#tower-grove-park-hero{
+    background: url(resources/images/missouri/st-louis/tower-grove-park/Tower_Grove_Park_Scene_1-3030.jpg) center no-repeat;
+    background-size: cover;  
 }
 #forest-park-hero{
 background: url(resources/images/missouri/st-louis/forest-park/forest-park-hero-3030.jpg) center no-repeat;
