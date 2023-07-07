@@ -9784,6 +9784,10 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-1515.jpg) top no-repeat;
     background-size: cover;
 }
+#chisos-loop-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/) top no-repeat;
+    background-size: cover;
+}
 #rio-grande-river-hero{
     background: url(resources/images/texas/big-bend-national-park/rio-grande-wild-and-scenic-river/Rio_Grande_WSR_9443014740-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9828,6 +9832,14 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/cerra-castellan/Big_Bend_National_Park_-_rock_formation-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#panther-junction-hero{
+    background: url(resources/images/texas/big-bend-national-park/panther-junction/panther-junction-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#dagger-falt-hero{
+    background: url(resources/images/texas/big-bend-national-park/panther-junction/dagger-flat-auto-road/dagger-flat-auto-road-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #fossil-discovery-hero{
 background: url(resources/images/texas/big-bend-national-park/panther-junction/fossil-discovery-exhibit/fossil-discovery-exhibit-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9844,6 +9856,10 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/Sunset_at_Big_Bend_National_Park-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#homer-wilson-hero{
+    background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/homer-wilson-ranch/Homer_Wilson_Ranch-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
 #sam-nail-ranch-hero{
 background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/sam-nail-ranch/Sam_Nail_Ranch_ruins-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9854,7 +9870,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 
 #santa-elena-hero{
-    background: url(resources/images/texas/big-bend-national-park/santa-elena/santa-elena-canyon-hero-1136.jpg) center no-repeat;
+    background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/santa-elena-canyon/santa-elena-canyon-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #galveston-hero{
@@ -9934,6 +9950,18 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/texas/houston/buffalo-bayou-park/buffalo-bayou-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#eclectic-menagerie-hero{
+    background: url(resources/images/texas/houston/eclectic-menagerie/eclectic-menagerie-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#giant-beatles-hero{
+    background: url(resources/images/texas/houston/giant-beatles-statues/giant-beattles-statue-side-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#graffiti-park-hero{
+    background: url(resources/images/texas/houston/graffiti-park/graffiti-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #hines-waterwall-hero{
     background: url(resources/images/texas/houston/gerald-hines-waterwall/gerald-hines-waterwall-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9996,10 +10024,6 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 #tranquillity-park-hero{
     background: url(resources/images/texas/houston/tranquillity-park/tranquillity-park-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#san-antonio-missions-hero{
-    background: url(resources/images/texas/san-antonio/mission-san-jose/san-antonio-missions-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-antonio-hero{
@@ -22307,6 +22331,10 @@ background: url(resources/images/texas/waco-mammoth-national-monument/Waco_Mammo
     background: url(resources/images/texas/big-bend-national-park/Gfp-texas-big-bend-national-park-basin-and-mountains-in-the-distance-3030.jpg) top no-repeat;
     background-size: cover;
 }
+#chisos-loop-hero{
+    background: url(resources/images/texas/big-bend-national-park/chisos-basin/) top no-repeat;
+    background-size: cover;
+}
 #rio-grande-river-hero{
     background: url(resources/images/texas/big-bend-national-park/rio-grande-wild-and-scenic-river/Rio_Grande_WSR_9443014740-3030.jpg) center no-repeat;
     background-size: cover;
@@ -22351,6 +22379,14 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/cerra-castellan/Big_Bend_National_Park_-_rock_formation-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#panther-junction-hero{
+    background: url(resources/images/texas/big-bend-national-park/panther-junction/panther-junction-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#dagger-falt-hero{
+    background: url(resources/images/texas/big-bend-national-park/panther-junction/dagger-flat-auto-road/dagger-flat-auto-road-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #fossil-discovery-hero{
 background: url(resources/images/texas/big-bend-national-park/panther-junction/fossil-discovery-exhibit/fossil-discovery-exhibit-3030.jpg) center no-repeat;
     background-size: cover;
@@ -22367,6 +22403,10 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/Sunset_at_Big_Bend_National_Park-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#homer-wilson-hero{
+    background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/homer-wilson-ranch/Homer_Wilson_Ranch-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
 #sam-nail-ranch-hero{
 background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/sam-nail-ranch/Sam_Nail_Ranch_ruins-3030.jpg) center no-repeat;
     background-size: cover;
@@ -22377,7 +22417,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 
 #santa-elena-hero{
-    background: url(resources/images/texas/big-bend-national-park/santa-elena/santa-elena-canyon-hero-1136.jpg) center no-repeat;
+    background: url(resources/images/texas/big-bend-national-park/ross-maxwell-scenic-drive/santa-elena-canyon/santa-elena-canyon-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #bishops-palace-hero{
@@ -22456,6 +22496,18 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background: url(resources/images/texas/houston/buffalo-bayou-park/buffalo-bayou-park-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#eclectic-menagerie-hero{
+    background: url(resources/images/texas/houston/eclectic-menagerie/eclectic-menagerie-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#giant-beatles-hero{
+    background: url(resources/images/texas/houston/giant-beatles-statues/giant-beattles-statue-side-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#graffiti-park-hero{
+    background: url(resources/images/texas/houston/graffiti-park/graffiti-park-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #hines-waterwall-hero{
     background: url(resources/images/texas/houston/gerald-hines-waterwall/gerald-hines-waterwall-hero-3030.jpg) center no-repeat;
     background-size: cover;
@@ -22518,10 +22570,6 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 }
 #tranquillity-park-hero{
     background: url(resources/images/texas/houston/tranquillity-park/tranquillity-park-hero-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#san-antonio-missions-hero{
-    background: url(resources/images/texas/san-antonio/mission-san-jose/san-antonio-missions-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #san-antonio-hero{
