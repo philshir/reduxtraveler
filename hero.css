@@ -5982,7 +5982,7 @@ background: url(resources/images/massachusetts/boston/beacon-street/2010_BeaconS
     background-size: cover;
 }
 #boston-city-hall-hero{
-background: url(resources/images/massachusetts/boston/boston-city-hall/Custom_House_Tower_at_night-1515.jpg) center no-repeat;
+background: url(resources/images/massachusetts/boston/boston-city-hall/Boston\ City\ Hall\ exterior\ 02-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #boston-common-hero{
@@ -6029,12 +6029,69 @@ background: url(resources/images/massachusetts/boston/dorchester-heights/Dorches
 background: url(resources/images/massachusetts/boston/fenway-park/131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#boston-central-library-hero{
+    background: url(resources/images/massachusetts/boston/boston-central-library/Boston_Public_Librarys_McKim_Building_at_Night-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#charles-meeting-hero{
+    background: url(resources/images/massachusetts/boston/charles-street-meeting-house/Charles_Street_Meeting_House_Boston_-_DSC00167-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#commonwealth-ave-hero{
+    background: url(resources/images/massachusetts/boston/commonwealth-avenue/1991-BOS-Commonwealth_Avenue3-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#emerald-necklace-hero{
+    background: url(resources/images/massachusetts/boston/emerald-necklace/Boston_Public_Garden_1_2019-11-20-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fan-pier-park-hero{
+    background: url(resources/images/massachusetts/boston/fan-pier-park/Boston_skyline_from_South_Boston_November_2015-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#first-baptist-church-boston-hero{
+    background: url(resources/images/massachusetts/boston/first-baptist-church-of-boston/First_Baptist_Church_Boston_MA-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-independence-hero{
+    background: url(resources/images/massachusetts/boston/fort-independence/Fort_Independence_on_Castle_Island-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#frederick-olmsted-nhs-hero{
+    background: url(resources/images/massachusetts/boston/frederick-law-olmsted-national-historic-site/Frederick_Law_Olmsted_National_Historical_Site\,_August_2005-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#isabella-stewart-gardner-museum-hero{
+    background: url(resources/images/massachusetts/boston/isabella-stewart-gardner-museum/Isabella_Stewart_Gardner_Museum_Boston_November_2016_002-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#jfk-library-hero{
+    background: url(resources/images/massachusetts/boston/john-f-kennedy-presidential-library-and-museum/JFK_library-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#jfk-nhs-hero{
+    background: url(resources/images/massachusetts/boston/john-fitzgerald-kennedy-national-historic-site/John_Fitzgerald_Kennedy_National_Historic_Site_8ab482e5-8285-4d6f-bafc-25660132e78b-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#long-wharf-hero{
+    background: url(resources/images/massachusetts/boston/long-wharf/2008_LongWharf_Boston_2561971392-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#louisburg-square-hero{
+    background: url(resources/images/massachusetts/boston/louisburg-square/Morning_Light\,_Beacon_Hill\,_Boston-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#new-england-aquarium-hero{
+    background: url(resources/images/massachusetts/boston/new-england-aquarium/2017_New_England_Aquarium_from_west-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+
 #harvard-university-hero{
 background: url(resources/images/massachusetts/harvard-university/harvard-university-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #old-city-hall-boston-hero{
-background: url(resources/images/massachusetts/boston/old-city-hall/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-1515.jpg) center no-repeat;
+background: url(resources/images/massachusetts/boston/old-city-hall/) center no-repeat;
     background-size: cover;
 }
 #old-south-church-hero{
@@ -6155,10 +6212,6 @@ background: url(resources/images/massachusetts/plymouth/mayflower-ii/Mayflower_I
 }
 #national-forefathers-hero{
 background: url(resources/images/massachusetts/plymouth/monument-to-the-forefathers/monument-to-the-forefathers-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#plymouth-burial-hero{
-background: url(resources/images/massachusetts/plymouth/burial-hill/Burial_Hill_Cemetery_-_Plymouth\,_Massachusetts\,_USA_-_August_13\,_2015_03-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #plymouth-grist-hero{
@@ -20091,7 +20144,7 @@ background: url(resources/images/massachusetts/boston/beacon-street/2010_BeaconS
     background-size: cover;
 }
 #boston-city-hall-hero{
-background: url(resources/images/massachusetts/boston/boston-city-hall/Custom_House_Tower_at_night-3030.jpg) center no-repeat;
+background: url(resources/images/massachusetts/boston/boston-city-hall/Boston\ City\ Hall\ exterior\ 02-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #boston-common-hero{
@@ -20138,12 +20191,68 @@ background: url(resources/images/massachusetts/boston/dorchester-heights/Dorches
 background: url(resources/images/massachusetts/boston/fenway-park/131023-F-PR861-033_Hanscom_participates_in_World_Series_pregame_events-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#boston-central-library-hero{
+    background: url(resources/images/massachusetts/boston/boston-central-library/Boston_Public_Librarys_McKim_Building_at_Night-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#charles-meeting-hero{
+    background: url(resources/images/massachusetts/boston/charles-street-meeting-house/Charles_Street_Meeting_House_Boston_-_DSC00167-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#commonwealth-ave-hero{
+    background: url(resources/images/massachusetts/boston/commonwealth-avenue/1991-BOS-Commonwealth_Avenue3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#emerald-necklace-hero{
+    background: url(resources/images/massachusetts/boston/emerald-necklace/Boston_Public_Garden_1_2019-11-20-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fan-pier-park-hero{
+    background: url(resources/images/massachusetts/boston/fan-pier-park/Boston_skyline_from_South_Boston_November_2015-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#first-baptist-church-boston-hero{
+    background: url(resources/images/massachusetts/boston/first-baptist-church-of-boston/First_Baptist_Church_Boston_MA-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fort-independence-hero{
+    background: url(resources/images/massachusetts/boston/fort-independence/Fort_Independence_on_Castle_Island-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#frederick-olmsted-nhs-hero{
+    background: url(resources/images/massachusetts/boston/frederick-law-olmsted-national-historic-site/Frederick_Law_Olmsted_National_Historical_Site\,_August_2005-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#isabella-stewart-gardner-museum-hero{
+    background: url(resources/images/massachusetts/boston/isabella-stewart-gardner-museum/Isabella_Stewart_Gardner_Museum_Boston_November_2016_002-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#jfk-library-hero{
+    background: url(resources/images/massachusetts/boston/john-f-kennedy-presidential-library-and-museum/JFK_library-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#jfk-nhs-hero{
+    background: url(resources/images/massachusetts/boston/john-fitzgerald-kennedy-national-historic-site/John_Fitzgerald_Kennedy_National_Historic_Site_8ab482e5-8285-4d6f-bafc-25660132e78b-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#long-wharf-hero{
+    background: url(resources/images/massachusetts/boston/long-wharf/2008_LongWharf_Boston_2561971392-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#louisburg-square-hero{
+    background: url(resources/images/massachusetts/boston/louisburg-square/Morning_Light\,_Beacon_Hill\,_Boston-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#new-england-aquarium-hero{
+    background: url(resources/images/massachusetts/boston/new-england-aquarium/2017_New_England_Aquarium_from_west-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
 #harvard-university-hero{
 background: url(resources/images/massachusetts/harvard-university/harvard-university-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #old-city-hall-boston-hero{
-background: url(resources/images/massachusetts/boston/old-city-hall/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-3030.jpg) center no-repeat;
+background: url(resources/images/massachusetts/boston/old-city-hall/) center no-repeat;
     background-size: cover;
 }
 #old-south-church-hero{
@@ -20250,6 +20359,7 @@ background: url(resources/images/massachusetts/marthas-vineyard/oak-bluffs/oak-b
 background: url(resources/images/massachusetts/plymouth/brewster-gardens/brewster-garden-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+
 #plymouth-burial-hero{
 background: url(resources/images/massachusetts/plymouth/burial-hill/Burial_Hill_Cemetery_-_Plymouth\,_Massachusetts\,_USA_-_August_13\,_2015_03-3030.jpg) center no-repeat;
     background-size: cover;
