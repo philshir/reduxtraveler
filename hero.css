@@ -3470,6 +3470,14 @@ background: url(resources/images/connecticut/new-haven/yale-university/Yale_Univ
     background: url(resources/images/connecticut/hartford/bushnell-park/Corning\ Fountain\,\ Bushnell\ Park\,\ Hartford\ CT-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
+#cathedral-st-joseph-hartford-hero{
+    background: url(resources/images/connecticut/hartford/cathedral-of-st-joseph/Cathedral_of_St._Joseph_-_Hartford\,_Connecticut_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#connecticut-capitol-hero{
+    background: url(resources/images/connecticut/hartford/connecticut-state-capitol/Connecticut_State_Capitol\,_February_24\,_2008-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #church-good-shepherd-hero{
     background: url(resources/images/connecticut/hartford/church-of-the-good-shepherd/Church_of_the_Good_Shepherd_Parish_House_-_Hartford\,_Connecticut_03-1515.jpg) center no-repeat;
     background-size: cover;
@@ -5762,7 +5770,23 @@ background: url(resources/images/maine/acadia-national-park/isle-au-haut/Sailing
     background-size: cover;
 }
 #jordan-pond-hero{
-background: url(resources/images/maine/acadia-national-park/Acadia_National_Park\,_ME_16243110897-1000-1515.jpg) center no-repeat;
+background: url(resources/images/maine/acadia-national-park/jordan-pond/jordan-pond-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-cranberry-island-hero{
+    background: url(resources/images/maine/acadia-national-park/little-cranberry-island/Acadia_2012_08_23_0165_7958550412-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#otter-cliff-hero{
+    background: url(resources/images/maine/acadia-national-park/otter-cliff/otter-cliff-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#otter-cove-overlook-hero{
+    background: url(resources/images/maine/acadia-national-park/otter-cove-overlook/otter-cove-overlook-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#precipice-trail-hero{
+    background: url(resources/images/maine/acadia-national-park/precipice-trail/Precipice_Trail_rotated_and_cropped-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #little-hunters-hero{
@@ -5785,6 +5809,10 @@ background: url(resources/images/maine/acadia-national-park/acadia-seawall/Cobbl
 background: url(resources/images/maine/acadia-national-park/sabbe-museum/Abbe_Downtown_Peter_Vanderwarker-1515.jpg) center no-repeat;
     background-size: cover;
 } */
+#ship-harbor-trail-hero{
+    background: url(resources/images/maine/acadia-national-park/ship-harbor/Ship_Harbor\,_Acadia_National_Park\,_ME_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #thunder-hole-hero{
 background: url(resources/images/maine/acadia-national-park/thunder-hole/thunder-hole-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -14641,6 +14669,14 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background: url(resources/images/connecticut/hartford/bushnell-park/Corning\ Fountain\,\ Bushnell\ Park\,\ Hartford\ CT-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
+#cathedral-st-joseph-hartford-hero{
+    background: url(resources/images/connecticut/hartford/cathedral-of-st-joseph/Cathedral_of_St._Joseph_-_Hartford\,_Connecticut_02-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#connecticut-capitol-hero{
+    background: url(resources/images/connecticut/hartford/connecticut-state-capitol/Connecticut_State_Capitol\,_February_24\,_2008-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #church-good-shepherd-hero{
     background: url(resources/images/connecticut/hartford/church-of-the-good-shepherd/Church_of_the_Good_Shepherd_Parish_House_-_Hartford\,_Connecticut_03-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18750,10 +18786,6 @@ background: url(resources/images/north-dakota/white-butte/White_butte_1-3030.jpg
     background: url(resources/images/north-dakota/theodore-roosevelt-national-park/View_of_Theodore_Roosevelt_National_Park-3030.jpg) center no-repeat;
     background-size: cover;
 }
-#medora-hero{
-    background: url(resources/images/north-dakota/theodore-roosevelt-national-park/medora-nd/Chimney_Park_from_Theodore_Roosevelt_National_Park_Medora_ND1-3030.jpg) center no-repeat;
-    background-size: cover;
-}
 #theodore-north-hero{
     background: url(resources/images/north-dakota/theodore-roosevelt-national-park/north-unit/Little_Missouri_River_North_Unit_TR_National_Park-3030.jpg) center no-repeat;
     background-size: cover;
@@ -19847,7 +19879,23 @@ background: url(resources/images/maine/acadia-national-park/isle-au-haut/Sailing
     background-size: cover;
 }
 #jordan-pond-hero{
-background: url(resources/images/maine/acadia-national-park/Acadia_National_Park\,_ME_16243110897-1000-3030.jpg) center no-repeat;
+background: url(resources/images/maine/acadia-national-park/jordan-pond/jordan-pond-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#little-cranberry-island-hero{
+    background: url(resources/images/maine/acadia-national-park/little-cranberry-island/Acadia_2012_08_23_0165_7958550412-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#otter-cliff-hero{
+    background: url(resources/images/maine/acadia-national-park/otter-cliff/otter-cliff-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#otter-cove-overlook-hero{
+    background: url(resources/images/maine/acadia-national-park/otter-cove-overlook/otter-cove-overlook-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#precipice-trail-hero{
+    background: url(resources/images/maine/acadia-national-park/precipice-trail/Precipice_Trail_rotated_and_cropped-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #little-hunters-hero{
@@ -19870,6 +19918,10 @@ background: url(resources/images/maine/acadia-national-park/acadia-seawall/Cobbl
 background: url(resources/images/maine/acadia-national-park/sabbe-museum/Abbe_Downtown_Peter_Vanderwarker-3030.jpg) center no-repeat;
     background-size: cover;
 } */
+#ship-harbor-trail-hero{
+    background: url(resources/images/maine/acadia-national-park/ship-harbor/Ship_Harbor\,_Acadia_National_Park\,_ME_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #thunder-hole-hero{
 background: url(resources/images/maine/acadia-national-park/thunder-hole/thunder-hole-hero-3030.jpg) center no-repeat;
     background-size: cover;
