@@ -8120,7 +8120,7 @@ background: url(resources/images/north-carolina/asheville-nc/basilica-st-lawrenc
     background-size: cover;
 }
 #linville-falls-hero{
-    background: url(resources/images/north-carolina/linville-falls/RainbowFallsRutherfordCounty-1515.jpg) center no-repeat;
+    background: url(resources/images/north-carolina/linville-falls/Linville\ Falls-27527-3-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #linville-gorge-hero{
@@ -9099,6 +9099,14 @@ background: url(resources/images/south-carolina/charleston-sc/old-slave-mart-mus
 background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#sullivans-island-hero{
+    background: url(resources/images/south-carolina/charleston-sc/sullivans-island/sullivans-island-hero-1515.jpg) center no-repeat;
+            background-size: cover;
+}
+#st-phillips-hero{
+        background: url(resources/images/south-carolina/charleston-sc/st-philips-church/st-phillips-interior-hero-1515.jpg) center no-repeat;
+            background-size: cover;
+}
 #unitarian-church-charleston-hero{
 background: url(resources/images/south-carolina/charleston-sc/unitarian-church-in-charleston/unitarian-church-in-charleston-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -9139,16 +9147,8 @@ background: url(resources/images/south-carolina/murrells-inlet/murrells-inlet-he
     background: url(resources/images/south-carolina/myrtle-beach/myrtle-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#south-carolina-hero{
-    background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #angel-oak-hero{
     background: url(resources/images/south-carolina/charleston-sc/angel-oak-tree/angel-oak-tree-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
-#st-phillips-hero{
-    background: url(resources/images/south-carolina/charleston-sc/st-philips-church/st-phillips-interior-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #congaree-hero{
@@ -10644,8 +10644,20 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-1
     background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-1515.jpg) top no-repeat;
     background-size: cover;
 }
+#america-civil-war-museum-hero{
+    background: url(resources/images/virginia/richmond/america-civil-war-museum/American_Civil_War_Museum_at_Tredegar_Ironworks-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #belle-isle-hero{
  background: url(resources/images/virginia/richmond/belle-isle/Belle_Isle_pedestrian_bridge_9741406483-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#browns-island-hero{
+    background: url(resources/images/virginia/richmond/browns-island/browns-island-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#byrd-park-hero{
+    background: url(resources/images/virginia/richmond/byrd-park/Byrd_Park\,_Richmond\,_VA\,_USA_-_panoramio_2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #maymont-hero{
@@ -15855,10 +15867,6 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background: url(resources/images/georgia/savannah/savannah-city-hall/City_Hall\,_Savannah_GA\,_South_view_20160705_1-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #skidaway-island-hero{
-    background: url(resources/images/georgia/savannah/skidaway-island/) center no-repeat;
-        background-size: cover;
-    }
     #squares-savannah-hero{
     background: url(resources/images/georgia/savannah/savannah-squares/savannah-squares-monterey-square-hero-3030.jpg) bottom no-repeat;
         background-size: cover;
@@ -18822,7 +18830,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
         background-size: cover;
     }
     #linville-falls-hero{
-        background: url(resources/images/north-carolina/linville-falls/RainbowFallsRutherfordCounty-3030.jpg) center no-repeat;
+        background: url(resources/images/north-carolina/linville-falls/Linville\ Falls-27527-3-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #linville-gorge-hero{
@@ -20649,6 +20657,10 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     background: url(resources/images/south-carolina/charleston-sc/rainbow-row/leonel-heisenberg-126F-Xh3sOo-unsplash-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #sullivans-island-hero{
+        background: url(resources/images/south-carolina/charleston-sc/sullivans-island/sullivans-island-hero-3030.jpg) center no-repeat;
+                background-size: cover;
+    }
     #unitarian-church-charleston-hero{
     background: url(resources/images/south-carolina/charleston-sc/unitarian-church-in-charleston/unitarian-church-in-charleston-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -20687,10 +20699,6 @@ background: url(resources/images/massachusetts/mount-greylock/Mount_Greylock_Sta
     }
     #myrtle-beach-hero{
         background: url(resources/images/south-carolina/myrtle-beach/myrtle-beach-hero-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #south-carolina-hero{
-        background: url(resources/images/south-carolina/charleston-sc/south-carolina-carriage-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #charleston-sc-hero{
@@ -20906,8 +20914,20 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
     background: url(resources/images/virginia/richmond/Richmond_on_the_James_River_15822883823-3030.jpg) top no-repeat;
     background-size: cover;
 }
+#america-civil-war-museum-hero{
+    background: url(resources/images/virginia/richmond/america-civil-war-museum/American_Civil_War_Museum_at_Tredegar_Ironworks-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #belle-isle-hero{
  background: url(resources/images/virginia/richmond/belle-isle/Belle_Isle_pedestrian_bridge_9741406483-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#browns-island-hero{
+    background: url(resources/images/virginia/richmond/browns-island/browns-island-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#byrd-park-hero{
+    background: url(resources/images/virginia/richmond/byrd-park/Byrd_Park\,_Richmond\,_VA\,_USA_-_panoramio_2-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #maymont-hero{
