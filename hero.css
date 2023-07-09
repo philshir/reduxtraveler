@@ -6990,6 +6990,14 @@ background: url(resources/images/new-hampshire/portsmouth-nh/Portsmouth_NH_aeria
 background: url(resources/images/new-hampshire/rocky-gorge-kancamagus-highway/Kanc08_064-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#sabbaday-falls-hero{
+    background: url(resources/images/new-hampshire/sabbaday-falls/Sabbaday_Brook_213461975-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#strawbery-banke-hero{
+    background: url(resources/images/new-hampshire/portsmouth-nh/strawbery-banke/lossy-page1-2560px-Strawbery_Banke_Museum\,_Portsmouth\,_New_Hampshire_LCCN2011631411.tif-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #wolfeboro-hero{
 background: url(resources/images/new-hampshire/wolfeboro/Wolfeboro_Docks-1515.jpg) center no-repeat;
     background-size: cover;
@@ -7488,7 +7496,7 @@ background: url(resources/images/new-mexico/shiprock/Shiprock.snodgrass3-1515.jp
     background-size: cover;
 }
 #very-array-hero{
-background: url(resources/images/new-mexico/very-large-array/) center no-repeat;
+background: url(resources/images/new-mexico/very-large-array/Very_Large_Array\,_2012-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wheeler-nm-hero{
@@ -7568,9 +7576,9 @@ background: url(resources/images/new-mexico/taos/eanger-irving-couse-house-and-s
     background-size: cover;
 }
 #ernest-blumenschein-hero{
-background: url(resources/images/new-mexico/taos/eanger-irving-couse-house-and-studio/Couse_Studio\,_Taos_NM-1515.jpg) center no-repeat;
-    background-size: cover;
-}
+    background: url(resources/images/new-mexico/taos/e-l-blumenschein-house/Ernest_L._Blumenschein_House_050-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #kit-house-hero{
 background: url(resources/images/new-mexico/taos/kit-carson-house/Kit_Carson_Home\,_courtyard-1515.jpg) center no-repeat;
     background-size: cover;
@@ -17959,6 +17967,14 @@ background: url(resources/images/new-hampshire/portsmouth-nh/Portsmouth_NH_aeria
 background: url(resources/images/new-hampshire/rocky-gorge-kancamagus-highway/Kanc08_064-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#sabbaday-falls-hero{
+    background: url(resources/images/new-hampshire/sabbaday-falls/Sabbaday_Brook_213461975-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#strawbery-banke-hero{
+    background: url(resources/images/new-hampshire/portsmouth-nh/strawbery-banke/lossy-page1-2560px-Strawbery_Banke_Museum\,_Portsmouth\,_New_Hampshire_LCCN2011631411.tif-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #wolfeboro-hero{
 background: url(resources/images/new-hampshire/wolfeboro/Wolfeboro_Docks-3030.jpg) center no-repeat;
     background-size: cover;
@@ -18218,15 +18234,11 @@ background: url(resources/images/new-mexico/shiprock/Shiprock.snodgrass3-3030.jp
     background-size: cover;
 }
 #very-array-hero{
-background: url(resources/images/new-mexico/very-large-array/) center no-repeat;
+background: url(resources/images/new-mexico/very-large-array/Very_Large_Array\,_2012-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #wheeler-nm-hero{
 background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-3030.jpg) center no-repeat;
-    background-size: cover;
-}
-#new-mexico-hero{
-    background: url(resources/images/new-mexico/Las_Cruses\,_New_Mexico-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #carlsbad-caverns-hero{
@@ -18254,7 +18266,7 @@ background: url(resources/images/new-mexico/wheeler-peak-nm/Wheeler_Peak\,_NM-30
         background-size: cover;
     }
     #ernest-blumenschein-hero{
-    background: url(resources/images/new-mexico/taos/eanger-irving-couse-house-and-studio/Couse_Studio\,_Taos_NM-3030.jpg) center no-repeat;
+    background: url(resources/images/new-mexico/taos/e-l-blumenschein-house/Ernest_L._Blumenschein_House_050-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #kit-house-hero{
