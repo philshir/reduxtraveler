@@ -8923,6 +8923,10 @@ background: url(resources/images/rhode-island/newport-ri/brenton-point-state-par
 background: url(resources/images/rhode-island/newport-ri/chateau-sur-mer/Chateau-sur-Mer\,_Newport-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#eastons-beach-hero{
+    background: url(resources/images/rhode-island/newport-ri/eastons-beach/eastons-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #elms-newport-hero{
 background: url(resources/images/rhode-island/newport-ri/elms/The_Elms_Rhode_Island-1515.jpg) center no-repeat;
     background-size: cover;
@@ -8993,7 +8997,7 @@ background: url(resources/images/rhode-island/providence-ri/rhode-island-state-h
     background-size: cover;
 }
 #roger-willians-nm-hero{
-background: url(resources/images/rhode-island/providence-ri/Providence\,_RI_skyline_-1515.jpg) center no-repeat;
+background: url(resources/images/rhode-island/providence-ri/roger-williams-national-memorial/Roger\ Williams\ national\ park2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #waterfire-hero{
@@ -10606,6 +10610,10 @@ background: url(resources/images/vermont/stowe-vt/jeffrey-clayton-oY-il7J1vio-un
 }
 #stowe-mountain-resort-hero{
     background: url(resources/images/vermont/stowe-vt/stowe-mountain-resort/Stowe_vt_gondola_20060409-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ticonderoga-vt-hero{
+    background: url(resources/images/vermont/ticonderoga/Sidewheeler_Ticonderoga_bow-1000-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #trapp-family-lodge-hero{
@@ -19610,6 +19618,10 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
     background: url(resources/images/rhode-island/newport-ri/chateau-sur-mer/Chateau-sur-Mer\,_Newport-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #eastons-beach-hero{
+        background: url(resources/images/rhode-island/newport-ri/eastons-beach/eastons-beach-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #elms-newport-hero{
     background: url(resources/images/rhode-island/newport-ri/elms/The_Elms_Rhode_Island-3030.jpg) center no-repeat;
         background-size: cover;
@@ -19680,7 +19692,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #roger-willians-nm-hero{
-    background: url(resources/images/rhode-island/providence-ri/Providence\,_RI_skyline_-3030.jpg) center no-repeat;
+    background: url(resources/images/rhode-island/providence-ri/roger-williams-national-memorial/Roger\ Williams\ national\ park2-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #waterfire-hero{
@@ -20866,6 +20878,10 @@ background: url(resources/images/vermont/stowe-vt/jeffrey-clayton-oY-il7J1vio-un
 }
 #stowe-mountain-resort-hero{
     background: url(resources/images/vermont/stowe-vt/stowe-mountain-resort/Stowe_vt_gondola_20060409-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ticonderoga-vt-hero{
+    background: url(resources/images/vermont/ticonderoga/Sidewheeler_Ticonderoga_bow-1000-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #trapp-family-lodge-hero{
