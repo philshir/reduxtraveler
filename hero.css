@@ -1214,10 +1214,6 @@ background: url(resources/images/arkansas/lake-dardenelle-state-park/lake-darden
     background: url(resources/images/arkansas/garvan-gardens/garvan-gardens-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#little-rock-hero{
-    background: url(resources/images/arkansas/little-rock/big-dam-bridge/big-dam-bridge-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #big-dam-bridge-hero{
     background: url(resources/images/arkansas/little-rock/big-dam-bridge/big-dam-bridge-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1265,7 +1261,7 @@ background: url(resources/images/arkansas/lake-dardenelle-state-park/lake-darden
     background-size: cover;
 }
 #petit-jean-hero{
-    background: url(resources/images/arkansas/petit-jean-state-park/cedarCreek/petit-jean-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/arkansas/petit-jean-state-park/cedar-creek-trail/) center no-repeat;
     background-size: cover;
 }
 #bear-cave-hero{
@@ -11714,10 +11710,6 @@ only screen and (min-resolution: 2dppx)  and (min-width: 1300px) {
         background: url(resources/images/alabama/cheaha-state-park/cheaha-mountain-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #mobile-hero{
-        background: url(resources/images/alabama/mobile/uss-alabama-battleship-park/uss-alabama-battleship-park-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
     #battleship-memorial-park-hero{
         background: url(resources/images/alabama/mobile/uss-alabama-battleship-park/uss-alabama-battleship-park-3030.jpg) center no-repeat;
         background-size: cover;
@@ -15883,6 +15875,54 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
 }
 #fontainebleau{
     background: url(resources/images/florida/miami/fontainebleau/Miami_Beach_FL_Fontainebleau01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#pa-hay-okee-hero{
+    background: url(resources/images/florida/everglades-national-park/pa-hay-okee-overlook/Pa-hay-okee_Overlook-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#flamingo-everglades-hero{
+    background: url(resources/images/florida/everglades-national-park/flamingo-fl/Florida_Bay_at_Flamingo-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#shark-valley-tram-road-hero{
+    background: url(resources/images/florida/everglades-national-park/shark-valley/shark-valley-tram-road/Tram_at_shark_valley_Picture_223-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bobcat-boardwalk-hero{
+    background: url(resources/images/florida/everglades-national-park/shark-valley/bobcat-boardwalk/Bobcat_Boardwalk\,_NPSphoto_9250193112-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ten-thousand-islands-hero{
+    background: url(resources/images/florida/everglades-national-park/ten-thousand-islands/Ten_Thousand_Islands_National_Wildlife_Refuge_Panorama\,_Florida_2014-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ernest-hemmingway-house-key-west-hero{
+    background: url(resources/images/florida/key-west/ernest-hemmingway-house/Hemingway_House_Key_West_FL1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#southernmost-house-hero{
+    background: url(resources/images/florida/key-west/southernmost-house/Southern_Most_House_Key_West-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boca-chita-key-hero{
+    background: url(resources/images/florida/biscayne-national-park/boca-chita-key/Boca\ Chita\ Miami\ skyline\ NPS1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#miramar-beach-hero{
+    background: url(resources/images/florida/emerald-coast/miramar-beach/miramar-beach-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#henderson-beach-hero{
+    background: url(resources/images/florida/emerald-coast/henderson-beach-state-park/henderson-beach-state-park-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#okaloosa-island-hero{
+    background: url(resources/images/florida/emerald-coast/okaloosa-island/okaloosa-island-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#destin-boardwalk-hero{
+    background: url(resources/images/florida/destin/destin-harbor-boardwalk/destin-harbor-boardwalk-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
