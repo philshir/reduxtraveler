@@ -3938,7 +3938,7 @@ background: url(resources/images/florida/st-petersburg-fl/vinoy-park/Vinoy_Park-
     background-size: cover;
 }
 #busch-gardens-hero{
-background: url(resources/images/florida/tampa/busch-gardens/Kumba_at_Busch_Gardens_Tampa-1515.jpg) center no-repeat;
+background: url(resources/images/florida/tampa/busch-gardens/) center no-repeat;
     background-size: cover;
 }
 #columbia-restaurant-hero{
@@ -4058,10 +4058,6 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background: url(resources/images/florida/daytona-beach/daytona-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#everglades-hero{
-    background: url(resources/images/florida/everglades-national-park/anhinga-trail/everglades-hero-1515.jpg) center no-repeat;
-    background-size: cover;
-}
 #anhinga-hero{
     background: url(resources/images/florida/everglades-national-park/anhinga-trail/anhinga-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -4107,7 +4103,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #southernmost-point-hero{
-    background: url(resources/images/florida/key-west/southernmost-point/southernmost-point-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/southernmost-point/Southernmost_point_buoy\,_NE_view-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #tropic-cinema-hero{
@@ -4163,7 +4159,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #freedom-tower-hero{
-    background: url(resources/images/florida/miami/freedom-tower/freedom-tower-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/freedom-tower/Freedom_Tower_Miami_top\,_NE_view-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #holocaust-memorial-hero{
@@ -4188,7 +4184,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #espanola-way-hero{
-    background: url(resources/images/florida/miami/south-beach/espanola-way/espanola-way-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/south-beach/espanola-way/espanola-way-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #las-olas-hero{
@@ -4212,7 +4208,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #pensacola-hero{
-    background: url(resources/images/florida/pensacola-beach/pensacola_beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/florida/pensacola/-beach/pensacola_beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bridge-lions-hero{
@@ -4260,7 +4256,63 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #zero-milestone-hero{
-    background: url(resources/images/florida/st-augustine/zero-milestone/st-augustine-zero-milestone-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/zero-milestone/zero-milestone-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#johnson-beach-hero{
+    background: url(resources/images/florida/pensacola/johnson-beach-national-seashore/johnson-beach-national-seashore-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#fontainebleau{
+    background: url(resources/images/florida/miami/fontainebleau/Miami_Beach_FL_Fontainebleau01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#pa-hay-okee-hero{
+    background: url(resources/images/florida/everglades-national-park/pa-hay-okee-overlook/Pa-hay-okee_Overlook-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#flamingo-everglades-hero{
+    background: url(resources/images/florida/everglades-national-park/flamingo-fl/Florida_Bay_at_Flamingo-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#shark-valley-tram-road-hero{
+    background: url(resources/images/florida/everglades-national-park/shark-valley/shark-valley-tram-road/Tram_at_shark_valley_Picture_223-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bobcat-boardwalk-hero{
+    background: url(resources/images/florida/everglades-national-park/shark-valley/bobcat-boardwalk/Bobcat_Boardwalk\,_NPSphoto_9250193112-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ten-thousand-islands-hero{
+    background: url(resources/images/florida/everglades-national-park/ten-thousand-islands/Ten_Thousand_Islands_National_Wildlife_Refuge_Panorama\,_Florida_2014-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ernest-hemmingway-house-key-west-hero{
+    background: url(resources/images/florida/key-west/ernest-hemmingway-house/Hemingway_House_Key_West_FL1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#southernmost-house-hero{
+    background: url(resources/images/florida/key-west/southernmost-house/Southern_Most_House_Key_West-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#boca-chita-key-hero{
+    background: url(resources/images/florida/biscayne-national-park/boca-chita-key/Boca\ Chita\ Miami\ skyline\ NPS1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#miramar-beach-hero{
+    background: url(resources/images/florida/emerald-coast/miramar-beach/miramar-beach-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#henderson-beach-hero{
+    background: url(resources/images/florida/emerald-coast/henderson-beach-state-park/henderson-beach-state-park-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#okaloosa-island-hero{
+    background: url(resources/images/florida/emerald-coast/okaloosa-island/okaloosa-island-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#destin-boardwalk-hero{
+    background: url(resources/images/florida/destin/destin-harbor-boardwalk/destin-harbor-boardwalk-1515.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -15495,7 +15547,7 @@ background: url(resources/images/florida/st-petersburg-fl/vinoy-park/Vinoy_Park-
     background-size: cover;
 }
 #busch-gardens-hero{
-background: url(resources/images/florida/tampa/busch-gardens/Kumba_at_Busch_Gardens_Tampa-3030.jpg) center no-repeat;
+background: url(resources/images/florida/tampa/busch-gardens/) center no-repeat;
     background-size: cover;
 }
 #columbia-restaurant-hero{
@@ -15668,7 +15720,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #southernmost-point-hero{
-    background: url(resources/images/florida/key-west/southernmost-point/southernmost-point-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/key-west/southernmost-point/Southernmost_point_buoy\,_NE_view-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #tropic-cinema-hero{
@@ -15724,7 +15776,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #freedom-tower-hero{
-    background: url(resources/images/florida/miami/freedom-tower/freedom-tower-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/freedom-tower/Freedom_Tower_Miami_top\,_NE_view-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #holocaust-memorial-hero{
@@ -15749,7 +15801,7 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #espanola-way-hero{
-    background: url(resources/images/florida/miami/south-beach/espanola-way/espanola-way-hero-1136wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/miami/south-beach/espanola-way/espanola-way-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #las-olas-hero{
@@ -15822,7 +15874,15 @@ background: url(resources/images/florida/wakulla-springs-state-park/Wakulla_Spri
     background-size: cover;
 }
 #zero-milestone-hero{
-    background: url(resources/images/florida/st-augustine/zero-milestone/st-augustine-zero-milestone-hero-2273wPortrait.jpg) center no-repeat;
+    background: url(resources/images/florida/st-augustine/zero-milestone/zero-milestone-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#johnson-beach-hero{
+    background: url(resources/images/florida/pensacola/johnson-beach-national-seashore/johnson-beach-national-seashore-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#fontainebleau{
+    background: url(resources/images/florida/miami/fontainebleau/Miami_Beach_FL_Fontainebleau01-3030.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -21025,10 +21085,6 @@ background: url(resources/images/vermont/waterbury-vt/Waterbury_Amtrak_Station-3
 }
 #yorktown-hero{
     background: url(resources/images/virginia/yorktown/Yorktown\ Victory\ Monument\,\ Colonial\ National\ Historic\ Site\,\ Yorktown\,\ Virginia\ 14239327850-3030.jpg) bottom no-repeat;
-    background-size: cover;
-}
-#shenandoah-hero{
-    background: url(resources/images/virginia/shenandoah-national-park/shenandoah-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #bearfence-trail-hero{
