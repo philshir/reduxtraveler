@@ -533,7 +533,7 @@ background: url(resources/images/arizona/grand-falls-of-the-little-colorado-rive
     background-size: cover;
 }
 #aqua-hero{
-    background: url(resources/images/arizona/aqua-fria-national-monument/aqua-fria-nm-hero-1515h1136w.jpg) center no-repeat;
+    background: url(resources/images/arizona/aqua-fria-national-monument/aqua-fria-national-monument-1515.jpg) center no-repeat;
     background-size: cover;
 } 
 #apache-hero{
@@ -554,7 +554,7 @@ background: url(resources/images/arizona/grand-falls-of-the-little-colorado-rive
     background-size: cover;
 }
 #bisbee-mining-museum-hero{
-    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/bisbee/bisbee-mining-and-historical-museum/Bisbee_Mining_and_Historical_Museum_26-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #carr-peak-hero{
@@ -1000,6 +1000,14 @@ background-size: cover;
     background: url(resources/images/arizona/saguaro-national-park/saguaro-np-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#king-canyon-trail-hero{
+    background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/king-canyon-trail/Saguaro_-_Flickr_-_treegrow_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#signal-hill-hero{
+    background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/signal-hill-trail/Petroglyph_on_Signal_Hill_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #a-b-young-trail-hero{
     background: url(resources/images/arizona/sedona/a-b-young-trail/A.B._Young_Trail_38624102046-1515.jpg) center no-repeat;
     background-size: cover;
@@ -1008,15 +1016,50 @@ background-size: cover;
     background: url(resources/images/arizona/sedona/bear-mountain-trail/Bear_Mountain_Trail_No._54_34433373124-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
-
-
-
-
-
-
-
-
+#birthing-cave-hero{
+    background: url(resources/images/arizona/sedona/birthing-cave/jimmy-conover-r7Ox1NS3_tk-unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#boynton-canyon-hero{
+    background: url(resources/images/arizona/sedona/boynton-canyon-trail/Boynton_Canyon_Trail\,_Sedona\,_Arizona_-_panoramio_106-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#doe-mountain-hero{
+    background: url(resources/images/arizona/sedona/doe-mountain/Doe_Mountain_Trail_No._60_-_Flickr_-_Coconino_NF_Photography-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#hangover-trail-hero{
+    background: url(resources/images/arizona/sedona/hangover-trail/Mitten_Ridge_Cow_Pies_and_Hangover_Trails_-_51933523702-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+#keyhole-cave-hero{
+    background: url(resources/images/arizona/sedona/keyhole-cave/tom-gainor-1wQbtsNa5K8-unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#robbers-roost-sedona-hero{
+    background: url(resources/images/arizona/sedona/robbers-roost/Robbers_Roost_Panorama_11970091355-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#secret-canyon-trail-hero{
+    background: url(resources/images/arizona/sedona/secret-canyon-trail/Secret_Canyon_Trail\,_Sedona\,_Arizona_-_panoramio_35-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#soldier-pass-trail-hero{
+    background: url(resources/images/arizona/sedona/soldier-pass-trail/Devils_Kitchen_Sedona-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#subway-cave-sedona-hero{
+    background: url(resources/images/arizona/sedona/subway-cave/walther-nunez-z1Xrl5PIesQ-unsplash-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vultee-arch-hero{
+    background: url(resources/images/arizona/sedona/vultee-arch/Sterling_Pass_Trail_To_Vultee_Arch_Trail\,_Sedona\,_Arizona\,_Coconino_County_-_panoramio_112-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#wilson-mountain-hero{
+    background: url(resources/images/arizona/sedona/wilson-mountain/Wilson_Mountain_North_Trail\,_Sedona\,_Arizona\,_Coconino_County_-_panoramio_163-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 #cathedral-hero{
     background: url(resources/images/arizona/sedona/cathedral-rock/Cathedral_rock_sedona_arizona_3-1515.jpg) center no-repeat;
@@ -1087,7 +1130,7 @@ background-size: cover;
     background-size: cover;
 }
 #winslow-hero{
-    background: url(resources/images/arizona/winslow/winslow-hero-1136w.jpg) center no-repeat;
+    background: url(resources/images/arizona/winslow/winslow-az-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wupatki-hero{
@@ -12198,7 +12241,7 @@ background: url(resources/images/alaska/southeast-ak/wrangell/View_of_Wrangell_A
     background-size: cover;
 }
 #bisbee-mining-museum-hero{
-    background: url(resources/images/arizona/bisbee/Bisbee-Bisbee\ Main\ Street-2-3030.jpg) center no-repeat;
+    background: url(resources/images/arizona/bisbee/bisbee-mining-and-historical-museum/Bisbee_Mining_and_Historical_Museum_26-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #carr-peak-hero{
@@ -12352,7 +12395,7 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
     }
     
     #aqua-hero{
-        background: url(resources/images/arizona/aqua-fria-national-monument/agua-fria-nm-hero-3300h2475w.jpg) center no-repeat;
+        background: url(resources/images/arizona/aqua-fria-national-monument/aqua-fria-national-monument-3030.jpg) center no-repeat;
         background-size: cover;
     } 
     #chelly-hero{
@@ -12556,11 +12599,19 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
         background-size: cover;
     }
     #winslow-hero{
-        background: url(resources/images/arizona/winslow/winslow-hero-2273w.jpg) center no-repeat;
+        background: url(resources/images/arizona/winslow/winslow-az-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #saguaro-hero{
         background: url(resources/images/arizona/saguaro-national-park/saguaro-np-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #king-canyon-trail-hero{
+        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/king-canyon-trail/Saguaro_-_Flickr_-_treegrow_1-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #signal-hill-hero{
+        background: url(resources/images/arizona/saguaro-national-park/tucson-mountain-district/signal-hill-trail/Petroglyph_on_Signal_Hill_-_panoramio-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #glen-canyon-hero{
@@ -12658,6 +12709,60 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background: url(resources/images/arizona/monument-valley/monument-valley-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+
+#a-b-young-trail-hero{
+    background: url(resources/images/arizona/sedona/a-b-young-trail/A.B._Young_Trail_38624102046-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bear-mountain-trail-hero{
+    background: url(resources/images/arizona/sedona/bear-mountain-trail/Bear_Mountain_Trail_No._54_34433373124-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#birthing-cave-hero{
+    background: url(resources/images/arizona/sedona/birthing-cave/jimmy-conover-r7Ox1NS3_tk-unsplash-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#boynton-canyon-hero{
+    background: url(resources/images/arizona/sedona/boynton-canyon-trail/Boynton_Canyon_Trail\,_Sedona\,_Arizona_-_panoramio_106-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#doe-mountain-hero{
+    background: url(resources/images/arizona/sedona/doe-mountain/Doe_Mountain_Trail_No._60_-_Flickr_-_Coconino_NF_Photography-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#hangover-trail-hero{
+    background: url(resources/images/arizona/sedona/hangover-trail/Mitten_Ridge_Cow_Pies_and_Hangover_Trails_-_51933523702-3030.jpg) center no-repeat;
+    background-size: cover; 
+}
+#keyhole-cave-hero{
+    background: url(resources/images/arizona/sedona/keyhole-cave/tom-gainor-1wQbtsNa5K8-unsplash-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#robbers-roost-sedona-hero{
+    background: url(resources/images/arizona/sedona/robbers-roost/Robbers_Roost_Panorama_11970091355-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#secret-canyon-trail-hero{
+    background: url(resources/images/arizona/sedona/secret-canyon-trail/Secret_Canyon_Trail\,_Sedona\,_Arizona_-_panoramio_35-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#soldier-pass-trail-hero{
+    background: url(resources/images/arizona/sedona/soldier-pass-trail/Devils_Kitchen_Sedona-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#subway-cave-sedona-hero{
+    background: url(resources/images/arizona/sedona/subway-cave/walther-nunez-z1Xrl5PIesQ-unsplash-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vultee-arch-hero{
+    background: url(resources/images/arizona/sedona/vultee-arch/Sterling_Pass_Trail_To_Vultee_Arch_Trail\,_Sedona\,_Arizona\,_Coconino_County_-_panoramio_112-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#wilson-mountain-hero{
+    background: url(resources/images/arizona/sedona/wilson-mountain/Wilson_Mountain_North_Trail\,_Sedona\,_Arizona\,_Coconino_County_-_panoramio_163-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
     #cathedral-hero{
         background: url(resources/images/arizona/sedona/cathedral-rock/Cathedral_rock_sedona_arizona_3-3030.jpg) center no-repeat;
         background-size: cover;
