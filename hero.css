@@ -4928,7 +4928,7 @@ background: url(resources/images/hawaii/oahu/honolulu/Honolulu01-1515.jpg) no-re
     background-size: cover;
 }
 #honpa-hongwanji-hero{
-background: url(resources/images/hawaii/oahu/honolulu/honpa-hongwanji-mission-of-hawaii/Bishop_Museum_-_Bishop_Hall_22471203387-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/honolulu/honpa-hongwanji-mission-of-hawaii/Honpa\ Hongwanji\ Mission\ of\ Hawaii\ 2853901515-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #hoomaluhia-hero{
@@ -5004,7 +5004,7 @@ background: url(resources/images/hawaii/oahu/north-shore/sunset-beach/Pūpūkea_
     background-size: cover;
 }
 #turtle-bay-oahu-hero{
-background: url(resources/images/hawaii/oahu/north-shore/turtle-bay/Turtle_bay_resort\ 1-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/north-shore/turtle-bay/) no-repeat center;
     background-size: cover;
 }
 #waimea-bay-hero{
@@ -5028,7 +5028,7 @@ background: url(resources/images/hawaii/oahu/pearl-harbor/uss-arizona-memorial/U
     background-size: cover;
 }
 #uss-bowfin-hero{
-background: url(resources/images/hawaii/oahu/pearl-harbor/pearl-harbor-aviation-museum/Pearl_Harbor_Aviation_Museum\,_Museum\,_Pearl_Harbor\,_Honolulu\,_Oahu\,_Hawaii\,_USA_04-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/pearl-harbor/uss-bowfin/USS_Bowfin_SS_287_2640071250-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #uss-missouri-hero{
@@ -5042,6 +5042,10 @@ background: url(resources/images/hawaii/oahu/ko-olina/aulani-disney-resort/Aulan
 #ko-olina-beach-park-hero{
 background: url(resources/images/hawaii/oahu/ko-olina/ko-olina-beach-park/Ko_Olina_Lagoon_3-1515.jpg) no-repeat center;
     background-size: cover;
+}
+#ko-olina-resort-hero{
+    background: url(resources/images/hawaii/oahu/ko-olina/ko-olina-resort/Four_Seasons_-_Ko_Olina-1515.jpg) no-repeat center;
+    background-size: cover; 
 }
 #makaha-hero{
 background: url(resources/images/hawaii/oahu/ko-olina/makaha/Waianae-Makaha_Papaoneone_Beach_-_panoramio-1515.jpg) no-repeat center;
@@ -5111,10 +5115,6 @@ background: url(resources/images/hawaii/oahu/waikiki/waikiki-aquarium/Giant_clam
 background: url(resources/images/hawaii/oahu/waikiki/waikiki-shell/Aerial_view_of_Waikiki_Beach_and_Honolulu\,_Hawaii\,_Highsmith-1515.jpg) no-repeat center;
     background-size: cover;
 }
-#waikiki-hero{
-background: url(resources/images/hawaii/oahu/Aerial_view_of_Waikiki_Beach_and_Honolulu\,_Hawaii\,_Highsmith-1515.jpg) no-repeat center;
-    background-size: cover;
-}
 #byodo-in-hero{
 background: url(resources/images/hawaii/oahu/windward-side/byodo-in/Byodo-In_Temple_in_Hawaii-1515.jpg) no-repeat center;
     background-size: cover;
@@ -5124,7 +5124,7 @@ background: url(resources/images/hawaii/oahu/windward-side/heeia-state-park/Star
     background-size: cover;
 }
 #kailua-hero{
-background: url(resources/images/hawaii/oahu/windward-side/kailua/Starr-050418-0145-Rhizophora_mangle-habitat-Heeia-Oahu_24118537213-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/windward-side/kailua/Kailua\ Oahu-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #kaneohe-bay-hero{
@@ -5159,8 +5159,8 @@ background: url(resources/images/hawaii/oahu/windward-side/moku-o-loe/Coconut_Is
 background: url(resources/images/hawaii/oahu/windward-side/polynesian-cultural-center/Polynesian_Cultural_Center_-_Canoe_Pageant_14037013576-1515.jpg) no-repeat center;
     background-size: cover;
 }
-#oahu-hero{
-    background: url(resources/images/hawaii/oahu/windward-side/polynesian-cultural-center/Polynesian_Cultural_Center_-_Canoe_Pageant_14037013576-1515.jpg) no-repeat center;
+#waikiki-hero{
+    background: url(resources/images/hawaii/oahu/waikiki/Rainbow_Tower_Waikiki_16178632002-1515.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -16603,7 +16603,7 @@ background: url(resources/images/hawaii/oahu/honolulu/Honolulu01-3030.jpg) no-re
     background-size: cover;
 }
 #honpa-hongwanji-hero{
-background: url(resources/images/hawaii/oahu/honolulu/honpa-hongwanji-mission-of-hawaii/Bishop_Museum_-_Bishop_Hall_22471203387-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/honolulu/honpa-hongwanji-mission-of-hawaii/Honpa\ Hongwanji\ Mission\ of\ Hawaii\ 2853901515-3030.jpg) no-repeat center;
     background-size: cover;
 }
 #hoomaluhia-hero{
@@ -16679,7 +16679,7 @@ background: url(resources/images/hawaii/oahu/north-shore/sunset-beach/Pūpūkea_
     background-size: cover;
 }
 #turtle-bay-oahu-hero{
-background: url(resources/images/hawaii/oahu/north-shore/turtle-bay/Turtle_bay_resort\ 1-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/north-shore/turtle-bay/) no-repeat center;
     background-size: cover;
 }
 #waimea-bay-hero{
@@ -16703,7 +16703,7 @@ background: url(resources/images/hawaii/oahu/pearl-harbor/uss-arizona-memorial/U
     background-size: cover;
 }
 #uss-bowfin-hero{
-background: url(resources/images/hawaii/oahu/pearl-harbor/pearl-harbor-aviation-museum/Pearl_Harbor_Aviation_Museum\,_Museum\,_Pearl_Harbor\,_Honolulu\,_Oahu\,_Hawaii\,_USA_04-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/pearl-harbor/uss-bowfin/USS_Bowfin_SS_287_2640071250-3030.jpg) no-repeat center;
     background-size: cover;
 }
 #uss-missouri-hero{
@@ -16717,6 +16717,10 @@ background: url(resources/images/hawaii/oahu/ko-olina/aulani-disney-resort/Aulan
 #ko-olina-beach-park-hero{
 background: url(resources/images/hawaii/oahu/ko-olina/ko-olina-beach-park/Ko_Olina_Lagoon_3-3030.jpg) no-repeat center;
     background-size: cover;
+}
+#ko-olina-resort-hero{
+    background: url(resources/images/hawaii/oahu/ko-olina/ko-olina-resort/Four_Seasons_-_Ko_Olina-3030.jpg) no-repeat center;
+    background-size: cover; 
 }
 #makaha-hero{
 background: url(resources/images/hawaii/oahu/ko-olina/makaha/Waianae-Makaha_Papaoneone_Beach_-_panoramio-3030.jpg) no-repeat center;
@@ -16786,10 +16790,7 @@ background: url(resources/images/hawaii/oahu/waikiki/waikiki-aquarium/Giant_clam
 background: url(resources/images/hawaii/oahu/waikiki/waikiki-shell/Aerial_view_of_Waikiki_Beach_and_Honolulu\,_Hawaii\,_Highsmith-3030.jpg) no-repeat center;
     background-size: cover;
 }
-#waikiki-hero{
-background: url(resources/images/hawaii/oahu/Aerial_view_of_Waikiki_Beach_and_Honolulu\,_Hawaii\,_Highsmith-3030.jpg) no-repeat center;
-    background-size: cover;
-}
+
 #byodo-in-hero{
 background: url(resources/images/hawaii/oahu/windward-side/byodo-in/Byodo-In_Temple_in_Hawaii-3030.jpg) no-repeat center;
     background-size: cover;
@@ -16799,7 +16800,7 @@ background: url(resources/images/hawaii/oahu/windward-side/heeia-state-park/Star
     background-size: cover;
 }
 #kailua-hero{
-background: url(resources/images/hawaii/oahu/windward-side/kailua/Starr-050418-0145-Rhizophora_mangle-habitat-Heeia-Oahu_24118537213-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/oahu/windward-side/kailua/Kailua\ Oahu-3030.jpg) no-repeat center;
     background-size: cover;
 }
 #kaneohe-bay-hero{
@@ -16834,8 +16835,8 @@ background: url(resources/images/hawaii/oahu/windward-side/moku-o-loe/Coconut_Is
 background: url(resources/images/hawaii/oahu/windward-side/polynesian-cultural-center/Polynesian_Cultural_Center_-_Canoe_Pageant_14037013576-3030.jpg) no-repeat center;
     background-size: cover;
 }
-#oahu-hero{
-    background: url(resources/images/hawaii/oahu/windward-side/polynesian-cultural-center/Polynesian_Cultural_Center_-_Canoe_Pageant_14037013576-3030.jpg) no-repeat center;
+#waikiki-hero{
+    background: url(resources/images/hawaii/oahu/waikiki/Rainbow_Tower_Waikiki_16178632002-3030.jpg) no-repeat center;
     background-size: cover;
 }
 
