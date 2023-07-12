@@ -4517,7 +4517,7 @@ background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-natio
     background-size: cover;
 }
 #puu-o-o-hero{
-background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-national-park/puu-o-o/USGS_Kīlauea_multimediaFile-1936-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-national-park/puu-o-o/Aerial\ view\ of\ Puʻuʻōʻō\ in\ December\ 2005\ 0bf5567e-93ea-4759-ae49-c3f381f6d573-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #volcano-house-hero{
@@ -4529,7 +4529,7 @@ background: url(resources/images/hawaii/hawaii-big-island/hilo/) no-repeat cente
     background-size: cover;
 } */
 #hamakua-hero{
-background: url(resources/images/hawaii/hawaii-big-island/hamakua/2021-10-09_08_41_16_View_west_along_Hawaii_State_Route_200_\(Saddle_Road\)_near_milepost_39.5_in_Hamakua_District\,_Hawaii_County\,_Hawaii-1000.jpg) no-repeat center;
+background: url(resources/images/hawaii/hawaii-big-island/hamakua/2021-10-09_08_40_55_View_south_towards_Mauna_Loa_from_Hawaii_State_Route_200_Saddle_Road_near_milepost_39.5_in_Hamakua_District\,_Hawaii_County\,_Hawaii-3030.jpg) no-repeat center;
     background-size: cover;
 }
 #hilo-hi-hero{
@@ -4621,7 +4621,7 @@ background: url(resources/images/hawaii/hawaii-big-island/kona/keauhou-bay/Keauh
     background-size: cover;
 }
 #kona-coast-hero{
-background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-national-park/chain-of-craters-road/Chain_of_Craters_Road-1515.jpg) no-repeat center;
+background: url(resources/images/hawaii/hawaii-big-island/) no-repeat center;
     background-size: cover;
 }
 #kona-coffee-hero{
@@ -4646,6 +4646,14 @@ background: url(resources/images/hawaii/hawaii-big-island/kona/st-benedicts-cath
 }
 #akaka-falls-hero{
 background: url(resources/images/hawaii/hawaii-big-island/akaka-falls-state-park/Akaka_Falls\,_which_drops_442_feet_straight_down._28791810835-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#punaluu-black-sand-beach-hero{
+    background: url(resources/images/hawaii/hawaii-big-island/punaluu-black-sand-beach/2021-10-09_16_39_55_View_northeast_along_Punaluʻu_Black_Sand_Beach_in_Punaluʻu\,_Hawaii_County\,_Hawaii-1515.jpg) no-repeat center;
+    background-size: cover;
+}
+#papakolea-beach-hero{
+    background: url(resources/images/hawaii/hawaii-big-island/kau/papakolea-beach/Book-Hawaii-Vtorov-282-1515.jpg) no-repeat center;
     background-size: cover;
 }
 
@@ -16184,7 +16192,7 @@ background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-natio
     background-size: cover;
 }
 #puu-o-o-hero{
-background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-national-park/puu-o-o/USGS_Kīlauea_multimediaFile-1936-3030.jpg) no-repeat center;
+background: url(resources/images/hawaii/hawaii-big-island/hawaii-volcanoes-national-park/puu-o-o/Aerial\ view\ of\ Puʻuʻōʻō\ in\ December\ 2005\ 0bf5567e-93ea-4759-ae49-c3f381f6d573-3030.jpg) no-repeat center;
     background-size: cover;
 }
 #volcano-house-hero{
@@ -16196,7 +16204,7 @@ background: url(resources/images/hawaii/hawaii-big-island/hilo/) no-repeat cente
     background-size: cover;
 } */
 #hamakua-hero{
-background: url(resources/images/hawaii/hawaii-big-island/hamakua/2021-10-09_08_41_16_View_west_along_Hawaii_State_Route_200_\(Saddle_Road\)_near_milepost_39.5_in_Hamakua_District\,_Hawaii_County\,_Hawaii-1000.jpg) no-repeat center;
+background: url(resources/images/hawaii/hawaii-big-island/hamakua/2021-10-09_08_40_55_View_south_towards_Mauna_Loa_from_Hawaii_State_Route_200_Saddle_Road_near_milepost_39.5_in_Hamakua_District\,_Hawaii_County\,_Hawaii-1515.jpg) no-repeat center;
     background-size: cover;
 }
 #hilo-hi-hero{
@@ -16313,6 +16321,14 @@ background: url(resources/images/hawaii/hawaii-big-island/kona/st-benedicts-cath
 }
 #akaka-falls-hero{
 background: url(resources/images/hawaii/hawaii-big-island/akaka-falls-state-park/Akaka_Falls\,_which_drops_442_feet_straight_down._28791810835-3030.jpg) no-repeat center;
+    background-size: cover;
+}
+#punaluu-black-sand-beach-hero{
+    background: url(resources/images/hawaii/hawaii-big-island/punaluu-black-sand-beach/2021-10-09_16_39_55_View_northeast_along_Punaluʻu_Black_Sand_Beach_in_Punaluʻu\,_Hawaii_County\,_Hawaii-3030.jpg) no-repeat center;
+    background-size: cover;
+}
+#papakolea-beach-hero{
+    background: url(resources/images/hawaii/hawaii-big-island/kau/papakolea-beach/Book-Hawaii-Vtorov-282-3030.jpg) no-repeat center;
     background-size: cover;
 }
 
