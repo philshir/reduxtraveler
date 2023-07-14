@@ -5784,11 +5784,11 @@ background: url(resources/images/louisiana/new-orleans/mardi-gras/zulu-parade/Zu
     background-size: cover;
 }
 #pat-obriens-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/pat-obriens-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/Pat_OBriens\,_New_Orleans-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #riverwalk-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-1515.jpg) bottom no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/Riverwalk_Shopping_Mall_Archway_2012-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #spanish-plaza-hero{
@@ -5807,10 +5807,15 @@ background: url(resources/images/louisiana/new-orleans/mardi-gras/zulu-parade/Zu
     background: url(resources/images/louisiana/new-orleans/french-quarter/woldenberg-park/woldenberg-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#st-louis-cemetery-hero{
-    background: url(resources/images/louisiana/new-orleans/st-louis-cemetery/Saint_Louis_Cemetery_1_New_Orleans_1_Nov_2017_11-1515.jpg) center no-repeat;
-    background-size: cover;
+#commanders-palace-hero{
+    background: url(resources/images/louisiana/new-orleans/commanders-palace/Commanders_Palace_-_New_Orleans-1515.jpg) center no-repeat;
+    background-size: cover; 
 }
+#loyola-no-hero{
+    background: url(resources/images/louisiana/new-orleans/loyola-university/loyola-university-hero-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
+
 /* --------------------------Maine---------------------------------------- */
 #acadia-np-hero{
     background: url(resources/images/maine/acadia-national-park/Acadia_National_Park\,_ME_16243110897-1000-1515.jpg) center no-repeat;
@@ -20062,7 +20067,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #antoines-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/antoines-restaurant-hero-2273wPortrait.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/antoines-restaurant/) center no-repeat;
         background-size: cover;
         background-position-y: -500px;
     }
@@ -20087,11 +20092,11 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #pat-obriens-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/pat-obriens-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/pat-obriens/Pat_OBriens\,_New_Orleans-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #riverwalk-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/riverwalk-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/french-quarter/riverwalk/Riverwalk_Shopping_Mall_Archway_2012-3030.jpg) center no-repeat;
         background-size: cover;
         background-position: bottom;
     }
@@ -20111,9 +20116,13 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background: url(resources/images/louisiana/new-orleans/french-quarter/woldenberg-park/woldenberg-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #st-louis-cemetery-hero{
-        background: url(resources/images/louisiana/new-orleans/french-quarter/st-louis-cathedral/st-louis-cathedral-hero-3030.jpg) center no-repeat;
-        background-size: cover;
+    #commanders-palace-hero{
+        background: url(resources/images/louisiana/new-orleans/commanders-palace/Commanders_Palace_-_New_Orleans-3030.jpg) center no-repeat;
+        background-size: cover; 
+    }
+    #loyola-no-hero{
+        background: url(resources/images/louisiana/new-orleans/loyola-university/loyola-university-hero-3030.jpg) center no-repeat;
+        background-size: cover; 
     }
 
     /* --------------------------Maine---------------------------------------- */
