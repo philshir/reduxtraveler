@@ -5815,6 +5815,10 @@ background: url(resources/images/louisiana/new-orleans/mardi-gras/zulu-parade/Zu
     background: url(resources/images/louisiana/new-orleans/loyola-university/loyola-university-hero-1515.jpg) center no-repeat;
     background-size: cover; 
 }
+#bienville-hero{
+    background: url(resources/images/louisiana/new-orleans/french-quarter/bienville-place/bienville-place-hero-1515.jpg) center no-repeat;
+    background-size: cover; 
+}
 
 /* --------------------------Maine---------------------------------------- */
 #acadia-np-hero{
@@ -9559,7 +9563,7 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
     background-size: cover;
 }
 #chimney-tops-hero{
-    background: url(resources/images/tennessee/great-smoky-mountains-national-park/chimney-tops/chimney-tops-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/tennessee/great-smoky-mountains-national-park/chimney-tops/Chimney_Tops_-_panoramio_2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #clingmans-hero{
@@ -20124,6 +20128,10 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background: url(resources/images/louisiana/new-orleans/loyola-university/loyola-university-hero-3030.jpg) center no-repeat;
         background-size: cover; 
     }
+    #bienville-hero{
+        background: url(resources/images/louisiana/new-orleans/french-quarter/bienville-place/bienville-place-hero-3030.jpg) center no-repeat;
+        background-size: cover; 
+    }
 
     /* --------------------------Maine---------------------------------------- */
     #acadia-np-hero{
@@ -22371,7 +22379,7 @@ background: url(resources/images/tennessee/pigeon-forge/Hollywood_Wax_Museum_-_P
     background-size: cover;
 }
 #chimney-tops-hero{
-    background: url(resources/images/tennessee/great-smoky-mountains-national-park/chimney-tops/chimney-tops-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/tennessee/great-smoky-mountains-national-park/chimney-tops/Chimney_Tops_-_panoramio_2-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #clingmans-hero{
