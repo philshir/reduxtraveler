@@ -2055,6 +2055,10 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background: url(resources/images/california/los-angeles/broad/broad-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#inter-continental-la-hero{
+    background: url(resources/images/california/los-angeles/inter-continental-los-angeles-downtown/Inter-Continental_Hotel_Los_Angeles_36201261694-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #chinatown-la-hero{
 background: url(resources/images/california/los-angeles/chinatown-los-angeles/chinatown-la-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2691,7 +2695,7 @@ background: url(resources/images/california/san-francisco/pier-39/Pier_39_in_202
     background-size: cover;
 }
 #san-francisco-cable-car-hero{
-background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/San_Francisco_California\,_USA\,_Cable_Car_--_2012_--_4180-1515.jpg) center no-repeat;
+background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/) center no-repeat;
     background-size: cover;
 }
 #san-francisco-maritime-park-hero{
@@ -13800,6 +13804,10 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/los-angeles/broad/broad-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #inter-continental-la-hero{
+        background: url(resources/images/california/los-angeles/inter-continental-los-angeles-downtown/Inter-Continental_Hotel_Los_Angeles_36201261694-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     
 #chinatown-la-hero{
     background: url(resources/images/california/los-angeles/chinatown-los-angeles/chinatown-la-hero-3030.jpg) center no-repeat;
@@ -14156,7 +14164,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #balboa-hero{
-        background: url(resources/images/california/san-diego/balboa-park/san-diego-balboa-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #museum-us-hero{
