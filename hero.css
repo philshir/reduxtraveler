@@ -6145,8 +6145,16 @@ background: url(resources/images/massachusetts/boston/fenway-park/131023-F-PR861
     background: url(resources/images/massachusetts/boston/boston-central-library/Boston_Public_Librarys_McKim_Building_at_Night-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#castle-island-hero{
+    background: url(resources/images/massachusetts/boston/castle-island/Castle_Island_Park\,_Boston_493367_24662597450-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #charles-meeting-hero{
     background: url(resources/images/massachusetts/boston/charles-street-meeting-house/Charles_Street_Meeting_House_Boston_-_DSC00167-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#church-covenant-hero{
+    background: url(resources/images/massachusetts/boston/church-of-the-covenant/WTB_Church_of_the_Covenant_2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #commonwealth-ave-hero{
@@ -6203,7 +6211,7 @@ background: url(resources/images/massachusetts/harvard-university/harvard-univer
     background-size: cover;
 }
 #old-city-hall-boston-hero{
-background: url(resources/images/massachusetts/boston/old-city-hall/) center no-repeat;
+background: url(resources/images/massachusetts/boston/old-city-hall/Horsethief_Butte_at_Columbia_Hills_State_Park_in_Washington_2-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #old-south-church-hero{
@@ -6262,6 +6270,10 @@ background: url(resources/images/massachusetts/cape-cod/hyannis/2011-hyannis-por
 background: url(resources/images/massachusetts/cape-cod/hyannis/john-f-kennedy-hyannis-museum/John_F._Kennedy_Hyannis_Museum\,_Hyannis_MA-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#marconi-beach-hero{
+    background: url(resources/images/massachusetts/cape-cod/marconi-beach/Marconi_Beach-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #nauset-light-hero{
 background: url(resources/images/massachusetts/cape-cod/nauset-light/Nauset_Light_2061563170-1515.jpg) center no-repeat;
     background-size: cover;
@@ -6276,6 +6288,10 @@ background: url(resources/images/massachusetts/cape-cod/sandwich-ma/sandwich-gla
 }
 #sandwich-ma-hero{
 background: url(resources/images/massachusetts/cape-cod/sandwich-ma/Cape_Cod_Central_Railroad_No_._1501-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#town-hall-sandwich-hero{
+    background: url(resources/images/massachusetts/cape-cod/sandwich-ma/town-hall-square-historic-district/Sandwich_Massachusetts_Town_Hall-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #scargo-tower-hero{
@@ -6300,6 +6316,10 @@ background: url(resources/images/massachusetts/marthas-vineyard/edgartown/Edgart
 }
 #edgartown-light-hero{
     background: url(resources/images/massachusetts/marthas-vineyard/edgartown/edgartown-harbor-light/edgartown-harbor-light-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mytoi-hero{
+    background: url(resources/images/massachusetts/marthas-vineyard/mytoi/Mytoi_Gardens_path-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #oak-bluffs-hero{
@@ -20462,8 +20482,16 @@ background: url(resources/images/massachusetts/boston/fenway-park/131023-F-PR861
     background: url(resources/images/massachusetts/boston/boston-central-library/Boston_Public_Librarys_McKim_Building_at_Night-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#castle-island-hero{
+    background: url(resources/images/massachusetts/boston/castle-island/Castle_Island_Park\,_Boston_493367_24662597450-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #charles-meeting-hero{
     background: url(resources/images/massachusetts/boston/charles-street-meeting-house/Charles_Street_Meeting_House_Boston_-_DSC00167-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#church-covenant-hero{
+    background: url(resources/images/massachusetts/boston/church-of-the-covenant/WTB_Church_of_the_Covenant_2-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #commonwealth-ave-hero{
@@ -20578,6 +20606,10 @@ background: url(resources/images/massachusetts/cape-cod/hyannis/2011-hyannis-por
 background: url(resources/images/massachusetts/cape-cod/hyannis/john-f-kennedy-hyannis-museum/John_F._Kennedy_Hyannis_Museum\,_Hyannis_MA-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#marconi-beach-hero{
+    background: url(resources/images/massachusetts/cape-cod/marconi-beach/Marconi_Beach-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #nauset-light-hero{
 background: url(resources/images/massachusetts/cape-cod/nauset-light/Nauset_Light_2061563170-3030.jpg) center no-repeat;
     background-size: cover;
@@ -20592,6 +20624,10 @@ background: url(resources/images/massachusetts/cape-cod/sandwich-ma/sandwich-gla
 }
 #sandwich-ma-hero{
 background: url(resources/images/massachusetts/cape-cod/sandwich-ma/Cape_Cod_Central_Railroad_No_._1501-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#town-hall-sandwich-hero{
+    background: url(resources/images/massachusetts/cape-cod/sandwich-ma/town-hall-square-historic-district/Sandwich_Massachusetts_Town_Hall-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #scargo-tower-hero{
@@ -20616,6 +20652,10 @@ background: url(resources/images/massachusetts/marthas-vineyard/edgartown/Edgart
 }
 #edgartown-light-hero{
     background: url(resources/images/massachusetts/marthas-vineyard/edgartown/edgartown-harbor-light/edgartown-harbor-light-hero-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mytoi-hero{
+    background: url(resources/images/massachusetts/marthas-vineyard/mytoi/Mytoi_Gardens_path-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #oak-bluffs-hero{
