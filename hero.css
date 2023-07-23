@@ -9091,10 +9091,10 @@ background: url(resources/images/rhode-island/newport-ri/rosecliff/rosecliff-her
 background: url(resources/images/rhode-island/newport-ri/rough-point/Rough_Point_-_Cliff_Walk\,_Newport\,_Rhode_Island\,_USA_02-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #seaview-terrace-hero{
-background: url(resources/images/rhode-island/newport-ri/s) center no-repeat;
+#seaview-terrace-hero{
+background: url(resources/images/rhode-island/newport-ri/seaview-terrace/New_england_-castle-mark_jenney-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #vernon-court-hero{
 background: url(resources/images/rhode-island/newport-ri/vernon-court/Vernon_Court_Mansion\,_Newport\,_RI-1515.jpg) center no-repeat;
     background-size: cover;
@@ -19917,10 +19917,10 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
     background: url(resources/images/rhode-island/newport-ri/rough-point/Rough_Point_-_Cliff_Walk\,_Newport\,_Rhode_Island\,_USA_02-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    /* #seaview-terrace-hero{
-    background: url(resources/images/rhode-island/newport-ri/s) center no-repeat;
+    #seaview-terrace-hero{
+    background: url(resources/images/rhode-island/newport-ri/seaview-terrace/New_england_-castle-mark_jenney-3030.jpg) center no-repeat;
         background-size: cover;
-    } */
+    }
     #vernon-court-hero{
     background: url(resources/images/rhode-island/newport-ri/vernon-court/Vernon_Court_Mansion\,_Newport\,_RI-3030.jpg) center no-repeat;
         background-size: cover;
@@ -21885,7 +21885,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     
     /* -----------------------------Wyoming -----------------------*/
     #wyoming-hero{
-        background: url(resources/images/wyoming/grand-teton-national-park/wyoming-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/Landscape_of_Jackson_Hole\,_October_2010-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #morning-glory-pool-hero{
