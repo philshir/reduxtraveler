@@ -11664,10 +11664,10 @@ background: url(resources/images/wyoming/yellowstone-national-park/lamar-valley/
 background: url(resources/images/wyoming/yellowstone-national-park/tower-fall/Tower_Fall_28883678363-1515.jpg) center no-repeat;
     background-size: cover;
 }
-/* #fountain-paint-pots-hero{
-background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/) center no-repeat;
+#fountain-paint-pots-hero{
+background: url(resources/images/wyoming/yellowstone-national-park/fountain-paint-pot/Fountain_Paint_Pot_25358005177-1515.jpg) center no-repeat;
     background-size: cover;
-} */
+}
 #yellowstone-lower-basin-hero{
     background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-1515.jpg) center no-repeat;
         background-size: cover;
@@ -22084,10 +22084,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background: url(resources/images/wyoming/yellowstone-national-park/tower-fall/Tower_Fall_28883678363-3030.jpg) center no-repeat;
             background-size: cover;
         }
-        /* #fountain-paint-pots-hero{
-        background: url(resources/images/wyoming/yellowstone-national-park/blacktail-deer-plateau/) center no-repeat;
-            background-size: cover;
-        } */
+        #fountain-paint-pots-hero{
+            background: url(resources/images/wyoming/yellowstone-national-park/fountain-paint-pot/Fountain_Paint_Pot_25358005177-3030.jpg) center no-repeat;
+                background-size: cover;
+            }
         #yellowstone-lower-basin-hero{
             background: url(resources/images/wyoming/yellowstone-national-park/lower-geyser-basin/fountain-group/lower-basin-clepsydra-geyser-hero-3030.jpg) center no-repeat;
                 background-size: cover;
@@ -22147,6 +22147,10 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         }
         #great-fountain-geyser-hero{
         background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/great-fountain-geyser/Great_Fountain_Geyser_33757684886-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #black-sand-basin-hero{
+            background: url(resources/images/wyoming/yellowstone-national-park/black-sand-basin/) center no-repeat;
             background-size: cover;
         }
         #opalescent-pool-hero{
