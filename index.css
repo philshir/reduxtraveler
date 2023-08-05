@@ -947,7 +947,7 @@ font-size: 8px;
     text-align: center
 }
 .highlights {
-  font-family: Tahoma, sans-serif !important;
+  font-family: "AvenirLTStd-Black", Verdana, sans-serif !important;
   font-size: 13px !important;
   font-weight: 800;
   padding: 10px 20px 20px;
@@ -1225,7 +1225,12 @@ body {
   color: black;
 }
 .star {
-  color: #c34721;
+  color: rgb(214, 214, 0);
+  font-size: 20px;
+}
+.rating {
+  color: #4d4d4d;
+  font-weight: 700;
 }
 .nostar {
   color: #f4d8d8;
@@ -1374,7 +1379,7 @@ text-align: center;
   text-align: center;
   font-size: 20px;
   font-weight: 700;
-  font-family: Arial, Helvetica, sans-serif !important;
+  font-family: 'century gothic', Helvetica, sans-serif !important;
   margin: 20px 0 0;
 }
 .sub-category {
@@ -1470,6 +1475,7 @@ text-decoration: underline;
   color: navy;
   text-align: center;
   font-weight: 700;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
 }
 .pikes-table{
   font-size: 10px;
@@ -1925,9 +1931,9 @@ article a {
 .start {
   display: none;
 }
-.star {
+/* .star {
   font-size: 18px;
-}
+} */
 .caption {
   font-size: 8px!important;
   
@@ -2282,6 +2288,7 @@ margin: 5px;
     color: black;
     font-size: 12px;
     font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .menu-list li {
     padding: 6px;
