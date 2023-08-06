@@ -493,11 +493,14 @@ article {
 .slideshow-container h2 {
   font-size: 26px;
     text-align: center;
-    margin: 28px 0 14px;
-    color: rgb(59 82 39);
+    margin: 28px 0 0;
+    color: white;
+    padding: 10px;
+    border: solid 3px white;
 }
 .slideshow-container {
   padding-bottom: 60px;
+  position: relative;
 }
 
 text.st1{
@@ -838,7 +841,7 @@ tspan.st10.s11{
 .img-cards-intinerary-portrait {
   position: relative;
   overflow: hidden;
-  margin: 5px;
+  margin: 3px;
   text-align: center;
 }
 
@@ -1012,11 +1015,13 @@ footer ul li{
   color: white;
   font-family: Arial, "Cambria Math", sans-serif;
   position: absolute;
-  bottom: 5%;
+  bottom: 0;
   transition: 0.4s ease-in;
   text-align: center;
   width: 100%;
   z-index: 2;
+  padding: 5px 0;
+  background-color: rgb(0,0,0,0.5);
 }
 .itinerary-text span {
   font-family: 'Segoe Script', 'Bradley Hand', 'Brush Script MT';
@@ -1078,11 +1083,51 @@ footer ul li{
 .mySlides img {
   width: 100%;
 }
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  z-index: 4;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
 .dot-container {
   margin: 5px;
   width: 100%;
   display:flex;
   justify-content: center;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
 }
 
 /* individual page content */
@@ -1426,7 +1471,6 @@ margin: 0 0 20px;
 margin-bottom: 40px;
 }
 .itineraries h4 {
-  margin: 20px 0 0 0;
   font-size: 16px;
 }
 
@@ -1480,6 +1524,29 @@ text-decoration: underline;
 .pikes-table{
   font-size: 10px;
 }
+
+.landing-page-button {
+  padding: 4px 20px;
+    margin: 2px;
+    border: solid 2px #dabb26;
+    text-align: center;
+    color: #dabb26;
+    font-weight: 500;
+}
+.landing-page-button a {
+    color: #dabb26;
+    text-decoration: none;
+}
+
+.landing-page-itinerary {
+  font-size: 40px;
+  font-weight: 900;
+  text-align: left;
+  color: black;
+  font-family: tahoma;
+}
+
+
 
 @keyframes clear {
   to {
@@ -1602,7 +1669,7 @@ text-decoration: underline;
     margin-bottom: 50px;
   }
   .map-main {
-    margin: 70px 0 50px;
+    margin: 35px 0 50px;
   }
   .map-main h2 {
     font-size: 36px;
@@ -1630,7 +1697,8 @@ text-decoration: underline;
   }
   .slideshow-container h2 {
     font-size: 36px;
-    margin: 90px 0 35px;
+    margin: 44px 0 0;
+
   }
 .main-article img {
   width: 400px;
@@ -1817,7 +1885,7 @@ margin: 25px;
   margin: 10px 0;
 }
 .border {
-  font-size: 20px;
+  font-size: 16px;
 }
 .state-description {
   font-size: 18px;
@@ -2023,8 +2091,7 @@ font-size: 36px;
     margin: 10px 10px 28px 0;
   }
   .itineraries h4 {
-    margin: 0;
-    font-size: 22px;
+    font-size: 36px;
   }
   .info-itinerary {
     margin: 0;
