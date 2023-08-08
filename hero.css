@@ -2938,6 +2938,10 @@ background: url(resources/images/california/walker-canyon/walker-canyon-hero-151
     background-size: cover;
 }
 
+#big-trees-trail-hero {
+    background: url(resources/images/california/sequoia-national-park/big-trees-trail/Sierra_redwoods\,_Big_Trees_Trail\,_Sequoia_National_Park-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #moro-hero{
     background: url(resources/images/california/sequoia-national-park/moro-rock/moro-rock-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -14697,6 +14701,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     
+    #big-trees-trail-hero {
+        background: url(resources/images/california/sequoia-national-park/big-trees-trail/Sierra_redwoods\,_Big_Trees_Trail\,_Sequoia_National_Park-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
     #moro-hero{
         background: url(resources/images/california/sequoia-national-park/moro-rock/moro-rock-hero-3030.jpg) center no-repeat;
         background-size: cover;
