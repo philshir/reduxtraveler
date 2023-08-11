@@ -190,7 +190,7 @@ a.itin-menu {
 }
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 14px!important;
   font-weight: 500;
 }
 .trail-description p:first-child {
@@ -1276,6 +1276,7 @@ body {
 .rating {
   color: #4d4d4d;
   font-weight: 700;
+  font-size: 16px;
 }
 .nostar {
   color: #f4d8d8;
@@ -1398,7 +1399,7 @@ text-align: center;
   font-family: Arial, sans-serif;
 }
 .featured.navy{
-  margin-top: 60px;
+  margin-top: 34px;
 }
 
 .featured p {
@@ -1420,7 +1421,6 @@ text-align: center;
   margin: 0;
 }
 .navy {
-  color: navy;
   text-align: center;
   font-size: 20px;
   font-weight: 700;
@@ -1439,7 +1439,7 @@ h4.navy {
   text-align: center;
 }
 .article-grid {
-  margin: 0 0 50px;
+  margin: 50px 0;
 
 }
 .article-grid figure {
@@ -1960,9 +1960,6 @@ article a {
   .trail-img {
     margin: 0 15px 0 0;
   }
-  .trail-description{
-    margin: 10px;
-  }
   .trail-description p:first-child {
     font-size: 16px!important;
     font-weight: 600!important;
@@ -2478,6 +2475,9 @@ font-weight: 600;
 .logo-two h3 {
   font-size: 22px;
   font-weight: 600;
+  }
+  .featured.navy{
+    margin-top: 50px;
   }
 
   /* Where was that picture taken */
