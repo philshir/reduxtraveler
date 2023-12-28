@@ -77,3 +77,25 @@ function showSlides(n) {
 } */
 
 
+/* Overview Accordion */
+const acc = document.querySelector(".overview-button");
+console.log(acc);
+  acc.addEventListener("click", function() {
+    /* Toggle between adding and removing the "active" class,
+    to highlight the button that controls the panel */
+
+    /* Toggle between hiding and showing the active panel */
+    const accordion = document.querySelector('.accordion');
+    const more = document.querySelector('.overview-button')
+    more.classList.toggle('expand');
+    accordion.classList.toggle('expand');
+
+
+    /* if (panel.style.display === "block") {
+      panel.style.display = "none";
+    } else {
+      panel.style.display = "block";
+    } */
+  });
+
+
