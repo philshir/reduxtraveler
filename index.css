@@ -1100,6 +1100,7 @@ footer ul li{
   border-radius: 0 3px 3px 0;
   user-select: none;
   z-index: 4;
+  padding: 0;
 }
 
 /* Position the "next button" to the right */
