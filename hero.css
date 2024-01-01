@@ -1504,7 +1504,7 @@ background: url(resources/images/california/los-angeles/hollywood-forever-cemete
     background-size: cover;
 }
 #griffith-park-hero{
-background: url(resources/images/california/los-angeles/griffith-park/griffith-park-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/griffith-park/griffith-park-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #pinks-hero{
@@ -2295,7 +2295,7 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
     background-size: cover;
 }
 #muir-woods-hero{
-    background: url(resources/images/california/muirWoods/muir-woods-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/muir-woods-national-monument/muir-woods-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #morro-bay-hero{
@@ -2712,7 +2712,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #chinatown-san-fran-hero{
-    background: url(resources/images/california/san-francisco/chinatown-sanfran/san-francisco-chinatown-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/chinatown-san-francisco/San_Francisco_China_Town_MC-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #golden-gate-hero{
@@ -13277,7 +13277,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #griffith-park-hero{
-        background: url(resources/images/california/los-angeles/griffith-park/griffith-park-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/griffith-park/griffith-park-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #pinks-hero{
@@ -14070,7 +14070,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
 }
 
     #muir-woods-hero{
-        background: url(resources/images/california/) center no-repeat;
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/marin-headlands/muir-woods-national-monument/muir-woods-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
 
@@ -14474,7 +14474,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #chinatown-san-fran-hero{
-        background: url(resources/images/california/san-francisco/chinatown-sanfran/san-francisco-chinatown-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/chinatown-san-francisco/San_Francisco_China_Town_MC-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #golden-gate-hero{
