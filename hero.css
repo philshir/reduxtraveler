@@ -1608,7 +1608,7 @@ background: url(resources/images/california/santa-barbara/el-presidio-de-santa-b
     background-size: cover;
 }
 #leadbetter-beach-hero{
-background: url(resources/images/california/santa-barbara/leadbetter-beach/2014_10_02_sb-beachwalk1_15246238910-1515.jpg) center no-repeat;
+background: url(resources/images/california/santa-barbara/leadbetter-beach/2014_10_02_sb-beachwalk1_15246238910-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #barbara-botanical-hero{
@@ -2740,7 +2740,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #santa-cruz-beach-boardwalk-hero{
-    background: url(resources/images/california/santa-cruz/santa-cruz-beach-baordwalk/sant-cruz-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/santa-cruz/santa-cruz-beach-boardwalk/sant-cruz-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #palm-springs-hero{
@@ -2793,7 +2793,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #anza-borrego-valley-hero{
-background: url(resources/images/california/anza-borrego-desert-state-park/Blair_Valley-1515.jpg) center no-repeat;
+background: url(resources/images/california/anza-borrego-desert-state-park/Blair_Valley-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #big-pine-lakes-hero{
@@ -3167,7 +3167,7 @@ background: url(resources/images/colorado/independence-pass/Independence_Pass_-_
     background-size: cover;
 }
 #hanging-lake-hero{
-background: url(resources/images/colorado/hanging-lake/Hanging_Lake_8-18_15613179035-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/hanging-lake/Hanging_Lake_8-18_15613179035-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #crystal-mill-hero{
@@ -3229,7 +3229,7 @@ background: url(resources/images/colorado/mount-elbert/Mount_Elbert_and_horses-1
     background-size: cover;
 }
 #devils-causeway-hero{
-background: url(resources/images/colorado/devils-causeway/Devils_Causeway-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/devils-causeway/Devils_Causeway-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #durango-silverton-narrow-gauge-hero{
@@ -13381,7 +13381,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #leadbetter-beach-hero{
-        background: url(resources/images/california/santa-barbara/leadbetter-beach/2014_10_02_sb-beachwalk1_15246238910-3030.jpg) center no-repeat;
+        background: url(resources/images/california/santa-barbara/leadbetter-beach/2014_10_02_sb-beachwalk1_15246238910-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #barbara-botanical-hero{
@@ -14502,7 +14502,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #santa-cruz-beach-boardwalk-hero{
-        background: url(resources/images/california/santa-cruz/santa-cruz-beach-baordwalk/sant-cruz-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/santa-cruz/santa-cruz-beach-boardwalk/sant-cruz-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #palm-springs-hero{
@@ -14556,7 +14556,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #anza-borrego-valley-hero{
-    background: url(resources/images/california/anza-borrego-desert-state-park/Blair_Valley-3030.jpg) center no-repeat;
+    background: url(resources/images/california/anza-borrego-desert-state-park/Blair_Valley-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #big-pine-lakes-hero{
@@ -15031,6 +15031,58 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #casa-bonita-hero{
+        background: url(resources/images/colorado/denver/casa-bonita/Casabonitadenver-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cathedral-immaculate-conception-hero{
+        background: url(resources/images/colorado/denver/cathedral-basilica-of-the-immaculate-conception/Denver\,_Church_of_the_Immaculate_ConceptionDenver\,_Church_of_the_Immaculate_Conception-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #confluence-park-hero{
+        background: url(resources/images/colorado/denver/confluence-park/Confluence_Park_10094572583-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #daniels-fisher-hero{
+        background: url(resources/images/colorado/denver/daniels-and-fisher-tower/Daniels_&_Fisher_Tower_view_from_Curtis_&_15th_Street-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #flatirons-co-hero{
+        background: url(resources/images/colorado/denver/flatirons/The_Flatirons_in_autumn.-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #larimer-square-hero{
+        background: url(resources/images/colorado/denver/larimer-square/Larimer_Square_northeast_past_14th_Street-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #pearl-mall-hero{
+        background: url(resources/images/colorado/denver/pearl-street-mall/Boulder_Colorado_-_Perl_Street_Mall_-2005-10-14T205944-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #treasure-falls-hero{
+        background: url(resources/images/colorado/treasure-falls/Treasure_Falls\,_CO_plunge_June_2013-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #independence-pass-hero{
+        background: url(resources/images/colorado/independence-pass/Independence_Pass_-_North_Fork_Lake_Creek\,_Colorado_44651567895-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #hanging-lake-hero{
+        background: url(resources/images/colorado/hanging-lake/Hanging_Lake_8-18_15613179035-3030.jpg) top no-repeat;
+            background-size: cover;
+        }
+        #crystal-mill-hero{
+        background: url(resources/images/colorado/crystal-mill/The_Crystal_Mill_2014-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #breckenridge-hero{
+        background: url(resources/images/colorado/breckenridge-co/Breckenridge_Ski_Resort\,_July_2016-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #pagosa-springs-hero{
+        background: url(resources/images/colorado/pagosa-springs/Hot_Springs-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
     #co-state-capitol-hero{
         background: url(resources/images/colorado/denver/colorado-state-capitol/Coloradocapitolhill2-3030.jpg) center no-repeat;
         background-size: cover;
@@ -15076,7 +15128,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #devils-causeway-hero{
-    background: url(resources/images/colorado/devils-causeway/Devils_Causeway-3030.jpg) center no-repeat;
+    background: url(resources/images/colorado/devils-causeway/Devils_Causeway-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #durango-silverton-narrow-gauge-hero{
