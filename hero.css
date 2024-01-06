@@ -2837,7 +2837,7 @@ background: url(resources/images/california/mammoth-lakes/Mammoth_Mtn_ski_area_1
     background-size: cover;
 }
 #mcarthur-burney-hero{
-background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burney_Falls_Memorial_State_Park\,_California_22693439683-1515.jpg) center no-repeat;
+background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burney_Falls_Memorial_State_Park\,_California_22693439683-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #mendocino-headlands-hero{
@@ -2925,7 +2925,7 @@ background: url(resources/images/california/potato-chip-rock/Line_of_People_at_P
 background: url(resources/images/california/vasquez-rocks-natural-area-and-nature-center/Vasquez_Rocks_15256385224-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#walker-canyon{
+#walker-canyon-hero{
 background: url(resources/images/california/walker-canyon/walker-canyon-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -14600,7 +14600,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #mcarthur-burney-hero{
-    background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burney_Falls_Memorial_State_Park\,_California_22693439683-3030.jpg) center no-repeat;
+    background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burney_Falls_Memorial_State_Park\,_California_22693439683-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #mendocino-headlands-hero{
@@ -14688,7 +14688,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background: url(resources/images/california/vasquez-rocks-natural-area-and-nature-center/Vasquez_Rocks_15256385224-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #walker-canyon{
+    #walker-canyon-hero{
     background: url(resources/images/california/walker-canyon/walker-canyon-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
