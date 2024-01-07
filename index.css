@@ -1012,6 +1012,18 @@ footer ul li{
   height: 30px;
   margin: 5px;
 }
+#Layer_1.faceb {
+  width: 30px
+}
+#Layer_1.twitter {
+  width: 50px
+}
+#Layer_1.insta {
+  width: 45px
+}
+#Layer_1.pint-tube {
+  width: 24px
+}
 .itinerary-text {
   color: white;
   font-family: Arial, "Cambria Math", sans-serif;

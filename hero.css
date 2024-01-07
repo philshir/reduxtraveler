@@ -1709,7 +1709,7 @@ background: url(resources/images/california/hot-creek/Hot_Creek_steam-1515.jpg) 
     background-size: cover;
 }
 #us-route-395-hero{
-background: url(resources/images/california/us-route-395/US_395_South_sign_near_Mono_Craters-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/US_395_South_sign_near_Mono_Craters-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #ed-zberg-sp-hero{
@@ -1778,7 +1778,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #ancient-bristlecone-hero{
-    background: url(resources/images/california/ancient-bristlecone/Bristlecone-pine-forest-janine-sprout-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/ancient-bristlecone-pine-forest/Bristlecone-pine-forest-janine-sprout-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #antelope-valley-hero{
@@ -1794,7 +1794,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #calico-hero{
-    background: url(resources/images/california/calico-ghost-town/calico-ghost-town-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/calico-ghost-town-regional-park/calico-ghost-town-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #carmel-hero{
@@ -13482,7 +13482,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #us-route-395-hero{
-        background: url(resources/images/california/us-route-395/US_395_South_sign_near_Mono_Craters-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/US_395_South_sign_near_Mono_Craters-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #ed-zberg-sp-hero{
@@ -13550,7 +13550,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #ancient-bristlecone-hero{
-        background: url(resources/images/california/ancient-bristlecone/Bristlecone-pine-forest-janine-sprout-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/ancient-bristlecone-pine-forest/Bristlecone-pine-forest-janine-sprout-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #antelope-valley-hero{
@@ -13566,7 +13566,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #calico-hero{
-        background: url(resources/images/california/calico-ghost-town/calico-ghost-town-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/calico-ghost-town-regional-park/calico-ghost-town-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #carmel-hero{
