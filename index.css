@@ -1688,6 +1688,10 @@ transition:max-height 0.15s ease-out;
   height:40px;
 }
 
+.portal.itinerary-card-portal {
+  width: 100%;
+}
+
 /* itinerary and best of card layout */
 @media only screen and (min-width: 445px) {
   
@@ -1734,10 +1738,16 @@ transition:max-height 0.15s ease-out;
   height: 75px;
 }
 }
+.flex.main-padding.itinerary-card {
+  flex-direction: column;
+}
 
 @media only screen and (min-width: 600px) {
 .hero {
   height: 450px;
+}
+.flex.main-padding.itinerary-card {
+  flex-direction: row;
 }
 }
 
@@ -2336,6 +2346,52 @@ margin: 5px;
 }
 }
 
+/* New itinerary cards */
+.itinerary-card {
+  padding: 20px;
+  align-items: start;
+}
+.itinerary-card-description{
+  font-size: 16px;
+}
+.itinerary-card-portal {
+  width: 350px;
+  height: auto;
+}
+.itinerary-card .sub-pic {
+  margin-right: 70px;
+}
+.itinerary-card-day{
+  font-weight: 900;
+  font-size: 14px;
+  margin: 0 0 10px 0;
+}    
+.itinerary-card-title{
+  font-weight: 900;
+    font-size: 26px;
+    margin: 10px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.itinerary-card-milage {
+  font-size: 12px;
+  font-weight: 600;
+}
+.itinerary-card-activities{
+  list-style-type: none;
+  padding-left: 0;
+}
+.itinerary-card-activities a{
+  text-decoration: underline;
+}
+.itinerary-card-stay {
+  font-size: 14px;
+  font-weight: 600;
+  margin: 5px 0;
+}
+.itinerary-card-stay-text {
+  margin: 5px 0;
+}
+
 @media only screen and (min-width: 900px) {
 .overview-img-left {
   float: left;
@@ -2350,10 +2406,6 @@ margin: 5px;
   .city-grid .flex {
     max-width: 100%;
   }
-}
-
-
-@media only screen and (min-width: 1170px) {
   .container {
     display: none;
   }
@@ -2573,10 +2625,6 @@ font-weight: 600;
     margin-top: 50px;
   }
 
-  /* Where was that picture taken */
-.where-was p.highlights {
-  margin: 40px;
-}
 
 
 }

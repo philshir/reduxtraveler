@@ -631,7 +631,7 @@ background: url(resources/images/arizona/flagstaff/_A_Road_to_Look_Forward_To__s
     background-size: cover;
 }
 #page-az-hero{
-background: url(resources/images/arizona/page/glen-canyon-hero-1515.jpg) center no-repeat;
+background: url(resources/images/arizona/page/glen-canyon-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #tombstone-hero{
@@ -989,7 +989,7 @@ background: url(resources/images/arizona/petrified-forest-national-park/tepees/T
 background-size: cover;
 }
 #tucson-hero{
-    background: url(resources/images/arizona/tucson/Tucson_shab1-1515.jpg) center no-repeat;
+    background: url(resources/images/arizona/tucson/Tucson_shab1-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #sabino-hero{
@@ -11072,7 +11072,7 @@ background: url(resources/images/washington/mount-rainier-national-park/reflecti
     background-size: cover;
 }
 #sourdough-ridge-trail-hero{
-background: url(resources/images/washington/mount-rainier-national-park/sourdough-ridge-trail/Sourdough_Ridge_-_30099232047-1515.jpg) center no-repeat;
+background: url(resources/images/washington/mount-rainier-national-park/sourdough-ridge-trail/Sourdough_Ridge_-_30099232047-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #spray-park-hero{
@@ -12358,7 +12358,7 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
         background-size: cover;
     }
     #page-az-hero{
-    background: url(resources/images/arizona/page/glen-canyon-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/arizona/page/glen-canyon-hero-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #tombstone-hero{
@@ -12624,7 +12624,7 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
     background-size: cover;
     }
     #tucson-hero{
-        background: url(resources/images/arizona/tucson/Tucson_shab1-3030.jpg) center no-repeat;
+        background: url(resources/images/arizona/tucson/Tucson_shab1-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #sabino-hero{
@@ -21542,7 +21542,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
             background-size: cover;
         }
         #sourdough-ridge-trail-hero{
-        background: url(resources/images/washington/mount-rainier-national-park/sourdough-ridge-trail/Sourdough_Ridge_-_30099232047-3030.jpg) center no-repeat;
+        background: url(resources/images/washington/mount-rainier-national-park/sourdough-ridge-trail/Sourdough_Ridge_-_30099232047-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #spray-park-hero{
