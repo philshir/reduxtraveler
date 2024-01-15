@@ -280,20 +280,18 @@ h3 {
 .main-nav {
   background: linear-gradient(
     135deg,
-    rgba(29, 169, 29, 1) 0%,
-    rgba(26, 109, 26, 1) 39%,
-    rgba(31, 59, 8, 1) 78%,
-    rgba(31, 59, 8, 1) 100%
+    rgba(29, 169, 29, 0.9) 0%,
+    rgba(26, 109, 26, 0.9) 39%,
+    rgba(31, 59, 8, 0.9) 78%,
+    rgba(31, 59, 8, 0.9) 100%
   );
   height: 52px;
   box-shadow: 8px 11px 7px 0px rgba(0, 0, 0, 0.4);
   position: fixed;
-  font-family: Arial, sans-serif;
   color: white;
   top: 0;
   z-index: 7;
   width: 100%;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
  
 }
 main {
@@ -310,10 +308,11 @@ main {
   flex-direction: column;
   color: black;
   width: 100%;
+  margin: 0 auto;
+  margin-bottom: 15px;
  /*  border: #cac9c9 solid 1px; */
   /* background: linear-gradient( to bottom, rgba(252, 252, 252, 1) 0%, rgba(252, 252, 252, 1) 25%, rgb(196 224 249) 100% ); */
   box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%);
-  margin: 20px 0;
 }
 .flex:hover {
   box-shadow: 5px 5px 15px 3px rgba(0, 0, 0, 0.65);
@@ -437,6 +436,11 @@ article {
   margin: 0 auto;
   /* padding-bottom: 20px; */
   width: 100%;
+  height: 385px;
+}
+.map-container {
+  width: 50%;
+  margin: 0 auto;
 }
 .map-main {
   margin-bottom: 10px;
@@ -575,10 +579,6 @@ tspan.st10.s11{
 
 .itinerary-map svg {
   width: 50%
-}
-.map svg{
-  width: 100%;
-  margin: 0 auto;
 }
 .map h4 {
   margin: 0 10px 10px;
@@ -814,6 +814,9 @@ tspan.st10.s11{
   display: none;
   padding: 0
 }
+.full-nav-columns a {
+  font-family: sans-serif!important;
+}
 
 .dropdown-container a, .dropdown-btn {
   border-bottom: 0.5px solid lightblue;
@@ -832,6 +835,8 @@ tspan.st10.s11{
 
 .img-cards {
   width: 100%;
+  max-width: 400px;
+  display: block;
 }
 .img-cards-main {
   width: 100%;
@@ -1069,7 +1074,7 @@ footer ul li{
 .gallery-cell {
   width: 100%;
   position: relative;
-  margin: 50px 0 0;
+  /* margin: 50px 0 0; */
   height: 350px
 }
 
@@ -1691,6 +1696,11 @@ transition:max-height 0.15s ease-out;
 .portal.itinerary-card-portal {
   width: 100%;
 }
+.city-grid {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
 /* itinerary and best of card layout */
 @media only screen and (min-width: 445px) {
@@ -1704,16 +1714,23 @@ transition:max-height 0.15s ease-out;
   width: 60%
   
 }
+/* .description-one {
+  width: 60%;
+} */
+.map {
+  height: 500px;
+}
 .grid {
   height: auto;
 }
 
 .flex {
-  flex-direction: row;
+  /* flex-direction: row; */
+  max-width: 400px;
 }
-.trail-description {
+/* .trail-description {
   width: 60%;
-}
+} */
 .featured p {
   font-size: 12px;
 }
@@ -1749,6 +1766,13 @@ transition:max-height 0.15s ease-out;
 .flex.main-padding.itinerary-card {
   flex-direction: row;
 }
+.flex {
+  flex-direction: row;
+  max-width: 1000px;
+}
+.description-one {
+  width: 60%;
+}
 }
 
 @media only screen and (min-width: 800px) {
@@ -1764,6 +1788,9 @@ transition:max-height 0.15s ease-out;
     font-size: 14px;
     margin-bottom: 50px;
   }
+  .map {
+    height: auto;
+  }
   .map-main {
     margin: 35px 0 50px;
   }
@@ -1773,10 +1800,12 @@ transition:max-height 0.15s ease-out;
   }
   .flex {
     flex-direction: column;
+  margin: 0 auto;
     
   }
   .city-grid .flex {
     max-width: 400px;
+    margin: 10px;
   }
   .flex.main-padding {
     flex-direction: row;
@@ -1894,7 +1923,7 @@ transition:max-height 0.15s ease-out;
 .gallery-cell {
   width: 100%;
   position: relative;
-  margin: 50px 0 0;
+  /* margin: 50px 0 0; */
   height: 500px
 }
 .main-page-title{
@@ -2081,7 +2110,7 @@ article a {
     height: 80px;
   }
 .main-padding {
-  margin: 40px 0;
+  margin-bottom: 20px;
 }
 
 
@@ -2155,6 +2184,7 @@ font-size: 36px;
   }
   .img-cards {
     width: 100%;
+    max-width: 1000px;
   }
 
   .img-cards-main {
@@ -2434,12 +2464,15 @@ margin: 5px;
   .nav-position {
     padding: 14px 5px;
     white-space: nowrap;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
 
   /* The dropdown container */
   .dropdown {
     height: 65px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+  
   .row {
     display: flex;
   }
@@ -2511,7 +2544,7 @@ margin: 5px;
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content{
     height: auto;
-    opacity: 1;
+    opacity: 0.95;
   }
   
 
@@ -2575,8 +2608,8 @@ max-width: 1170px;
   height: 520px;
 }
 .gallery-cell {
-  height: 750px;
-  margin-top: 15px;
+  height: 650px;
+  /* margin-top: 15px; */
   overflow: unset;
 }
 .main-page-title{
@@ -2624,7 +2657,5 @@ font-weight: 600;
   .featured.navy{
     margin-top: 50px;
   }
-
-
 
 }
