@@ -188,6 +188,9 @@ a.itin-menu {
   width: 100%;
   padding: 10px;
 }
+.trail-description .navy {
+  margin: 0;
+}
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px !important;
@@ -699,6 +702,8 @@ tspan.st10.s11 {
   font-family: Arial;
   text-shadow: 0px 5px 10px rgb(99 99 99 / 90%);
   max-width: 90%;
+  font-weight: 800;
+  font-family: "AvenirLTStd-Black", Verdana, Tahoma, sans-serif;
 }
 
 .logo-nashville {
@@ -1259,6 +1264,8 @@ body {
   font-size: 20px;
   margin: 0 auto;
   max-width: 1170px;
+  font-weight: 800;
+  font-family: "AvenirLTStd-Black", Verdana, Tahoma, sans-serif;
 }
 .title-text-itenerary {
   font-size: 26px;
@@ -1947,7 +1954,8 @@ h4.navy {
     font-size: 16px;
   }
   .map h2,
-  .map-one h2 {
+  .map-one h2, 
+  .map-two h2 {
     font-size: 32px;
   }
   .map h3 {
@@ -2272,6 +2280,7 @@ h4.navy {
     padding: 0 15px;
     grid-column-gap: 20px;
     justify-items: center;
+    align-items: stretch;
   }
 
   .itineraries .trail-description {
