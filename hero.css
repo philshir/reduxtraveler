@@ -2760,7 +2760,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #mt-shasta-hero{
-    background: url(resources/images/california/mount-shasta/Mount_Shasta_34774661494-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/mount-shasta/Mount_Shasta_34774661494-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 
@@ -14522,7 +14522,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #mt-shasta-hero{
-        background: url(resources/images/california/mount-shasta/Mount_Shasta_34774661494-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/mount-shasta/Mount_Shasta_34774661494-hero-3030.jpg) top no-repeat;
         background-size: cover;
         background-position-y: -100px;
     }
