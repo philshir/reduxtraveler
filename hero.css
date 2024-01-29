@@ -2152,7 +2152,7 @@ background: url(resources/images/california/los-angeles/melrose-avenue/Clothing\
     background-size: cover;
 }
 #norton-museum-hero{
-background: url(resources/images/california/los-angeles/norton-simon-museum/Norton_Simon_Museum_Pasadena_CA_51081778692-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/norton-simon-museum/) center no-repeat;
     background-size: cover;
 }
 #petersen-museum-hero{
@@ -13923,7 +13923,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #norton-museum-hero{
-    background: url(resources/images/california/los-angeles/norton-simon-museum/Norton_Simon_Museum_Pasadena_CA_51081778692-3030.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/norton-simon-museum/) center no-repeat;
         background-size: cover;
     }
     #petersen-museum-hero{
