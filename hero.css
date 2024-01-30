@@ -11502,7 +11502,7 @@ background: url(resources/images/wyoming/pinedale-wy/Overlooking_Pinedale\,_WY_f
     background-size: cover;
 }
 #grand-teton-hero{
-    background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-1515.jpg) center no-repeat;
+    background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #amphitheater-lake-hero{
@@ -21976,7 +21976,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
         background-size: cover;
     }
     #grand-teton-hero{
-        background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-3030.jpg) center no-repeat;
+        background: url(resources/images/wyoming/grand-teton-national-park/Barns_grand_tetons-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #amphitheater-lake-hero{
