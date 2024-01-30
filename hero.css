@@ -2718,6 +2718,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
 #golden-gate-hero{
     background: url(resources/images/california/san-francisco/golden-gate-bridge/GoldenGateBridge_BakerBeach_MC-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -50px;
 }
 #japanese-tea-hero{
     background: url(resources/images/california/san-francisco/japanese-tea/golden-gate-park-japanese-tea-garden-hero-1515.jpg) center no-repeat;
@@ -14480,6 +14481,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     #golden-gate-hero{
         background: url(resources/images/california/san-francisco/golden-gate-bridge/GoldenGateBridge_BakerBeach_MC-3030.jpg) center no-repeat;
         background-size: cover;
+        background-position-y: -50px;
     }
     #japanese-tea-hero{
         background: url(resources/images/california/san-francisco/japanese-tea/golden-gate-park-japanese-tea-garden-hero-3030.jpg) center no-repeat;
