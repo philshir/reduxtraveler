@@ -197,7 +197,8 @@ a.itin-menu {
   font-weight: 500;
 }
 .trail-description p:first-child {
-  font-size: 13px;
+  font-size: 18px !important;
+    font-weight: 600 !important;
 }
 /* .trail-description p:nth-child(3) {
   margin-bottom: 30px;
@@ -1976,7 +1977,7 @@ h4.navy {
     margin-bottom: 10px;
   }
   .featured-locations-title {
-    font-size: 44px;
+    font-size: 32px;
   }
   h2.nyc-regions-title {
     font-size: 30px;
@@ -2183,10 +2184,6 @@ h4.navy {
   }
   .trail-img {
     margin: 0 15px 0 0;
-  }
-  .trail-description p:first-child {
-    font-size: 16px !important;
-    font-weight: 600 !important;
   }
   .trail-description div:first-child {
     margin: 0;

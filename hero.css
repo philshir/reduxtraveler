@@ -1974,7 +1974,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #dl-bliss-hero{
-    background: url(resources/images/california/lake-tahoe/d-l-bliss-state-park/Bliss_State_Park\,_CA-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lake-tahoe/d-l-bliss-state-park/Bliss_State_Park\,_CA-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #emerald-bay-hero{
@@ -1988,6 +1988,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
 #lake-aloha-hero{
     background: url(resources/images/california/lake-tahoe/lake-aloha/Lake_Aloha_3076427948-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #mount-tallac-hero{
     background: url(resources/images/california/lake-tahoe/mount-tallac/Lake_Tahoe_from_Mount_Tallac_Summit-1515.jpg) center no-repeat;
@@ -2289,13 +2290,14 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
 #cima-dome-hero{
     background: url(resources/images/california/mojave-national-preserve/cima-dome/Cima_Dome_landscape_1-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #kelso-dunes-hero{
     background: url(resources/images/california/mojave-national-preserve/kelso-dunes/Kelso_Dunes\,_2012-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #teutonia-peak-hero{
-    background: url(resources/images/california/mojave-national-preserve/teutonia-peak/Teutonia_Peak_2-1515.jpg) center no-repeat;
+    background: url(resources/images/california/mojave-national-preserve/teutonia-peak/Teutonia_Peak_2-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #muir-woods-hero{
@@ -2659,7 +2661,7 @@ background: url(resources/images/california/san-francisco/golden-gate-national-r
     background-size: cover;
 }
 #sweeney-ridge-hero{
-background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/Sweeney_Ridge\,_Portola_Discovery_Site_marker-1515.jpg) center no-repeat;
+background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/Sweeney_Ridge\,_Portola_Discovery_Site_marker-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #angel-island-hero{
@@ -2895,11 +2897,11 @@ background: url(resources/images/california/san-gabriel-mountains/mount-wilson-s
     background-size: cover;
 }
 #leo-carrillo-sp-hero{
-background: url(resources/images/california/santa-monica-national-recreation-area/leo-carrillo-state-park/What_a_day_-_Beach_at_Leo_Carrillo_State_Park\,_California_-_panoramio-1515.jpg) center no-repeat;
+background: url(resources/images/california/santa-monica-national-recreation-area/leo-carrillo-state-park/What_a_day_-_Beach_at_Leo_Carrillo_State_Park\,_California_-_panoramio-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #malibu-creek-sp-hero{
-background: url(resources/images/california/santa-monica-national-recreation-area/malibu-creek-state-park/Malibu_creek1-1515.jpg) center no-repeat;
+background: url(resources/images/california/santa-monica-national-recreation-area/malibu-creek-state-park/Malibu_creek1-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #point-mugu-sp-hero{
@@ -3030,7 +3032,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-size: cover;
 }
 #cathedral-lakes-hero{
-    background: url(resources/images/california/yosemite-national-park/tioga-pass/cathedral-lakes/Cathedral_Lakes_Trek_20_4246260676-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/tioga-pass/cathedral-lakes/Cathedral_Lakes_Trek_20_4246260676-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #dog-lake-hero{
@@ -13755,7 +13757,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #dl-bliss-hero{
-        background: url(resources/images/california/lake-tahoe/d-l-bliss-state-park/Bliss_State_Park\,_CA-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lake-tahoe/d-l-bliss-state-park/Bliss_State_Park\,_CA-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #emerald-bay-hero{
@@ -13769,6 +13771,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     #lake-aloha-hero{
         background: url(resources/images/california/lake-tahoe/lake-aloha/Lake_Aloha_3076427948-3030.jpg) center no-repeat;
         background-size: cover;
+        background-position-y: -100px;
     }
     #mount-tallac-hero{
         background: url(resources/images/california/lake-tahoe/mount-tallac/Lake_Tahoe_from_Mount_Tallac_Summit-3030.jpg) center no-repeat;
@@ -14069,13 +14072,14 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
 #cima-dome-hero{
     background: url(resources/images/california/mojave-national-preserve/cima-dome/Cima_Dome_landscape_1-3030.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #kelso-dunes-hero{
     background: url(resources/images/california/mojave-national-preserve/kelso-dunes/Kelso_Dunes\,_2012-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #teutonia-peak-hero{
-    background: url(resources/images/california/mojave-national-preserve/teutonia-peak/Teutonia_Peak_2-3030.jpg) center no-repeat;
+    background: url(resources/images/california/mojave-national-preserve/teutonia-peak/Teutonia_Peak_2-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #morro-bay-hero{
@@ -14430,7 +14434,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #sweeney-ridge-hero{
-        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/Sweeney_Ridge\,_Portola_Discovery_Site_marker-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/golden-gate-national-recreation-area/sweeney-ridge/Sweeney_Ridge\,_Portola_Discovery_Site_marker-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #angel-island-hero{
@@ -14668,11 +14672,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #leo-carrillo-sp-hero{
-    background: url(resources/images/california/santa-monica-national-recreation-area/leo-carrillo-state-park/What_a_day_-_Beach_at_Leo_Carrillo_State_Park\,_California_-_panoramio-3030.jpg) center no-repeat;
+    background: url(resources/images/california/santa-monica-national-recreation-area/leo-carrillo-state-park/What_a_day_-_Beach_at_Leo_Carrillo_State_Park\,_California_-_panoramio-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #malibu-creek-sp-hero{
-    background: url(resources/images/california/santa-monica-national-recreation-area/malibu-creek-state-park/Malibu_creek1-3030.jpg) center no-repeat;
+    background: url(resources/images/california/santa-monica-national-recreation-area/malibu-creek-state-park/Malibu_creek1-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #point-mugu-sp-hero{
@@ -14802,7 +14806,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #cathedral-lakes-hero{
-        background: url(resources/images/california/yosemite-national-park/tioga-pass/cathedral-lakes/Cathedral_Lakes_Trek_20_4246260676-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/tioga-pass/cathedral-lakes/Cathedral_Lakes_Trek_20_4246260676-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #dog-lake-hero{
