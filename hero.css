@@ -2842,7 +2842,7 @@ background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burne
     background-size: cover;
 }
 #mendocino-headlands-hero{
-background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-1515.jpg) center no-repeat;
+background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #onion-valley-hero{
@@ -14606,7 +14606,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #mendocino-headlands-hero{
-    background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-3030.jpg) center no-repeat;
+    background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #onion-valley-hero{
