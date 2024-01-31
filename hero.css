@@ -851,6 +851,7 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
 #gc-south-rim-hero{
     background: url(resources/images/arizona/grand-canyon-national-park/south-rim/grand-canyon-south-rim-hero-1515.jpg) center no-repeat;
     background-size: cover;
+    
 }
 #skywalk-hero{
     background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-skywalk/Grand_Canyon_Skywalk\,_AZ\,_USA_9533971923-1515.jpg) center no-repeat;
@@ -867,6 +868,7 @@ background: url(resources/images/arizona/saguaro-national-park/rincon-mountain-d
 #gc-north-rim-hero{
     background: url(resources/images/arizona/grand-canyon-national-park/north-rim/Arizona\,_Grand_Canyon_National_Park\,_Grand_Canyon\,_view_from_the_North_Rim-1515.jpg) center no-repeat;
         background-size: cover;
+        
     }
     #north-kaibab-hero{
     background: url(resources/images/arizona/grand-canyon-national-park/north-rim/north-kaibab-trail/North_Kaibab_Trail_-_panoramio-1515.jpg) center no-repeat;
@@ -1988,7 +1990,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
 #lake-aloha-hero{
     background: url(resources/images/california/lake-tahoe/lake-aloha/Lake_Aloha_3076427948-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #mount-tallac-hero{
     background: url(resources/images/california/lake-tahoe/mount-tallac/Lake_Tahoe_from_Mount_Tallac_Summit-1515.jpg) center no-repeat;
@@ -2290,7 +2292,7 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
 #cima-dome-hero{
     background: url(resources/images/california/mojave-national-preserve/cima-dome/Cima_Dome_landscape_1-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #kelso-dunes-hero{
     background: url(resources/images/california/mojave-national-preserve/kelso-dunes/Kelso_Dunes\,_2012-1515.jpg) center no-repeat;
@@ -2724,7 +2726,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
 #golden-gate-hero{
     background: url(resources/images/california/san-francisco/golden-gate-bridge/GoldenGateBridge_BakerBeach_MC-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -50px;
+    
 }
 #japanese-tea-hero{
     background: url(resources/images/california/san-francisco/japanese-tea/golden-gate-park-japanese-tea-garden-hero-1515.jpg) center no-repeat;
@@ -2997,7 +2999,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
 #clouds-rest-hero{
     background: url(resources/images/california/yosemite-national-park/clouds-rest/Yosemite_Valley_From_Clouds_Rest-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -200px;
+    
 }
 #glacier-point-hero{
     background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset\,_Yosemite_NP\,_CA\,_US_-_Diliff-1515.jpg) top no-repeat;
@@ -3086,7 +3088,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
 #half-dome-hero{
     background: url(resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half\ Dome\ from\ Glacier\ Point\,\ Yosemite\ NP\ -\ Diliff-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #mirror-lake-trail-hero{
     background: url(resources/images/california/yosemite-national-park/yosemite-valley/mirror-lake/MirrorLakeYosemiteLandscape-1515.jpg) center no-repeat;
@@ -3115,7 +3117,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
 
 /* Colorado */
 #colorado-springs-hero{
-background: url(resources/images/colorado/colorado-springs/CC_COSPRINGS-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/colorado-springs/CC_COSPRINGS-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #broadmoor-cog-hero{
@@ -3137,11 +3139,7 @@ background: url(resources/images/colorado/colorado-springs/manitou-incline/Looki
 #pikes-peak-hero{
 background: url(resources/images/colorado/colorado-springs/pikes-peak/Pikes_Peak4-1515.jpg) center no-repeat;
     background-size: cover;
-}
-#denver-hero{
-background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-1515.jpg) center no-repeat;
-    background-size: cover;
-}
+}c
 #casa-bonita-hero{
 background: url(resources/images/colorado/denver/casa-bonita/Casabonitadenver-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3234,7 +3232,7 @@ background: url(resources/images/colorado/telluride/Tellurides_main_street-1515.
 #maroon-bells-hero{
 background: url(resources/images/colorado/maroon-bells/Aspen-maroon-bells-colorado-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #mt-elbert-hero{
 background: url(resources/images/colorado/mount-elbert/Mount_Elbert_and_horses-1515.jpg) center no-repeat;
@@ -8961,7 +8959,7 @@ background: url(resources/images/pennsylvania/lancaster-county/central-market/Ce
 #fallingwater-hero{
 background: url(resources/images/pennsylvania/fallingwater/Fallingwater3-1515.jpg) top no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #gettysburg-hero{
 background: url(resources/images/pennsylvania/gettysburg-national-military-park/Gettysburg_Battlefield\,_Pennsylvania\,_US_97-1515.jpg) center no-repeat;
@@ -10398,12 +10396,12 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 #chesler-park-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-1515.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #druid-arch-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/druid-arch/Druid_Arch._Needles_District._Canyonlands_UT._9862534466-1515.jpg) top no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #canyonlands-maze-hero{
     background: url(resources/images/utah/canyonlands-national-park/maze/Chocolate_Drops_from_Maze_Overlook_14182277989-1515.jpg) center no-repeat;
@@ -11032,7 +11030,7 @@ background: url(resources/images/washington/mount-rainier-national-park/alta-vis
 #bench-snow-hero{
 background: url(resources/images/washington/mount-rainier-national-park/bench-and-snow-lakes-trail/Mt_Rainier_reflecting_in_Bench_Lake._Early_September_2015._50204798af164f1da1e9bf3e2546cfe9-1515.jpg) top no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #box-canyon-wa-hero{
 background: url(resources/images/washington/mount-rainier-national-park/box-canyon/Box_Canyon_of_the_Cowlitz\,_Mount_Rainier_National_Park_01-1515.jpg) center no-repeat;
@@ -11223,7 +11221,7 @@ background: url(resources/images/washington/olympic-national-park/sol-duc-valley
 #mt-rainier-hero{
     background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-1515.jpg) top no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #mt-rainier-np-hero{
     background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_3-reflection-hero-1515.jpg) top no-repeat;
@@ -12683,6 +12681,7 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
     #gc-south-rim-hero{
         background: url(resources/images/arizona/grand-canyon-national-park/grand-canyon-south-rim-hero-3030.jpg) center no-repeat;
         background-size: cover;
+        
     }
     #skywalk-hero{
         background: url(resources/images/arizona/grand-canyon-national-park/havasu-creek/Beaver_falls-hero-3030.jpg) center no-repeat;
@@ -12699,7 +12698,9 @@ background: url(resources/images/arizona/carr-peak/Carr_Peak_and_Carr_Canyon\,_L
     #gc-north-rim-hero{
         background: url(resources/images/arizona/grand-canyon-national-park/north-rim/Arizona\,_Grand_Canyon_National_Park\,_Grand_Canyon\,_view_from_the_North_Rim-3030.jpg) center no-repeat;
             background-size: cover;
+            
         }
+        
         #north-kaibab-hero{
         background: url(resources/images/arizona/grand-canyon-national-park/north-rim/north-kaibab-trail/North_Kaibab_Trail_-_panoramio-3030.jpg) center no-repeat;
             background-size: cover;
@@ -13771,7 +13772,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     #lake-aloha-hero{
         background: url(resources/images/california/lake-tahoe/lake-aloha/Lake_Aloha_3076427948-3030.jpg) center no-repeat;
         background-size: cover;
-        background-position-y: -100px;
+        
     }
     #mount-tallac-hero{
         background: url(resources/images/california/lake-tahoe/mount-tallac/Lake_Tahoe_from_Mount_Tallac_Summit-3030.jpg) center no-repeat;
@@ -14072,7 +14073,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
 #cima-dome-hero{
     background: url(resources/images/california/mojave-national-preserve/cima-dome/Cima_Dome_landscape_1-3030.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #kelso-dunes-hero{
     background: url(resources/images/california/mojave-national-preserve/kelso-dunes/Kelso_Dunes\,_2012-3030.jpg) center no-repeat;
@@ -14498,7 +14499,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     #golden-gate-hero{
         background: url(resources/images/california/san-francisco/golden-gate-bridge/GoldenGateBridge_BakerBeach_MC-3030.jpg) center no-repeat;
         background-size: cover;
-        background-position-y: -50px;
+        
     }
     #japanese-tea-hero{
         background: url(resources/images/california/san-francisco/japanese-tea/golden-gate-park-japanese-tea-garden-hero-3030.jpg) center no-repeat;
@@ -14543,7 +14544,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     #mt-shasta-hero{
         background: url(resources/images/california/mount-shasta/Mount_Shasta_34774661494-hero-3030.jpg) top no-repeat;
         background-size: cover;
-        background-position-y: -100px;
+        
     }
     #avalon-hero{
         background: url(resources/images/california/santa-catalina-island/avalon/Avalon\,_Santa_Catalina_Island\,_California_8658958857-3030.jpg) center no-repeat;
@@ -14860,7 +14861,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     #half-dome-hero{
         background: url(resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half\ Dome\ from\ Glacier\ Point\,\ Yosemite\ NP\ -\ Diliff-3030.jpg) center no-repeat;
         background-size: cover;
-        background-position-y: -100px;
+        
     }
     #mirror-lake-trail-hero{
         background: url(resources/images/california/yosemite-national-park/yosemite-valley/mirror-lake/MirrorLakeYosemiteLandscape-3030.jpg) center no-repeat;
@@ -15028,7 +15029,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
 
 /* Colorado */
 #colorado-springs-hero{
-    background: url(resources/images/colorado/colorado-springs/CC_COSPRINGS-3030.jpg) center no-repeat;
+    background: url(resources/images/colorado/colorado-springs/CC_COSPRINGS-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #broadmoor-cog-hero{
@@ -15049,10 +15050,6 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
     #pikes-peak-hero{
     background: url(resources/images/colorado/colorado-springs/pikes-peak/Pikes_Peak4-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
-    #denver-hero{
-    background: url(resources/images/colorado/denver/Denver_Downtown_view_from_Red_Rock_Amphitheatre-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #casa-bonita-hero{
@@ -21704,7 +21701,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     #mt-rainier-hero{
         background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_panorama_2-hero-3030.jpg) top no-repeat;
         background-size: cover;
-        background-position-y: -100px;
+        
     }
     #mt-rainier-np-hero{
         background: url(resources/images/washington/mount-rainier-national-park/Mount_Rainier_3-reflection-hero-3030.jpg) top no-repeat;
@@ -21796,7 +21793,7 @@ background: url(resources/images/washington-dc/smithsonian-air-and-space-museum/
     #space-needle-hero {
         background: url(resources/images/washington/seattle/space-needle/Space_Needle_seen_from_Wenatchee_Ferry_on_Puget_Sound-hero-3030.jpg) center no-repeat;
         background-size: cover;
-        background-position-y: -200px;
+        
     }
     #starbucks-pike-place-hero {
         background: url(resources/images/washington/seattle/first-starbucks/Starbucks_street_musician-hero-3030.jpg) center no-repeat;
@@ -23298,12 +23295,12 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 #chesler-park-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-3030.jpg) center no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #druid-arch-hero{
     background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/druid-arch/Druid_Arch._Needles_District._Canyonlands_UT._9862534466-3030.jpg) top no-repeat;
     background-size: cover;
-    background-position-y: -100px;
+    
 }
 #canyonlands-maze-hero{
     background: url(resources/images/utah/canyonlands-national-park/maze/Chocolate_Drops_from_Maze_Overlook_14182277989-3030.jpg) center no-repeat;
