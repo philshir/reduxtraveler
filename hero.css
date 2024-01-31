@@ -1733,7 +1733,7 @@ background: url(resources/images/california/wayfarers-chapel/Wayfarers.1-1515.jp
     background-size: cover;
 }
 #bald-hills-road-hero{
-background: url(resources/images/california/redwood-national-and-state-parks/bald-hills-road/Redwood_Picnic_Spot\,_California_40521964471-1515.jpg) center no-repeat;
+background: url(resources/images/california/redwood-national-and-state-parks/bald-hills-road/Redwood_Picnic_Spot\,_California_40521964471-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #del-norte-coast-hero{
@@ -1819,7 +1819,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #death-valley-hero{
-    background: url(resources/images/california/death-valley-national-park/death-valley-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/death-valley-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #artists-drive-hero{
@@ -1923,6 +1923,10 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background: url(resources/images/california/joshua-tree-national-park/oasis-of-mara/Sunset_at_Oasis_of_Mara_38037934022-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#ocotillo-joshua-hero{
+    background: url(resources/images/california/joshua-tree-national-park/ocotillo-patch/ocotillo-patch-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 
 #lost-oasis-hero{
     background: url(resources/images/california/joshua-tree-national-park/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-1515.jpg) center no-repeat;
@@ -1941,7 +1945,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #kings-byway-hero{
-    background: url(resources/images/california/kings-canyon-national-park/kings-canyon-national-byway/Morning_on_kings_canyon_scenic_byway_kings_canyon_national_park_-_Flickr_-_Mferbfriske-1515.jpg) center no-repeat;
+    background: url(resources/images/california/kings-canyon-national-park/kings-canyon-national-byway/Morning_on_kings_canyon_scenic_byway_kings_canyon_national_park_-_Flickr_-_Mferbfriske-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #roaring-river-hero{
@@ -2010,7 +2014,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #lassen-peak-hero{
-    background: url(resources/images/california/lassen-volcanic-national-park/lassen-peak/lassen-volcanic-scenic-drive-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/lassen-volcanic-national-park/lassen-peak/lassen-volcanic-lassen-peak-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bumpass-hero{
@@ -2337,7 +2341,7 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
 }
 
 #pinnacles-hero{
-    background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #high-peaks-hero{
@@ -2947,6 +2951,10 @@ background: url(resources/images/california/walker-canyon/walker-canyon-hero-151
     background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-giant-trees-parker-group-hero-1136wPortrait.jpg) center no-repeat;
     background-size: cover;
 }
+#congress-trail-hero {
+    background: url(resources/images/california/sequoia-national-park/congress-trail/congress-trail-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #crystal-cave-hero{
     background: url(resources/images/california/sequoia-national-park/crystal-cave/CrystalCave_vgane-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2990,7 +2998,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
     background-position-y: -200px;
 }
 #glacier-point-hero{
-    background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset\,_Yosemite_NP\,_CA\,_US_-_Diliff-1515.jpg) center no-repeat;
+    background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset\,_Yosemite_NP\,_CA\,_US_-_Diliff-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #el-capitan-hero{
@@ -3076,6 +3084,7 @@ background: url(resources/images/california/sequoia-national-park/mount-whitney/
 #half-dome-hero{
     background: url(resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half\ Dome\ from\ Glacier\ Point\,\ Yosemite\ NP\ -\ Diliff-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #mirror-lake-trail-hero{
     background: url(resources/images/california/yosemite-national-park/yosemite-valley/mirror-lake/MirrorLakeYosemiteLandscape-1515.jpg) center no-repeat;
@@ -13507,7 +13516,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #bald-hills-road-hero{
-        background: url(resources/images/california/redwood-national-and-state-parks/bald-hills-road/Redwood_Picnic_Spot\,_California_40521964471-3030.jpg) center no-repeat;
+        background: url(resources/images/california/redwood-national-and-state-parks/bald-hills-road/Redwood_Picnic_Spot\,_California_40521964471-3030.jpg) bottom no-repeat;
             background-size: cover;
         }
         #del-norte-coast-hero{
@@ -13591,7 +13600,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #death-valley-hero{
-        background: url(resources/images/california/death-valley-national-park/death-valley-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/death-valley-hero-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #artists-drive-hero{
@@ -13696,6 +13705,10 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/joshua-tree-national-park/oasis-of-mara/Sunset_at_Oasis_of_Mara_38037934022-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #ocotillo-joshua-hero{
+        background: url(resources/images/california/joshua-tree-national-park/ocotillo-patch/ocotillo-patch-hero-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #lost-oasis-hero{
         background: url(resources/images/california/joshua-tree-national-park/lost-palms-oasis/joshua-tree-lost-palms-oasis-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -13713,7 +13726,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #kings-byway-hero{
-        background: url(resources/images/california/kings-canyon-national-park/kings-canyon-national-byway/Morning_on_kings_canyon_scenic_byway_kings_canyon_national_park_-_Flickr_-_Mferbfriske-3030.jpg) center no-repeat;
+        background: url(resources/images/california/kings-canyon-national-park/kings-canyon-national-byway/Morning_on_kings_canyon_scenic_byway_kings_canyon_national_park_-_Flickr_-_Mferbfriske-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #roaring-river-hero{
@@ -13782,7 +13795,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #lassen-peak-hero{
-        background: url(resources/images/california/lassen-volcanic-national-park/lassen-peak/lassen-volcanic-scenic-drive-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/lassen-volcanic-national-park/lassen-peak/lassen-volcanic-lassen-peak-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bumpass-hero{
@@ -14109,7 +14122,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         }
 
     #pinnacles-hero{
-        background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/pinnacles-national-park/pinnacles-hero-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #high-peaks-hero{
@@ -14712,6 +14725,10 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/sequoia-national-park/parker-group/sequoia-giant-trees-parker-group-hero-2273wPortrait.jpg) center no-repeat;
         background-size: cover;
     }
+    #congress-trail-hero {
+        background: url(resources/images/california/sequoia-national-park/congress-trail/congress-trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #crystal-cave-hero{
         background: url(resources/images/california/sequoia-national-park/crystal-cave/CrystalCave_vgane-3030.jpg) center no-repeat;
         background-size: cover;
@@ -14753,7 +14770,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #glacier-point-hero{
-        background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset\,_Yosemite_NP\,_CA\,_US_-_Diliff-3030.jpg) center no-repeat;
+        background: url(resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset\,_Yosemite_NP\,_CA\,_US_-_Diliff-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #el-capitan-hero{
@@ -14839,6 +14856,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     #half-dome-hero{
         background: url(resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half\ Dome\ from\ Glacier\ Point\,\ Yosemite\ NP\ -\ Diliff-3030.jpg) center no-repeat;
         background-size: cover;
+        background-position-y: -100px;
     }
     #mirror-lake-trail-hero{
         background: url(resources/images/california/yosemite-national-park/yosemite-valley/mirror-lake/MirrorLakeYosemiteLandscape-3030.jpg) center no-repeat;

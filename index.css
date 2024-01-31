@@ -1518,6 +1518,10 @@ body {
 }
 .featured.navy {
   margin-top: 34px;
+  max-width: 400px;
+}
+.featured.navy h2 {
+  font-size: 22px;
 }
 
 .featured p {
@@ -1627,6 +1631,7 @@ h4.navy {
 .alert {
   text-align: center;
   color: red;
+  font-weight: 700;
 }
 .pet-alert {
   color: red;
@@ -2748,6 +2753,10 @@ h4.navy {
   }
   .featured.navy {
     margin-top: 50px;
+    max-width: 1000px;
+  }
+  .featured.navy h2 {
+    font-size: 26px;
   }
   .info div:nth-last-child(3) {
     font-size: 16px;
