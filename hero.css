@@ -3335,7 +3335,7 @@ background: url(resources/images/colorado/mesa-verde-national-park/square-tower-
     background-size: cover;
 }
 #wetherill-mesa-hero{
-background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/Hike_from_Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851720881-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/Hike_from_Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851720881-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #long-house-hero{
@@ -3380,7 +3380,7 @@ background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake
     background-size: cover;
 }
 #flattop-mountain-hero{
-background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/flattop-mountain/Flattop_Mountains_Trail\,_Rocky_Mountain_National_Park-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/flattop-mountain/Flattop_Mountains_Trail\,_Rocky_Mountain_National_Park-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #hallett-peak-hero{
@@ -3428,7 +3428,7 @@ background: url(resources/images/colorado/rocky-mountain-national-park/lily-lake
     background-size: cover;
 }
 #longs-peak-hero{
-background: url(resources/images/colorado/rocky-mountain-national-park/longs-peak/Longs_Peak_from_Dream_Lake_Trail_-_panoramio-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/rocky-mountain-national-park/longs-peak/Longs_Peak_from_Dream_Lake_Trail_-_panoramio-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #old-fall-river-hero{
@@ -10394,7 +10394,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #chesler-park-hero{
-    background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-1515.jpg) center no-repeat;
+    background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-1515.jpg) top no-repeat;
     background-size: cover;
     
 }
@@ -10597,7 +10597,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-hero{
-    background: url(resources/images/utah/zion-national-park/matthias-mullie--qg1-dATq0U-unsplash-1515.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/matthias-mullie--qg1-dATq0U-unsplash-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #zion-canyon-hero{
@@ -10609,7 +10609,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-narrows-hero{
-    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-1515.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #zion-subway-hero{
@@ -15245,7 +15245,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #wetherill-mesa-hero{
-        background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/Hike_from_Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851720881-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/mesa-verde-national-park/wetherill-mesa/Hike_from_Step_House\,_Wetherill_Mesa\,_Mesa_Verde_National_Park_4851720881-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #long-house-hero{
@@ -15289,7 +15289,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #flattop-mountain-hero{
-        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/flattop-mountain/Flattop_Mountains_Trail\,_Rocky_Mountain_National_Park-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/rocky-mountain-national-park/bear-lake-area/flattop-mountain/Flattop_Mountains_Trail\,_Rocky_Mountain_National_Park-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #hallett-peak-hero{
@@ -15337,7 +15337,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #longs-peak-hero{
-        background: url(resources/images/colorado/rocky-mountain-national-park/longs-peak/Longs_Peak_from_Dream_Lake_Trail_-_panoramio-3030.jpg) center no-repeat;
+        background: url(resources/images/colorado/rocky-mountain-national-park/longs-peak/Longs_Peak_from_Dream_Lake_Trail_-_panoramio-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #old-fall-river-hero{
@@ -23293,7 +23293,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #chesler-park-hero{
-    background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-3030.jpg) center no-repeat;
+    background: url(resources/images/utah/canyonlands-national-park/canyonlands-needles/chesler-park/Chesler_Park\,_The_Needles\,_Canyonlands_29048042033-3030.jpg) top no-repeat;
     background-size: cover;
     
 }
@@ -23475,7 +23475,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-canyon-hero{
-    background: url(resources/images/utah/zion-national-park/zion-canyon/karan-chawla-Mnm-xauNtEs-unsplash-3030.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/zion-canyon/karan-chawla-Mnm-xauNtEs-unsplash-3030.jpg) top no-repeat;
     background-size: cover;
 }
 #angels-landing-hero{
@@ -23483,7 +23483,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
     background-size: cover;
 }
 #zion-narrows-hero{
-    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-3030.jpg) center no-repeat;
+    background: url(resources/images/utah/zion-national-park/zion-narrows/zion-narrows-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #zion-subway-hero{
