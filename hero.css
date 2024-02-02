@@ -1566,7 +1566,7 @@ background: url(resources/images/california/sacramento/old-sacramento-state-hist
     background-size: cover;
 }
 #sacramento-hero{
-background: url(resources/images/california/sacramento/Sacramento_Skyline_2-1515.jpg) center no-repeat;
+background: url(resources/images/california/sacramento/Sacramento_Skyline_2-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #state-capitol-park-hero{
@@ -13350,7 +13350,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #sacramento-hero{
-        background: url(resources/images/california/sacramento/Sacramento_Skyline_2-3030.jpg) center no-repeat;
+        background: url(resources/images/california/sacramento/Sacramento_Skyline_2-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #state-capitol-park-hero{
