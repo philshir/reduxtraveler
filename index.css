@@ -364,16 +364,16 @@ main {
 }
 .description-one {
   margin: 0 auto;
-  padding: 10px;
+  padding: 16px 10px 26px;
   text-align: center;
 }
 .description-one a {
-  font-size: 18px;
+  font-size: 14px;
   font-weight: 600;
 }
 .description-one h3,
 .description-one h3 a {
-  font-size: 22px;
+  font-size: 18px;
   margin: 0 0 4px 0;
 }
 .description-main {
@@ -494,7 +494,7 @@ rect:hover {
 .map-one h2,
 .map-two h2 {
   text-align: center;
-  font-size: 20px;
+  font-size: 16px;
   margin: 6px 0;
 }
 .map h3 {
@@ -1056,6 +1056,18 @@ h2 a {
   color: rgb(18, 18, 18);
   background-color: #efd867;
   /*  border: 1px solid #86b3fb; */
+}
+.cali-travel-guide {
+  margin: 0;
+  font-family: Tahoma, sans-serif;
+  font-size: 22px;
+  text-align: center;
+
+}
+
+.cali-travel-guide-highlight {
+  margin: 5px 0 0 0;
+  font-size: 14px;
 }
 
 footer {
@@ -1659,11 +1671,12 @@ h4.navy {
   text-align: center;
 }
 .city-state-featured-title {
-  font-size: 24px;
-  color: navy;
+  font-size: 22px;
   text-align: center;
   font-weight: 700;
-  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+    font-family: tahoma;
+    margin: 48px 0 26px;
 }
 .pikes-table {
   font-size: 10px;
@@ -1984,7 +1997,7 @@ h4.navy {
   .map h2,
   .map-one h2, 
   .map-two h2 {
-    font-size: 32px;
+    font-size: 26px;
   }
   .map h3 {
     margin-bottom: 10px;
@@ -1993,7 +2006,7 @@ h4.navy {
     font-size: 32px;
   }
   h2.nyc-regions-title {
-    font-size: 30px;
+    font-size: 26px;
     margin: 75px 0 20px;
   }
   .nyc-regions-margin {
@@ -2109,6 +2122,13 @@ h4.navy {
   .highlights {
     text-align: center;
     font-size: 24px !important;
+  }
+  .cali-travel-guide {
+    font-size: 32px;
+  }
+  
+  .cali-travel-guide-highlight {
+    font-size: 18px;
   }
 
   .redux-logo {
