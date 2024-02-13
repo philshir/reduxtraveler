@@ -706,7 +706,7 @@ tspan.st10.s11 {
   padding-bottom: 3px;
 }
 .logo {
-  position: relative;
+  position: absolute;
   top: 45px;
   left: 10%;
   color: white;
@@ -1327,6 +1327,10 @@ body {
   font-weight: 700;
   font-size: 18px;
 }
+.last-updated {
+  font-size: 10px;
+  font-weight: 300;
+}
 .general-caption {
   margin: 0 !important;
   font-size: 9px;
@@ -1820,6 +1824,11 @@ h4.navy {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.hero img {
+  width: 100%;
+  height: auto;
 }
 
 /* itinerary and best of card layout */
@@ -2797,4 +2806,5 @@ h4.navy {
   .featured .flex {
     max-width: 1000px;
   }
+
 }
