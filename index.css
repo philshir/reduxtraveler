@@ -124,7 +124,7 @@ strong {
 a {
   text-decoration: none;
   transition: 0.7s;
-  color: #0071bc;
+  /* color: #0071bc; */
 }
 a:hover,
 .description-one a:hover {
@@ -171,9 +171,9 @@ a:hover,
 h3 a {
   color: #01395e;
 }
-a:visited {
+/* a:visited {
   color: navy;
-}
+} */
 /* a:visited:hover {
   color: #8fcffa;
 } */
@@ -293,12 +293,29 @@ h3 {
   );
   height: 52px;
   box-shadow: 8px 11px 7px 0px rgba(0, 0, 0, 0.4);
+  position: relative;
+  color: white;
+  top: 0;
+  z-index: 7;
+  width: 100%;
+}
+.main-nav-home-page {
+  background: linear-gradient(
+    135deg,
+    rgba(29, 169, 29, 0.9) 0%,
+    rgba(26, 109, 26, 0.9) 39%,
+    rgba(31, 59, 8, 0.9) 78%,
+    rgba(31, 59, 8, 0.9) 100%
+  );
+  height: 52px;
+  box-shadow: 8px 11px 7px 0px rgba(0, 0, 0, 0.4);
   position: fixed;
   color: white;
   top: 0;
   z-index: 7;
   width: 100%;
 }
+
 main {
   height: 100%;
   font-family: Arial, sans-serif;
@@ -707,8 +724,6 @@ tspan.st10.s11 {
 }
 .logo {
   position: absolute;
-  top: 45px;
-  left: 10%;
   color: white;
   font-size: 28px;
   font-family: Arial;
@@ -716,6 +731,7 @@ tspan.st10.s11 {
   max-width: 90%;
   font-weight: 800;
   font-family: "AvenirLTStd-Black", Verdana, Tahoma, sans-serif;
+  margin: 10px;
 }
 
 .logo-nashville {
@@ -934,6 +950,7 @@ tspan.st10.s11 {
 .img-cards-main {
   width: 100%;
   transition: transform 0.4s;
+  display: block;
 }
 
 .img-cards-intinerary-portrait {
@@ -1831,6 +1848,123 @@ h4.navy {
   height: auto;
 }
 
+/*New landing page crads*/
+.landing-flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 5px 5px 40px;
+}
+.landing-flex .sub-pic{
+  display: flex;
+  flex-direction: column;
+  width: 235px;
+  margin: 5px;
+}
+.landing-flex .portal {
+  width: 100%;
+  height: 35%;
+}
+.landing-card-text {
+  width: 100%;
+  height: 65%;
+  border: solid 1px lightgrey;
+  padding: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+.landing-button{
+  background-color: rgb(246, 200, 114);
+  padding: 10px;
+  border-radius: 5px;
+}
+.best-location-card {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%);
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.landing-flex-title {
+  padding: 20px;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 800;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 700;
+    color: #5b5b5b;
+}
+.social-media-card {
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+.social-media-image {
+  display: block;
+}
+.social-media-title {
+  position: absolute;
+    width: 96%;
+    color: white;
+    font-weight: 900;
+    font-size: 36px;
+    text-align: center;
+    border: solid white 8px;
+    margin: 0 20px;
+    top: 41%;
+    padding: 0 10px;
+}
+.social-media-relative {
+  position: relative;
+}
+.instagram-card {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  /* max-width: 1000px;
+  margin: 0 auto; */
+  height: 350px;
+  background: linear-gradient(
+    to bottom,
+    white 20%,
+    rgb(46, 46, 144) 30% 80%
+  );
+  display: flex;
+  flex-direction: column;
+ align-items: center;
+}
+.instagram-title {
+  color: black;
+  font-size: 36px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+.instagram-collage {
+  border: solid white 2px;
+  height: 150px;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+}
+.instagram-collage img {
+  height: 100%;
+  width: 142px;
+}
+.instagram-button{
+  background-color: white;
+  width: 150px;
+  color: black;
+  font-size: 12px;
+  padding: 7px;
+  border-radius: 5px;
+  margin: 50px;
+  text-align: center;
+}
+
 /* itinerary and best of card layout */
 @media only screen and (min-width: 445px) {
   .itineraries .flex {
@@ -2177,9 +2311,7 @@ h4.navy {
     font-size: 80px;
     display: block;
     max-width: 1170px;
-    margin: 0 auto;
-    padding: 50px 0 0 15px;
-    left: 0;
+    margin: 20px;
   }
 
   .logo-nashville {
@@ -2238,7 +2370,7 @@ h4.navy {
   .hero {
     height: 550px;
   }
-  .main-nav {
+  .main-nav, .main-nav-home-page {
     height: 80px;
   }
   .main-padding {
