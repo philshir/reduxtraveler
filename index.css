@@ -385,8 +385,8 @@ main {
   text-align: center;
 }
 .description-one a {
-  font-size: 14px;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 800;
 }
 .description-one h3,
 .description-one h3 a {
@@ -2694,10 +2694,10 @@ h4.navy {
   }
   .description-one h3,
 .description-one h3 a {
-  font-size: 28px;
+  font-size: 20px;
 }
 .flex h2 {
-  font-size: 28px;
+  font-size: 24px;
 }
 .flex h2 a {
   font-size: 22px;
