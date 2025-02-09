@@ -346,7 +346,7 @@ main {
   overflow: hidden;
 } */
 .featured .flex {
-  margin-bottom: 25px;
+  margin-bottom: 30px;
 }
 
 .flex-more-pics {
@@ -392,6 +392,13 @@ main {
 .description-one h3 a {
   font-size: 18px;
   margin: 0 0 4px 0;
+}
+.description-one ul li {
+  margin: 5px 0;
+}
+.description-one ul {
+  list-style-type: none;
+  padding: 0;
 }
 .description-main {
   width: 100%;
@@ -986,11 +993,6 @@ tspan.st10.s11 {
   width: 150px;
   position: absolute;
   z-index: 6;
-}
-
-h2 a {
-  color: rgb(26, 109, 26);
-  text-decoration: none;
 }
 
 .hero {
