@@ -886,10 +886,12 @@ tspan.st10.s11 {
   width: 0;
   transition: 0.3s ease-in 0.1s;
   font-family: Arial, sans-serif;
+  opacity: 0;
 }
 .move {
   width: 50vw;
   padding: 0;
+  opacity: 1;
 }
 .slider a,
 .dropdown-btn {
@@ -1697,7 +1699,7 @@ h4.navy {
   font-weight: 700;
   font-weight: 700;
     font-family: tahoma;
-    margin: 48px 0 26px;
+    margin: 26px 0 26px;
 }
 .pikes-table {
   font-size: 10px;
