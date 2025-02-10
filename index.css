@@ -2158,6 +2158,9 @@ h4.navy {
     font-size: 26px;
     margin: 75px 0 20px;
   }
+  .nyc-regions-title {
+    margin-top: 50px;
+  }
   .nyc-regions-margin {
     margin: 36px 0;
   }
@@ -2697,7 +2700,7 @@ h4.navy {
   font-size: 20px;
 }
 .flex h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 .flex h2 a {
   font-size: 22px;
