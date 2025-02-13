@@ -332,7 +332,7 @@ main {
   width: 100%;
   margin: 0 auto;
   margin-bottom: 15px;
-  margin-top: 15px;
+  margin-top: 20px;
   /*  border: #cac9c9 solid 1px; */
   /* background: linear-gradient( to bottom, rgba(252, 252, 252, 1) 0%, rgba(252, 252, 252, 1) 25%, rgb(196 224 249) 100% ); */
   box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%);
@@ -386,7 +386,7 @@ main {
 }
 .description-one a {
   font-size: 18px;
-  font-weight: 800;
+  font-weight: 600;
 }
 .description-one h3,
 .description-one h3 a {
@@ -518,7 +518,7 @@ rect:hover {
 .map-one h2,
 .map-two h2 {
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   margin: 6px 0;
 }
 .map h3 {
@@ -1592,6 +1592,13 @@ body {
   font-family: "century gothic", Helvetica, sans-serif !important;
   margin: 20px 0 0;
 }
+.how-to-get-there-title {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "century gothic", Helvetica, sans-serif !important;
+  margin: 0;
+}
 
 .overview-title {
   margin: 0;
@@ -2128,6 +2135,9 @@ h4.navy {
   .navy {
     font-size: 22px;
   }
+  .how-to-get-there-title {
+    font-size: 22px;
+  }
   .sub-category {
     font-size: 18px;
     margin-top: 5px;
@@ -2156,7 +2166,7 @@ h4.navy {
   }
   h2.nyc-regions-title {
     font-size: 26px;
-    margin: 75px 0 20px;
+    margin: 50px 0 20px;
   }
   .nyc-regions-title {
     margin-top: 50px;
@@ -2524,8 +2534,8 @@ h4.navy {
   }
 
   .deco-img {
-    height: 390px;
-    width: 520px;
+    height: auto;
+    width: 500px;
   }
   .portrait {
     height: 520px;
@@ -2688,6 +2698,8 @@ h4.navy {
 }
 .third-party-img {
   max-width: 1000px;
+  width: 500px;
+  margin: 0 auto;
 }
 }
 
@@ -2697,7 +2709,7 @@ h4.navy {
   }
   .description-one h3,
 .description-one h3 a {
-  font-size: 20px;
+  font-size: 24px;
 }
 .flex h2 {
   font-size: 22px;
