@@ -5762,7 +5762,7 @@ background: url(resources/images/louisiana/new-orleans/mardi-gras/zulu-parade/Zu
     background-size: cover;
 }
 #city-park-no-hero{
-    background: url(resources/images/louisiana/new-orleans/city-park/new-orleans-city-park-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/new-orleans-city-park/new-orleans-city-park-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cafe-du-monde-hero{
@@ -5806,7 +5806,7 @@ background: url(resources/images/louisiana/new-orleans/mardi-gras/zulu-parade/Zu
     background-size: cover;
 }
 #spanish-plaza-hero{
-    background: url(resources/images/louisiana/new-orleans/french-quarter/spanish-plaza/spanisg-plaza-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/louisiana/new-orleans/french-quarter/spanish-plaza/spanish-plaza-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #st-louis-cathedral-hero{
@@ -10303,6 +10303,7 @@ background: url(resources/images/texas/big-bend-national-park/ross-maxwell-sceni
 #arches-hero{
     background: url(resources/images/utah/arches-national-park/delicate-arch/delicate-arch-hero-1515.jpg) center no-repeat;
     background-size: cover;
+    background-position-y: -100px;
 }
 #balanced-rock-hero{
     background: url(resources/images/utah/arches-national-park/balanced-rock/balanced-rock-hero-1515.jpg) center no-repeat;
@@ -20184,7 +20185,7 @@ background: url(resources/images/pennsylvania/reading-pagoda/Pagoda_panorama-303
         background-size: cover;
     }
     #city-park-no-hero{
-        background: url(resources/images/louisiana/new-orleans/city-park/new-orleans-city-park-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/louisiana/new-orleans/new-orleans-city-park/new-orleans-city-park-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #french-quarter-hero{
