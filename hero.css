@@ -2175,7 +2175,7 @@ background: url(resources/images/california/los-angeles/sony-pictures-studio/Son
     background-size: cover;
 }
 #third-street-promenade-hero{
-background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_–_Third_Street_Promenade_a_06_Sept_2017-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_–_Third_Street_Promenade_a_06_Sept_2017-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #uss-iowa-hero{
@@ -2830,7 +2830,7 @@ background: url(resources/images/california/fort-ord-national-monument/Fort_Ord_
     background-size: cover;
 }
 #lava-beds-nm-hero{
-background: url(resources/images/california/lava-beds-national-monument/Lava_Beds_National_Monument_with_Mt_Shasta_15121699451-1515.jpg) center no-repeat;
+background: url(resources/images/california/lava-beds-national-monument/Lava_Beds_National_Monument_with_Mt_Shasta_15121699451-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #lost-coast-hero{
@@ -5555,15 +5555,19 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
     background-size: cover;
 }
 #belle-louisville-hero{
-background: url(resources/images/kentucky/louisville/belle-of-louisville/belle-of-louisville-hero-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky/louisville/belle-of-louisville/88d093_Belle_of_Louisville_with_Conrail_Bridge_in_distance_29463234672-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #big-four-bridge-hero{
 background: url(resources/images/kentucky/louisville/big-four-bridge/big-four-bridge-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cave-hill-hero{
+   background: url(resources/images/kentucky/louisville/cave-hill-cemetery/cave-hill-cemetery-hero-1515.jpg) top no-repeat;
+    background-size: cover; 
+}
 #cherokee-park-hero{
-background: url(resources/images/kentucky/louisville/cherokee-park/cherokee-park-hero-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky/louisville/cherokee-park/cherokee-park-hero-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #churchill-downs-hero{
@@ -5615,7 +5619,7 @@ background: url(resources/images/kentucky/louisville/thunder-over-louisville/201
     background-size: cover;
 }
 #waverly-hills-hero{
-background: url(resources/images/kentucky/louisville/waverly-hills-sanatorium/Waverly_Hills_Sanatorium_2018-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky/louisville/waverly-hills-sanatorium/Waverly_Hills_Sanatorium_2018-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #ark-encounter-hero{
@@ -5631,7 +5635,7 @@ background: url(resources/images/kentucky/cumberland-gap-national-historical-par
     background-size: cover;
 }
 #keeneland-hero{
-background: url(resources/images/kentucky/lexington/keeneland/Keeneland_gate-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/keeneland/Keenelands_Winning_horse_returns-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #kentucky-bourbon-trail-hero{
@@ -5639,7 +5643,7 @@ background: url(resources/images/kentucky/kentucky-bourbon-trail/Jim_Beam_-_Amer
     background-size: cover;
 }
 #kentucky-horse-park-hero{
-background: url(resources/images/kentucky/lexington/kentucky-horse-park/Gate_at_Kentucky_Horse_Park-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/kentucky-horse-park/RolexFence1-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #kentucky-state-capitol-hero{
@@ -13977,7 +13981,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #third-street-promenade-hero{
-        background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_–_Third_Street_Promenade_a_06_Sept_2017-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/third-street-promenade/Santa_Monica_–_Third_Street_Promenade_a_06_Sept_2017-3030.jpg) bottom no-repeat;
             background-size: cover;
         }
     #uss-iowa-hero{
@@ -14624,7 +14628,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #lava-beds-nm-hero{
-    background: url(resources/images/california/lava-beds-national-monument/Lava_Beds_National_Monument_with_Mt_Shasta_15121699451-3030.jpg) center no-repeat;
+    background: url(resources/images/california/lava-beds-national-monument/Lava_Beds_National_Monument_with_Mt_Shasta_15121699451-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #lost-coast-hero{
@@ -17351,15 +17355,19 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
     background-size: cover;
 }
 #belle-louisville-hero{
-background: url(resources/images/kentucky/louisville/belle-of-louisville/belle-of-louisville-hero-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/louisville/belle-of-louisville/88d093_Belle_of_Louisville_with_Conrail_Bridge_in_distance_29463234672-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #big-four-bridge-hero{
 background: url(resources/images/kentucky/louisville/big-four-bridge/big-four-bridge-hero-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#cave-hill-hero{
+   background: url(resources/images/kentucky/louisville/cave-hill-cemetery/cave-hill-cemetery-hero-3030.jpg) top no-repeat;
+    background-size: cover; 
+}
 #cherokee-park-hero{
-background: url(resources/images/kentucky/louisville/cherokee-park/cherokee-park-hero-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/louisville/cherokee-park/cherokee-park-hero-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #churchill-downs-hero{
@@ -17411,7 +17419,7 @@ background: url(resources/images/kentucky/louisville/thunder-over-louisville/201
     background-size: cover;
 }
 #waverly-hills-hero{
-background: url(resources/images/kentucky/louisville/waverly-hills-sanatorium/Waverly_Hills_Sanatorium_2018-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/louisville/waverly-hills-sanatorium/Waverly_Hills_Sanatorium_2018-3030.jpg) bottom no-repeat;
     background-size: cover;
 }
 #ark-encounter-hero{
@@ -17427,7 +17435,7 @@ background: url(resources/images/kentucky/cumberland-gap-national-historical-par
     background-size: cover;
 }
 #keeneland-hero{
-background: url(resources/images/kentucky/lexington/keeneland/Keeneland_gate-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/keeneland/Keenelands_Winning_horse_returns-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #kentucky-bourbon-trail-hero{
@@ -17435,7 +17443,7 @@ background: url(resources/images/kentucky/kentucky-bourbon-trail/Jim_Beam_-_Amer
     background-size: cover;
 }
 #kentucky-horse-park-hero{
-background: url(resources/images/kentucky/lexington/kentucky-horse-park/Gate_at_Kentucky_Horse_Park-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/lexington/kentucky-horse-park/RolexFence1-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #kentucky-state-capitol-hero{

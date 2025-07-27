@@ -1306,6 +1306,22 @@ body {
   );
   color: #fff;
 }
+
+.title-no-hero-img {
+  
+  padding: 15px;
+  z-index: 5;
+  font-family: Arial, sans-serif;
+  position: relative;
+  width: 100%;
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.5) 21%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  color: #fff;
+}
 /* .nav-spacing {
   height: 50px;
 } */
@@ -2517,6 +2533,11 @@ h4.navy {
     top: 80px;
     padding: 15px 15px 40px 30px;
   }
+
+  .title-no-hero-img {
+    padding: 15px 15px 40px 30px;
+  }
+
   .main-article {
     grid-column-start: 1;
     grid-row-start: 1;
