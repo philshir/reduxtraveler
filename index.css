@@ -1442,8 +1442,16 @@ body {
   display: block;
   max-width: 400px;
 }
+
 .city-location-card-image {
   position: relative;
+}
+
+.city-location-card-image-svg {
+  position: relative;
+  width: 100%;
+  background-color: darkgreen;
+  padding: 10px;
 }
 
 .unfinished {

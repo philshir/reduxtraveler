@@ -5598,6 +5598,14 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
     background: url(resources/images/kentucky/camp-nelson-national-monument/Camp_Nelson_National_Monument_f6bf9607-d504-4e37-b66b-14e368868238-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#creation-museum-hero{
+    background: url(resources/images/kentucky/creation-museum/15_23_1113_creation_museum-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#george-patton-museum-hero{
+    background: url(resources/images/kentucky/general-george-patton-museum-of-leadership/M60_Patton_Patton_Tank_P5250358-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #lincoln-birthplace-nhp{
     background: url(resources/images/kentucky/abraham-lincoln-birthplace-national-historical-park/Abraham_Lincoln_Birthplace_NHS-1515.jpg) center no-repeat;
     background-size: cover;
@@ -5606,8 +5614,85 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
     background: url(resources/images/kentucky/fort-boonesborough-state-park/2560px-Fort_Boonesborough_reproduction\,_KY\,_US_03-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#hidden-river-cave-hero{
+    background: url(resources/images/kentucky/hidden-river-cave-and-american-cave-museum/Hidden_River_Cave_Horse_Cave\,_Kentucky\,_USA_7-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#john-james-audubon-sp-hero{
+    background: url(resources/images/kentucky/john-james-audubon-state-park/Audubonwildernesslake-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#kentucky-artisan-hero{
+    background: url(resources/images/kentucky/kentucky-artisan-center/Kentucky_Artisans_Center_-_October_2023_-_Sarah_Stierch_02-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mill-springs-nm-hero{
+    background: url(resources/images/kentucky/mill-springs-battlefield-national-monument/MILL_SPRINGS_MILL-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#shaker-village-pleasant-hill-hero{
+    background: url(resources/images/kentucky/shaker-village-of-pleasant-hill/Shakertown_Trustees_House_2005-05-27-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#smothers-park-hero{
+    background: url(resources/images/kentucky/smothers-park/Smothers_Park_Downtown_Owensboro-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#yuko-en-hero{
+    background: url(resources/images/kentucky/yuko-en-on-elkhorn/Yuko-En_on_the_Elkhorn\,_Georgetown_Kentucky-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #green-river-ky-hero{
     background: url(resources/images/kentucky/mammoth-cave-national-park/green-river/Green_River_NPS-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cathedral-basilica-assumption-ky-hero{
+    background: url(resources/images/kentucky/covington/cathedral-basilica-of-assumption/St._Mary_-_Covington_04-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#covington-ky-hero{
+    background: url(resources/images/kentucky/covington/Covington\,_Kentucky-1515.jpg) top no-repeat;
+    background-size: cover;
+}
+#devou-hero{
+    background: url(resources/images/kentucky/covington/devou-park/Cincinnati_view-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#newport-aquarium-hero{
+    background: url(resources/images/kentucky/covington/newport-aquarium/Petting_station_Newport_Aquarium-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#riverfront-commons-trail-hero{
+    background: url(resources/images/kentucky/mammoth-cave-national-park/green-river/Green_River_NPS-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#vent-haven-hero{
+    background: url(resources/images/kentucky/covington/vent-haven-museum/Vent_Haven_Museum_8033473130-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#daniel-boones-grave-hero{
+    background: url(resources/images/kentucky/frankfort/daniel-boones-grave/Daniel_Boones_Grave_Site-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-governors-mansion-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-governors-mansion/Kentucky_Governors_Mansion-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-historical-society-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-historical-society/The_façade_of_the_Thomas_D._Clark_Center_for_Kentucky_History_in_Frankfort\,_Kentucky-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-old-governors-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-old-governors-mansion/Old_Governors_Mansion_—_Frankfort\,_Kentucky-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-old-state-capitol-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-old-state-capitol/Old_Kentucky_State_House\,_Broadway_Street_and_St._Clair_Street\,_Frankfort\,_KY_-_53028412902-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#liberty-hall-historic-hero{
+    background: url(resources/images/kentucky/frankfort/liberty-hall-historic-site/Liberty_Hall_—_Frankfort\,_Kentucky-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #belle-louisville-hero{
@@ -5703,7 +5788,7 @@ background: url(resources/images/kentucky/lexington/kentucky-horse-park/RolexFen
     background-size: cover;
 }
 #kentucky-state-capitol-hero{
-background: url(resources/images/kentucky/kentucky-state-capitol/U.S._Route_60_Frankfort\,_KY_23892062134-1515.jpg) center no-repeat;
+background: url(resources/images/kentucky//frankfort/kentucky-state-capitol/U.S._Route_60_Frankfort\,_KY_23892062134-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lexington-hero{
@@ -17479,6 +17564,14 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
     background: url(resources/images/kentucky/camp-nelson-national-monument/Camp_Nelson_National_Monument_f6bf9607-d504-4e37-b66b-14e368868238-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#creation-museum-hero{
+    background: url(resources/images/kentucky/creation-museum/15_23_1113_creation_museum-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#george-patton-museum-hero{
+    background: url(resources/images/kentucky/general-george-patton-museum-of-leadership/M60_Patton_Patton_Tank_P5250358-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #lincoln-birthplace-nhp{
     background: url(resources/images/kentucky/abraham-lincoln-birthplace-national-historical-park/Abraham_Lincoln_Birthplace_NHS-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17487,10 +17580,88 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
     background: url(resources/images/kentucky/fort-boonesborough-state-park/2560px-Fort_Boonesborough_reproduction\,_KY\,_US_03-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#hidden-river-cave-hero{
+    background: url(resources/images/kentucky/hidden-river-cave-and-american-cave-museum/Hidden_River_Cave_Horse_Cave\,_Kentucky\,_USA_7-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#john-james-audubon-sp-hero{
+    background: url(resources/images/kentucky/john-james-audubon-state-park/Audubonwildernesslake-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#kentucky-artisan-hero{
+    background: url(resources/images/kentucky/kentucky-artisan-center/Kentucky_Artisans_Center_-_October_2023_-_Sarah_Stierch_02-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mill-springs-nm-hero{
+    background: url(resources/images/kentucky/mill-springs-battlefield-national-monument/MILL_SPRINGS_MILL-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#shaker-village-pleasant-hill-hero{
+    background: url(resources/images/kentucky/shaker-village-of-pleasant-hill/Shakertown_Trustees_House_2005-05-27-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#smothers-park-hero{
+    background: url(resources/images/kentucky/smothers-park/Smothers_Park_Downtown_Owensboro-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#yuko-en-hero{
+    background: url(resources/images/kentucky/yuko-en-on-elkhorn/Yuko-En_on_the_Elkhorn\,_Georgetown_Kentucky-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #green-river-ky-hero{
     background: url(resources/images/kentucky/mammoth-cave-national-park/green-river/Green_River_NPS-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#cathedral-basilica-assumption-ky-hero{
+    background: url(resources/images/kentucky/covington/cathedral-basilica-of-assumption/St._Mary_-_Covington_04-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#covington-ky-hero{
+    background: url(resources/images/kentucky/covington/Covington\,_Kentucky-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#devou-hero{
+    background: url(resources/images/kentucky/covington/devou-park/Cincinnati_view-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#newport-aquarium-hero{
+    background: url(resources/images/kentucky/covington/newport-aquarium/Petting_station_Newport_Aquarium-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#riverfront-commons-trail-hero{
+    background: url(resources/images/kentucky/mammoth-cave-national-park/green-river/Green_River_NPS-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#vent-haven-hero{
+    background: url(resources/images/kentucky/covington/vent-haven-museum/Vent_Haven_Museum_8033473130-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
+#daniel-boones-grave-hero{
+    background: url(resources/images/kentucky/frankfort/daniel-boones-grave/Daniel_Boones_Grave_Site-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-governors-mansion-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-governors-mansion/Kentucky_Governors_Mansion-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-historical-society-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-historical-society/The_façade_of_the_Thomas_D._Clark_Center_for_Kentucky_History_in_Frankfort\,_Kentucky-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-old-governors-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-old-governors-mansion/Old_Governors_Mansion_—_Frankfort\,_Kentucky-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#ky-old-state-capitol-hero{
+    background: url(resources/images/kentucky/frankfort/kentucky-old-state-capitol/Old_Kentucky_State_House\,_Broadway_Street_and_St._Clair_Street\,_Frankfort\,_KY_-_53028412902-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#liberty-hall-historic-hero{
+    background: url(resources/images/kentucky/frankfort/liberty-hall-historic-site/Liberty_Hall_—_Frankfort\,_Kentucky-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+
 #belle-louisville-hero{
 background: url(resources/images/kentucky/louisville/belle-of-louisville/88d093_Belle_of_Louisville_with_Conrail_Bridge_in_distance_29463234672-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17584,7 +17755,7 @@ background: url(resources/images/kentucky/lexington/kentucky-horse-park/RolexFen
     background-size: cover;
 }
 #kentucky-state-capitol-hero{
-background: url(resources/images/kentucky/kentucky-state-capitol/U.S._Route_60_Frankfort\,_KY_23892062134-3030.jpg) center no-repeat;
+background: url(resources/images/kentucky/frankfort/kentucky-state-capitol/U.S._Route_60_Frankfort\,_KY_23892062134-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #lexington-hero{
