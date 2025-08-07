@@ -1493,8 +1493,12 @@ background: url(resources/images/california/los-angeles/los-angeles-river-viaduc
 background: url(resources/images/california/los-angeles/pershing-square/Pershing_Square-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#hollywood-hero{
+    background: url(resources/images/california/los-angeles/Los_Angeles_2016_Hollywood_boulevard\,_Kodak_Theatre_4-1515.jpg) top no-repeat;
+    background-size: cover;   
+}
 #hollywood-boulevard-hero{
-    background: url(resources/images/california/los-angeles/hollywood-boulevard/Los_Angeles_2016_Hollywood_boulevard\,_Kodak_Theatre_4-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/hollywood-boulevard/Hollywood_-_Los_Angeles\,_California\,_USA_2022_1-1515.jpg) bottom no-repeat;
     background-size: cover;   
 }
 #hollyhock-house-hero{
@@ -1807,6 +1811,10 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background: url(resources/images/california/carmel-by-the-sea/clinton-walker-house/clinton-walker-house-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#castle-rock-regional-hero {
+        background: url(resources/images/california/castle-rock-regional-recreation-area/Castle_Rock_Regional_Park_-_panoramio_3-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #anacapa-hero{
     background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2034,11 +2042,24 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #aquarium-pacific-hero{
-    background: url(resources/images/california/los-angeles/aquarium-of-the-pacific/aquarium-pacific-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/aquarium-of-the-pacific/Aquarium_of_the_Pacific_2024_February-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #beverly-hills-hero{
     background: url(resources/images/california/los-angeles/beverly-hills/HSY-_Beverly_Hills_House-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+
+    #electric-fountain-hero{
+    background: url(resources/images/california/los-angeles/beverly-hills/electric-fountain/Electric_Fountain_in_Beverly_Hills\,_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+    #spadena-house-hero{
+    background: url(resources/images/california/los-angeles/beverly-hills/spadena-house/2009-0627-SpadenaWitch-house-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#will-rogers-memorial-park-hero{
+    background: url(resources/images/california/los-angeles/beverly-hills/will-rogers-memorial-park/View_of_the_fountain_in_the_Will_Rogers_Memorial_Park_in_Beverly_Hills\,_California-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #ca-science-center-hero{
@@ -2091,7 +2112,7 @@ background: url(resources/images/california/los-angeles/sunset-strip/chateau-mar
     background-size: cover;
 }
 #comedy-store-hero{
-background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/ComedyStore\ 02-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/The_Comedy_Store_West_Hollywood_51017780551-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #rainbow-la-hero{
@@ -2115,7 +2136,7 @@ background: url(resources/images/california/los-angeles/sunset-strip/whiskey-a-g
     background-size: cover;
 }
 #mulholland-drive-hero{
-background: url(resources/images/california/los-angeles/mulholland-drive/Aerial_view_of_Mulholland_Drive\,_Los_Angeles\,_California_LCCN2013632627.tif-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/mulholland-drive/Aerial_view_of_Mulholland_Drive\,_Los_Angeles\,_California_LCCN2013632627.tif-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #paramount-pictures-hero{
@@ -2131,7 +2152,7 @@ background: url(resources/images/california/los-angeles/sunset-boulevard/Sunset_
     background-size: cover;
 }
 #tcl-chinese-hero{
-background: url(resources/images/california/los-angeles/tcl-chinese-theatre/Graumans_Chinese_Theatre-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/tcl-chinese-theatre/Hollywood_-_Los_Angeles\,_California\,_USA_2022_7-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #echo-park-hero{
@@ -2139,7 +2160,7 @@ background: url(resources/images/california/los-angeles/echo-park/20190616154621
     background-size: cover;
 }
 #gamble-house-hero{
-background: url(resources/images/california/los-angeles/gamble-house/Gamble_House_4-1515.jpg) center no-repeat;
+background: url(resources/images/california/los-angeles/gamble-house/Gamble_House_2016-1-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #korean-bell-of-friendship-hero{
@@ -2220,7 +2241,7 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
     background-size: cover;
 }
 #santa-monica-hero{
-    background: url(resources/images/california/los-angeles/santa-monica-beach-and-pier/santa-monica-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/santa-monica-beach-and-pier/Santa_Monica_Pier_from_Santa_Monica_State_Beach_03-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #union-station-hero{
@@ -2228,7 +2249,7 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
     background-size: cover;
 }
 #venice-beach-hero{
-    background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/venice-beach/Venice_Beach\,_Los_Angeles\,_California\,_USA_52538279473-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #walt-concert-hero{
@@ -2445,7 +2466,7 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background-size: cover;
 }
 #belmont-park-hero{
-    background: url(resources/images/california/san-diego/belmont-park/Giant_Dipper_Roller_Coaster-10-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/belmont-park/Giant_Dipper_Roller_Coaster-10-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #blacks-beach-hero{
@@ -2453,7 +2474,7 @@ background: url(resources/images/california/san-diego/bl) center no-repeat;
     background-size: cover;
 }
 #cowles-mtn-hero{
-background: url(resources/images/california/san-diego/cowles-mountain/Cowles_Mountain-1515.jpg) center no-repeat;
+background: url(resources/images/california/san-diego/cowles-mountain/El_Cajon_Mountain_from_Cowles_Mountain-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #gaslamp-hero{
@@ -2530,11 +2551,11 @@ background: url(resources/images/california/san-diego/stuart-collection/Bear\,_U
 }
 
 #cabrillo-hero{
-    background: url(resources/images/california/san-diego/cabrillo-national-monument/cabrillo-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/cabrillo-national-monument/Statue_of_Cabrillo-Cabrillo_National_Monument-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #coronado-beach-hero{
-    background: url(resources/images/california/san-diego/coronado-beach/Hotel_del_Coronado-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/coronado-beach/Hotel_del_Coronado-1515.jpg) bottom no-repeat;
     background-size: cover;
 }
 #maritime-hero{
@@ -2753,17 +2774,37 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #palm-springs-hero{
-    background: url(resources/images/california/palm-springs/palm-springs-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/palm-springs/ODonnell_Golf_Club-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#agua-caliente-museum-hero{
+        background: url(resources/images/california/palm-springs/agua-caliente-cultural-museum/Photo_Courtesy_of_The_Agua_Caliente_Band_of_Cahuilla_Indians-1515.jpg) top no-repeat;
+        background-size: cover;
+    }
 #mount-san-jacinto-hero{
-    background: url(resources/images/california/palm-springs/mount-san-jacinto/Santa_Rosa_and_San_Jacinto_Mountains_NM_9417743168-1515.jpg) center no-repeat;
+    background: url(resources/images/california/palm-springs/mount-san-jacinto/Near_the_top_of_Mount_San_Jacinto\,_California-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #palm-springs-aerial-hero{
     background: url(resources/images/california/palm-springs/palm-springs-aerial-tram/Palm_Springs_Aerial_Tram\,_CA_4-15_24022767713-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#palm-springs-air-museum-hero{
+        background: url(resources/images/california/palm-springs/palm-springs-air-museum/Navy_retires_Prowler_at_Palm_Springs_Air_Museum_141121-M-FZ867-668-1515.jpg) top no-repeat;
+        background-size: cover;
+    }
+    #palm-springs-art-museum-hero{
+        background: url(resources/images/california/palm-springs/palm-springs-art-museum/WLM_Palm_Springs_Art_Museum_front-1515.jpg) top no-repeat;
+        background-size: cover;
+    }
+    #psam-design-hero{
+        background: url(resources/images/california/palm-springs/palm-springs-art-museum-architecture-and-design-center/Palm_Springs_Art_Museum_Architecture_&_Design_Centerr-Edwards_Harris_Pavilion_01-1515.jpg) top no-repeat;
+        background-size: cover;
+    }
+    #walk-stars-palm-hero{
+        background: url(resources/images/california/palm-springs/walk-of-the-stars-palm-springs/Monty_Hall_Star-1515.jpg) top no-repeat;
+        background-size: cover;
+    }
 #palm-canyon-hero{
     background: url(resources/images/california/palm-springs/palm-canyon/Washingtonia_filifera_in_Palm_Canyon-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2918,6 +2959,10 @@ background: url(resources/images/california/santa-monica-national-recreation-are
 background: url(resources/images/california/silicon-valley/Aerial_view_of_Apple_Park_dllu-1515.jpg) center no-repeat;
     background-size: cover;
 }
+ #mount-diablo-sp-hero{
+    background: url(resources/images/california/mount-diablo-state-park/Mt_diablo_north_peak-1515.jpg) top no-repeat;
+        background-size: cover;
+    }
 #mount-tamalpais-hero{
 background: url(resources/images/california/mount-tamalpais/Alexander_Avenue_Bridge_with_Mt._Tamalpais-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2930,12 +2975,16 @@ background: url(resources/images/california/pisgah-crater/Inside_one_of_the_Lava
 background: url(resources/images/california/potato-chip-rock/Line_of_People_at_Potato_Chip_Rock-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#tilden-regional-hero{
+background: url(resources/images/california/tilden-regional-park/Tilden_march-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #vasquez-rocks-hero{
 background: url(resources/images/california/vasquez-rocks-natural-area-and-nature-center/Vasquez_Rocks_15256385224-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #walker-canyon-hero{
-background: url(resources/images/california/walker-canyon/walker-canyon-hero-1515.jpg) center no-repeat;
+background: url(resources/images/california/walker-canyon/190313_067_Lake_Elsinore\,_Walker_Canyon_Rd_-_Hill_Top_Drive_Trail\,_Echscholzia_californica_California_Poppy-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #will-rogers-state-beach-hero{
@@ -5606,6 +5655,10 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
     background: url(resources/images/kentucky/general-george-patton-museum-of-leadership/M60_Patton_Patton_Tank_P5250358-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#hidden-river-cave-hero{
+    background: url(resources/images/kentucky/hidden-river-cave-and-american-cave-museum/Hidden_River_Cave_Horse_Cave\,_Kentucky\,_USA_7-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #lincoln-birthplace-nhp{
     background: url(resources/images/kentucky/abraham-lincoln-birthplace-national-historical-park/Abraham_Lincoln_Birthplace_NHS-1515.jpg) center no-repeat;
     background-size: cover;
@@ -5628,6 +5681,14 @@ background: url(resources/images/iowa/maquoketa-caves-state-park/Maquoketa_Caves
 }
 #mill-springs-nm-hero{
     background: url(resources/images/kentucky/mill-springs-battlefield-national-monument/MILL_SPRINGS_MILL-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#muir-valley-climbing-hero{
+    background: url(resources/images/kentucky/muir-valley-climbing-and-nature-preserve/Red_River_Gorge_-_Solarium-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#raven-run-hero{
+    background: url(resources/images/kentucky/raven-run-nature-sanctuary/Raven_Run-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #shaker-village-pleasant-hill-hero{
@@ -13467,8 +13528,12 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/los-angeles/pershing-square/Pershing_Square-3030.jpg) center no-repeat;
             background-size: cover;
         }
+        #hollywood-hero{
+    background: url(resources/images/california/los-angeles/Los_Angeles_2016_Hollywood_boulevard\,_Kodak_Theatre_4-3030.jpg) top no-repeat;
+    background-size: cover;   
+}
         #hollywood-boulevard-hero{
-            background: url(resources/images/california/los-angeles/hollywood-boulevard/Los_Angeles_2016_Hollywood_boulevard\,_Kodak_Theatre_4-3030.jpg) center no-repeat;
+            background: url(resources/images/california/los-angeles/hollywood-boulevard/Hollywood_-_Los_Angeles\,_California\,_USA_2022_1-3030.jpg) bottom no-repeat;
             background-size: cover;   
         }
         #hollyhock-house-hero{
@@ -13780,6 +13845,10 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/carmel-by-the-sea/clinton-walker-house/clinton-walker-house-3030.jpg) center no-repeat;
         background-size: cover;
     }
+        #castle-rock-regional-hero {
+        background: url(resources/images/california/castle-rock-regional-recreation-area/Castle_Rock_Regional_Park_-_panoramio_3-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
     #anacapa-hero{
         background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-3030.jpg) center no-repeat;
         background-size: cover;
@@ -14005,13 +14074,25 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #aquarium-pacific-hero{
-        background: url(resources/images/california/los-angeles/aquarium-of-the-pacific/aquarium-pacific-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/aquarium-of-the-pacific/Aquarium_of_the_Pacific_2024_February-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #beverly-hills-hero{
         background: url(resources/images/california/los-angeles/beverly-hills/HSY-_Beverly_Hills_House-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #electric-fountain-hero{
+    background: url(resources/images/california/los-angeles/beverly-hills/electric-fountain/Electric_Fountain_in_Beverly_Hills\,_California-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+    #spadena-house-hero{
+    background: url(resources/images/california/los-angeles/beverly-hills/spadena-house/2009-0627-SpadenaWitch-house-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#will-rogers-memorial-park-hero{
+    background: url(resources/images/california/los-angeles/beverly-hills/will-rogers-memorial-park/View_of_the_fountain_in_the_Will_Rogers_Memorial_Park_in_Beverly_Hills\,_California-3030.jpg) center no-repeat;
+    background-size: cover;
+}
     #ca-science-center-hero{
         background: url(resources/images/california/los-angeles/california-science-center/Endeavour_at_California_Science_Center-3030.jpg) center no-repeat;
         background-size: cover;
@@ -14063,7 +14144,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #comedy-store-hero{
-    background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/ComedyStore\ 02-3030.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/sunset-strip/comedy-store/The_Comedy_Store_West_Hollywood_51017780551-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #rainbow-la-hero{
@@ -14087,7 +14168,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #mulholland-drive-hero{
-    background: url(resources/images/california/los-angeles/mulholland-drive/Aerial_view_of_Mulholland_Drive\,_Los_Angeles\,_California_LCCN2013632627.tif-3030.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/mulholland-drive/Aerial_view_of_Mulholland_Drive\,_Los_Angeles\,_California_LCCN2013632627.tif-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #paramount-pictures-hero{
@@ -14103,7 +14184,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #tcl-chinese-hero{
-        background: url(resources/images/california/los-angeles/tcl-chinese-theatre/Graumans_Chinese_Theatre-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/tcl-chinese-theatre/Hollywood_-_Los_Angeles\,_California\,_USA_2022_7-3030.jpg) center no-repeat;
             background-size: cover;
         }
     #echo-park-hero{
@@ -14111,7 +14192,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #gamble-house-hero{
-    background: url(resources/images/california/los-angeles/gamble-house/Gamble_House_4-3030.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/gamble-house/Gamble_House_2016-1-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #korean-bell-of-friendship-hero{
@@ -14192,7 +14273,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #santa-monica-hero{
-        background: url(resources/images/california/los-angeles/santa-monica/santa-monica-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/santa-monica-beach-and-pier/Santa_Monica_Pier_from_Santa_Monica_State_Beach_03-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #union-station-hero{
@@ -14200,7 +14281,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #venice-beach-hero{
-        background: url(resources/images/california/los-angeles/venice-beach/venice-beach-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/venice-beach/Venice_Beach\,_Los_Angeles\,_California\,_USA_52538279473-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #walt-concert-hero{
@@ -14409,11 +14490,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #belmont-park-hero{
-        background: url(resources/images/california/san-diego/belmont-park/Giant_Dipper_Roller_Coaster-10-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-diego/belmont-park/Giant_Dipper_Roller_Coaster-10-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #cowles-mtn-hero{
-    background: url(resources/images/california/san-diego/cowles-mountain/Cowles_Mountain-3030.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/cowles-mountain/El_Cajon_Mountain_from_Cowles_Mountain-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #gaslamp-hero{
@@ -14490,11 +14571,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
 
     #cabrillo-hero{
-        background: url(resources/images/california/san-diego/cabrillo/cabrillo-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-diego/cabrillo-national-monument/Statue_of_Cabrillo-Cabrillo_National_Monument-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #coronado-beach-hero{
-        background: url(resources/images/california/san-diego/coronado-beach/Hotel_del_Coronado-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-diego/coronado-beach/Hotel_del_Coronado-3030.jpg) bottom no-repeat;
         background-size: cover;
     }
     #maritime-hero{
@@ -14716,15 +14797,35 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #palm-springs-hero{
-        background: url(resources/images/california/palm-springs/palm-springs-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/palm-springs/ODonnell_Golf_Club-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #agua-caliente-museum-hero{
+        background: url(resources/images/california/palm-springs/agua-caliente-cultural-museum/Photo_Courtesy_of_The_Agua_Caliente_Band_of_Cahuilla_Indians-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #mount-san-jacinto-hero{
-        background: url(resources/images/california/palm-springs/mount-san-jacinto/Santa_Rosa_and_San_Jacinto_Mountains_NM_9417743168-3030.jpg) center no-repeat;
+        background: url(resources/images/california/palm-springs/mount-san-jacinto/Near_the_top_of_Mount_San_Jacinto\,_California-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #palm-springs-aerial-hero{
         background: url(resources/images/california/palm-springs/palm-springs-aerial-tram/Palm_Springs_Aerial_Tram\,_CA_4-15_24022767713-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #palm-springs-air-museum-hero{
+        background: url(resources/images/california/palm-springs/palm-springs-air-museum/Navy_retires_Prowler_at_Palm_Springs_Air_Museum_141121-M-FZ867-668-3030.jpg) top no-repeat;
+        background-size: cover;
+    }
+    #palm-springs-art-museum-hero{
+        background: url(resources/images/california/palm-springs/palm-springs-art-museum/WLM_Palm_Springs_Art_Museum_front-3030.jpg) top no-repeat;
+        background-size: cover;
+    }
+    #psam-design-hero{
+        background: url(resources/images/california/palm-springs/palm-springs-art-museum-architecture-and-design-center/Palm_Springs_Art_Museum_Architecture_&_Design_Centerr-Edwards_Harris_Pavilion_01-3030.jpg) top no-repeat;
+        background-size: cover;
+    }
+    #walk-stars-palm-hero{
+        background: url(resources/images/california/palm-springs/walk-of-the-stars-palm-springs/Monty_Hall_Star-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #palm-canyon-hero{
@@ -14882,6 +14983,10 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background: url(resources/images/california/silicon-valley/Aerial_view_of_Apple_Park_dllu-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #mount-diablo-sp-hero{
+    background: url(resources/images/california/mount-diablo-state-park/Mt_diablo_north_peak-3030.jpg) top no-repeat;
+        background-size: cover;
+    }
     #mount-tamalpais-hero{
     background: url(resources/images/california/mount-tamalpais/Alexander_Avenue_Bridge_with_Mt._Tamalpais-3030.jpg) center no-repeat;
         background-size: cover;
@@ -14894,12 +14999,16 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background: url(resources/images/california/potato-chip-rock/Line_of_People_at_Potato_Chip_Rock-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #tilden-regional-hero{
+background: url(resources/images/california/tilden-regional-park/Tilden_march-3030.jpg) center no-repeat;
+    background-size: cover;
+}
     #vasquez-rocks-hero{
     background: url(resources/images/california/vasquez-rocks-natural-area-and-nature-center/Vasquez_Rocks_15256385224-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #walker-canyon-hero{
-    background: url(resources/images/california/walker-canyon/walker-canyon-hero-3030.jpg) center no-repeat;
+    background: url(resources/images/california/walker-canyon/190313_067_Lake_Elsinore\,_Walker_Canyon_Rd_-_Hill_Top_Drive_Trail\,_Echscholzia_californica_California_Poppy-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #will-rogers-state-beach-hero{
@@ -17572,6 +17681,10 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
     background: url(resources/images/kentucky/general-george-patton-museum-of-leadership/M60_Patton_Patton_Tank_P5250358-3030.jpg) center no-repeat;
     background-size: cover;
 }
+#hidden-river-cave-hero{
+    background: url(resources/images/kentucky/hidden-river-cave-and-american-cave-museum/Hidden_River_Cave_Horse_Cave\,_Kentucky\,_USA_7-3030.jpg) center no-repeat;
+    background-size: cover;
+}
 #lincoln-birthplace-nhp{
     background: url(resources/images/kentucky/abraham-lincoln-birthplace-national-historical-park/Abraham_Lincoln_Birthplace_NHS-3030.jpg) center no-repeat;
     background-size: cover;
@@ -17594,6 +17707,14 @@ background: url(resources/images/idaho/shoshone-falls/The_Spectacular_Shoshone_F
 }
 #mill-springs-nm-hero{
     background: url(resources/images/kentucky/mill-springs-battlefield-national-monument/MILL_SPRINGS_MILL-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#muir-valley-climbing-hero{
+    background: url(resources/images/kentucky/muir-valley-climbing-and-nature-preserve/Red_River_Gorge_-_Solarium-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#raven-run-hero{
+    background: url(resources/images/kentucky/raven-run-nature-sanctuary/Raven_Run-3030.jpg) center no-repeat;
     background-size: cover;
 }
 #shaker-village-pleasant-hill-hero{
