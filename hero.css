@@ -2428,7 +2428,11 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background: url(resources/images/california/redwood-national-and-state-parks/hidden-beach-trail/redwood-hidden-beach-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#lady-bird-hero{
+#klamath-river-hero{
+    background: url(resources/images/california/redwood-national-and-state-parks/klamath-river/Klamath_River_Overlook-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lady-bird-johnson-grove-hero{
     background: url(resources/images/california/redwood-national-and-state-parks/lady-bird-johnson-grove-trail/redwood-lady--bird-johnson-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
@@ -2887,11 +2891,31 @@ background: url(resources/images/california/mammoth-lakes/Mammoth_Mtn_ski_area_1
     background-size: cover;
 }
 #mcarthur-burney-hero{
-background: url(resources/images/california/mcarthur-burney-falls/McArthur-Burney_Falls_Memorial_State_Park\,_California_22693439683-1515.jpg) top no-repeat;
+background: url(resources/images/california/mcarthur-burney-falls/The_waterfall_at_MacArthur-Burney_Falls_Memorial_State_Park_in_California_LCCN2013630779-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #mendocino-headlands-hero{
 background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-1515.jpg) top no-repeat;
+    background-size: cover;
+}
+#cathedral-christ-light-hero{
+background: url(resources/images/california/oakland/cathedral-of-christ-the-light/Oak_Cathdrl_1-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#chinatown-oakland-hero{
+background: url(resources/images/california/oakland/chinatown-oakland/2012-03-10_Oakland_041_Chinatown_6845478956-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#jack-londons-cabin-hero{
+background: url(resources/images/california/oakland/jack-londons-cabin/OAK_JackLondonSquare_20150923-1515.jpg) top no-repeat;
+    background-size: cover;
+}
+#pacific-renaissance-plaza-hero{
+background: url(resources/images/california/oakland/pacific-renaissance-plaza/Pacific_Renaissance_Plaza-1515.jpg) top no-repeat;
+    background-size: cover;
+}
+#piedmont-mountain-view-hero{
+background: url(resources/images/california/oakland/piedmont-funeral-services-and-mountain-view-cemetery/Mountain_View_Cemetery_4412399516-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #onion-valley-hero{
@@ -2991,7 +3015,50 @@ background: url(resources/images/california/walker-canyon/190313_067_Lake_Elsino
     background: url(resources/images/california/will-rogers-state-beach/Will_Rogers_State_Beach_1-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
+#artesa-vineyards-hero{
+        background: url(resources/images/california/wine-country/artesa-vineyards-and-winery/Dsc19941-3_Panorama\,_Artesa_Vineyards_&_Winery\,_Sonoma_Valley\,_California\,_USA-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #beringer-vineyards-hero{
+        background: url(resources/images/california/wine-country/beringer-vineyards/Rhine_House\,_Beringer_Vineyards-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #castello-amorosa-hero{
+        background: url(resources/images/california/wine-country/castello-di-amorosa/Castello_di_Amorosa-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #del-dotto-hero{
+        background: url(resources/images/california/wine-country/del-dotto-estate-winery-and-caves/Del_Dotto_Estate_Winery_&_Caves_-_Johnn_13-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #domaine-carneros-hero{
+        background: url(resources/images/california/wine-country/domaine-carneros/Domaine_Carneros_2011-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #french-laundry-hero{
+        background: url(resources/images/california/wine-country/french-laundry/Outside_The_French_Laundry_11901270694-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jack-london-shp-hero{
+        background: url(resources/images/california/wine-country/jack-london-state-historic-park/LondonCottage-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ledson-winery-hero{
+        background: url(resources/images/california/wine-country/ledson-winery-and-vineyards/Ledson_Winery-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-faithful-california-hero{
+        background: url(resources/images/california/wine-country/old-faithful-geyser-of-california/2012-05-26_05-28_Mendocino_County_204_Calistoga\,_Old_Faithful_Geyser_of_California-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #napa-ca-hero{
+        background: url(resources/images/california/wine-country/napa/City_of_Napa_by_the_Napa_River-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #silverado-trail-hero{
+        background: url(resources/images/california/wine-country/silverado-trail/Napa_Valley_Silverado_Trail-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #big-trees-trail-hero {
     background: url(resources/images/california/sequoia-national-park/big-trees-trail/Sierra_redwoods\,_Big_Trees_Trail\,_Sequoia_National_Park-1515.jpg) center no-repeat;
     background-size: cover;
@@ -14453,7 +14520,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/redwood-national-and-state-parks/hidden-beach-trail/redwood-hidden-beach-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-    #lady-bird-hero{
+    #klamath-river-hero{
+    background: url(resources/images/california/redwood-national-and-state-parks/klamath-river/Klamath_River_Overlook-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+    #lady-bird-johnson-grove-hero{
         background: url(resources/images/california/redwood-national-and-state-parks/lady-bird-johnson-grove-trail/redwood-lady--bird-johnson-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
@@ -14918,6 +14989,26 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-3030.jpg) top no-repeat;
         background-size: cover;
     }
+    #cathedral-christ-light-hero{
+background: url(resources/images/california/oakland/cathedral-of-christ-the-light/Oak_Cathdrl_1-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#chinatown-oakland-hero{
+background: url(resources/images/california/oakland/chinatown-oakland/2012-03-10_Oakland_041_Chinatown_6845478956-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#jack-londons-cabin-hero{
+background: url(resources/images/california/oakland/jack-londons-cabin/OAK_JackLondonSquare_20150923-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#pacific-renaissance-plaza-hero{
+background: url(resources/images/california/oakland/pacific-renaissance-plaza/Pacific_Renaissance_Plaza-3030.jpg) top no-repeat;
+    background-size: cover;
+}
+#piedmont-mountain-view-hero{
+background: url(resources/images/california/oakland/piedmont-funeral-services-and-mountain-view-cemetery/Mountain_View_Cemetery_4412399516-3030.jpg) top no-repeat;
+    background-size: cover;
+}
     #onion-valley-hero{
     background: url(resources/images/california/onion-valley/Kearsarge_Lakes_Twilight_6068372199-3030.jpg) center no-repeat;
         background-size: cover;
@@ -15015,6 +15106,51 @@ background: url(resources/images/california/tilden-regional-park/Tilden_march-30
         background: url(resources/images/california/will-rogers-state-beach/Will_Rogers_State_Beach_1-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #artesa-vineyards-hero{
+        background: url(resources/images/california/wine-country/artesa-vineyards-and-winery/Dsc19941-3_Panorama\,_Artesa_Vineyards_&_Winery\,_Sonoma_Valley\,_California\,_USA-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #beringer-vineyards-hero{
+        background: url(resources/images/california/wine-country/beringer-vineyards/Rhine_House\,_Beringer_Vineyards-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #castello-amorosa-hero{
+        background: url(resources/images/california/wine-country/castello-di-amorosa/Castello_di_Amorosa-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #del-dotto-hero{
+        background: url(resources/images/california/wine-country/del-dotto-estate-winery-and-caves/Del_Dotto_Estate_Winery_&_Caves_-_Johnn_13-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #domaine-carneros-hero{
+        background: url(resources/images/california/wine-country/domaine-carneros/Domaine_Carneros_2011-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #french-laundry-hero{
+        background: url(resources/images/california/wine-country/french-laundry/Outside_The_French_Laundry_11901270694-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #jack-london-shp-hero{
+        background: url(resources/images/california/wine-country/jack-london-state-historic-park/LondonCottage-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #ledson-winery-hero{
+        background: url(resources/images/california/wine-country/ledson-winery-and-vineyards/Ledson_Winery-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #old-faithful-california-hero{
+        background: url(resources/images/california/wine-country/old-faithful-geyser-of-california/2012-05-26_05-28_Mendocino_County_204_Calistoga\,_Old_Faithful_Geyser_of_California-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #napa-ca-hero{
+        background: url(resources/images/california/wine-country/napa/City_of_Napa_by_the_Napa_River-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #silverado-trail-hero{
+        background: url(resources/images/california/wine-country/silverado-trail/Napa_Valley_Silverado_Trail-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    
     
     #big-trees-trail-hero {
         background: url(resources/images/california/sequoia-national-park/big-trees-trail/Sierra_redwoods\,_Big_Trees_Trail\,_Sequoia_National_Park-3030.jpg) center no-repeat;
