@@ -1816,13 +1816,38 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
         background-size: cover;
     }
 #anacapa-hero{
-    background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-1515.jpg) center no-repeat;
+    background: url(resources/images/california/channel-islands-national-park/anacapa/inspiration-point/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#anacapa-light-hero{
+        background: url(resources/images/california/channel-islands-national-park/anacapa/anacapa-light-station/Anacapa_Island_Lighthouse_&_wildflowers-1515.jpg) top no-repeat;
+        background-size: cover;
+    }
 #santa-cruz-island-hero{
     background: url(resources/images/california/channel-islands-national-park/santa-cruz/Channel_Islands_National_Park_-_Santa_Cruz_Island_-_beach_area_with_kayakers-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#santa-rosa-island-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-cruz/Channel_Islands_National_Park_-_Santa_Cruz_Island_-_beach_area_with_kayakers-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #scorpion-anchorage-hero{
+    background: url(resources/images/california/channel-islands-national-park/santa-cruz/scorpion-anchorage/Santa_Cruz_Island_CA_DSC_4323_ad-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+    #smugglers-cove-island-hero{
+    background: url(resources/images/california/channel-islands-national-park/santa-cruz/smugglers-cove/Santa_Cruz_Island_CA_DSC_4347_ad-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+    #skunk-point-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-rosa/skunk-point/Skunk_Point_20061016_005_fad1e31020964d98906362754af94483-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
+
+    #water-canyon-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-rosa/Santa_rosa_white_sand_beach-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 
 #devils-postpile-hero{
     background: url(resources/images/california/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
@@ -1833,7 +1858,11 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #artists-drive-hero{
-    background: url(resources/images/california/death-valley-national-park/artists-drive/Artists_Drive\,_Death_Valley-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/artists-drive/Death_Valley_-_Artist_Drive_-_panoramio-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#artists-palette-hero{
+    background: url(resources/images/california/death-valley-national-park/artists-palette/Artists_Drive\,_Death_Valley-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #dantes-hero{
@@ -1846,6 +1875,34 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
 }
 #devils-golf-hero{
     background: url(resources/images/california/death-valley-national-park/devils-golf-course/Death_Valley_Devils_Golf_Course_7-10-2012_13-32-12-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#Fall-canyon-hero{
+    background: url(resources/images/california/death-valley-national-park/fall-canyon/Fall_Canyon_-_Narrows_3812585164-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#furnace-creek-hero{
+    background: url(resources/images/california/death-valley-national-park/furnace-creek/Furnace_Creek_Resort_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#harmony-borax-hero{
+    background: url(resources/images/california/death-valley-national-park/harmony-borax-works/Harmony_Borax_Works.-_CA_panoramic_2-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-creek-hero{
+    background: url(resources/images/california/death-valley-national-park/salt-creek/Salt_Creek_Reflections_33527633094-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#scottys-castle-hero{
+    background: url(resources/images/california/death-valley-national-park/scottys-castle/Scottys_Castle-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#stovepipe-wells-hero{
+    background: url(resources/images/california/death-valley-national-park/stovepipe-wells/Stovepipe_Wells\,_Death_Valley_National_Park\,_CA_28222558218-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#titus-canyon-hero{
+    background: url(resources/images/california/death-valley-national-park/titus-canyon/Death_Valley_Titus_Canyon_3-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #golden-canyon-hero{
@@ -13917,11 +13974,40 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #anacapa-hero{
-        background: url(resources/images/california/channel-islands-national-park/anacapa/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-3030.jpg) center no-repeat;
+        background: url(resources/images/california/channel-islands-national-park/anacapa/inspiration-point/CINMS_-_Inspiration_Point\,_Anacapa_Island_26820991420-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #anacapa-light-hero{
+        background: url(resources/images/california/channel-islands-national-park/anacapa/anacapa-light-station/Anacapa_Island_Lighthouse_&_wildflowers-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #santa-cruz-island-hero{
         background: url(resources/images/california/channel-islands-national-park/santa-cruz/Channel_Islands_National_Park_-_Santa_Cruz_Island_-_beach_area_with_kayakers-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #santa-rosa-island-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-cruz/Channel_Islands_National_Park_-_Santa_Cruz_Island_-_beach_area_with_kayakers-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #scorpion-anchorage-hero{
+    background: url(resources/images/california/channel-islands-national-park/santa-cruz/scorpion-anchorage/Santa_Cruz_Island_CA_DSC_4323_ad-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+    #smugglers-cove-island-hero{
+    background: url(resources/images/california/channel-islands-national-park/santa-cruz/smugglers-cove/Santa_Cruz_Island_CA_DSC_4347_ad-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+    #skunk-point-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-rosa/skunk-point/Skunk_Point_20061016_005_fad1e31020964d98906362754af94483-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+
+    #water-canyon-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-rosa/Santa_rosa_white_sand_beach-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #scorpion-anchorage-hero{
+        background: url(resources/images/california/channel-islands-national-park/santa-cruz/scorpion-anchorage/Santa_Cruz_Island_CA_DSC_4323_ad-400.jpg) center no-repeat;
         background-size: cover;
     }
     #devils-postpile-hero{
@@ -13933,9 +14019,13 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #artists-drive-hero{
-        background: url(resources/images/california/death-valley-national-park/artists-drive/Artists_Drive\,_Death_Valley-3030.jpg) center no-repeat;
-        background-size: cover;
-    }
+    background: url(resources/images/california/death-valley-national-park/artists-drive/Death_Valley_-_Artist_Drive_-_panoramio-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#artists-palette-hero{
+    background: url(resources/images/california/death-valley-national-park/artists-palette/Artists_Drive\,_Death_Valley-3030.jpg) center no-repeat;
+    background-size: cover;
+}
     #dantes-hero{
         background: url(resources/images/california/death-valley-national-park/dantes-view/death-valley-dantes-view-hero-3030.jpg) center no-repeat;
         background-size: cover;
@@ -13948,6 +14038,34 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/death-valley-national-park/devils-golf-course/Death_Valley_Devils_Golf_Course_7-10-2012_13-32-12-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #Fall-canyon-hero{
+    background: url(resources/images/california/death-valley-national-park/fall-canyon/Fall_Canyon_-_Narrows_3812585164-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#furnace-creek-hero{
+    background: url(resources/images/california/death-valley-national-park/furnace-creek/Furnace_Creek_Resort_4-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#harmony-borax-hero{
+    background: url(resources/images/california/death-valley-national-park/harmony-borax-works/Harmony_Borax_Works.-_CA_panoramic_2-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#salt-creek-hero{
+    background: url(resources/images/california/death-valley-national-park/salt-creek/Salt_Creek_Reflections_33527633094-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#scottys-castle-hero{
+    background: url(resources/images/california/death-valley-national-park/scottys-castle/Scottys_Castle-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#stovepipe-wells-hero{
+    background: url(resources/images/california/death-valley-national-park/stovepipe-wells/Stovepipe_Wells\,_Death_Valley_National_Park\,_CA_28222558218-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#titus-canyon-hero{
+    background: url(resources/images/california/death-valley-national-park/titus-canyon/Death_Valley_Titus_Canyon_3-3030.jpg) center no-repeat;
+    background-size: cover;
+}
     #golden-canyon-hero{
         background: url(resources/images/california/death-valley-national-park/golden-canyon-gower-gulch-badlands/Golden_Canyon_-_Death_Valley_National_Park-3030.jpg) center no-repeat;
         background-size: cover;
