@@ -1438,7 +1438,7 @@ background: url(resources/images/california/california-spanish-missions/mission-
 }
 
 #manzanar-hero{
-background: url(resources/images/california/manzanar-national-historic-site/Manzanar_Internment_Camp_661-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/manzanar-national-historic-site/Manzanar_Internment_Camp_661-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #piedras-blancas-hero{
@@ -1686,7 +1686,7 @@ background: url(resources/images/california/devils-slide/Devils_Slide_1649075154
     background-size: cover;
 }
 #fossil-falls-hero{
-background: url(resources/images/california/fossil-falls/Fossil_Falls_-_Coso_Range-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/fossil-falls/Fossil_Falls_-_Coso_Range-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #moonstone-beach-hero{
@@ -1702,7 +1702,7 @@ background: url(resources/images/california/ragged-point/Pacific_Blue_Big_Sur_12
     background-size: cover;
 }
 #red-hill-cinder-hero{
-background: url(resources/images/california/red-hill-cinder-cone/Volcanic_cinder_cone_fossil_falls-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/red-hill-cinder-cone/Volcanic_cinder_cone_fossil_falls-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #roaring-camp-hero{
@@ -1711,7 +1711,7 @@ background: url(resources/images/california/red-hill-cinder-cone/Volcanic_cinder
 }
 
 #hot-creek-hero{
-background: url(resources/images/california/hot-creek/Hot_Creek_steam-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/hot-creek-geologic-site/Hot_Creek_steam-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #us-route-395-hero{
@@ -1731,7 +1731,99 @@ background: url(resources/images/california/san-diego/blacks-beach/Blacks-Beach-
     background-size: cover;
 }
 #lone-pine-hero{
-background: url(resources/images/california/lone-pine-ca/Lone_Pine\,_California_April_2022-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/lone-pine-ca/Lone_Pine\,_California_April_2022-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#big-pine-hero{
+background: url(resources/images/california/us-route-395/big-pine/Big_Pine_landscape-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bishop-creek-hero{
+background: url(resources/images/california/us-route-395/bishop-creek/Through_Bishop_Creek_-_Flickr_-_daveynin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#bishop-pass-hero{
+background: url(resources/images/california/us-route-395/bishop-pass-trail/Our_last_look_of_beauty_Long_Lake_-_Flickr_-_daveynin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#convict-lake-hero{
+background: url(resources/images/california/us-route-395/convict-lake/Convict_Lake_&_Laurel_Mountain\,_2019b-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#conway-summit-hero{
+background: url(resources/images/california/us-route-395/conway-summit/Fall_Colors_at_Conway_Summit_ACEC_22539049231-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cottonwood-creek-charcoal-hero{
+background: url(resources/images/california/us-route-395/cottonwood-charcoal-kilns/Cottonwood_Charcoal_Kilns-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#cottonwood-lakes-hero{
+background: url(resources/images/california/us-route-395/cottonwood-lakes-trail/Cottonwood_Lake_1_and_Cirque_Peak-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#crowley-columns-hero{
+background: url(resources/images/california/us-route-395/lake-crowley-columns/Crowley_Lake_Columns-Distant_View-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#june-lake-hero{
+background: url(resources/images/california/us-route-395/june-lake/June_Lake_with_Sierra_crest-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-crowley-hero{
+background: url(resources/images/california/us-route-395/lake-crowley/Crowley_Lake_sign_48061822321-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-sabrina-hero{
+background: url(resources/images/california/us-route-395/lake-sabrina/Sailor_Lake_Sabrina_Basin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mobius-arch-hero{
+background: url(resources/images/california/us-route-395/alabama-hills-national-scenic-area/mobius-arch/Mobius_Arch-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-langley-hero{
+background: url(resources/images/california/us-route-395/mount-langley/Mount_Langley_Summit_View-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#owens-gorge-hero{
+background: url(resources/images/california/us-route-395/owens-river-gorge/Owens_River_Gorge_-_Bishop\,_California-1515.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#owens-radio-hero{
+background: url(resources/images/california/us-route-395/owens-valley-radio-observatory/Owens_Valley_Radio_Observatory_Open_House-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#piute-pass-hero{
+background: url(resources/images/california/us-route-395/piute-pass/Piute_Pass_looking_east-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#rock-creek-lake-hero{
+background: url(resources/images/california/us-route-395/rock-creek-lake/Rock_Creek_Lake_and_Toms_Place_Area\,_Sierra_Nevada\,_California-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-lake-hero{
+background: url(resources/images/california/us-route-395/south-lake/Treasure_Lake_in_South_Lake_basin-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#trona-pinnacles-hero{
+background: url(resources/images/california/us-route-395/trona-pinnacles/Trona_Pinnacles_26940387294-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#museum-western-film-hero{
+background: url(resources/images/california/us-route-395/lone-pine-ca/museum-of-western-film-history/Lone_Pine_Film_History_Museum_8-10-2012_13-14-51-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#inyo-craters-hero{
+background: url(resources/images/california/us-route-395/mammoth-lakes/inyo-craters/Inyo_Craters_-_Deer_Mountain_crater_rim-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mammoth-mine-hero{
+background: url(resources/images/california/us-route-395/mammoth-lakes/mammoth-consolidated-mine/Mammoth_Consolidated_Mine_3647111473-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#twin-lakes-hero{
+background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lakes/Twin_Lakes\,_Lowest_of_Mammoth_Lakes\,_CA_2016_31955905932-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #wayfarers-chapel-hero{
@@ -1850,7 +1942,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     }
 
 #devils-postpile-hero{
-    background: url(resources/images/california/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/us-route-395/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #death-valley-hero{
@@ -1914,7 +2006,7 @@ background: url(resources/images/california/redwood-national-and-state-parks/red
     background-size: cover;
 }
 #telescope-peak-hero{
-    background: url(resources/images/california/death-valley-national-park/telescope-peak/TelescopePeak031411-1515.jpg) center no-repeat;
+    background: url(resources/images/california/death-valley-national-park/telescope-peak/TelescopePeak031411-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #wildrose-peak-hero{
@@ -2900,7 +2992,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #alabama-hills-hero{
-    background: url(resources/images/california/alabama-hills-national-scenic-area/Alabama_Hills_National_Scenic_Area_-_50657772358-1515.jpg) center no-repeat;
+    background: url(resources/images/california/us-route-395/alabama-hills-national-scenic-area/Alabama_Hills_National_Scenic_Area_-_50657772358-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #anza-borrego-valley-hero{
@@ -2908,11 +3000,11 @@ background: url(resources/images/california/anza-borrego-desert-state-park/Blair
     background-size: cover;
 }
 #big-pine-lakes-hero{
-background: url(resources/images/california/big-pine-lakes/Explorer_21243483680-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/big-pine-lakes/Explorer_21243483680-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #bishop-ca-hero{
-background: url(resources/images/california/bishop/Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/bishop/Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #carrizo-plain-hero{
@@ -2944,7 +3036,7 @@ background: url(resources/images/california/mackerricher-state-park/Ten_Mile_Hau
     background-size: cover;
 }
 #mammoth-lakes-hero{
-background: url(resources/images/california/mammoth-lakes/Mammoth_Mtn_ski_area_16126219736-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/mammoth-lakes/Mammoth_Mtn_ski_area_16126219736-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #mcarthur-burney-hero{
@@ -2976,7 +3068,7 @@ background: url(resources/images/california/oakland/piedmont-funeral-services-an
     background-size: cover;
 }
 #onion-valley-hero{
-background: url(resources/images/california/onion-valley/Kearsarge_Lakes_Twilight_6068372199-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/onion-valley/Kearsarge_Lakes_Twilight_6068372199-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #panum-crater-hero{
@@ -3148,6 +3240,10 @@ background: url(resources/images/california/walker-canyon/190313_067_Lake_Elsino
     background: url(resources/images/california/sequoia-national-park/little-baldy/Little_Baldy-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#mineral-king-hero{
+        background: url(resources/images/california/sequoia-national-park/mineral-king/One_Last_Look_140442779-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #mt-whitney-hero{
 background: url(resources/images/california/sequoia-national-park/mount-whitney/Good_Morning_from_Mount_Whitney_Unsplash-1515.jpg) center no-repeat;
     background-size: cover;
@@ -13597,7 +13693,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
 
     #manzanar-hero{
-        background: url(resources/images/california/manzanar-national-historic-site/Manzanar_Internment_Camp_661-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/manzanar-national-historic-site/Manzanar_Internment_Camp_661-3030.jpg) center no-repeat;
             background-size: cover;
         }
         #piedras-blancas-hero{
@@ -13845,7 +13941,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #fossil-falls-hero{
-        background: url(resources/images/california/fossil-falls/Fossil_Falls_-_Coso_Range-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/fossil-falls/Fossil_Falls_-_Coso_Range-3030.jpg) center no-repeat;
             background-size: cover;
         }
         #moonstone-beach-hero{
@@ -13861,7 +13957,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #red-hill-cinder-hero{
-        background: url(resources/images/california/red-hill-cinder-cone/Volcanic_cinder_cone_fossil_falls-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/red-hill-cinder-cone/Volcanic_cinder_cone_fossil_falls-3030.jpg) center no-repeat;
             background-size: cover;
         }
         #roaring-camp-hero{
@@ -13870,7 +13966,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         }
 
     #hot-creek-hero{
-        background: url(resources/images/california/hot-creek/Hot_Creek_steam-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/hot-creek-geologic-site/Hot_Creek_steam-3030.jpg) center no-repeat;
             background-size: cover;
         }
         #us-route-395-hero{
@@ -13893,6 +13989,98 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background: url(resources/images/california/lone-pine-ca/Lone_Pine\,_California_April_2022-3030.jpg) center no-repeat;
             background-size: cover;
         }
+        #big-pine-hero{
+background: url(resources/images/california/us-route-395/big-pine/Big_Pine_landscape-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bishop-creek-hero{
+background: url(resources/images/california/us-route-395/bishop-creek/Through_Bishop_Creek_-_Flickr_-_daveynin-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#bishop-pass-hero{
+background: url(resources/images/california/us-route-395/bishop-pass-trail/Our_last_look_of_beauty_Long_Lake_-_Flickr_-_daveynin-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#convict-lake-hero{
+background: url(resources/images/california/us-route-395/convict-lake/Convict_Lake_&_Laurel_Mountain\,_2019b-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#conway-summit-hero{
+background: url(resources/images/california/us-route-395/conway-summit/Fall_Colors_at_Conway_Summit_ACEC_22539049231-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cottonwood-creek-charcoal-hero{
+background: url(resources/images/california/us-route-395/cottonwood-charcoal-kilns/Cottonwood_Charcoal_Kilns-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#cottonwood-lakes-hero{
+background: url(resources/images/california/us-route-395/cottonwood-lakes-trail/Cottonwood_Lake_1_and_Cirque_Peak-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#crowley-columns-hero{
+background: url(resources/images/california/us-route-395/lake-crowley-columns/Crowley_Lake_Columns-Distant_View-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#june-lake-hero{
+background: url(resources/images/california/us-route-395/june-lake/June_Lake_with_Sierra_crest-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-crowley-hero{
+background: url(resources/images/california/us-route-395/lake-crowley/Crowley_Lake_sign_48061822321-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#lake-sabrina-hero{
+background: url(resources/images/california/us-route-395/lake-sabrina/Sailor_Lake_Sabrina_Basin-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mobius-arch-hero{
+background: url(resources/images/california/us-route-395/alabama-hills-national-scenic-area/mobius-arch/Mobius_Arch-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mount-langley-hero{
+background: url(resources/images/california/us-route-395/mount-langley/Mount_Langley_Summit_View-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#owens-gorge-hero{
+background: url(resources/images/california/us-route-395/owens-river-gorge/Owens_River_Gorge_-_Bishop\,_California-3030.jpg) bottom no-repeat;
+    background-size: cover;
+}
+#owens-radio-hero{
+background: url(resources/images/california/us-route-395/owens-valley-radio-observatory/Owens_Valley_Radio_Observatory_Open_House-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#piute-pass-hero{
+background: url(resources/images/california/us-route-395/piute-pass/Piute_Pass_looking_east-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#rock-creek-lake-hero{
+background: url(resources/images/california/us-route-395/rock-creek-lake/Rock_Creek_Lake_and_Toms_Place_Area\,_Sierra_Nevada\,_California-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#south-lake-hero{
+background: url(resources/images/california/us-route-395/south-lake/Treasure_Lake_in_South_Lake_basin-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#trona-pinnacles-hero{
+background: url(resources/images/california/us-route-395/trona-pinnacles/Trona_Pinnacles_26940387294-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#museum-western-film-hero{
+background: url(resources/images/california/us-route-395/lone-pine-ca/museum-of-western-film-history/Lone_Pine_Film_History_Museum_8-10-2012_13-14-51-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#inyo-craters-hero{
+background: url(resources/images/california/us-route-395/mammoth-lakes/inyo-craters/Inyo_Craters_-_Deer_Mountain_crater_rim-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mammoth-mine-hero{
+background: url(resources/images/california/us-route-395/mammoth-lakes/mammoth-consolidated-mine/Mammoth_Consolidated_Mine_3647111473-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#twin-lakes-hero{
+background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lakes/Twin_Lakes\,_Lowest_of_Mammoth_Lakes\,_CA_2016_31955905932-3030.jpg) center no-repeat;
+    background-size: cover;
+}
         #wayfarers-chapel-hero{
         background: url(resources/images/california/wayfarers-chapel/Wayfarers.1-3030.jpg) center no-repeat;
             background-size: cover;
@@ -14011,7 +14199,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #devils-postpile-hero{
-        background: url(resources/images/california/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/devils-postpile-national-monument/Devils_Postpile_National_Monument_near_Mammoth_Lakes-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #death-valley-hero{
@@ -14075,7 +14263,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #telescope-peak-hero{
-        background: url(resources/images/california/death-valley-national-park/telescope-peak/TelescopePeak031411-3030.jpg) center no-repeat;
+        background: url(resources/images/california/death-valley-national-park/telescope-peak/TelescopePeak031411-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #wildrose-peak-hero{
@@ -15052,7 +15240,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
     }
 
     #alabama-hills-hero{
-        background: url(resources/images/california/alabama-hills-national-scenic-area/Alabama_Hills_National_Scenic_Area_-_50657772358-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/alabama-hills-national-scenic-area/Alabama_Hills_National_Scenic_Area_-_50657772358-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #anza-borrego-valley-hero{
@@ -15060,11 +15248,11 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #big-pine-lakes-hero{
-    background: url(resources/images/california/big-pine-lakes/Explorer_21243483680-3030.jpg) center no-repeat;
+    background: url(resources/images/california/us-route-395/big-pine-lakes/Explorer_21243483680-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #bishop-ca-hero{
-    background: url(resources/images/california/bishop/Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background-3030.jpg) center no-repeat;
+    background: url(resources/images/california/bishop/us-route-395/Downtown_Bishop_with_the_Sierra_Nevada_Mountains_in_the_background-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #carrizo-plain-hero{
@@ -15096,7 +15284,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
         background-size: cover;
     }
     #mammoth-lakes-hero{
-    background: url(resources/images/california/mammoth-lakes/Mammoth_Mtn_ski_area_16126219736-3030.jpg) center no-repeat;
+    background: url(resources/images/california/us-route-395/mammoth-lakes/Mammoth_Mtn_ski_area_16126219736-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mcarthur-burney-hero{
@@ -15128,7 +15316,7 @@ background: url(resources/images/california/oakland/piedmont-funeral-services-an
     background-size: cover;
 }
     #onion-valley-hero{
-    background: url(resources/images/california/onion-valley/Kearsarge_Lakes_Twilight_6068372199-3030.jpg) center no-repeat;
+    background: url(resources/images/california/us-route-395/onion-valley/Kearsarge_Lakes_Twilight_6068372199-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #panum-crater-hero{
@@ -15301,6 +15489,10 @@ background: url(resources/images/california/tilden-regional-park/Tilden_march-30
     }
     #little-baldy-hero{
         background: url(resources/images/california/sequoia-national-park/little-baldy/Little_Baldy-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #mineral-king-hero{
+        background: url(resources/images/california/sequoia-national-park/mineral-king/One_Last_Look_140442779-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #mt-whitney-hero{

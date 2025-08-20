@@ -1005,6 +1005,20 @@ tspan.st10.s11 {
   /* background: url(./yosemite.jpg) no-repeat center; */
   background-size: cover;
 }
+.hero-partial {
+  position: relative;
+  height: 250px;
+  width: 100%;
+  overflow: hidden;
+  /* background: url(./yosemite.jpg) no-repeat center; */
+  background-size: cover;
+  background-color: #000;
+  text-align: center;
+}
+.hero-partial-img {
+  height: 250px;
+  width: 100%;
+}
 
 .newContainer {
   display: grid;
@@ -2041,6 +2055,13 @@ h4.navy {
   .hero {
     height: 325px;
   }
+  .hero-partial {
+    height: 325px;
+  }
+  .hero-partial-img {
+    height: 325px;
+    width: auto;
+  }
 .third-party-img {
   max-width: 400px;
 }
@@ -2062,6 +2083,13 @@ h4.navy {
 @media only screen and (min-width: 600px) {
   .hero {
     height: 450px;
+  }
+  .hero-partial {
+    height: 450px;
+  }
+  .hero-partial-img {
+    height: 450px;
+    width: auto;
   }
   .flex.main-padding.itinerary-card {
     flex-direction: row;
@@ -2416,6 +2444,13 @@ h4.navy {
 
   .hero {
     height: 550px;
+  }
+  .hero-partial {
+    height: 550px;
+  }
+  .hero-partial-img {
+    height: 550px;
+    width: auto;
   }
   .main-nav, .main-nav-home-page {
     height: 80px;
