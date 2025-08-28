@@ -1546,7 +1546,7 @@ background: url(resources/images/california/sacramento/california-state-capitol/
     background-size: cover;
 }
 #catehdral-blessed-ca-hero{
-background: url(resources/images/california/sacramento/cathedral-of-the-blessed-sacrament-ca/Blessed_Sacrament_Cathedral_in_Sacramento_California_01-1515.jpg) center no-repeat;
+background: url(resources/images/california/sacramento/cathedral-of-the-blessed-sacrament-ca/Cathedral_of_the_Blessed_Sacrament_2025c-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #crocker-art-hero{
@@ -1570,7 +1570,7 @@ background: url(resources/images/california/sacramento/old-sacramento-state-hist
     background-size: cover;
 }
 #sacramento-hero{
-background: url(resources/images/california/sacramento/Sacramento_Skyline_2-1515.jpg) top no-repeat;
+background: url(resources/images/california/sacramento/Sacramento\,_California_skyline_in_2023-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #state-capitol-park-hero{
@@ -2366,7 +2366,7 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
     background-size: cover;
 }
 #getty-villa-hero{
-    background: url(resources/images/california/los-angeles/getty-villa/getty-villa-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/los-angeles/getty-villa/060807-002-GettyVilla001-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #griffith-hero{
@@ -2456,7 +2456,7 @@ background: url(resources/images/california/los-angeles/uss-iowa-museum/Battlesh
 }
 
 #mono-lakes-hero{
-    background: url(resources/images/california/mono-lake/Mono_Lake_Tufa-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/us-route-395/mono-lake/Mono_Lake_Tufa-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #cima-dome-hero{
@@ -2601,7 +2601,34 @@ background: url(resources/images/california/orange-county/newport-beach/Newport_
     background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-1515.jpg) center no-repeat;
     background-size: cover;
 }
-
+#fleet-science-hero{
+    background: url(resources/images/california/san-diego/balboa-park/fleet-science-center/Balboa_Park\,_San_Diego\,_CA\,_USA_-_panoramio_111-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#japanese-garden-diego{
+    background: url(resources/images/california/san-diego/balboa-park/japanese-friendship-garden/Japanese_friendship_garden_8278986173-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#mingei-international-hero{
+    background: url(resources/images/california/san-diego/balboa-park/mingei-international-museum/San_Diego\,_2016_-_443-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-automotive-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-automotive-museum/San_Diego_Automotive_Museum_-_Collections_1_-_May_2022-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-history-center-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-history-center/San_Diego\,_2016_-_487-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-veterans-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-veterans-museum/Veterans_Museum_and_Memorial_Center_-_4-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#timken-museum-hero{
+    background: url(resources/images/california/san-diego/balboa-park/timken-museum-of-art/Timken_Museum_of_Art_San_Diego_01-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #museum-us-hero{
     background: url(resources/images/california/san-diego/balboa-park/museum-of-us/Aerial_-_San_Diego\,_CA_-_Museum_of_Man_02-1515.jpg) center no-repeat;
     background-size: cover;
@@ -2683,7 +2710,7 @@ background: url(resources/images/california/san-diego/san-diego-central-library/
     background-size: cover;
 }
 #san-diego-zoo-hero{
-background: url(resources/images/california/san-diego/san-diego-zoo/San_Diego_Zoo_April_2013_16-1515.jpg) center no-repeat;
+background: url(resources/images/california/san-diego/san-diego-zoo/San_Diego_Zoo_Entrance_-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #seaport-village-hero{
@@ -2721,6 +2748,10 @@ background: url(resources/images/california/san-diego/stuart-collection/Bear\,_U
 }
 #midway-hero{
     background: url(resources/images/california/san-diego/uss-midway-museum/uss-midway-hero-1515.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-hero{
+    background: url(resources/images/california/san-diego/Skyline_of_San_Diego-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #san-fran-hero{
@@ -2873,15 +2904,19 @@ background: url(resources/images/california/san-francisco/pier-39/Pier_39_in_202
     background-size: cover;
 }
 #san-francisco-cable-car-hero{
-background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/) center no-repeat;
+background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/San_Francisco_CA\,_USA\,_Mason_Street\,_Cable-Car-Haltestelle_--_2022_--_2947-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#cable-car-museum-hero{
+        background: url(resources/images/california/san-francisco/san-francisco-cable-car-museum/San_Francisco_Cable_Car_Museum_-_San_Francisco\,_CA_-_DSC02375-1515.jpg) center no-repeat;
+            background-size: cover;
+        }
 #san-francisco-maritime-park-hero{
 background: url(resources/images/california/san-francisco/san-francisco-maritime-national-historical-park/Aquatic_Cove_Cityscape_San_Francisco-1515.jpg) center no-repeat;
     background-size: cover;
 }
-#twin-peaks-park-her{
-background: url(resources/images/california/san-francisco/twin-peaks/San_Francisco_1-1515.jpg) center no-repeat;
+#twin-peaks-park-hero{
+background: url(resources/images/california/san-francisco/twin-peaks/San_Francisco_1-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #union-square-hero{
@@ -2890,7 +2925,7 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
 }
 
 #alcatraz-hero{
-    background: url(resources/images/california/san-francisco/alcatraz/alcatraz-island-hero-two-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/alcatraz/Alcatraz_2021-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #chinatown-san-fran-hero{
@@ -2903,11 +2938,11 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     
 }
 #japanese-tea-hero{
-    background: url(resources/images/california/san-francisco/japanese-tea/golden-gate-park-japanese-tea-garden-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/golden-gate-park/japanese-tea-garden/golden-gate-park-japanese-tea-garden-hero-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #lombard-hero{
-    background: url(resources/images/california/san-francisco/lombard-street/lombard-street-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/lombard-street/Lombard_Street_in_2020_06-1515.jpg) top no-repeat;
     background-size: cover;
 }
 #muir-beach-hero{
@@ -2919,9 +2954,13 @@ background: url(resources/images/california/san-francisco/twin-peaks/San_Francis
     background-size: cover;
 }
 #palace-fine-arts-hero{
-    background: url(resources/images/california/san-francisco/palace-of-fine-arts/palace-of-fine-arts-hero-1515.jpg) center no-repeat;
+    background: url(resources/images/california/san-francisco/palace-of-fine-arts/Palace_of_Fine_Arts_16794p-1515.jpg) center no-repeat;
     background-size: cover;
 }
+#san-francisco-city-hall-hero{
+        background: url(resources/images/california/san-francisco/san-francisco-city-hall/San_Francisco_City_Hall_dome-1515.jpg) center no-repeat;
+        background-size: cover;
+    }
 #santa-cruz-beach-boardwalk-hero{
     background: url(resources/images/california/santa-cruz/santa-cruz-beach-boardwalk/sant-cruz-hero-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3047,6 +3086,10 @@ background: url(resources/images/california/mcarthur-burney-falls/The_waterfall_
 background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-1515.jpg) top no-repeat;
     background-size: cover;
 }
+#oakland-hero{
+background: url(resources/images/california/oakland/Lake_Merritt_Oakland_aerial-1515.jpg) center no-repeat;
+    background-size: cover;
+}
 #cathedral-christ-light-hero{
 background: url(resources/images/california/oakland/cathedral-of-christ-the-light/Oak_Cathdrl_1-1515.jpg) center no-repeat;
     background-size: cover;
@@ -3072,7 +3115,7 @@ background: url(resources/images/california/us-route-395/onion-valley/Kearsarge_
     background-size: cover;
 }
 #panum-crater-hero{
-background: url(resources/images/california/mono-lake/panum-crater/Panum_Crater_plug_18778010004-1515.jpg) center no-repeat;
+background: url(resources/images/california/us-route-395/mono-lake/panum-crater/Panum_Crater_plug_18778010004-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #point-reyes-hero{
@@ -13801,7 +13844,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #catehdral-blessed-ca-hero{
-        background: url(resources/images/california/sacramento/cathedral-of-the-blessed-sacrament-ca/Blessed_Sacrament_Cathedral_in_Sacramento_California_01-3030.jpg) center no-repeat;
+        background: url(resources/images/california/sacramento/cathedral-of-the-blessed-sacrament-ca/Cathedral_of_the_Blessed_Sacrament_2025c-3030.jpg) center no-repeat;
             background-size: cover;
         }
         #crocker-art-hero{
@@ -13825,7 +13868,7 @@ background: url(resources/images/arizona/grand-canyon-national-park/toroweap/Gra
             background-size: cover;
         }
         #sacramento-hero{
-        background: url(resources/images/california/sacramento/Sacramento_Skyline_2-3030.jpg) top no-repeat;
+        background: url(resources/images/california/sacramento/Sacramento\,_California_skyline_in_2023-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #state-capitol-park-hero{
@@ -14622,7 +14665,7 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
         background-size: cover;
     }
     #getty-villa-hero{
-        background: url(resources/images/california/los-angeles/getty-villa/getty-villa-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/los-angeles/getty-villa/060807-002-GettyVilla001-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #griffith-hero{
@@ -14710,7 +14753,7 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
         background-size: cover;
     }
     #mono-lakes-hero{
-        background: url(resources/images/california/mono-lake/Mono_Lake_Tufa-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/us-route-395/mono-lake/Mono_Lake_Tufa-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     
@@ -14850,6 +14893,34 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
         background: url(resources/images/california/san-diego/balboa-park/Lily_Pond\,_Balboa_Park\,_San_Diego\,_California-3030.jpg) center no-repeat;
         background-size: cover;
     }
+    #fleet-science-hero{
+    background: url(resources/images/california/san-diego/balboa-park/fleet-science-center/Balboa_Park\,_San_Diego\,_CA\,_USA_-_panoramio_111-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#japanese-garden-diego{
+    background: url(resources/images/california/san-diego/balboa-park/japanese-friendship-garden/Japanese_friendship_garden_8278986173-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#mingei-international-hero{
+    background: url(resources/images/california/san-diego/balboa-park/mingei-international-museum/San_Diego\,_2016_-_443-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-automotive-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-automotive-museum/San_Diego_Automotive_Museum_-_Collections_1_-_May_2022-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-history-center-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-history-center/San_Diego\,_2016_-_487-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#san-diego-veterans-hero{
+    background: url(resources/images/california/san-diego/balboa-park/san-diego-veterans-museum/Veterans_Museum_and_Memorial_Center_-_4-3030.jpg) center no-repeat;
+    background-size: cover;
+}
+#timken-museum-hero{
+    background: url(resources/images/california/san-diego/balboa-park/timken-museum-of-art/Timken_Museum_of_Art_San_Diego_01-3030.jpg) center no-repeat;
+    background-size: cover;
+}
     #museum-us-hero{
         background: url(resources/images/california/san-diego/balboa-park/museum-of-us/Aerial_-_San_Diego\,_CA_-_Museum_of_Man_02-3030.jpg) center no-repeat;
         background-size: cover;
@@ -14927,7 +14998,7 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
         background-size: cover;
     }
     #san-diego-zoo-hero{
-    background: url(resources/images/california/san-diego/san-diego-zoo/San_Diego_Zoo_April_2013_16-3030.jpg) center no-repeat;
+    background: url(resources/images/california/san-diego/san-diego-zoo/San_Diego_Zoo_Entrance_-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #seaport-village-hero{
@@ -14967,7 +15038,10 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
         background: url(resources/images/california/san-diego/uss-midway-museum/uss-midway-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
-
+#san-diego-hero{
+    background: url(resources/images/california/san-diego/Skyline_of_San_Diego-3030.jpg) center no-repeat;
+    background-size: cover;
+}
     #san-fran-hero{
         background: url(resources/images/california/san-francisco/GGBridge_Old_Coast_Guard_Station-3030.jpg) center no-repeat;
         background-size: cover;
@@ -15119,15 +15193,19 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
             background-size: cover;
         }
         #san-francisco-cable-car-hero{
-        background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/) center no-repeat;
+        background: url(resources/images/california/san-francisco/san-francisco-cable-car-system/San_Francisco_CA\,_USA\,_Mason_Street\,_Cable-Car-Haltestelle_--_2022_--_2947-3030.jpg) center no-repeat;
+            background-size: cover;
+        }
+        #cable-car-museum-hero{
+        background: url(resources/images/california/san-francisco/san-francisco-cable-car-museum/San_Francisco_Cable_Car_Museum_-_San_Francisco\,_CA_-_DSC02375-3030.jpg) center no-repeat;
             background-size: cover;
         }
         #san-francisco-maritime-park-hero{
         background: url(resources/images/california/san-francisco/san-francisco-maritime-national-historical-park/Aquatic_Cove_Cityscape_San_Francisco-3030.jpg) center no-repeat;
             background-size: cover;
         }
-        #twin-peaks-park-her{
-        background: url(resources/images/california/san-francisco/twin-peaks/San_Francisco_1-3030.jpg) center no-repeat;
+        #twin-peaks-park-hero{
+        background: url(resources/images/california/san-francisco/twin-peaks/San_Francisco_1-3030.jpg) top no-repeat;
             background-size: cover;
         }
         #union-square-hero{
@@ -15137,7 +15215,7 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
 
 
     #alcatraz-hero{
-        background: url(resources/images/california/san-francisco/alcatraz-one/alcatraz-island-hero-two-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/alcatraz/Alcatraz_2021-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #chinatown-san-fran-hero{
@@ -15150,11 +15228,11 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
         
     }
     #japanese-tea-hero{
-        background: url(resources/images/california/san-francisco/japanese-tea/golden-gate-park-japanese-tea-garden-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/golden-gate-park/japanese-tea-garden/golden-gate-park-japanese-tea-garden-hero-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #lombard-hero{
-        background: url(resources/images/california/san-francisco/lombard-street/lombard-street-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/lombard-street/Lombard_Street_in_2020_06-3030.jpg) top no-repeat;
         background-size: cover;
     }
     #muir-beach-hero{
@@ -15166,7 +15244,11 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
         background-size: cover;
     }
     #palace-fine-arts-hero{
-        background: url(resources/images/california/san-francisco/palace-of-fine-arts/palace-of-fine-arts-hero-3030.jpg) center no-repeat;
+        background: url(resources/images/california/san-francisco/palace-of-fine-arts/Palace_of_Fine_Arts_16794p-3030.jpg) center no-repeat;
+        background-size: cover;
+    }
+    #san-francisco-city-hall-hero{
+        background: url(resources/images/california/san-francisco/san-francisco-city-hall/San_Francisco_City_Hall_dome-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #santa-cruz-beach-boardwalk-hero{
@@ -15295,6 +15377,10 @@ background: url(resources/images/california/us-route-395/mammoth-lakes/twin-lake
     background: url(resources/images/california/mendocino-headlands-state-park/Mendocino_Headlands_State_Park_-_29-3030.jpg) top no-repeat;
         background-size: cover;
     }
+    #oakland-hero{
+background: url(resources/images/california/oakland/Lake_Merritt_Oakland_aerial-3030.jpg) center no-repeat;
+    background-size: cover;
+}
     #cathedral-christ-light-hero{
 background: url(resources/images/california/oakland/cathedral-of-christ-the-light/Oak_Cathdrl_1-3030.jpg) center no-repeat;
     background-size: cover;
@@ -15320,7 +15406,7 @@ background: url(resources/images/california/oakland/piedmont-funeral-services-an
         background-size: cover;
     }
     #panum-crater-hero{
-    background: url(resources/images/california/mono-lake/panum-crater/Panum_Crater_plug_18778010004-3030.jpg) center no-repeat;
+    background: url(resources/images/california/us-route-395/mono-lake/panum-crater/Panum_Crater_plug_18778010004-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #point-reyes-hero{
