@@ -2787,7 +2787,7 @@ h4.navy {
 }
 
 /* hero picture source */
-.aquarium-pacific-hero {
+.hero-top-adjusted {
   position: relative;
   top: -50px;
 }
@@ -3035,7 +3035,7 @@ h4.navy {
   }
 
 
-  .aquarium-pacific-hero {
+  .hero-top-adjusted {
   position: relative;
   top: -250px;
 }
