@@ -965,6 +965,15 @@ tspan.st10.s11 {
   transition: transform 0.4s;
   display: block;
 }
+.img-cards-main-loc {
+  width: 100%;
+  display: block;
+}
+.img-cards-main-loc-state {
+  /* width: 100%; */
+  display: block;
+  border-radius: 5px;
+}
 
 .img-cards-intinerary-portrait {
   position: relative;
@@ -1940,11 +1949,57 @@ h4.navy {
   max-width: 1000px;
   margin: 0 auto;
 }
+.best-location-card-title {
+  padding: 10px;
+  text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+}
+.best-location-card-state {
+  /* box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%); */
+  /* max-width: 1000px; */
+  margin: 15px 0 30px;
+  border: solid 1px lightgrey;
+}
+.best-location-card-flex {
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* justify-content: space-evenly; */
+  overflow-x: auto;
+  overflow-y: hidden;
+-webkit-overflow-scrolling: touch;
+  scrollbar-width: none
+
+}
+.best-location-card-flex::-webkit-scrollbar {
+  display: none;
+}
+.best-location-card-state-loc{
+  display: flex;
+  flex-direction: column;
+  width: 125px;
+  margin: 5px;
+}
+.best-location-card-state-info {
+  margin: 5px 0;
+}
+.state-card-title {
+font-size: 15px;
+text-align: left;
+margin: 3px 0;
+font-weight: 600;
+}
+.rating-state {
+  color: black;
+  font-size: 14px;
+}
+.best-location-card-state-text {
+  margin: 2px 0;
+  font-size: 14px;
+}
+
 .landing-flex-title {
   padding: 20px;
-  text-align: center;
-  font-size: 22px;
-  font-weight: 800;
     text-align: center;
     font-size: 36px;
     font-weight: 700;
@@ -2534,6 +2589,9 @@ h4.navy {
   .img-cards-main {
     width: 100%;
   }
+  .img-cards-main-loc {
+    width: 100%;
+  }
 
   .img-cards-main:hover {
     transform: scale(1.2);
@@ -3039,5 +3097,13 @@ h4.navy {
   position: relative;
   top: -250px;
 }
-
+.best-location-card-flex {
+  width: 100%;
+}
+.img-cards-main-loc-state {
+width: 100%;
+}
+.best-location-card-state-loc{
+  width: 150px;
+}
 }
