@@ -1405,7 +1405,7 @@ body {
   border-bottom: solid 1px gray;
   font-size: 12px;
   align-items: flex-start;
-  line-break: anywhere;
+  /* line-break: anywhere; */
 }
 .info p {
   margin: 0 0 5px;
