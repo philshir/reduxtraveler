@@ -421,6 +421,11 @@ main {
   margin: 5px 0 10px;
   font-size: 12px;
 }
+.map svg {
+    margin: 0 auto;
+    height: auto;
+    width: 100%;
+  }
 
 .sub-pic {
   position: relative;
@@ -2075,6 +2080,8 @@ font-weight: 600;
   text-align: center;
 }
 
+
+
 /* itinerary and best of card layout */
 @media only screen and (min-width: 445px) {
   .itineraries .flex {
@@ -2087,9 +2094,9 @@ font-weight: 600;
   /* .description-one {
   width: 60%;
 } */
-  .map {
+  /* .map {
     height: 500px;
-  }
+  } */
   .grid {
     height: auto;
   }
@@ -2560,7 +2567,6 @@ font-weight: 600;
   }
   .map svg {
     max-width: 700px;
-    margin: 0 auto;
     max-height: 700px;
   }
   .map svg.landscape {
@@ -2790,15 +2796,17 @@ font-weight: 600;
   margin-right: 70px;
 }
 .itinerary-card-day {
-  font-weight: 900;
+  font-weight: 600;
   font-size: 14px;
-  margin: 0 0 10px 0;
+  margin: 0 0 6px 0;
+          margin: 0 0 6px 0;
+        color: grey;
 }
 .itinerary-card-title {
   font-weight: 900;
   font-size: 26px;
   margin: 10px 0;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Helvetica, sans-serif;
 }
 .itinerary-card-milage {
   font-size: 12px;
@@ -2807,6 +2815,7 @@ font-weight: 600;
 .itinerary-card-activities {
   list-style-type: none;
   padding-left: 0;
+  margin: 6px 0;
 }
 .itinerary-card-activities a {
   text-decoration: underline;
