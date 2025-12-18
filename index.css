@@ -1013,7 +1013,8 @@ tspan.st10.s11 {
 
 .hero {
   position: relative;
-  height: 250px;
+  /* height: 250px; */
+  max-height: 500px;
   width: 100%;
   overflow: hidden;
   /* background: url(./yosemite.jpg) no-repeat center; */
@@ -1341,6 +1342,21 @@ body {
   z-index: 5;
   font-family: Arial, sans-serif;
   position: relative;
+  width: 100%;
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.5) 21%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  color: #fff;
+}
+
+.title-no-hero-two-img {
+  padding: 15px;
+  z-index: 5;
+  font-family: Arial, sans-serif;
+  position: absolute;
   width: 100%;
   background-image: linear-gradient(
     to top,
@@ -2125,9 +2141,9 @@ font-weight: 600;
   .featured h4 {
     font-size: 16px;
   }
-  .hero {
+  /* .hero {
     height: 325px;
-  }
+  } */
   .hero-partial {
     height: 325px;
   }
@@ -2158,9 +2174,9 @@ font-weight: 600;
 }
 
 @media only screen and (min-width: 600px) {
-  .hero {
+  /* .hero {
     height: 450px;
-  }
+  } */
   .hero-partial {
     height: 450px;
   }
@@ -2519,9 +2535,9 @@ font-weight: 600;
     margin: 0;
   }
 
-  .hero {
+  /* .hero {
     height: 550px;
-  }
+  } */
   .hero-partial {
     height: 550px;
   }
@@ -2657,6 +2673,9 @@ font-weight: 600;
   }
 
   .title-no-hero-img {
+    padding: 15px 15px 40px 30px;
+  }
+  .title-no-hero-two-img {
     padding: 15px 15px 40px 30px;
   }
 
@@ -2866,9 +2885,14 @@ font-weight: 600;
 }
 
 /* hero picture source */
+
 .hero-top-adjusted {
   position: relative;
   top: -50px;
+}
+.hero-top-adjusted-bottom {
+  position: relative;
+  top: -410px
 }
 
 }
