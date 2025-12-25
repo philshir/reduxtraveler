@@ -746,6 +746,7 @@ tspan.st10.s11 {
   font-weight: 800;
   font-family: "AvenirLTStd-Black", Verdana, Tahoma, sans-serif;
   margin: 10px;
+  z-index: 6;
 }
 
 .logo-nashville {
@@ -1013,12 +1014,21 @@ tspan.st10.s11 {
 
 .hero {
   position: relative;
+  height: 250px;
+  max-height: 500px;
+  width: 100%;
+  overflow: hidden;
+  background: url(./yosemite.jpg) no-repeat center;
+  background-size: cover;
+}
+.hero-new {
+  position: relative;
   /* height: 250px; */
   max-height: 500px;
   width: 100%;
   overflow: hidden;
-  /* background: url(./yosemite.jpg) no-repeat center; */
-  background-size: cover;
+  /* background: url(./yosemite.jpg) no-repeat center;
+  background-size: cover; */
 }
 .hero-partial {
   position: relative;
@@ -2141,9 +2151,9 @@ font-weight: 600;
   .featured h4 {
     font-size: 16px;
   }
-  /* .hero {
+  .hero {
     height: 325px;
-  } */
+  }
   .hero-partial {
     height: 325px;
   }
@@ -2174,9 +2184,9 @@ font-weight: 600;
 }
 
 @media only screen and (min-width: 600px) {
-  /* .hero {
+  .hero {
     height: 450px;
-  } */
+  }
   .hero-partial {
     height: 450px;
   }
@@ -2535,9 +2545,9 @@ font-weight: 600;
     margin: 0;
   }
 
-  /* .hero {
+  .hero {
     height: 550px;
-  } */
+  }
   .hero-partial {
     height: 550px;
   }
