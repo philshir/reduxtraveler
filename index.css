@@ -1993,7 +1993,7 @@ h4.navy {
 .best-location-card-flex {
   display: flex;
   /* flex-wrap: wrap; */
-  /* justify-content: space-evenly; */
+  justify-content: space-evenly;
   overflow-x: auto;
   overflow-y: hidden;
 -webkit-overflow-scrolling: touch;
