@@ -3076,10 +3076,10 @@ font-weight: 600;
     font-size: 22px;
     white-space: nowrap;
   }
-  .main-article img {
+  /* .main-article img {
     width: 520px;
     height: 390px;
-  }
+  } */
   main {
     max-width: 1170px;
     margin: 0 auto;
