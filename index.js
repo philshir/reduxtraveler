@@ -76,17 +76,40 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 } */
 
+// itinerary accordion
 
-/* Overview Accordion */
-/* const acc = document.querySelector(".overview-button");
-console.log(acc);
-  acc.addEventListener("click", function() {
-    
-    const accordion = document.querySelector('.accordion');
-    const more = document.querySelector('.overview-button')
-    more.classList.toggle('expand');
-    accordion.classList.toggle('expand');
+ const items = document.querySelectorAll('.accordion-item');
 
-  }); */
+items.forEach(item => {
+  const header = item.querySelector('.header');
 
+  header.addEventListener('click', () => {
+    items.forEach(i => {
+      if (i !== item) i.classList.remove('active');
+    });
 
+    item.classList.toggle('active');
+  });
+});
+
+// read more
+const containerRead = document.querySelector('.read-more-container');
+const textWrapper = document.getElementById('textWrapper');
+const toggleBtn = document.getElementById('toggleBtn');
+const labelNew = toggleBtn.querySelector('.label-read');
+
+let isExpanded = false;
+
+toggleBtn.addEventListener('click', () => {
+  isExpanded = !isExpanded;
+
+  if (isExpanded) {
+    textWrapper.style.maxHeight = textWrapper.scrollHeight + 'px';
+    labelNew.textContent = 'Read less';
+    containerRead.classList.add('expanded');
+  } else {
+    textWrapper.style.maxHeight = '72px';
+    labelNew.textContent = 'Read more';
+    containerRead.classList.remove('expanded');
+  }
+});

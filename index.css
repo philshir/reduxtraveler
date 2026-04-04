@@ -98,6 +98,7 @@ a {
   color: white;
   rotate: 0;
   transition: 0.4s;
+  padding: 0 5px;
 }
 
 .dropdown:hover .fa-caret-down {
@@ -290,7 +291,7 @@ h3 {
   );
   height: 52px;
   box-shadow: 8px 11px 7px 0px rgba(0, 0, 0, 0.4);
-  position: relative;
+  position: absolute;
   color: white;
   top: 0;
   z-index: 7;
@@ -745,6 +746,9 @@ tspan.st10.s11 {
   margin: 10px;
   z-index: 6;
 }
+.logo.center {
+  top: 50px;
+}
 
 .logo-nashville {
   position: relative;
@@ -921,7 +925,20 @@ tspan.st10.s11 {
   cursor: pointer;
   outline: none;
   white-space: nowrap;
+  font-weight: 700;
 }
+.dropdown-btn .fa-caret-down {
+    right: 0;
+    position: absolute;
+    padding-right: 8px;
+}
+
+.dropdown-container a {
+    font-size: 12px;
+    padding-right: 24px;
+  }
+
+
 .dropdown-btn h2 {
   font-size: 24px;
 }
@@ -930,10 +947,10 @@ tspan.st10.s11 {
   transform: rotate(180deg);
 }
 
-.active {
+/* .active {
   background-color: green;
   color: white;
-}
+} */
 
 .dropdown-container {
   display: none;
@@ -952,6 +969,7 @@ tspan.st10.s11 {
   color: #5c5b5b;
   transition: 0.1s;
 }
+
 
 .portal {
   overflow: hidden;
@@ -1012,7 +1030,7 @@ tspan.st10.s11 {
 .hero {
   position: relative;
   height: 250px;
-  max-height: 500px;
+  /* max-height: 500px; */
   width: 100%;
   overflow: hidden;
   background: url(./yosemite.jpg) no-repeat center;
@@ -1879,52 +1897,6 @@ h4.navy {
   margin-left: 4px;
 }
 
-/* overview accordion */
-.accordion {
-  position: relative;
-  max-height: 200px;
-  overflow: hidden;
-}
-
-.overview-button {
-  text-align: center;
-  cursor: pointer;
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  display: block;
-  width: 100%;
-  height: 60px;
-  text-align: center;
-  color: #0071bc;
-  font-weight: bold;
-  font-size: 18px;
-  padding-top: 40px;
-  background-image: linear-gradient(to bottom, transparent, #b9d1f7);
-  transition: max-height 0.15s ease-out;
-}
-
-.overview-button:after {
-  content: "Read More";
-}
-
-.overview-button.expand:after {
-  content: "Read Less";
-}
-
-.accordion.expand {
-  max-height: 5000px !important;
-  transition: max-height 0.35s ease-in-out;
-}
-
-.overview-button.expand {
-  position: relative;
-  background-image: none;
-  padding-top: 10px;
-  height: 40px;
-}
-
-
 .city-grid {
   display: flex;
   flex-direction: column;
@@ -2127,6 +2099,147 @@ font-weight: 600;
     font-size: 10px;
 }
 
+
+/* new itinerary */
+.portal svg {
+  height: 100%;
+}
+
+/* itinerary accordian */
+
+.accordion-item {
+  display: flex;
+  gap: 16px;
+  padding-bottom: 16px;
+  position: relative;
+}
+
+.timeline {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 28px;
+}
+
+.circle {
+  width: 28px;
+  height: 28px;
+  background: #0f3b1f;
+  color: #fff;
+  border-radius: 50%;
+  font-weight: bold;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.line {
+  width: 2px;
+  background: #cfcfcf;
+  flex: 1;
+  margin-top: 6px;
+}
+
+/* Content */
+.content {
+  flex: 1;
+  border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 12px;
+}
+
+.header {
+  width: 100%;
+  background: none;
+  border: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.chevron {
+  transition: transform 0.3s ease;
+}
+
+/* Accordion body */
+.body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+  color: #555;
+}
+
+/* Active state */
+.accordion-item.active .body {
+  max-height: 300px;
+  margin-top: 12px;
+}
+
+.accordion-item.active .chevron {
+  transform: rotate(180deg);
+}
+
+/* Remove line for last item */
+.accordion-item:last-child .line {
+  display: none;
+}
+
+.day-itinerary {
+  width: 100%;
+  height: auto;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* read-more accordian */
+
+.read-more-container {
+  max-width: 680px;
+}
+
+/* Text collapse behavior */
+.text-wrapper {
+  max-height: 72px; /* collapsed height */
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+  color: #2f4f3a;
+  line-height: 1.6;
+}
+
+/* Toggle button */
+.toggle-btn {
+  margin-top: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 16px;
+  color: #0f3b1f;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.label-read {
+      text-decoration: underline;
+}
+
+/* Chevron animation */
+.chevron-read {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+/* Expanded state */
+.read-more-container.expanded .chevron-read {
+  transform: rotate(180deg);
+}
+
 /* itinerary and best of card layout */
 @media only screen and (min-width: 445px) {
   .itineraries .flex {
@@ -2180,8 +2293,14 @@ font-weight: 600;
 @media only screen and (min-width: 460px) {
   .slider a,
   .dropdown-btn {
-    font-size: 30px;
+    font-size: 20px;
   }
+
+  .dropdown-container a {
+    font-size: 16px;
+  }
+
+
   .design-two img {
     height: 75px;
   }
@@ -2878,9 +2997,14 @@ font-weight: 600;
   width: 500px;
   margin: 0 auto;
 }
+.logo.center {
+  top: 70px;
+}
 }
 
 @media only screen and (min-width: 900px) {
+
+
   .overview-img-left {
     float: left;
   }
@@ -2941,7 +3065,7 @@ font-weight: 600;
   }
 
   .nav-position {
-    padding: 14px 5px;
+    padding: 14px 20px;
     white-space: nowrap;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
@@ -2958,7 +3082,7 @@ font-weight: 600;
 
   /* Dropdown button */
   .dropdown .dropbtn {
-    font-size: 18px;
+    font-size: 16px;
     border: none;
     outline: none;
     color: white;
@@ -2978,6 +3102,10 @@ font-weight: 600;
     color: navy;
   }
 
+  .dropdown:hover {
+    border-bottom: solid 10px navy;
+  }
+
   /* Dropdown content (hidden by default) */
   .dropdown-content {
     height: 0;
@@ -2995,6 +3123,32 @@ font-weight: 600;
     transition: 0.5s;
     opacity: 0;
   }
+
+  .dropdown-content-single {
+    height: 0;
+    /* display: flex; */
+    position: absolute;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    top: 80px;
+    font-size: 18px;
+    background-color: #f9f9f9;
+    width: 188px;
+    list-style: none;
+    transition: 0.5s;
+    opacity: 0;
+  }
+   .dropdown-content-single a {
+    color: black;
+    font-size: 15px;
+   }
+   .dropdown-content-single ul {
+    padding: 0 0 0 15px;
+   }
+   .navbar .nav-position {
+    font-size: 16px;
+   }
+
   .full-nav-columns {
     display: flex;
     max-width: 1170px;
@@ -3007,7 +3161,7 @@ font-weight: 600;
   .dropdown-content ul li a {
     color: black;
     font-size: 12px;
-    font-weight: 600;
+    font-weight: 400;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   .menu-list li {
@@ -3021,6 +3175,11 @@ font-weight: 600;
 
   /* Show the dropdown menu on hover */
   .dropdown:hover .dropdown-content {
+    height: auto;
+    opacity: 0.95;
+  }
+
+  .dropdown:hover .dropdown-content-single {
     height: auto;
     opacity: 0.95;
   }
@@ -3159,4 +3318,7 @@ width: 100%;
 .best-location-card-state-loc{
   width: 150px;
 }
+
+/* new itinerary */
+
 }

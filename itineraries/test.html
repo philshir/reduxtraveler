@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Read More Accordion</title>
+  <style>
+    body {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  padding: 40px;
+}
+
+.read-more-container {
+  max-width: 680px;
+}
+
+/* Text collapse behavior */
+.text-wrapper {
+  max-height: 72px; /* collapsed height */
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+  color: #2f4f3a;
+  line-height: 1.6;
+}
+
+/* Toggle button */
+.toggle-btn {
+  margin-top: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 16px;
+  color: #0f3b1f;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Chevron animation */
+.chevron-read {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+/* Expanded state */
+.read-more-container.expanded .chevron-read {
+  transform: rotate(180deg);
+}
+  </style>
+</head>
+<body>
+
+<div class="read-more-container">
+  <div class="text-wrapper" id="textWrapper">
+    <p>
+      Long text content placeholder. This represents a paragraph that is
+      initially truncated and expands when "Read more" is clicked.
+      Extra sentences are included here to simulate a larger body of content.
+      You can place any content here including multiple paragraphs.
+    </p>
+  </div>
+
+  <button class="toggle-btn" id="toggleBtn">
+    <span class="label-read">Read more</span>
+    <span class="chevron-read">⌄</span>
+  </button>
+</div>
+
+<script>
+  const containerRead = document.querySelector('.read-more-container');
+const textWrapper = document.getElementById('textWrapper');
+const toggleBtn = document.getElementById('toggleBtn');
+const labelNew = toggleBtn.querySelector('.label-read');
+
+let isExpanded = false;
+
+toggleBtn.addEventListener('click', () => {
+  isExpanded = !isExpanded;
+
+  if (isExpanded) {
+    textWrapper.style.maxHeight = textWrapper.scrollHeight + 'px';
+    labelNew.textContent = 'Read less';
+    containerRead.classList.add('expanded');
+  } else {
+    textWrapper.style.maxHeight = '72px';
+    labelNew.textContent = 'Read more';
+    containerRead.classList.remove('expanded');
+  }
+});
+</script>
+</body>
+</html>
