@@ -1,94 +1,3572 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Read More Accordion</title>
-  <style>
-    body {
-  font-family: Arial, sans-serif;
-  background: #fff;
-  padding: 40px;
-}
+itineraries
+-LA
+-new orleans
+French quarter
+Jackson square
+st louis cathedral
+cafe du monde
+bourbon street
+garden district
+Lafayette cemetery
+world war 2 museum
+new orleans city park
+st Charles streetcar
+Audubon park
+Famous New Orleans restaurants (commanders palace, galatoires, muffalettas)
+optional oak alley plantation
+airboat swamp tour
 
-.read-more-container {
-  max-width: 680px;
-}
+-cajun country
+Lafayette
+Acadiana Park Nature Station
+Cathedral of St. John the Evangelist
+Acadian Cultural Center
+Vermilionville Historic Village
+LARC's Acadian Village
+Longfellow-Evangeline State Historic Site
+Evangeline Oak Park
+Oak & Pine Alley
+new Iberia
+avery island
+tabasco factory tours
+jungle gardens
+Cypremort Point State Park
+morgan city
+thibideaux
+Houma
+optional: plantation country (oak alley)
 
-/* Text collapse behavior */
-.text-wrapper {
-  max-height: 72px; /* collapsed height */
-  overflow: hidden;
-  transition: max-height 0.4s ease;
-  color: #2f4f3a;
-  line-height: 1.6;
-}
+-TX
+east Texas
+dallas
+Houston
+Auston
+san Antonio
+Galveston
+Texas hill country
 
-/* Toggle button */
-.toggle-btn {
-  margin-top: 8px;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: none;
-  border: none;
-  padding: 0;
-  font-size: 16px;
-  color: #0f3b1f;
-  font-weight: 600;
-  cursor: pointer;
-}
+-west Texas
+-el paso
+Guadalupe mountains national park
+Big Bend National Park
+Marfa
+Hueco tanks state park
 
-/* Chevron animation */
-.chevron-read {
-  display: inline-block;
-  transition: transform 0.3s ease;
-}
+Corpus christi
+Art museum of south texas
+Selena museum
+Texas state aquarium
+Texas state museum of asian cultures and education center
+Uss lexington
 
-/* Expanded state */
-.read-more-container.expanded .chevron-read {
-  transform: rotate(180deg);
-}
-  </style>
-</head>
-<body>
+-Texas hill country
+Enchanted rock state natural area
+Fort martin scott state historic site
+Fredericksburg
+Garner state park
+Gruene tx
+Guadalupe river state park
+Hamilton pool preserve
+Jacobs well natural area
+Krause springs
+Lost maples state natural area
+Lyndon b johnson national historical park
+Lyndon b johnson state park and historic site
+National museum of the pacific war
+New braunfels
+Pace bend park
+Pedernales falls state park
+San marcos tx
 
-<div class="read-more-container">
-  <div class="text-wrapper" id="textWrapper">
-    <p>
-      Long text content placeholder. This represents a paragraph that is
-      initially truncated and expands when "Read more" is clicked.
-      Extra sentences are included here to simulate a larger body of content.
-      You can place any content here including multiple paragraphs.
-    </p>
-  </div>
+-Austin
+Ann w richards congress avenue bridge bat refuge
+Austin city limits music festival
+Austin
+Barton creek greenbelt
+Barton springs pool
+Blanton museum of art
+Broken spoke
+Bullock texas state history museum
+Butler metro park
+Covert park mount bonnell
+Deep eddy pool
+Domain
+Franklin barbecue
+Lady bird lake
+Lbj presidential library
+Mckinney falls state park
+Pennybacker bridge
+Rainey street
+Sixth street
+South congress avenue
+St mary cathedral
+Sxsw south by southwest festival
+Texas barbecue
+Texas science and natural history museum
+Texas state capitol
+wonder bar
+zilker botanical garden
+zilker park
 
-  <button class="toggle-btn" id="toggleBtn">
-    <span class="label-read">Read more</span>
-    <span class="chevron-read">⌄</span>
-  </button>
-</div>
+-dallas/ft worth
+Ann and gabriel barbier mueller museum
+Att discovery district
+Cathedral santuario de guadalupe
+Dallas city hall
+Dallas holocaust and human rights museum
+Dallas museum of art
+Dallas world aquarium
+Dallas
+Dealey plaza
+Deep ellum
+Fair park
+Frontiers of flight museum
+George w bush presidential center
+John f kennedy memorial
+Katy trail
+Klyde warren park
+Margot and bill winspear opera house
+Nasher sculpture center
+Perot museum of nature and science
+Pioneer plaza
+Reunion tower
+Reverchon park
+Sixth floor museum at dealey plaza
+st Matthews cathedral
+white rock lake park
 
-<script>
-  const containerRead = document.querySelector('.read-more-container');
-const textWrapper = document.getElementById('textWrapper');
-const toggleBtn = document.getElementById('toggleBtn');
-const labelNew = toggleBtn.querySelector('.label-read');
+-Fort worth
+Fort worth botanic garden
+Fort worth museum of science and history
+Fort worth stockyards
+Fort worth water gardens
+Kimbell art museum
+Modern art museum of fort worth
+Tarrant county courthouse
 
-let isExpanded = false;
+-Houston
+Cancer survivors plaza
+Hermann park japanese garden
+Hermann park
+Mary gibbs and jesse h jones reflection pool
+Mcgovern centennial gardens
+Mcgovern lake
+Mecom rockwell colonnade
+Pioneer memorial obelisk
+Sam houston monument
+Allens landing
+American statesmanship park
+Artcar museum
+Buffalo bayou park
+Cockrell butterfly center
+Contemporary arts museum houston
+Discovery green
+Eclectic menagerie
+Gerald d hines waterfall park
+Giant beatles statues
+Graffiti park
+Health museum
+Holocaust museum houston
+Houston city hall hermann square
+Houston museum of natural science
+Kemah boardwalk
+Lillie and hugh roy cullen sculpture garden
+Love lock bridge
+Market square park
+Memorial park
+Menil collection
+Museum of fine arts houston
+Orange show
+Sam houston park
+San jacinto battleground state historic site
+San jacinto museum
+Sesquicentennial park
+Space center houston
+St pauls united methodist church
+Tranquillity park
 
-toggleBtn.addEventListener('click', () => {
-  isExpanded = !isExpanded;
+-san Antonio
+Alamo
+Bexar county courthouse
+Espada aqueduct
+Hemisfair park
+La villita
+Mission conception
+Mission san francisco de la espada
+Mission san jose tx
+Mission san juan capistrano tx
+Saint joseph catholic church
+San antonio missions national historical park
+San antonio river walk
+San fernando cathedral
+Spanish governors palace
+Tower of the americas
 
-  if (isExpanded) {
-    textWrapper.style.maxHeight = textWrapper.scrollHeight + 'px';
-    labelNew.textContent = 'Read less';
-    containerRead.classList.add('expanded');
-  } else {
-    textWrapper.style.maxHeight = '72px';
-    labelNew.textContent = 'Read more';
-    containerRead.classList.remove('expanded');
-  }
-});
-</script>
-</body>
-</html>
+-el paso
+Chamizal national memorial
+El paso
+Franklin mountains state park
+Plaza theatre
+San jacinto plaza
+University of texas el paso
+Wyler aerial tramway
+
+-Lubbock
+American windmill museum
+Buddy holly center
+Lubbock lake national historic landmark
+Museum of texas tech university
+National ranching heritage center
+Prairie dog town
+Silent wings museum
+
+-big bend area
+Fort Davis National Historic Site
+Davis Mountains State Park
+marfa
+big bend national park
+Boot canyon
+Chisos basin loop trail
+Chisos basin
+Emory peak
+Lost mine trail
+Window trail
+Panther junction
+Dagger flat auto road
+Fossil discovery exhibit
+Big bend hot springs
+Boquillas canyon
+Rio grande village nature trail
+Rio grande village
+Castolon historic district
+Cerro castellán
+Homer wilson ranch
+Mule ears spring trail
+Old maverick road
+Ross maxwell scenic drive
+Castolon historic district
+Cerro castellán
+Homer wilson ranch
+Mule ears spring trail
+Old maverick road
+Ross maxwell scenic drive
+Sam nail ranch
+Santa elena canyon
+Tuff canyon
+Big bend national park
+Rio grande wild and scenic river
+
+-tx/nm NPs
+-Guadalupe mountains national park
+Pine Springs Visitor Center
+Frijole Ranch Museum
+Manzanita Spring
+Smith Spring Trail
+Salt Basin Overlook
+El Capitan Viewpoint
+McKittrick Canyon
+Pratt Cabin
+the grotto
+optional Guadalupe peak, Salt Basin Dunes, Dog Canyon
+-Carlsbad caverns national park
+Carlsbad Caverns National Park Visitor Center
+natural entrance
+big room tour
+Bat Flight Amphitheater
+optional: cave guided tour, 
+-Alamogordo
+New Mexico Museum of Space History
+-white sand dunes national park
+Alkali Flat Trail
+optional: Organ Mountains-Desert Peaks National Monument, las cruces, Prehistoric Trackways National Monument
+
+-AR
+-oachita mtns
+hot springs national park
+bathhouses
+pinnacle state park
+petit jean state park
+
+-Ozark mtns
+buffalo national river 
+lost valley trail
+centerpoint trail
+whitacker point
+glory hole trail
+eureka springs
+
+-MS
+-ms delta
+bb king museum and delta interpretive center
+delta blues museum
+desoto county museum
+gateway to blues museum
+grammy museum Mississippi
+lewis ranch experience
+mont Helena
+museum of miss
+
+-oxford and tupelo
+tupelo
+tupelo battlefield
+elvis presley birthplace
+Natchez Trace Parkway Visitor Center
+oxford
+oxford city hall
+university of Mississippi
+rowan oak
+ammadelle
+Lafayette county courthouse
+William faulkners grave
+
+-natchez
+Bob M. Dearing Natchez State Park
+Emerald Mound
+Forks of the Road
+Historic Auburn
+Longwood
+Magnolia Hall
+Mount Repose Plantation
+Natchez City Cemetery
+Rosalie Mansion and Gardens
+St. Mary’s Basilica
+Stanton Hall
+
+-al/ms gulf coast
+bay st louis
+pass Christian
+long beach
+Gulfport
+Biloxi
+mobile
+USS Alabama Battleship Memorial Park
+Fort Morgan State Historic Site
+gulf shores
+gulf state park
+orange beach
+
+-AL
+-Birmingham
+16th Street Baptist Church
+A.G. Gaston Motel
+Barber Vintage Motorsports Museum
+Birmingham Civil Rights Institute
+Kelly Ingram Park
+Railroad Park Foundation
+Sloss Furnaces National Historic Landmark
+Vulcan Park and Museum
+
+-Montgomery
+Alabama State Capitol
+Court Square Fountain
+Dexter Avenue King Memorial Baptist Church
+freedom rides museum
+Museum of Alabama
+Riverfront Park
+Rosa Parks Bus Stop
+rose parks museum
+
+-north AL
+Huntsville
+U.S. Space & Rocket Center
+Cathedral Caverns State Park
+Russell Cave National Monument
+Dismals Canyon
+Natural Bridge Park
+Holmes Chapel Falls
+Rickwood Caverns State Park
+Noccalula Falls
+High Falls Park
+Buck's Pocket State Park
+Little River Canyon National Preserve
+DeSoto State Park
+The Walls of Jericho
+florence
+optional: Stephens Gap Callahan Cave Preserve
+
+-OK
+-okc
+bricktown okc
+first americans museum
+museum of osteology
+national cowboy and western heritage museum
+Oklahoma city national memorial
+Oklahoma history center
+Oklahoma state capitol
+scissortail park
+
+state itinerary okc tulsa Wichita nwr SPs
+Wichita Mountains National Wildlife Refuge
+Mount Scott
+lawton
+Comanche National Museum and Cultural Center
+Museum of the Great Plains
+Quartz Mountain State Park
+National Route 66 Museum and Transportation Museum
+Oklahoma Route 66 Museum
+Stafford Air & Space Museum
+Washita Battlefield National Historic Site
+Alabaster Caverns State Park
+Boiling Springs State Park
+Little Sahara State Park
+Gloss Mountain State Park
+Salt Plains National Wildlife Refuge
+Salt Plains State Park
+Mabee-Gerrer Museum of Art
+Turner Falls Park
+Chickasaw National Recreation Area
+-Tulsa
+Heart of Route 66 Auto Museum
+Oklahoma Aquarium
+River Parks
+Williams Crossing Bridge
+Gathering Place
+Philbrook Museum of Art
+Golden Driller Statue
+The Blue Dome
+Tulsa Union Depot
+Center of the Universe
+Woody Guthrie Center
+Buck Atom's Cosmic Curios on 66
+Tulsa Air and Space Museum
+Blue Whale of Catoosa
+Woolaroc Museum & Wildlife Preserve
+Osage Hills State Park
+Joseph H. Williams Tallgrass Prairie Preserve
+
+-TN
+-Memphis
+Arcade restaurant
+Beale street
+Belz museum of asian and judaic art
+Big river crossing
+Blues hall of fame museum
+Cotton museum at memphis cotton exchange
+Dixon gallery and gardens
+Graceland
+Memphis botanic garden
+Memphis brooks museum of art
+Memphis pyramid
+Memphis rock n soul museum
+Memphis zoo
+National civil rights museum
+Orpheum theatre
+Stax museum of american soul music
+Sun studio
+Tom lee park
+
+-Nashville
+Assembly food hall
+Belle meade plantation
+Belmont mansion
+Broadway entertainment district honky tonk highway
+Cheekwood botanical garden and museum of art
+Country music hall of fame and museum
+Frist art museum
+Gaylord opryland resort and convention center
+Grand ole opry
+Gulch nashville
+Hermitage
+John seigenthaler pedestrian bridge
+Johnny cash museum
+Lane motor museum
+Musicians hall of fame and museum
+Natchez trace parkway bridge
+National museum of african american music
+Parthenon
+Percy warner park
+Princes hot chicken shack
+Radnor lake state natural area
+Ryman auditorium
+Tennessee agricultural museum
+Tennessee state capitol
+Tennessee state museum
+twelve south
+
+gsmnp
+pigeon forge
+-Gatlinburg
+Gatlinburg skylift park
+-Great smoky mountain national park
+Abrams falls trail
+Alum cave trail
+Cades cove
+Cataloochee
+Cataract falls
+Charlies bunion
+Chimney tops
+Clingmans dome
+Cove hardwood nature trail
+Grotto falls
+Laural falls
+Mingo falls
+Mingus mill
+Mount guyot
+Mount le conte
+Newfound gap
+Oconaluftee
+Rainbow falls trail
+Ramsey cascades trail
+Roaring fork motor nature trail
+Sinks gsmnp
+Trillium gap trail
+Chattanooga
+ruby falls
+Chickamauga and Chattanooga National Military Park
+rock city gardens
+Tennessee riverwalk
+walnut street bridge
+Lookout Mountain Incline Railway
+
+KY
+bourbon trail
+
+-Louisville
+Belle of louisville
+Big four bridge
+Cave hill cemetery
+Cherokee park
+Churchill downs
+Fourth street live
+Frazier history museum
+Kentucky derby museum
+Kentucky derby
+Louisville slugger museum and factory
+Louisville union station
+Louisville waterfront park
+Louisville
+Muhammad ali center
+Old louisville
+Speed art museum
+Thunder over louisville
+Waverly hills sanatorium
+Whiskey row
+
+Lexington
+Keeneland
+Kentucky Horse Park
+Arboretum State Botanical Garden of Kentucky
+Ashland, The Henry Clay Estate
+Aviation Museum of Kentucky
+Headley-Whitney Museum of Art
+Lexington Cemetery
+McConnell Springs Park
+Waveland State Historic Site
+
+Cumberland gap area?
+
+-central and south central kentucky 
+Octagon Hall Museum
+South Union Shaker Village
+Chaney's Dairy Barn
+bowling green
+Aviation Heritage Park and Museum
+Lost River Cave
+Fountain Square Park
+Historic RailPark & Train Museum
+Kentucky Museum
+Riverview At Hobson Grove
+RiverWalk at Mitch McConnell Park
+National Corvette Museum
+Butler Motorsports
+Fort Williams - Civil War Battlefield
+Mammoth Cave Wildlife Museum
+Hidden River Cave & American Cave Museum
+Kentucky Down Under Adventure Zoo
+Dutch Country Safari Park
+mammoth cave national park
+Mammoth Cave Discovery Tour
+historic tour
+Green River Bluffs Trail
+Echo River Spg Trl
+Abraham Lincoln Birthplace National Historical Park
+Swope's Cars of Yesteryear Museum
+Abraham Lincoln Birthplace National Historical Park - Kentucky Boyhood Home Unit
+Kentucky Railway Museum
+Abbey of Gethsemani
+Bardstown
+Old Bardstown Village & Civil
+Women's Civil War Museum
+Old Courthouse
+My Old Kentucky Home State Park
+Bernheim Forest and Arboretum
+
+WV
+-Charleston
+Capitol market
+Haddad riverfront park
+Sunrise carriage trail
+West virginia governors mansion
+West virginia state capitol
+West virginia state museum
+
+-new river gorge national park
+
+-IL
+-Chicago
+Chicago loop
+Auditorium building
+Chicago board of trade building
+Chicago cultural center
+Chicago loop
+Dearborn station
+Fine arts building
+Flamingo sculpture
+Harold washington library
+Hilton chicago
+Historic michigan boulevard district
+Marquette building
+Monadnock building
+Palmer house hilton hotel
+Printers row
+Rookery building
+Willis tower
+Frank lloyd wright prairie school of architecture historic district
+Arthur heurtley house
+Edward r hills house
+Frank lloyd wright home and studio
+Frank lloyd wright prairie school of architecture historic district
+Frank thomas house
+Laura gale house
+Nathan g moore house
+Lincoln park
+Chicago history museum
+Lincoln park conservatory
+Lincoln park zoo
+Magnificent mile
+360 chicago observation deck
+Chicago water tower
+Drake hotel
+Dusable bridge
+John hancock center
+Magnificent mile
+Tribune tower
+Wrigley building
+Adler planetarium
+Alinea
+Art institute of chicago
+Burnham park
+Calumet park
+Chicago architecture boat tour
+Chicago l
+Chicago lakefront trail
+Chicago riverwalk
+Chicago st patricks day
+Chicago stock exchange arch
+Ernest hemingway birthplace
+Field museum of natural history
+Fountain of time
+Frederick c robie house
+Graceland cemetery
+Grant park
+Jackson park
+Leaning tower of niles
+Michigan avenue
+Midway plaisance
+Millennium park
+Morton arboretum
+Museum of science and industry
+Navy pier
+Oriental institute museum
+Oz park
+Peggy notebaert nature museum
+Pullman national monument
+Richard h driehaus museum
+Rockefeller chapel
+Shedd aquarium
+St mary of angels
+Unity temple
+Washington park
+Waterfall glen forest preserve
+Wrigley field
+
+Shawnee national forest
+Bell smith springs scenic area
+Garden of the gods
+Illinois iron furnace national historic site
+Jackson falls
+Little grand canyon
+Pomona natural bridge
+Rim rock national recreation trail
+Sand cave underground railroad national historic site
+Shawnee bigfoot statue
+Shawnee national forest
+
+-Springfield
+Abraham lincoln presidential library and museum
+Dana thomas house state historic site
+First resting place of abraham lincoln
+Illinois state capitol
+Illinois state museum
+Lincoln home national historic site
+Lincoln tomb state historic site
+Old state capitol state historic site
+Springfield union station
+Union square park
+Washington park botanical garden
+
+-MO
+-stlouis
+Anheuser busch brewery
+Basilica of st louis
+Busch stadium
+Cahokia mounds state historic site
+Carondelet park
+Cathedral basilica of saint louis
+Chain of rocks bridge
+City museum
+Citygarden sculpture park
+Contemporary art museum st louis
+Crown candy kitchen
+Delmar loop
+Forest park
+Gateway arch national park
+Gateway arch
+Grants farm
+Kiener plaza
+Malcolm w martin memorial park
+Missouri botanical garden
+Missouri history museum
+National blues museum
+National museum of transportation
+Old courthouse
+Saint louis art museum
+Saint louis science center
+Saint louis zoo
+Samuel cupples house
+Scott joplin house state historic site
+Soldiers memorial military museum
+St charles historic district
+St louis union station
+Ted drewes frozen custard
+Tower grove park
+Ulysses s grant national historic site
+
+Kansas city
+Arabia steamboat museum
+City market
+Crown center
+Ewing and muriel kauffman memorial garden
+Fort osage national historic landmark
+Harry s truman national historic site
+Harry s truman presidential library and museum
+Kansas city automotive museum
+Kansas city city hall
+Kansas city museum
+Kansas city
+Katy trail state park
+Kauffman center for the performing arts
+Kemper museum of contemporary art
+Loose park
+Missouri town living history museum
+Money museum
+National frontier trails museum
+National museum of toys and miniatures
+National world war i museum and memorial
+Nelson atkins museum of art
+Penn valley park
+Twa museum
+vaile mansion
+
+-branson
+Branson landing
+Branson scenic railway
+Showboat branson belle
+Silver dollar city
+Table rock state park
+
+-Hannibal mo
+Mark twain boyhood home and museum
+Mark twain cave
+
+-Jefferson city
+Missouri governors mansion
+Missouri state capitol
+Missouri state museum
+Missouri state penitentiary
+
+-Springfield
+Pythian castle
+Wonders of wildlife museum & aquarium
+
+St joseph
+Albrecht kemper museum of art
+Glore psychiatric museum
+Jesse james home and museum
+Patee house museum
+Pony express national museum
+
+-KS
+-Wichita/Hutchinson
+Allen lambe house
+Botanica wichita gardens
+Central riverside park
+Exploration place
+Fountains at waterwalk
+Great plains nature center
+Kansas aviation museum
+Keeper of plains
+Mid america all indian museum
+Museum of world treasures
+Old cowtown museum
+Old town square
+Old town
+Orpheum theatre
+Ulrich museum of art
+Veterans memorial park
+Wichita art museum
+Wichita sedgwick county historical museum
+-hutchinson
+Cosmosphere
+Strataca Underground Salt Museum
+
+Lawrence
+Dole institute of politics
+Ku natural history museum
+Massachusetts steet
+Spencer museum of art
+Watkins community museum history
+
+Overland park
+Mahaffie stagecoach stop farm
+Museum at prairiefire
+Nerman museum of contemporary art
+Overland park arboretum and botanical gardens
+
+Topeka
+American flight museum
+Brown v board of education national historical park
+Combat air museum
+Great overland station
+Kansas museum of history
+Kansas state capitol
+Museum of kansas national guard
+
+-NE
+Bob kerrey pedestrian bridge
+Boys town
+Capitol district
+Durham museum
+Gene leahy mall at riverfront
+Heartland of america park at riverfront
+Holland center
+Joslyn art museum
+Joslyn castle and gardens
+Lauritzen gardens
+Lewis and clark landing at riverfront
+Lewis and clark national historic trail headquarters and visitor center
+Omaha performing arts
+Omaha
+Omahas henry doorly zoo and aquarium
+Pioneer village
+Saint cecilia cathedral
+Spirit of nebraska wilderness
+Standing bear lake
+Zorinsky lake trail
+Strategic Air Command and Aerospace Museum
+-Lincoln
+Great plains art museum
+Historic haymarket
+Museum of american speed
+Nebraska state capitol
+Saint marys catholic church lincoln
+Sheldon museum of art
+Sunken gardens
+University of nebraska state museum morrill hall
+
+west NE (Scottsbluff, toadstool, ft robinson)
+Scotts Bluff National Monument
+Toadstool Geologic Park
+Agate Fossil Beds National Monument
+Windlass Hill
+Wildcat Hills State Recreation Area
+Courthouse and Jail Rocks
+Fort Robinson
+Ash Hollow State Historical Park
+Chimney Rock National Historic Site
+Carhenge
+Chadron State Park
+
+-SD
+black hills
+rapid city
+Art Alley
+president statues??
+South Dakota Air and Space Museum
+Spearfish Canyon
+Sylvan Lake
+Crazy Horse Memorial
+Deadwood, SD
+Wind Cave National Park
+Mt Rushmore National Monument
+Needles of the Black Hills
+optional Black Elk Peak, Jewel Cave National Monument
+
+-IA
+des moines, pella etc
+
+ND
+-theodore Roosevelt np
+-North Unit
+Achenbach Trail
+Buckhorn Trail
+Caprock Coulee Nature Trail
+Little Mo Nature Trail
+Oxbow Overlook
+River Bend Overlook
+Scenic Drive
+Sperati Point
+-South Unit
+Boicourt Trail
+Coal Vein Trail
+Elkhorn Ranch Unit
+Jones Creek Trail
+Maltese Cross Cabin
+Peaceful Valley Ranch
+Ridgeline Trail
+Scenic Loop Drive
+Wind Canyon Trail
+
+mn
+-Minneapolis/stpaul
+American Swedish Institute
+chain of lakes - Bde Maka Ska, etc
+Mall of America
+Mill Ruins Park
+Minneapolis Sculpture Garden
+Minnehaha Park
+Lake Minnetonka Wayzata Excelsior
+Minnesota State Capitol
+Cathedral of Saint Paul
+
+-north shore
+Gooseberry Falls State Park
+grand marais
+grand portage national monument
+grand portage state park
+gunflint trail
+judge cr magney state park
+palisade head
+silver bay
+split rock lighthouse state park
+tettegouche state park
+bean and bear lakes
+
+-Duluth
+aerial lift bridge
+canal park
+enger tower
+lake superior railroad museum
+
+-WI
+-door county
+Al Johnson’s Swedish Restaurant
+Baileys Harbor, WI
+Cana Island
+Door County
+Ephraim, WI
+Peninsula State Park
+Ridges Sanctuary
+Sister Bay, WI
+Washington Island
+Whitefish Dunes State Park
+
+-Milwaukee
+Basilica of Saint Josaphat
+Best Place at the Historic Pabst Brewery
+Discovery World
+Grohmann Museum
+Haggerty Museum of Art
+Harley-Davidson Museum
+Historic Third Ward
+Lake Park
+Lakeshore State Park
+Milwaukee Art Museum
+Milwaukee City Hall
+Milwaukee Pierhead Lighthouse
+Milwaukee Public Museum
+Milwaukee RiverWalk
+Mitchell Gallery of Flight
+Mitchell Park Domes Horticulture Conservatory
+North Point Lighthouse
+Pabst Mansion
+Veterans Park
+Villa Terrace Museum and Gardens
+
+Madison?
+Wisconsin dells?
+
+-GA
+-atlanta
+atlanta botanical garden
+atlanta history center
+centennial Olympic park
+David j sencer cdc museum
+RT Martin Luther King Jr. National Historical Park
+Piedmont Park
+National Center for Civil and Human Rights
+King Center
+Historic Fire Station No. 6
+High Museum of Art
+Fernbank Museum of Natural History
+Ebenezer Baptist Church
+opt. world of coca cola, College Football Hall of Fame, Georgia aquarium
+
+ga Appalachia
+Amicalola Falls State Park
+Anna Ruby Falls
+Brasstown Bald
+Dahlonega
+Dahlonega Gold Museum
+Consolidated Gold Mine
+Helen
+ppalachian Trail Southern Terminus
+
+-golden isle
+St. Simons Island
+St. Simons Island Lighthouse Museum
+Jekyll Island
+
+south of atlanta
+
+savannah
+Bonaventure Cemetery
+Cathedral Basilica of St. John the Baptist
+Congregation Mickve Israel
+Fort Pulaski National Monument
+river street
+savannah city hall
+skidaway island state park
+squares of savannah
+wormsloe historic site
+tybee island
+Tybee Island Light Station and Museum
+
+-fl
+-Pensacola
+Big lagoon state park
+Fort pickens
+Gulf breeze
+Gulf islands national seashore
+Johnson beach national seashore
+Pensacola beach
+Pensacola historic district
+Pensacola museum of history at the university of west florida
+Perdido key
+Saenger theatre pensacola
+Tarkiln bayou preserve state park-emerald coast
+-emerald coast
+Camp helen state park
+Destin harbor boardwalk
+Destin
+Grayton beach state park
+Henderson beach state park
+Miramar beach
+Navarre beach
+Okaloosa island
+Panama city beach
+Pier park
+Rosemary beach
+Sandestin
+Scenic gulf drive
+St andrews state park
+Topsail hill preserve state park
+
+Miami and fl keys
+Miami
+Biltmore hotel miami coral gables
+Coral gables city hall
+Coral gables congregational united church of christ
+Coral gables
+Fairchild tropical botanic garden
+Matheson hammock park
+Venetian pool
+South beach
+Espanola way
+Las olas cafe
+South beach art deco hotels
+South beach
+Villa casa casuarina at the former versace mansion
+Antorcha de la amistad
+Bal harbour shops
+Barnacle historic state park
+Bayside marketplace and park
+Bill baggs cape florida state park
+Coconut grove
+Coral castle
+Fontainebleau miami beach
+Freedom tower
+Holocaust memorial miami beach
+Lincoln road
+Little havana
+Matheson hammocks
+Miami
+Pinecrest gardens
+Plymouth congregational church
+South pointe park
+St bernard de clairvaux church
+Versailles miami
+Vizcaya museum and gardens
+Wynwood walls
+
+-everglades national park
+Anhinga trail
+Bobcat boardwalk
+Buttonwood canal
+Eco pond trail
+Everglades national park guided boat tours
+Everglades national park
+Flamingo fl
+Florida bay
+Gumbo limbo trail
+Mahogany hammock trail
+Nike missile base hm69
+Nine mile pond
+Pa hay okee overlook
+Pinelands trail
+Shark valley tram road
+Shark valley
+Snake bight trail
+Ten thousand islands
+West lake trail
+
+-Biscayne national park
+Biscayne national park guided tours
+Boca chita key
+Elliott key
+Jetty trail
+Jones lagoon
+Maritime heritage trail
+
+-Florida keys
+Bahia honda state park
+John pennekamp coral reef state park
+Seven mile bridge
+
+
+-Key west
+Duval street
+Ernest hemingway house
+Fort zachary taylor historic state park
+Mallory square
+Southernmost house
+Southernmost point
+Tropic cinema
+
+-Orlando
+Celebration fl
+Discovery cove
+Disney springs
+Disneys animal kingdom
+Disneys boardwalk resort
+Disneys hollywood studios
+Epcot
+Gatorland
+Icon park
+Lake eola park
+Orlando
+Seaworld orlando
+Universal citywalk orlando
+Universal studios florida
+Walt disney world magic kingdom
+
+Florida North and central east Coast
+-St. Augustine
+Anastasia state park
+Bridge of lions
+Castillo de san marcos national monument
+Cathedral basilica of st augustine
+Cubo line
+Flagler college
+Fort matanzas national monument
+Governors house
+Lightner museum
+Memorial presbyterian church
+Oldest wooden school house
+Plaza de la constitucion
+St augustine pirate treasure museum
+St augustine
+Villa zoryada
+Zero milestone
+-Daytona beach
+Canaveral National Seashore
+Cape Canaveral Space Force Museum
+Kennedy Space Center Visitor Complex
+Merritt Island National Wildlife Refuge
+cocoa beach
+
+-Tampa Bay
+-St petersburg
+Don cesar
+Egmont key state park and national wildlife refuge
+Fort de soto park
+Morean arts center
+Pass a grille
+Salvador dali museum
+St pete beach
+St petersburg pier
+Sunken gardens
+Sunshine skyway bridge
+Vinoy park hotel
+Vinoy park
+-Tampa
+Busch gardens
+Columbia restaurant ybor city
+Henry plant museum
+Tampa riverwalk
+Ybor city
+Caladesi island state park
+Clearwater beach
+Dunedin
+honeymoon island state park
+Bradenton riverwalk
+Ca d zan
+De soto national memorial
+John and mable ringling museum of art
+Lake manatee state park
+Lido key
+Marie selby botanical gardens
+Myakka river state park
+Oscar scherer state park
+Sarasota
+Siesta key
+St armands key
+
+-SC
+-Charleston
+Angel oak tree
+Arthur ravel jr bridge
+Battery charleston
+Cathedral of saint john the baptist
+Charles towne landing state historic site
+Charleston naval complex
+Charlestown city market
+Circular congregational church
+Drayton hall
+Fireproof building
+Folly beach
+Fort moultrie
+Fort sumter and fort moultrie national historical park
+Fort sumter
+French huguenot church
+Husk sc
+Liberty square
+Magnolia plantation and gardens
+Middleton place
+Mount pleasant memorial waterfront park
+Old exchange and provost dungeon
+Old slave mart museum
+Patriots point naval and maritime museum
+Rainbow row
+St philips church
+Sullivans island
+Unitarian church charleston
+Washington square charleston
+Waterfront park
+White point garden
+
+-Columbia
+Columbia canal and riverfront park
+Columbia museum of art
+Five points
+Governors mansion
+Mckissick museum
+Museum of reconstruction era at woodrow wilson family home
+South carolina military museum
+South carolina state house
+South carolina state museum
+
+-Greenville
+Falls park on the reedy
+Greenville county museum of art
+Roper mountain science center
+South main street
+Swamp rabbit trail
+Upcountry history museum
+
+-NC
+-Asheville
+Asheville river arts district
+Basilica of st lawrence
+Biltmore estate
+
+-Outer banks
+Bodie island lighthouse
+Cape hatteras lighthouse
+Cape hatteras national seashore
+Corolla
+Fort raleigh national historic site
+Jennettes pier
+Jockeys ridge state park
+Oregon inlet station
+Outer banks
+Pea island national wildlife refuge
+Rodanthe
+Wright brothers national memorial
+
+-charlotte
+Bechtler Museum of Modern Art
+Charlotte Museum of History
+Charlotte
+Discovery Place Science
+Freedom Park
+Harvey B. Gantt Center for African‑American Arts + Culture
+Hendrick Motorsports Museum
+ImaginOn: The Joe & Joan Martin Center
+Latta Place Historic Site
+Market at 7th Street
+Mint Museum Randolph
+Mint Museum Uptown
+NASCAR Hall of Fame
+Optimist Hall
+Puttery
+Queen Charlotte Walks in Her Garden Statue
+Queen City Quarter
+Romare Bearden Park
+Sullenberger Aviation Museum
+UNC Charlotte Botanical Gardens
+U.S. National Whitewater Center
+
+-research triangle
+-durham
+American Tobacco Trail
+Duke University
+Magic Wings Butterfly House and Bayer CropScience Insectarium
+Museum of Life and Science
+Nasher Museum of Art
+Sarah P. Duke Gardens
+
+-Raleigh
+City Market
+Dix Park
+Gregg Museum of Art and Design
+Historic Yates Mill County Park
+Mordecai Historic Park
+Neuse River Greenway Trail
+North Carolina Museum of Art
+North Carolina Museum of History
+North Carolina Museum of Natural Sciences
+North Carolina State Capitol
+Pullen Park
+Randleigh Dairy Heritage Museum
+
+-blue ridge pkwy
+
+-VA
+NE VA (Alexandria, Arlington etc)
+-Alexandria
+Alexandria historical district
+Gadsbys tavern
+Hollensbury spite house
+Jones point park
+Mount vernon trail
+Old town alexandria waterfront
+Old town
+Stabler leadbeater apothecary museum
+Torpedo factory art center
+-Arlington
+Dea museum and visitors center
+Gateway park
+George washington memorial parkway
+Gravelly point
+
+Wilmington area
+
+-Newport news
+Air power park
+Army transportation museum foundation
+Historic endview
+Mariners museum and park
+Virginia air and space science center
+Virginia living museum
+-Norfolk
+Basilica of saint mary of the immaculate conception
+Chrysler museum of art
+Macarthur memorial
+Nauticus
+Pagoda and oriental garden
+St pauls episcopal church
+Town point park
+Waterside promenade
+
+-virginia beach
+Cape henry lighthouse
+First landing beach
+First landing state park
+Miyazaki japanese garden
+Pleasure house point natural area
+Thoroughgood house
+Virginia aquarium and marine science center
+Virginia beach oceanfront boardwalk
+
+-Richmond
+American civil war museum
+Belle isle
+Browns island
+Byrd park
+Lewis ginter botanical garden
+Maymont
+Poe museum
+Richmond canal walk
+Richmond main street station
+Science museum of virginia
+Virginia museum of fine arts
+Virginia museum of history and culture
+Virginia state capitol
+Virginia war memorial
+
+-MD
+Baltimore
+B and o railroad museum
+Baltimore museum of art
+Baltimore museum of industry
+Baltimore painted ladies
+Baltimore phoenix shot tower
+Bromo seltzer arts tower
+Druid hill park
+Edgar allan poe house and museum
+Edgar allan poes grave
+Federal hill park
+Fells point
+Graffiti alley
+Harbor bridge walk
+Historic ships in baltimore
+Lexington market
+National aquarium
+Observatory at patterson park
+Patterson park
+Power plant live
+Top of the world observation level
+Walters art museum
+Washington monument
+
+-Frederick
+carroll creek park
+national museum of civil war medicine
+schifferstadt architectural museum
+
+-Annapolis
+Annapolis city dock
+Annapolis historic main st
+Annapolis maritime museum and park
+Banneker douglass tubman museum
+Government house of maryland
+Kunta kinte alex haley memorial
+Maryland state house
+St annes parish
+St johns college
+United states naval academy
+Us naval academy museum
+William paca house and garden
+
+-DE
+-Wilmington
+Delaware art museum
+Delaware museum of nature and science
+Hagley museum
+River walk
+Rockwood park and museum
+
+-Delaware beaches
+
+-DC
+Basilica of national shrine of immaculate conception
+Bureau of engraving and printing
+Chesapeake and ohio canal national historical park
+Citycenterdc
+Fords theatre
+Franciscan monastery of holy land in america
+Franklin delano roosevelt memorial
+Georgetown
+Heurich house museum
+Hillwood estate museum and gardens
+Hirshhorn museum and sculpture garden
+International spy museum
+J edgar hoover building
+Jefferson memorial
+John f kennedy center for performing arts
+Kenilworth park and aquatic gardens
+Korean war veterans memorial
+Lafayette square
+Library of congress
+Lincoln memorial reflecting pool
+Lincoln memorial
+Martin luther king jr memorial
+Meridian hill park
+Municipal fish market
+National archives museum
+National building museum
+National gallery of art
+National guard memorial museum
+National law enforcement museum
+National museum of african american history and culture
+National museum of african art
+National museum of asian art
+National museum of the american indian
+National postal museum
+National zoological park
+Old post office
+Peace monument
+Phillips collection
+Renwick gallery
+Rock creek park
+Smithsonian castle
+Smithsonian national museum of american history
+Smithsonian national museum of natural history
+Smithsonian national air and space museum
+Spanish steps
+Theodore roosevelt island
+Ulysses grant memorial
+United states botanic garden
+United states capitol
+United states holocaust memorial museum
+United states national arboretum
+United states supreme court
+Vietnam veterans memorial
+Washington dc
+Washington monument
+Washington national cathedral
+Watergate complex
+Wharf washington dc
+White house
+World war two memorial
+Yards washington dc
+
+-PA
+-Pittsburgh
+Andy warhol museum
+Carnegie museum of art
+Carnegie museum of natural history
+Cathedral of learning
+Color park
+Duquesne incline
+Emerald view park
+Fort duquesne
+Fort pitt museum
+Frick pittsburgh museums and gardens
+Kamin science center
+Phipps conservatory and botanical gardens
+Pittsburgh union station
+Point state park fountain
+Point state park
+Randyland
+Strip district
+
+-philly
+Benjamin franklin bridge
+betsy ross house
+Christ Church Burial Ground
+Eastern State Penitentiary
+Edgar Allan Poe National Historic Site
+Elfreth's Alley
+Fairmount Park
+Fairmount Water Works
+Independence Hall National Historical Park
+Love Park
+Penn Museum
+Penn's Landing
+Philadelphia City Hall
+Philadelphia Museum of Art
+Philadelphia's Magic Gardens
+Reading Terminal Market
+
+Lancaster co
+Amish farm and house
+Amish village
+Bird in hand
+Kitchen kettle village
+Kreider farms
+Landis valley village and farm museum
+Lil country store and miniature horse farm
+Old windmill farm
+Wolf sanctuary of pa
+
+-NY
+nyc
+finger lakes
+Niagara falls
+
+-RI
+-Newport
+Newport historic district
+Hunter house
+Museum of newport history
+Newport tower
+Old colony house
+Touro synagogue
+Trinity church
+Vernon house
+Wanton lyman hazard house
+Astors beechwood mansion
+Belcourt of newport
+Bellevue avenue historic district
+Breakers
+Brenton point state park
+Chateau sur mer
+Eastons beach
+Elms
+Fort adams state park
+Kingscote
+Marble house
+Newport casino
+Newport cliff walk
+Ocean drive historic district
+Ochre court
+Rosecliff
+Rough point
+Seaview terrace
+Vernon court
+William watts sherman house
+
+Providence ri
+First baptist church in america
+Rhode island state house
+Roger williams national memorial
+Waterfire
+Waterplace park
+Westminster arcade
+
+-CT
+Hartford
+
+mystic
+
+-MA
+-boston
+Freedom trail
+Boston latin school
+Boston massacre site
+Boston national historical park
+Bunker hill monument
+Copps hill burying ground
+Faneuil hall
+Freedom trail
+Granary burying ground
+Kings chapel burying ground
+Kings chapel
+Massachusetts state house
+Old corner bookstore
+Old north church
+Old south meeting house
+Old state house
+Park street church
+Paul revere house
+Uss constitution
+Beacon hill
+Beacon street
+Boston central library
+Boston city hall
+Boston common
+Boston navy yard
+Boston public garden
+Boston tea party ships and museum
+Boston theater district
+Boston
+Castle island
+Charles river esplanade
+Charles street meeting house
+Cheers
+Christopher columbus waterfront park
+Church of the covenant
+Commonwealth avenue
+Copley square
+Custom house tower
+Dorchester heights
+Emerald necklace
+Fan pier park
+Fenway park
+First baptist church of boston
+Fort independence
+Frederick law olmsted national historic site
+Harvard art museums
+Harvard museum of natural history
+Harvard square
+Harvard university
+Harvard yard
+Institute of contemporary art
+Isabella stewart gardner museum
+John f kennedy presidential library and museum
+John fitzgerald kennedy national historic site
+Long wharf
+Longfellow house washington’s headquarters national historic site
+Louisburg square
+Massart art museum
+Metropolitan waterworks museum
+Mit museum
+Museum of fine arts boston
+Museum of science
+New england aquarium
+Old city hall boston
+Old south church
+Post office square
+Quincy market
+Rose fitzgerald kennedy greenway
+Trinity church boston
+uss constitution museum
+
+Cape cod
+Dune shacks of peaked hill bars historic district
+Long point light
+Pilgrim monument
+Provincetown
+Race point light
+Cape cod national seashore
+Chatham light
+Highland light
+Hyannis
+John f kennedy hyannis museum
+Marconi beach
+Nauset light
+Nobska light
+Sandwich glass museum
+Sandwich ma
+Scargo tower
+Town hall square historic district
+West dennis light
+Wood end light
+
+-Marthas vineyard
+Aquinnah
+East chop light
+Edgartown harbor light
+Edgartown
+Mytoi
+Oak bluffs
+
+Plymouth
+Brewster gardens
+Burial hill
+Coles hill
+Jabez howland house
+Mayflower ii
+National monument to the forefathers
+Pilgrim hall museum
+Plimoth grist mill
+Plimoth plantation
+Plymouth beach
+Plymouth rock
+
+salem
+salem maritime national historic site
+salem witch museum
+witch house
+
+-ME
+-Acadia national park
+Abbe museum
+Acadia carriage roads
+Acadia mountain trail
+Baker island
+Bar island trail
+Bass harbor head light
+Beech mountain trail
+Bubbles acadia
+Cadillac mountain
+Eagle lake
+Echo lake
+Gorge path
+Great cranberry island
+Great head trail
+Hadlock ponds loop
+Isle au haut
+Islesford
+Jordan pond
+Little cranberry island
+Little hunters beach
+Ocean path trail
+Otter cliff
+Otter cove overlook
+Park loop road
+Perpendicular trail
+Precipice trail
+Sand beach
+Schoodic peninsula
+Seawall
+Ship harbor trail
+Sieur de monts spring nature center
+Somes sound
+Thunder hole
+Wild gardens of acadia
+Wonderland trail
+
+Atlantic coast
+Ogunquit
+Ogunquit Beach
+Crescent Beach
+Drakes Island Beach
+Laudholm Beach
+Parson's Beach
+Kennebunkport
+Kennebunkport beaches
+Dock Square
+Franciscan Monastery
+St. Ann's by-the-Sea Episcopal Church
+Blowing Cave Park
+Walkers Point
+Cape Porpoise
+Wedding Cake House
+Kennebunk
+Palace Playland
+Scarborough Beach State Park
+
+-Cape Elizabeth
+Crescent Beach State Park
+Kettle Cove State Park
+On The Rocks at Two Lights
+Cape Elizabeth West Lighthouse
+Two Lights State Park
+
+Portland Head Light
+Fort Williams Park
+Fort Preble
+Spring Point Ledge Lighthouse
+Bug Light Lighthouse
+Peaks Island
+Fort Gorges
+
+-Portland
+Victoria Mansion
+Portland Museum of Art
+United States Custom House
+Old Port
+Monument Square
+Maine Historical Society and the Wadsworth-Longfellow House
+Cathedral of the Immaculate Conception
+Maine Narrow Gauge Railroad
+Portland Observatory
+Fort Allen Park
+Mackworth Island State Park
+
+Boothbay Harbor
+Burnt Island Light
+Frances Perkins National Monument
+Marshall Point Lighthouse & Museum
+Monhegan Island
+
+-augusta
+Augusta Greenway Trail
+Old Fort Western
+Maine State Capitol
+Maine State Museum
+First Amendment Museum at the Gannett House
+
+-Bangor
+Zillman Art Museum
+Maine Air Museum
+International Cryptozoology Museum
+
+
+-OH
+Cincinnati
+American sign museum
+Cincinnati art museum
+Cincinnati city hall
+Cincinnati museum center
+Cincinnati zoo and botanical garden
+Contemporary arts center
+Crystalline tower
+Eden park
+Findlay market
+John a roebling suspension bridge
+Jungle jims international market
+Krohn conservatory
+Loveland castle museum
+National underground railroad freedom center
+Purple people bridge
+Smale riverfront park
+Taft museum of art
+William howard taft national historic site
+
+-columbus
+Columbus museum of art
+Columbus
+Franklin park conservatory and botanical gardens
+Goodale park
+National veterans memorial and museum
+North market downtown
+Ohio history center
+Ohio statehouse
+Ohio village
+Scioto audubon metro park
+Scioto mile promenade
+Topiary park
+
+-Cuyahoga valley national park
+Beaver marsh
+Blue hen falls
+Boston mill visitor center
+Brandywine falls
+Bridal veil falls
+Canal exploration center
+Cuyahoga valley national park
+Cuyahoga valley scenic railroad
+Everett covered bridge
+Ledges trail
+Ohio and erie canal towpath
+
+-Dayton
+Americas packard museum
+Boonshoft museum of discovery
+Carillon historical park
+Dayton art institute
+Dayton aviation heritage national historical park
+National museum of the us air force
+Sunwatch indian village
+
+-Cleveland
+African american museum in cleveland
+Arcade
+Cleveland botanical garden
+Cleveland history center
+Cleveland museum of art
+Cleveland museum of natural history
+Cleveland script sign the foundry
+Cleveland trust company building
+Cleveland
+Crawford auto aviation museum
+Hope memorial bridge
+House from a christmas story
+James a garfield monument
+Lake view cemetery
+Museum of contemporary art cleveland
+Rock and roll hall of fame
+Severance music center
+Uss cod submarine memorial
+West side market
+Western reserve historical society
+
+-Canton
+Canton classic car museum
+Canton museum of art
+First ladies national historic site
+Mckinley presidential library and museum
+Pro football hall of fame
+
+-Ohio amish country
+Amish heartland group tours
+Behalt amish mennonite heritage center
+Berlin oh
+Farm at walnut creek
+Ohio amish coutry
+Schrocks heritage village
+Yoders amish home
+
+Toledo/san dusky
+
+-IN
+Indianapolis
+American legion mall
+Benjamin harrison presidential site
+Bottleworks hotel
+Central canal
+Childrens museum of indianapolis
+Eiteljorg museum of american indians and western art
+Indiana historical society
+Indiana medical history museum
+Indiana repertory theatre
+Indiana state capitol
+Indiana state museum
+Indiana war memorial and museum
+Indianapolis fire fighters museum
+Indianapolis motor speedway museum
+Indianapolis motor speedway
+Indianapolis public library central library
+Kurt vonnegut museum library
+Newfields
+Oldfields lilly house gardens
+Saint mary catholic church
+Soldiers and sailors monument
+white river state park
+
+-MI
+-Detroit
+belle isle
+Detroit riverwalk
+Detroit institute of arts
+Charles h wright museum of African American history
+ford piquette avenue plant museum
+ford rouge factory tour
+general motors renaissance center
+greenfield village
+henry ford museum of American innovation
+spirit of Detroit
+campus martius park
+
+-Upper peninsula
+Keweenaw peninsula
+Brockway mountain drive
+calumet
+copper country trail
+Delaware mine
+fort wilkins historic state park
+Keweenaw national historical park
+mclain state park
+porcupine mountains
+lake of the clouds
+manido falls
+nawadaha falls
+Presque isle river
+Palms Book State Park
+Bond Falls
+Grand Island National Recreation Area
+Tahquamenon Falls State Park
+Pictured Rocks National Lakeshore
+
+-mackinac area
+Mackinac Bridge
+Mackinac Bridge scenic overlooks and viewpoints on north and south side of bridge
+McGulpin Point Lighthouse
+Old Mackinac Point Lighthouse
+Mackinac Island
+Grand Hotel
+Arch Rock
+Mackinac Island State Park
+Fort Mackinac
+
+-nw shore (sleeping bear etc)?
+Sleeping Bear Dunes National Lakeshore
+Traverse City
+Pierce Stocking Scenic Dr
+
+-MT
+-billings
+four dances recreation area
+pictograph cave state park
+rimrocks
+Western Heritage Center
+Yellowstone Art Museum
+Pompeys Pillar Interpretive Center
+Little Bighorn Battlefield National Monument
+
+MT cities
+-billings
+four dances recreation area
+pictograph cave state park
+rimrocks
+Pompeys Pillar Interpretive Center
+Little Bighorn Battlefield National Monument
+-Bozeman
+The College M Trail
+-butte
+Berkeley Pit
+Big Butte Open Space Recreation Area
+Our Lady of the Rockies
+Grant-Kohrs Ranch National Historic Site
+Garnet Ghost Town
+
+-Helena
+Montana State Capitol
+Cathedral of Saint Helena
+
+-Missoula
+Caras Park
+the m trail
+CSKT Bison Range
+flathead lake
+kalispel
+whitefish
+optional days: ennis, virginia city, Nevada city, Hamilton
+optional Glacier national park
+
+-glacier
+avalanche gorge
+avalanche lake
+bird woman falls
+bowman lake
+garden wall
+going to the sun road
+granite park chalet
+grinnell glacier
+grinnell lake
+gunsight pass
+hidden lake
+highline trail
+iceberg lake
+kintla lake
+lake josephine
+lake mcdonald
+logan pass
+many glacier hotel
+many glacier nature trail
+many glacier
+mcdonald creek
+north fork
+polebridge
+redrock falls
+sacred dancing cascade
+siyeh bend
+st mary and virginia falls
+st mary lake
+sun point
+swiftcurrent lake
+the loop
+trail of the cedars glacier
+two medicine lake
+two medicine
+upper two medicine
+wild goose island overlook
+
+-ID
+-boise
+boise rose garden
+camels back reserve
+freak alley gallery
+hillside to hollow reserve
+idaho anne frank human rights memorial
+idaho botanical garden
+idaho military history museum
+idaho museum of mining and geology
+idaho state capitol
+idaho state museum
+julia davis park
+kathryn albertson park
+north end
+old idaho penitentiary site
+table rock
+
+-WY
+-grand teton
+amphitheater lake
+bradley lake
+cascade canyon
+cunningham cabin historic site
+death canyon
+grand teton national park
+granite canyon
+gros ventre river
+hidden falls
+jackson lake dam
+jackson lake
+jenny lake
+lake solitude
+laurance s rockefeller preserve
+leigh lake
+mormon row
+oxbow bend
+schwabacher landing
+signal mountain summit
+slide lake
+snake river
+string lake
+taggart lake
+
+-Yellowstone
+artist point
+brink of the lower falls
+grand canyon of the yellowstone
+lookout point grand canyon of the yellowstone
+red rock point
+upper falls
+canyon village and the grand canyon
+canyon village
+dragons mouth spring
+dunraven pass
+hayden valley
+mount washburn
+mud volcano
+sulphur caldron
+fishing bridge lake village bridge bay and the east
+fishing bridge
+lake butte overlook
+yellowstone lake
+buffalo ranch
+cooke city
+lamar valley the northeast tower fall and tower roosevelt
+lamar valley
+tower fall
+clepsydra geyser
+fountain group
+fountain paint pot
+lower geyser basin
+excelsior geyser
+grand prismatic spring
+midway geyser basin
+fairy falls
+firehole river
+imperial geyser
+madison and the west
+clepsydra geyser
+fountain group
+fountain paint pot
+lower geyser basin
+excelsior geyser
+grand prismatic spring
+midway geyser basin
+fairy falls
+firehole river
+imperial geyser
+madison and the west
+blacktail deer plateau
+bunsen peak road bike trail
+historic fort yellowstone
+mammoth hot springs and the north
+mammoth hot springs
+obsidian cliff
+gibbon falls
+norris geyser basin
+roaring mountain
+steamboat geyser
+geyser hill group
+grand group
+lone star geyser
+morning glory pool
+old faithful area
+old faithful
+upper geyser basin
+black pool
+west thumb geyser basin
+grand loop yellowstone
+
+-Cheyenne
+cheyenne botanic gardens
+cheyenne depot museum
+cheyenne depot plaza
+cheyenne frontier days old west museum
+cheyenne
+cowgirls of west museum
+military memorial museum
+nelson museum of west
+wyoming state capitol
+wyoming state museum
+
+WA
+seattle
+amazon spheres
+Chihuly garden
+gum wall
+seattle great wheel
+pike place market
+space needle
+original starbucks
+optional 
+
+-mt rainer 
+alta vista trail
+bench and snow lakes trail
+box canyon
+burroughs mountain trail
+carbon glacier trail
+fremont lookout
+frozen lake
+glacier basin trail
+grove of the patriarchs trail
+ipsut creek
+longmire
+mount rainier national park
+mount rainier trails
+mount rainier
+mowich lake
+narada falls
+nisqually vista trail
+paradise
+pinnacle peak
+reflection lakes
+skyline trail
+sourdough ridge trail
+spray park trail
+steamboat prow
+summerland trail
+sunrise visitor center
+tolmie peak lookout trail
+
+-n cascades 
+cascade pass
+diablo lake
+gorge powerhouse
+happy creek forest walk
+ladder creek falls
+lake chelan national recreation area
+newhalem
+north cascades highway
+north cascades national park
+north cascades trails
+rainbow falls
+ross lake national recreation area
+stehekin
+sterling munro trail
+thunder creek trail
+trail of the cedars nature walk
+washington pass
+winthrop wa
+
+-Olympic np
+cape alava
+elwha river
+hoh rain forest
+hoh river trail
+hurricane hill trail
+hurricane ridge
+kalaloch and ruby beach
+lake crescent
+lake cushman
+marymere falls
+mora and rialto beach
+mount olympus
+obstruction point road
+ozette
+quinault
+sol duc falls
+sol duc valley
+
+-OR
+-Columbia gorge ~9–10 days
+ainsworth state park
+beacon rock state park
+bridal veil falls or
+bridge of the gods
+chanticleer point
+columbia hills state park
+coopey falls
+crown point
+dalles or
+dog mountain
+eagle creek
+elowah falls
+fairy falls
+glenn otto park
+guy w talbot state park
+historic columbia river highway
+hole in the wall falls
+horsetail falls
+john b yeon state scenic corridor
+latourell falls
+metlako falls
+multnomah falls
+oneonta gorge
+punch bowl falls
+rooster rock state park
+starvation creek falls
+table mountain wa
+troutdale or
+twister falls
+vista house
+wahclella falls
+wahe falls
+wahkeena falls
+wyeast falls
+
+-Oregon coast
+astoria or
+bolon island tideways state scenic corridor
+cannon beach
+cape arago light
+cape arago state park
+cape blanco
+cape perpetua
+cascade head
+chetco point
+devils punch bowl state natural area
+ecola state park
+face rock state scenic viewpoint
+floras lake
+harris beach state park
+haystack rock
+humbug mountain
+jessie m honeyman memorial state park
+lewis and clark national historical park
+oregon dunes national recreation area
+oregon islands national wildlife refuge
+port orford heads state park
+samuel h boardman state scenic corridor
+shore acres state park
+sunset bay state park
+tillamook or
+
+-southeastern or
+alvord hot springs
+borax lake
+catlow valley
+diamond craters
+hart mountain national antelope refuge
+jordan craters
+malheur national wildlife refuge
+owyhee river
+pillars of rome
+steens mountain
+warner valley
+
+-Portland
+cathedral park
+grotto portland or
+international rose test garden
+lan su chinese garden
+mcmenamins kennedy school
+mill ends park
+oregon historical society museum
+pittock mansion
+portland aerial tram
+portland japanese garden
+powells city of books
+st johns bridge
+tom mccall waterfront park
+
+other Oregon cities?
+
+-NV
+las vegas
+adventuredome indoor theme park
+area15
+aria resort and casino
+bellagio conservatory and botanical gardens
+bellagio gallery of fine art
+bellagio hotel and casino
+big apple coaster
+bonanza gift shop
+caesars palace
+circa resort and casino
+circus circus hotel and casino
+clark county government center
+cosmopolitan of las vegas
+cromwell las vegas hotel and casino
+dig this
+discover king tuts tomb
+downtown container park
+downtown las vegas
+eiffel tower viewing deck
+encore las vegas
+ethel m botanical cactus garden
+excalibur hotel and casino
+exotics racing
+fashion show las vegas
+flamingo las vegas hotel and casino
+flamingo wildlife habitat
+fly linq
+fontainebleau las vegas
+forum shops at caesars
+fountains of bellagio
+fremont street
+gondola ride at the venetian
+hall of excellence
+harrahs las vegas
+high roller
+hollywood cars museum and liberace garage
+horseshoe las vegas
+lake of dreams
+las vegas natural history museum
+las vegas strip
+las vegas
+linq hotel and experience
+lou ruvo center for brain health
+luxor hotel casino
+machine guns vegas
+madame tussauds las vegas
+mandalay bay
+meow wolf las vegas omega mart
+mgm grand
+mob museum
+mystic falls park
+neon museum
+new york new york casino
+old las vegas mormon fort state historic park
+palazzo at the venetian resort
+paris las vegas
+park mgm las vegas
+pinball hall of fame
+planet hollywood las vegas resort and casino
+plaza hotel and casino
+punk rock museum
+resorts world las vegas
+rio all suite hotel and casino
+sahara las vegas
+shark reef aquarium at mandalay bay
+shelby heritage center
+silverton casino lodge
+skyjump las vegas
+slotzilla zipline
+sphere
+spring mountain ranch state park
+springs preserve
+stadium swim
+strat hotel casino and skypod
+strat tower and theme rides
+sunset park
+treasure island ti hotel and casino
+tule springs fossil beds national monument
+venetian resort las vegas
+welcome to fabulous las vegas sign
+wynn las vegas
+
+-great basin national park
+alpine loop trail
+baker creek road
+baker lake johnson lake loop
+bristlecone glacier trail
+great basin national park
+lehman caves
+sky islands forest trail
+upper pictograph cave
+wheeler peak nv
+wheeler peak scenic drive
+
+-loneliest road
+
+-carson city/reno
+
+-NM
+-Albuquerque
+abq biopark
+albuquerque international balloon fiesta
+albuquerque museum
+anderson abruzzo albuquerque international balloon museum
+coronado historic site
+elena gallegos open space
+las huertas canyon
+maxwell museum of anthropology turquoise museum
+national museum of nuclear science and history
+new mexico museum of natural history and science
+new mexico steam locomotive
+old town albuquerque
+rattlesnake museum and gift shop
+rio grande nature center state park
+rio grande river trail
+sandia cave
+sandia crest
+sandia peak tramway
+sawmill market
+telephone museum of new mexico
+wheels museum
+
+santa fe
+atalaya mountain
+barrio de analco historic district
+canyon road
+cathedral basilica of st francis of assisi
+cristo rey church
+de vargas street house
+don gaspar historic district
+georgia okeeffe museum santa fe
+iaia museum of contemporary native arts
+jean cocteau cinema
+la fonda on the plaza
+loretto chapel
+meow wolf
+museum of indian arts and culture
+museum of international folk art
+new mexico heritage arts museum
+new mexico history museum
+new mexico museum of art
+new mexico state capitol
+oldest house museum
+our lady of guadalupe
+palace of the governors
+san miguel mission
+santa fe plaza
+santuario de guadalupe
+wheelwright museum of the american Indian
+
+abuqui
+los alamos
+
+taos
+bernard j beimer house
+dh lawrence ranch
+eanger irving couse house and studio
+ernest l blumenschein house
+governor charles bent house
+kit carson house
+la loma plaza historic district
+la morada de nuestra senora de guadalupe
+leon gaspard house
+mabel dodge luhan house
+martinez hacienda
+nicolai fechin house
+ojo caliente hot springs round barn
+ojo caliente hot springs
+our lady of guadalupe parish taos
+picuris pueblo
+posi ouinge
+ranchos de taos plaza
+rio grande gorge bridge
+san francisco de asis mission church
+san jose de gracia church
+taos downtown historic district
+taos inn
+taos plaza
+taos pueblo
+taos ski valley
+
+nw nm
+bisti
+Aztec ruins
+chaco culture
+
+-CO
+Colorado springs
+  pikes peak
+  
+-Denver
+16th st mall
+art district on santa fe
+buffalo bill museum and grave
+casa bonita
+castle trail
+cathedral basilica of the immaculate conception
+chatfield state park
+civic center park
+clyfford still museum
+colorado railroad museum
+colorado state capitol
+confluence park
+cussler museum
+daniels and fisher tower
+denver art museum
+denver central market
+denver city park
+denver millennium bridge
+denver museum of nature and science park
+denver union station
+devils head lookout
+eldorado canyon state park
+flatirons vista trail
+flatirons
+frederic c hamilton building
+history colorado center
+kirkland museum of fine and decorative art
+larimer square
+lost gulch overlook trail
+luz de denver
+morrison natural history museum
+mount falcon park
+museo de las americas
+museum of contemporary art denver
+pearl street mall
+red rocks park and amphitheatre
+trading post trail
+walker mansion ruins
+william frederick hayden park
+wings over the rockies air and space museum
+
+-Colorado springs
+barr trail
+broadmoor manitou pikes peak cog railway
+cave of the winds
+colorado springs pioneers museum
+colorado springs
+crystal reservoir
+edward j peterson air and space museum
+garden of the gods visitor and nature center
+manitou incline
+national museum of world war ii aviation
+pikes peak highway
+pikes peak historical street railway foundation
+pikes peak
+seven bridges trail
+seven falls
+space foundation headquarters and discovery center
+taylor museum
+western museum of mining and industry
+
+mountain towns/ ski resorts
+  aspen
+  Breckenridge
+  vail
+  
+telluride/Ouray/silverton
+  million dollar highway
+
+sw co Durango cortez pagosa
+Durango silverton railroad
+
+-mesa verde
+badger house community
+long house
+nordenskiold site
+step house
+wetherill mesa
+balcony house
+chapin mesa
+cliff palace
+far view
+mesa top loop road
+mesa verde national park
+mug house
+petroglyph point trail
+soda canyon overlook trail
+spruce tree house
+square tower house
+
+rocky mountain national park
+adams falls
+alberta falls
+bear lake
+bierstadt lake
+cub lake
+dream lake
+flattop mountain
+hallett peak
+lake haiyaha
+loch rocky mountains
+mills lake
+ouzel falls
+sprague lake
+timberline falls
+alpine visitor center
+bluebird lake
+calypso cascades
+chasm lake
+forest canyon overlook
+glacier gorge trail
+grand lake
+holzwarth historic site
+horseshoe park
+lily lake
+longs peak
+many parks curve
+moraine park
+old fall river road
+rainbow curve
+rock cut
+sheep lakes
+trail ridge road
+wild basin area
+
+4 corners
+
+-black canyon of the Gunnison national park
+North Rim
+chasm view nature trail
+deadhorse trail
+north vista trail
+South Rim
+oak flat loop
+painted wall
+rim rock trail
+east portal black canyon
+gunnison route
+north rim black canyon
+north rim scenic drive black canyon
+south rim black canyon
+south rim scenic drive black canyon
+warner nature trail
+
+great sand dunes national park
+high dune
+medano creek
+medano lake trail
+medano pass primitive road
+montville nature trail
+mosca pass trail
+sand sheet loop trail
+star dune
+wellington ditch trail
+
+-AZ
+NE AZ canyon de chelly monument valley etc
+
+
+page
+horseshoe bend
+lake powell
+glen canyon dam
+antelope canyon
+buckskin gulch
+toadstool hoodoos
+lees ferry
+grand canyon north rim
+
+phoenix
+heard museum
+superstition mtns
+tempe
+hayden butte
+Scottsdale
+old Scottsdale
+camelback mtn
+south mtn
+
+Sedona
+city
+devils bridge
+fay canyon
+airport scenic lookout
+Boynton canyon
+caves
+west fork of oak creek
+
+flagstaff area
+meteor crater
+walnut creek
+wupatki
+sunset crater
+<GC>
+winslow
+<sedona>
+<ne az>
+petrified forest
+
+Tucson
+mt lemmon
+pima
+sabino
+
+south AZ Bisbee tombstone chiracuahua
+
+-UT
+SE UT valley of the gods etc
+moki dugway
+
+SW UT/st George area st George kanab etc
+
+moab area
+dead horse
+
+zion
+angels landing
+canyon overlook trail
+checkerboard mesa
+coalpits wash
+deertrap mountain
+east rim trail
+emerald pools
+grotto trail
+hidden canyon trail
+kolob arch
+kolob canyons
+observation point
+riverside walk
+watchman trail
+west rim trail
+zion canyon
+zion human history museum
+zion narrows
+zion national park
+zion subway
+
+-capitol reef
+burr trail road
+capitol gorge to tanks trail
+capitol gorge
+capitol reef national park
+capitol reef scenic drive
+cassidy arch
+cathedral valley
+chimney rock trail
+cohab canyon trail
+fruita historic district
+fruita schoolhouse
+goosenecks overlook
+grand wash trail
+hickman bridge
+muley twist canyon
+notom bullfrog road
+oyler mine
+panorama point
+petroglyph pullout
+pioneer register
+rim overlook and navajo knobs trail
+strike valley overlook
+sunset point
+temple of the sun and temple of the moon
+walls of jericho
+
+-canyonlands
+aztec butte trail
+gooseberry trail
+murphy point trail
+white rim overlook trail
+cave spring trail
+confluence overlook trail
+lower red lake canyon trail
+peekaboo trail
+pothole point trail
+roadside ruin
+slickrock trail
+canyonlands national park
+chesler park
+druid arch
+grand view
+horseshoe canyon
+island in the sky
+maze canyonlands
+mesa arch
+needles
+upheaval dome
+white rim road
+
+-bryce
+bristlecone loop trail
+bryce canyon national park
+fairyland loop
+fairyland point
+mossy cave trail
+natural bridge
+navajo trail
+peekaboo loop trail
+queens garden trail
+rainbow point
+rim trail
+yovimpa point
+
+-arches
+balanced rock
+broken arch
+courthouse wash trail
+delicate arch
+devils garden
+double arch
+fiery furnace
+herdina park
+klondike bluffs
+landscape arch
+park avenue
+sand dune arch
+skyline arch
+tower arch
+windows
+
+-stgeorge
+dixie rock
+pioneer park
+red hills desert garden
+st george narrows
+aspiration trail
+fossil falls park
+hamblin home
+st george utah temple
+st george
+temple quarry trail
+virgin river skimboard park
+
+slc
+alpine loop scenic highway
+alta ski area
+big cottonwood canyon
+cascade springs
+cathedral of the madeleine
+church history museum
+city creek center
+deer creek state park
+ensign peak trail
+gilgal sculpture garden
+guardsman pass
+hill aerospace museum
+homestead crater
+jordanelle state park
+joseph smith memorial building
+leonardo
+liberty park
+little cottonwood canyon
+living room trail
+memory grove
+natural history museum of utah
+pioneer memorial museum
+red butte garden and arboretum
+salt lake city and county building
+salt lake city public library
+salt lake temple
+snowbird utah
+temple square
+this is the place heritage park
+utah museum of contemporary art
+utah museum of fine arts
+utah state capitol
+
+-CA
+san diego
+balboa park
+comic con museum
+fleet science center
+japanese friendship garden
+mingei international museum
+museum of us
+san diego air and space museum
+san diego automotive museum
+san diego history center
+san diego museum of art
+san diego museum of natural history
+san diego veterans museum
+timken museum of art
+belmont park
+blacks beach
+cabrillo national monument
+coronado beach
+cowles mountain
+gaslamp quarter
+grant hill
+la jolla cove
+little italy san diego
+manchester grand hyatt hotel
+maritime museum of san diego
+mission bay
+mission beach
+mission trails regional park
+mt soledad national veterans memorial
+north park
+ocean beach sd
+old town san diego state historic park
+pacific beach
+san diego central library
+san diego zoo
+san diego
+seaport village
+spruce street suspension bridge
+stuart collection
+sunset cliffs
+torrey pines state preserve
+uss midway museum
+
+-Santa catalina island
+Avalon
+Catalina casino
+Trans catalina trail
+Two harbors
+Wrigley botanical gardens
+
+-orange county
+Anaheim
+Dana point
+Disneyland
+Huntington beach
+Knotts berry farm
+Laguna beach
+Newport beach
+San clemente
+Seal beach
+
+-Los angeles
+-downtown los angeles
+angels flight railway
+arts district
+biltmore los angeles
+bradbury building
+broad
+cathedral of our lady of the angels
+chinatown los angeles
+downtown los angeles
+grand central market
+grand park
+inter continental los angeles downtown
+last bookstore
+los angeles central library
+los angeles city hall
+museum of contemporary arts los angeles moca
+olvera street
+pershing square
+ribbon of light
+sixth street viaduct
+union station los angeles
+walt disney concert hall
+-Hollywood
+chateau marmont
+comedy store
+rainbow bar and grill
+roxy
+sunset strip
+sunset tower
+viper room
+whiskey a gogo
+dolby theatre
+griffith observatory
+griffith park
+hollyhock house
+hollywood boulevard
+hollywood bowl
+hollywood forever cemetery
+hollywood museum
+hollywood sign
+hollywood walk of fame
+hollywood
+lake hollywood park
+mount lee
+mulholland drive
+ovation hollywood
+paramount pictures studio tour
+pinks hot dogs
+providence
+runyon canyon park
+sunset boulevard
+tcl chinese theatre
+abbot kinney blvd
+aquarium of the pacific
+baldwin hills scenic overlook
+brady bunch house
+california science center
+echo park
+elysian park
+ernest e debs regional park
+exposition park
+gamble house
+getty museum
+getty villa
+grove la
+huntington library
+in n out burger lax
+kenneth hahn state recreation area
+korean bell of friendship
+la brea tar pits
+long beach
+los angeles county museum of art lacma
+melrose avenue
+norton simon museum
+original farmers market
+petersen automotive museum
+queen mary
+randys donuts
+rodeo drive
+santa monica beach and pier
+sony pictures studios
+third street promenade
+universal studios hollywood
+uss iowa museum
+venice beach
+venice canal historic district
+vista hermosa natural park
+warner bros studio tour
+-Beverly hills
+beverly canon gardens
+beverly gardens park
+beverly hills 76
+beverly hills city hall
+beverly hills hotel
+beverly wilshire
+electric fountain
+spadena house
+sprinkles beverly hills
+waldorf astoria beverly hills
+will rogers memorial park
+
+central California
+-malibu
+el matador beach
+point dune
+-bishop peak
+-bubblegum alley
+-cerro san luis obispo
+-Madonna inn
+santa barabara
+Chumash painted cave
+El presidio de santa barbara
+Leadbetter beach
+Santa barbara botanical garden
+Santa barbara county courthouse
+Santa barbara museum of natural history
+Santa barbara
+Seven falls
+Shoreline park
+Stearns wharf
+
+Mojave desert
+
+-wine country
+Artesa vineyards and winery
+Bale grist mill state historic park
+Beringer vineyards
+Castello di amorosa
+Dariou​sh winery
+Del dotto estate winery and caves
+Domaine carneros
+Donum estate
+French laundry
+Jack london state historic park
+Ledson winery and vineyards
+Napa
+Old faithful geyser of california
+Regusci winery
+Silverado trail
+
+hwy 395
+Eastern sierra visitor center
+Lone pine ca
+Museum of western film history
+Southern inyo museum
+Heart lake
+Inyo craters
+Mammoth consolidated mine
+Mammoth lakes
+Mammoth scenic loop
+Panorama dome
+The bluffs
+Twin falls
+Twin lakes
+Alabama hills national scenic area
+Big pine lakes palisades glacier
+Big pine
+Bishop ca
+Bishop creek
+Bishop pass trail
+Convict lake
+Conway summit
+Cottonwood creek charcoal kilns
+Cottonwood lakes trail
+Crowley lake stone columns
+Devils postpile national monument
+Fossil falls
+Hot creek geologic site
+Independence
+June lake
+Lake crowley
+Lake sabrina
+Lee vining
+Manzanar national historic site
+Mobius arch
+Mono lake
+Moonlight falls
+Mount langley
+Olancha sculpture garden
+Onion valley
+Owens river gorge
+Owens valley radio observatory
+Panum crater
+Piute pass
+Rock creek lake trail
+Salt lake cinder cone
+South lake
+Trona pinnacles
+Us route 395
+Whitmore hot springs
+
+-palm springs
+agua caliente cultural museum
+forever marilyn
+mount san jacinto
+palm canyon
+palm springs aerial tramway
+palm springs air museum
+palm springs art museum architecture and design center
+palm springs art museum
+walk of the stars palm springs
+
+-sacramento
+california state capitol
+cathedral of the blessed sacrament ca
+crocker art museum
+delta king
+fanny anns
+leland stanford mansion state historic park
+old sacramento state historic park
+state capitol park world peace rose garden
+sutters fort state historic park
+tower bridge
+
+-pacific coast highway big sur
+andrew molera state park
+big creek bridge
+bixby creek bridge
+elephant seal vista point
+garrapata state park
+harmony headlands state park
+hearst castle exterior
+hearst castle interior
+hearst castle
+henry miller memorial library
+julia pfeiffer burns state park
+limekiln state park
+moonstone beach
+pfeiffer beach
+piedras blancas light station
+point lobos state natural reserve
+point sur lighthouse
+point sur state historic park
+ragged point
+salmon creek falls
+sand dollar beach
+soberanes point
+William Randolph hearst memorial beach
+
+carmel-by-the-sea/
+-Monterey
+asilomar state beach
+cannery row
+cathedral of san carlos borromeo
+monterey bay aquarium
+monterey state historic park
+monterey
+old fishermans wharf
+pebble beach
+point pinos lighthouse
+seventeen mile drive
+-Santa cruz
+Natural bridges state beach
+Santa cruz beach boardwalk
+Walton lighthouse
+West cliff drive
+Wilder ranch state park
+
+-san Francisco
+-Golden gate national recreation area
+Marin headlands
+Battery rathbone mcindoe
+Battery spencer overlook
+Battery townsley
+Fort baker
+Fort barry
+Fort cronkite
+Hawk hill
+Hill 88
+Kirby cove camp
+Marin headlands
+Muir beach and outlook
+Muir woods national monument
+Nike missile site sf 88
+Olema valley and bolinas ridge
+Point bonita lighthouse
+Rodeo beach
+Slacker ridge
+Stinson beach
+Tennessee valley
+Baker beach
+Battery chamberlin
+China beach
+Crissy field
+Fort funston
+Fort mason
+Fort point national historic site
+Lands end
+Ocean beach
+Presidio of san francisco
+San francisco area
+Sutro baths
+Mori point
+Rancho corral de tierra
+Sweeney ridge
+
+Alcatraz island
+Balmy alley
+Chinatown san francisco
+Coit tower
+Fishermans wharf
+Ghirardelli square
+Golden gate bridge
+Golden gate park
+Haight ashbury
+Japanese tea garden
+Lombard street
+Painted ladies
+Palace of fine arts
+Pier 39
+San francisco cable car museum
+San francisco cable car system
+San francisco city hall
+San francisco maritime national historical park
+Transamerica pyramid
+Twin peaks
+union square
+
+-Oakland
+Cathedral of christ the light
+Chinatown oakland
+Jack londons cabin
+Oakland
+Pacific renaissance plaza
+Piedmont funeral services and mountain view cemetery
+
+wine country
+sierra nevadas
+north CA
+Mendocino area
+
+-lake Tahoe
+cave rock
+d l bliss state park
+ed zberg sugar pine point state park
+emerald bay state park
+heavenly mountain resort
+lake aloha
+mount tallac
+palisades tahoe squaw valley
+south lake tahoe
+
+-california missions
+la purisima concepcion
+mission san gabriel arcangel
+mission san jose
+mission santa barbara
+nuestra senora de la soledad
+san antonio de padua
+san buenaventura
+san carlos borromeo del carmelo
+san diego de alcala
+san fernando rey de espana
+san francisco de asis
+san francisco solano
+san juan bautista
+san juan capistrano
+san luis obispo de tolosa
+san luis rey
+san miguel arcangel
+san rafael arcangel
+santa clara de asis
+santa cruz
+santa ines
+
+channel islands national park
+Anacapa island
+Anacapa light station
+Black mountain
+Black rock channel islands
+Channel islands national park
+Inspiration point
+Painted cave
+San miguel island
+Santa barbara island
+Santa cruz island
+Santa rosa island
+Scorpion anchorage
+Skunk point
+Smugglers cove
+Vail and vickers ranch
+Water canyon
+
+death valley national park
+Artists drive
+Artists palette
+Badwater basin
+Dantes view
+Death valley national park
+Devils golf course
+Fall canyon
+Furnace creek
+Golden canyon gower gulch badlands
+Harmony borax works
+Mesquite flat sand dunes
+Salt creek
+Scottys castle
+Stovepipe wells
+Telescope peak
+Titus canyon
+Twenty mule team canyon
+Ubehebe crater
+Wildrose peak
+Zabriskie point
+
+Joshua tree national park
+Arch rock nature trail
+Barker dam trail
+Black rock
+Boy scout trail
+Cholla cactus garden
+Cottonwood spring
+Desert queen mine
+Fortynine palms oasis
+Geology tour road
+Hidden valley trail
+Joshua tree national park
+Jumbo rocks skull rock
+Keys ranch
+Keys view
+Lost horse valley
+Lost palms oasis
+Oasis of mara
+Ocotillo patch
+Park boulevard
+Pinto basin
+Pinto mountain
+Ryan mountain
+ryan ranch
+wall street mill
+wonderlands of rock
+
+-kings canyon national park
+Big stump trail
+Cedar grove
+Grant grove
+Kings canyon national byway
+Kings canyon national park
+Mist falls
+North grove loop trail
+Roaring river falls
+South fork kings river
+Yucca point
+Zumwalt meadow
+
+lassen volcanic national park
+Brokeoff mountain
+Bumpass hell
+Butte lake
+Chaos crags
+Cinder cone
+Devils kitchen
+Drakesbad guest ranch
+Emerald lake
+Juniper lake
+Kings creek falls
+Lassen peak
+Lassen volcanic national park
+Loomis museum
+Manzanita lake
+Mount harkness
+Snag lake
+Sulphur works
+Summit lake
+Warner valley
+
+-Redwood national and state parks
+Bald hills road
+Big tree wayside
+Boy scout tree trail
+Del norte coast redwoods state park
+Fern canyon
+Hidden beach trail
+Jedediah smith redwoods state park
+Klamath river
+Lady bird johnson grove trail
+Newton b drury scenic byway
+Orick ca
+Prairie creek redwoods state park
+Redwood creek
+Simpson reed trail
+Stout grove trail
+Tall tree grove
+
+-Sequoia national park
+Eagle creek
+Eagle lake trail
+Eagle sinkholes
+Mineral king
+Big trees trail
+Congress trail
+Crystal cave
+General sherman tree
+Generals highway
+Giant forest museum
+Giant forest
+Hospital rock
+Lakes trail
+Little baldy
+Moro rock
+Mount whitney
+Parker group
+
+-Yosemite national park
+Glacier point
+Panorama trail
+Sentinel dome
+Taft point
+Tunnel view
+Hetch hetchy
+Hetch hetchy
+Laurel lake lake vernon rancheria falls loop
+Oshaughnessy dam
+Wapama falls
+Cathedral lakes
+Dog lake
+Gaylor lakes
+Glen aulin
+Lembert dome
+Lyell canyon
+May lake
+Mono pass
+Mount dana
+Olmstead point
+Tenaya lake
+Tioga road
+Tuolumne meadows
+Young lakes
+Bridalveil fall
+El capitan
+Four mile trail
+Half dome permit info
+Half dome
+Mirror lake
+Mist trail vernal nevada fall
+Royal arches
+Valley loop trail
+Yosemite falls
+Yosemite valley
+Yosemite village
+Chilnualna falls
+Clouds rest
+fallen monarch
+grizzly giant
+mariposa grove
+Wawona
