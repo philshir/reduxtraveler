@@ -93,23 +93,48 @@ items.forEach(item => {
 });
 
 // read more
-const containerRead = document.querySelector('.read-more-container');
-const textWrapper = document.getElementById('textWrapper');
-const toggleBtn = document.getElementById('toggleBtn');
-const labelNew = toggleBtn.querySelector('.label-read');
+// const containerRead = document.querySelector('.read-more-container');
+// const textWrapper = document.getElementById('textWrapper');
+// const toggleBtn = document.getElementById('toggleBtn');
+// const labelNew = toggleBtn.querySelector('.label-read');
 
-let isExpanded = false;
+// let isExpanded = false;
 
-toggleBtn.addEventListener('click', () => {
-  isExpanded = !isExpanded;
+// toggleBtn.addEventListener('click', () => {
+//   isExpanded = !isExpanded;
 
-  if (isExpanded) {
-    textWrapper.style.maxHeight = textWrapper.scrollHeight + 'px';
-    labelNew.textContent = 'Read less';
-    containerRead.classList.add('expanded');
-  } else {
-    textWrapper.style.maxHeight = '72px';
-    labelNew.textContent = 'Read more';
-    containerRead.classList.remove('expanded');
-  }
+//   if (isExpanded) {
+//     textWrapper.style.maxHeight = textWrapper.scrollHeight + 'px';
+//     labelNew.textContent = 'Read less';
+//     containerRead.classList.add('expanded');
+//   } else {
+//     textWrapper.style.maxHeight = '72px';
+//     labelNew.textContent = 'Read more';
+//     containerRead.classList.remove('expanded');
+//   }
+// });
+
+
+
+
+document.querySelectorAll('.read-more-container').forEach(container => {
+  const textWrapper = container.querySelector('.text-wrapper');
+  const toggleBtn = container.querySelector('.toggle-btn');
+  const label = toggleBtn.querySelector('.label-read');
+
+  let isExpanded = false;
+
+  toggleBtn.addEventListener('click', () => {
+    isExpanded = !isExpanded;
+
+    if (isExpanded) {
+      textWrapper.style.maxHeight = textWrapper.scrollHeight + 'px';
+      label.textContent = 'Read less';
+      container.classList.add('expanded');
+    } else {
+      textWrapper.style.maxHeight = '72px';
+      label.textContent = 'Read more';
+      container.classList.remove('expanded');
+    }
+  });
 });

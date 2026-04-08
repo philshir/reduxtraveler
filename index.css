@@ -551,6 +551,7 @@ rect:hover {
 .slideshow-container {
   padding-bottom: 60px;
   position: relative;
+  width: 100%;
 }
 
 text.st1 {
@@ -986,10 +987,14 @@ tspan.st10.s11 {
   transition: transform 0.4s;
   display: block;
 }
-.img-cards-main-loc {
+.img-cards-main-social {
   width: 100%;
   display: block;
 }
+/* .img-cards-main-loc {
+  width: 100%;
+  display: block;
+} */
 .img-cards-main-loc-state {
   /* width: 100%; */
   display: block;
@@ -1911,9 +1916,13 @@ h4.navy {
 /*New landing page crads*/
 .landing-flex {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: space-evenly;
   padding: 5px 5px 40px;
+  overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
 }
 .landing-flex .sub-pic{
   display: flex;
@@ -1941,7 +1950,7 @@ h4.navy {
 .best-location-card {
   margin-bottom: 15px;
   margin-top: 15px;
-  box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%);
+  /* box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%); */
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -2025,6 +2034,7 @@ font-weight: 600;
     margin: 0 20px;
     top: 41%;
     padding: 0 10px;
+    text-shadow: 0px 5px 10px rgb(30 30 30 / 90%);
 }
 .social-media-relative {
   position: relative;
@@ -2035,11 +2045,7 @@ font-weight: 600;
   /* max-width: 1000px;
   margin: 0 auto; */
   height: 350px;
-  background: linear-gradient(
-    to bottom,
-    white 20%,
-    rgb(46, 46, 144) 30% 80%
-  );
+  
   display: flex;
   flex-direction: column;
  align-items: center;
@@ -2175,7 +2181,9 @@ font-weight: 600;
 
 /* Active state */
 .accordion-item.active .body {
-  max-height: 300px;
+  /* max-height: 300px; */
+  /* I adjusted max-height to include image and other content */
+  max-height: 600px;
   margin-top: 12px;
 }
 
@@ -2238,6 +2246,12 @@ font-weight: 600;
 /* Expanded state */
 .read-more-container.expanded .chevron-read {
   transform: rotate(180deg);
+}
+
+/* accordian image size  */
+.body img {
+      width: 100%;
+    max-width: 400px;
 }
 
 /* itinerary and best of card layout */
@@ -2763,9 +2777,9 @@ font-weight: 600;
   .img-cards-main {
     width: 100%;
   }
-  .img-cards-main-loc {
+  /* .img-cards-main-loc {
     width: 100%;
-  }
+  } */
 
   .img-cards-main:hover {
     transform: scale(1.2);
@@ -3158,6 +3172,11 @@ font-weight: 600;
   .dropdown-content ul {
     display: none;
   }
+
+  .dropdown-content-single ul {
+    display: none;
+  }
+
   .dropdown-content ul li a {
     color: black;
     font-size: 12px;
@@ -3185,6 +3204,10 @@ font-weight: 600;
   }
 
   .dropdown:hover .dropdown-content ul {
+    display: block;
+  }
+
+  .dropdown:hover .dropdown-content-single ul {
     display: block;
   }
 
@@ -3319,6 +3342,8 @@ width: 100%;
   width: 150px;
 }
 
-/* new itinerary */
-
+.slideshow-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
 }
