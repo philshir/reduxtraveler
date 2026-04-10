@@ -198,7 +198,8 @@ a.itin-menu {
 
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
-  margin: 2px 0;
+  margin: 2px 0 18px;
+
 }
 .trail-description p:first-child {
   font-size: 18px;
@@ -339,6 +340,20 @@ main {
   box-shadow: 5px 5px 15px 3px rgba(0, 0, 0, 0.65);
 }
 
+/* .flex no box shadow */
+.flex-no-shadow {
+  display: flex;
+  /* padding: 20px 10px; */
+  /* border-bottom: 1px solid gray; */
+  align-items: center;
+  flex-direction: column;
+  color: black;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
 /* .featured .flex div:first-child{
   height: 140px;
   overflow: hidden;
@@ -409,6 +424,12 @@ main {
 .description-main h3 {
   font-size: 14px;
   margin: 0;
+}
+
+.map-region {
+max-width: 1000px;
+margin: 0 auto;
+margin-top: 175px;
 }
 
 .map-main h2 {
@@ -2020,6 +2041,10 @@ font-weight: 600;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
 }
+.img-cards-main-social-media {
+  width: 100%;
+  height: auto;
+}
 .social-media-image {
   display: block;
 }
@@ -2277,6 +2302,10 @@ font-weight: 600;
     /* flex-direction: row; */
     max-width: 400px;
   }
+   .flex-no-shadow {
+    /* flex-direction: row; */
+    max-width: 400px;
+  }
   
   /* .trail-description {
   width: 60%;
@@ -2321,6 +2350,12 @@ font-weight: 600;
 .flex.main-padding.itinerary-card {
   flex-direction: column;
 }
+.flex-no-shadow.main-padding.itinerary-card {
+  flex-direction: column;
+}
+.navy.nyc-regions-title {
+  font-size: 30px;
+}
 }
 
 @media only screen and (min-width: 600px) {
@@ -2337,7 +2372,14 @@ font-weight: 600;
   .flex.main-padding.itinerary-card {
     flex-direction: row;
   }
+  .flex-no-shadow.main-padding.itinerary-card {
+    flex-direction: row;
+  }
   .flex {
+    flex-direction: row;
+    max-width: 1000px;
+  }
+  .flex-no-shadow {
     flex-direction: row;
     max-width: 1000px;
   }
@@ -2378,11 +2420,18 @@ font-weight: 600;
     flex-direction: column;
     margin: 0 auto;
   }
+  .flex-no-shadow {
+    flex-direction: column;
+    margin: 0 auto;
+  }
   .city-grid .flex {
     max-width: 400px;
     margin: 10px;
   }
   .flex.main-padding {
+    flex-direction: row;
+  }
+  .flex-no-shadow.main-padding {
     flex-direction: row;
   }
   .flex.main-padding .trail-description {
@@ -3050,6 +3099,9 @@ font-weight: 600;
   .flex {
     flex-direction: row;
   }
+  .flex-no-shadow {
+    flex-direction: row;
+  }
   .city-grid .flex {
     max-width: 100%;
   }
@@ -3345,5 +3397,8 @@ width: 100%;
 .slideshow-container {
   max-width: 1000px;
   margin: 0 auto;
+}
+.trail-description p {
+  font-size: 14px;
 }
 }
