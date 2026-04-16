@@ -401,11 +401,15 @@ main {
   font-size: 18px;
   font-weight: 600;
 }
-.description-one h3,
-.description-one h3 a {
+.description-one h3 {
   font-size: 24px;
   margin: 0 0 4px 0;
 }
+.description-one h3 a {
+  font-size: 22px;
+  margin: 0 0 4px 0;
+}
+
 .description-one ul li {
   margin: 5px 0;
 }
@@ -3080,7 +3084,7 @@ font-weight: 600;
   font-size: 24px;
 } */
 .flex h2 {
-  font-size: 22px;
+  font-size: 24px;
 }
 .flex h2 a {
   font-size: 22px;
