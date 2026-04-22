@@ -196,6 +196,10 @@ a.itin-menu {
   font-weight: 400;
 }
 
+.trail-description h3 {
+  margin: 10px 0;
+}
+
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
   margin: 2px 0 18px;
@@ -222,7 +226,7 @@ a.itin-menu {
 
 h2.nyc-regions-title {
   font-size: 22px;
-  margin: 20px 0 0 0;
+  margin: 40px 0 0 0;
 }
 .nyc-regions-margin {
   margin: 24px 0;
@@ -2535,7 +2539,7 @@ font-weight: 600;
   }
   h2.nyc-regions-title {
     font-size: 26px;
-    margin: 20px 0;
+    margin: 60px 0 20px;
   }
   .nyc-regions-title {
     margin-top: 50px;
@@ -3014,7 +3018,7 @@ font-weight: 600;
   }
 
   .description-one a {
-    font-size: 22px;
+    font-size: 20px;
   }
   .state-table td {
     padding: 0 10px 10px 10px;
