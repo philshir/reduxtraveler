@@ -2304,6 +2304,100 @@ font-weight: 600;
   margin-top: 50px;
 }
 
+/* Social Media Bar Container */
+.social-bar {
+  position: fixed;
+  top: 35%;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 9999;
+background: #eeeeee;
+  padding: 12px 10px;
+  border-radius: 10px;
+
+}
+
+/* Base Icon Style */
+.social {
+  width: 28px;        /* was 46px */
+  height: 28px;       /* was 46px */
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 13px;    /* was ~20px */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+
+  transform: translateX(-10px);
+  opacity: 0;
+  animation: slideIn 0.6s ease forwards;
+}
+
+/* Staggered entrance animation */
+.social:nth-child(1) { animation-delay: 0.1s; }
+.social:nth-child(2) { animation-delay: 0.2s; }
+.social:nth-child(3) { animation-delay: 0.3s; }
+.social:nth-child(4) { animation-delay: 0.4s; }
+
+/* Hover animation */
+.social:hover {
+transform: scale(1.1);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.3);
+}
+
+/* Brand Colors */
+.facebook { background: #1877f2; }
+.x { background: #000000; }
+.pinterest { background: #e60023; }
+.email { background: #111111; }
+.linkedin {
+  background: #0a66c2;
+}
+
+.instagram {
+  background: linear-gradient(
+    45deg,
+    #f58529,
+    #dd2a7b,
+    #8134af,
+    #515bd4
+  );
+}
+
+.youtube {
+  background: #ff0000;
+}
+/* Icon smoothness */
+.social i {
+  transition: transform 0.3s ease;
+}
+
+.social:hover i {
+  transform: rotate(-6deg);
+}
+
+
+
+/* Entry Animation */
+@keyframes slideIn {
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+
+/* Optional: Hide on very small screens */
+@media (max-width: 640px) {
+  .social-bar {
+    display: none;
+  }
+}
+
 /* itinerary and best of card layout */
 @media only screen and (min-width: 445px) {
   .itineraries .flex {

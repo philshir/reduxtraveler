@@ -3518,7 +3518,7 @@ background: url(resources/images/colorado/pagosa-springs/Hot_Springs-1515.jpg) c
     background-size: cover;
 }
 #snowmass-hero{
-    background: url(resources/images/colorado/snowmass/) center no-repeat;
+    background: url(resources/images/colorado/snowmass-village/) center no-repeat;
     background-size: cover;
 }
 #aspen-hero{
@@ -3534,7 +3534,7 @@ background: url(resources/images/colorado/ouray/ouray-hero-1515.jpg) center no-r
     background-size: cover;
 }
 #silverton-hero{
-background: url(resources/images/colorado/silverton-co/Downtown_Silverton\,_Colorado-1515.jpg) center no-repeat;
+background: url(resources/images/colorado/silverton/Downtown_Silverton\,_Colorado-1515.jpg) center no-repeat;
     background-size: cover;
 }
 #telluride-hero{
@@ -15948,7 +15948,7 @@ background: url(resources/images/california/tilden-regional-park/Tilden_march-30
         background-size: cover;
     }
     #snowmass-hero{
-        background: url(resources/images/colorado/snowmass/) center no-repeat;
+        background: url(resources/images/colorado/snowmass-village/) center no-repeat;
         background-size: cover;
     }
     #aspen-hero{
@@ -15964,7 +15964,7 @@ background: url(resources/images/california/tilden-regional-park/Tilden_march-30
         background-size: cover;
     }
     #silverton-hero{
-    background: url(resources/images/colorado/silverton-co/Downtown_Silverton\,_Colorado-3030.jpg) center no-repeat;
+    background: url(resources/images/colorado/silverton/Downtown_Silverton\,_Colorado-3030.jpg) center no-repeat;
         background-size: cover;
     }
     #telluride-hero{
