@@ -28,12 +28,16 @@ Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  
     <script src="https://kit.fontawesome.com/ea97e0442a.js" crossorigin="anonymous"></script>
     <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
 />
 
+<link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-component-ui.js" type="module"></script>
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WT52F8CV1K"></script>
@@ -149,8 +153,9 @@ Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
 
       <button class="dropdown-btn"><span><a class="itin-menu" href="./itineraries/redux-traveler-itineraries.html"><span>ITINERARIES</span></a></span></button>
       <button class="dropdown-btn"><span><a class="itin-menu" href="./best-of/redux-traveler-best-of-lists.html"><span>TOP LOCATIONS</span></a></span></button>
-      
+
       <!-- <button class="dropdown-btn"><span><a target="_blank" rel="noopener" class="itin-menu" href="https://reduxtravelerapp.herokuapp.com"><span>Store</span></a></span></button> -->
+      
      </div>
 
 <!--    fullscreen navbar        -->
@@ -318,7 +323,11 @@ Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
         </div>
     <!-- <a target="_blank" rel="noopener" class="nav-position" href="https://reduxtravelerapp.herokuapp.com">STORE</a> -->
 
-    
+    <pagefind-modal-trigger></pagefind-modal-trigger>
+<pagefind-modal>
+  
+</pagefind-modal>
+
 </div>
 
 
@@ -1256,6 +1265,13 @@ great lakes-->
     <script src="./indexMain.js" ></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="./scriptTwo.js"></script>
-    
+    <script src="/pagefind/pagefind-ui.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function() {
+        new PagefindUI({ element: "#search-desktop", showSubResults: true });
+        new PagefindUI({ element: "#search-mobile", showSubResults: true });
+      });
+    </script>
+
 </body>
 </html>
