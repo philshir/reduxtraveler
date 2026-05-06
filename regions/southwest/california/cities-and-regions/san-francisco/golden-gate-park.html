@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -236,9 +236,18 @@
          > Golden Gate Park
       </p>
     </div>
-    <div id="golden-gate-park-hero" class="hero"><div class="hero-caption-container">
-      <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Golden_Gate_Park.jpg">Taras Bobrovytsky</a>, CC0, via Wikimedia Commons; Image Size Adjusted</p>
-    </div></div>
+        <div class="hero">
+
+            <picture>
+              <source media="(max-width: 400px)" srcset="../../../../../resources/images/california/san-francisco/golden-gate-park/Golden_Gate_Park-400.jpg">
+
+              <source media="(min-width: 401px)" srcset="../../../../../resources/images/california/san-francisco/golden-gate-park/Golden_Gate_Park-1515.jpg">
+              <img fetchpriority="high" src="../../../../../resources/images/california/san-francisco/golden-gate-park/Golden_Gate_Park-400.jpg" alt="" height="300" width="400">
+            </picture>
+            <div class="hero-caption-container">
+            <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Golden_Gate_Park.jpg">Taras Bobrovytsky</a>, CC0, via Wikimedia Commons; Image Size Adjusted</p>
+          </div>
+      </div>
     <main class="article-main">
       <h2 class="highlights">
        <!--wiki--> Large urban park of public grounds 20 percent larger than Central Park in New York City, is the third most-visited city park in the United States after Central Park and the Lincoln Memorial

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -235,9 +235,18 @@
         <a href='../../../southwest.html'>Southwest</a> > <a href='../../../california.html'>California</a> > <a href='./san-francisco.html'>San Francisco</a> > Painted Ladies
       </p>
     </div>
-    <div id="painted-ladies-hero" class="hero"><div class="hero-caption-container">
-      <p class="caption"><span class="caption-title"></span></p>
-    </div></div>
+        <div class="hero">
+
+            <picture>
+              <source media="(max-width: 400px)" srcset="../../../../../resources/images/california/san-francisco/painted-ladies/painted-ladies-thumbnail-400.jpg">
+
+              <source media="(min-width: 401px)" srcset="../../../../../resources/images/california/san-francisco/painted-ladies/painted-ladies-hero-1515.jpg">
+              <img fetchpriority="high" src="../../../../../resources/images/california/san-francisco/painted-ladies/painted-ladies-thumbnail-400.jpg" alt="" height="300" width="400">
+            </picture>
+            <div class="hero-caption-container">
+            <p class="caption"><span class="caption-title"></span></p>
+          </div>
+      </div>
     <main class="article-main">
       <h2 class="highlights">
        <!--wiki--> Best-known group of Victorian and Edwardian houses and buildings repainted, in three or more colors that embellish or enhance their architectural details across from Alamo Square park
