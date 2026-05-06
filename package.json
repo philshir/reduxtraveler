@@ -1,0 +1,25 @@
+{
+  "name": "reduxtraveler",
+  "version": "1.0.0",
+  "description": "> US travel website highlighting over 500 locations in 26 states including national parks, monuments, historic sites, recreational areas, historic landmarks, state parks and other notable locations and landscapes. Includes highlights, descriptions, itineraries, hours, fees, pet friendly info, weather, trail description, interactive maps, and details and directions.",
+  "main": "index.js",
+  "scripts": {
+    "index": "pagefind --site . --output-path pagefind",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philshir/reduxtraveler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/philshir/reduxtraveler/issues"
+  },
+  "homepage": "https://github.com/philshir/reduxtraveler#readme",
+  "dependencies": {
+    "pagefind": "^1.5.2"
+  }
+}
