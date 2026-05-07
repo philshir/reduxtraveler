@@ -138,3 +138,18 @@ document.querySelectorAll('.read-more-container').forEach(container => {
     }
   });
 });
+
+// ── Skeleton Loader ──
+(function () {
+  var loader = document.getElementById('sk-loader');
+  if (!loader) return;
+  function dismiss() {
+    loader.classList.add('sk-fade');
+    setTimeout(function () { loader.remove(); }, 380);
+  }
+  if (document.readyState === 'complete') {
+    dismiss();
+  } else {
+    window.addEventListener('load', dismiss);
+  }
+}());
