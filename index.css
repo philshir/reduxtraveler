@@ -1112,7 +1112,7 @@ tspan.st10.s11 {
   padding: 2px 7px 2px 5px;
   border-radius: 0 25px 25px 0;
   position: absolute;
-  bottom: 8px;
+  bottom: 4px;
   font-size: 6px !important;
   background: rgba(58, 58, 58, 0.7);
   color: #fff;
@@ -1168,7 +1168,7 @@ tspan.st10.s11 {
   /* font-family: "AvenirLTStd-Black", Verdana, sans-serif !important; */
   font-size: 13px !important;
   font-weight: 600;
-  padding: 10px 10px 14px;
+  padding: 4px 4px 6px;
   margin: 10px 0 20px;
   color: rgb(18, 18, 18);
   background-color: #efd867;
@@ -1456,7 +1456,7 @@ body {
   font-size: 8px;
   font-weight: 700;
   max-width: 1170px;
-  padding-top: 5px;
+  /* padding-top: 5px; */
 }
 .breadcrumb-state {
   margin: 5px;
@@ -2597,7 +2597,7 @@ transform: scale(1.1);
   }
   .breadcrumb {
     font-size: 14px;
-    padding-top: 0;
+    /* padding-top: 0; */
   }
   .navy {
     font-size: 22px;
