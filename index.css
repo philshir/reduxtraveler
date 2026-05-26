@@ -1071,8 +1071,6 @@ tspan.st10.s11 {
   /* max-height: 500px; */
   width: 100%;
   overflow: hidden;
-  background: url(./yosemite.jpg) no-repeat center;
-  background-size: cover;
 }
 .hero-new {
   position: relative;
@@ -1498,7 +1496,7 @@ body {
   border-bottom: solid 1px gray;
   font-size: 12px;
   align-items: flex-start;
-  /* line-break: anywhere; */
+  line-break: anywhere;
 }
 .info p {
   margin: 0 0 5px;
@@ -1621,10 +1619,10 @@ body {
   font-weight: 700;
   /* margin: 5px 0; */
 }
-.info div:nth-last-child(3) {
+/* .info div:nth-last-child(3) {
   align-self: center;
   font-size: 12px;
-}
+} */
 
 .portrait {
   height: 300px;
