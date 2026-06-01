@@ -1,0 +1,125 @@
+CALIFORNIA - PAGES WHERE <title> DOES NOT MATCH FILENAME
+Generated: 2026-05-29
+========================================================
+
+
+EMPTY TITLE (8 files)
+----------------------
+abbot-kinney-blvd.html
+brady-bunch-house.html
+hammer-museum.html
+in-n-out-burger-lax.html
+san-vicente-mountain-park.html
+chandelier-drive-thru-tree.html
+forever-marilyn.html
+robert-j-lagomarsino-visitor-center.html
+
+
+TITLE IS "instagram" PLACEHOLDER (41 files)
+--------------------------------------------
+san-rafael-arcangel.html
+santa-cruz.html                               (mission page - conflicts with santa-cruz city page)
+kelso-dunes.html
+santa-monica-mountains-national-recreation-area.html
+cathedral-of-our-lady-of-the-angels.html
+olvera-street.html
+sunset-boulevard.html
+chateau-marmont.html
+comedy-store.html
+rainbow-bar-and-grill.html
+roxy.html
+sunset-tower.html
+viper-room.html
+whiskey-a-gogo.html
+adamson-house-museum.html
+el-matador-beach.html
+escondido-falls.html
+malibu-country-mart-and-lumber-yard.html
+malibu-lagoon-state-beach.html
+malibu-pier.html
+point-dume.html
+solstice-canyon.html
+surfrider-beach.html
+zuma-beach.html
+bixby-creek-bridge.html
+garrapata-state-park.html
+point-sur-state-historic-park.html
+wilder-ranch-state-park.html
+trans-catalina-trail.html
+wrigley-botanical-gardens.html
+delta-king.html
+leland-stanford-mansion-state-historic-park.html
+jack-london-state-historic-park.html
+sutro-baths.html
+golden-canyon-gower-gulch-badlands.html
+wall-street-mill.html
+wonderland-of-rocks.html
+san-miguel-island.html
+white-mountain-peak.html
+mount-whitney.html
+mariposa-grove.html
+
+
+TITLE HAS "FT" PREFIX INSTEAD OF "RT" (22 files)
+--------------------------------------------------
+amboy-crater-national-natural-landmark.html
+lost-coast.html
+antelope-valley-california-poppy-reserve-state-natural-reserve.html
+bodie-state-historic-park.html
+caspar-headlands-state-beach.html
+mackerricher-state-park.html
+manchester-state-park.html
+navarro-river-redwoods-state-park.html
+point-cabrillo-light-station-state-historic-park.html
+saddleback-butte-state-park.html
+schooner-gulch-state-beach.html
+van-damme-state-beach.html
+van-damme-state-park.html
+avila-beach.html
+dinosaur-caves-park.html
+pismo-beach-pier.html
+mendocino-coast-botanical-gardens.html
+point-arena-stornetta-public-lands.html
+railbikes-on-the-noyo.html
+panum-crater.html
+mono-lake.html
+mendocino-headlands-state-park.html
+
+
+WRONG TITLE - COPIED FROM A DIFFERENT PAGE (22 files)
+------------------------------------------------------
+caspar-headlands-state-natural-reserve.html   | Wrong title: FT Caspar Headlands State Beach
+embarcadero.html                              | Wrong title: RT Morro Bay State Park
+morro-bay-maritime-museum.html                | Wrong title: RT Morro Bay State Park
+morro-bay-t-pier.html                         | Wrong title: RT Morro Bay State Park
+morro-strand-state-beach.html                 | Wrong title: RT Morro Bay State Park
+beverly-hills-76.html                         | Wrong title: RT Beverly Cañon Gardens
+ribbon-of-light.html                          | Wrong title: RT Arts District, Los Angeles
+sixth-street-viaduct.html                     | Wrong title: RT Arts District, Los Angeles
+santa-ana.html                                | Wrong title: RT San Clemente
+pismo-state-beach.html                        | Wrong title: FT Dinosaur Caves Park
+shell-beach.html                              | Wrong title: FT Dinosaur Caves Park
+skunk-train.html                              | Wrong title: FT Caspar Headlands State Beach
+goleta-beach-park.html                        | Wrong title: RT Point San Luis Lighthouse
+embracing-peace-unconditional-surrender.html  | Wrong title: RT Cowles Mountain
+mammoth-scenic-loop.html                      | Wrong title: RT Natural Bridges State Beach
+estero-bluffs-state-park.html                 | Wrong title: RT Limekiln State Park
+fall-canyon.html                              | Wrong title: RT Stovepipe Wells
+bald-hills-road.html                          | Wrong title: RT Big Tree Wayside
+tall-tree-grove.html                          | Wrong title: RT Big Tree Wayside
+yucca-point.html                              | Wrong title: RT Big Stump Trail
+eagle-sinkholes.html                          | Wrong title: RT Eagle Lake Trail
+
+
+NOTABLE MISMATCHES - MINOR (10 files)
+--------------------------------------
+la-purisima-concepcion.html               | Title: RT La Purisima Mission                              (missing "Concepcion")
+mount-wilson-san-gabriel.html             | Title: RT Mount Wilson                                     (missing "San Gabriel")
+sprinkles-beverly-hills.html              | Title: RT Sprinkles Cupcakes                               (missing "Beverly Hills")
+union-station-los-angeles.html            | Title: RT Union Station                                    (missing "Los Angeles")
+ghirardelli-square.html                   | Title: RT Ghiradelli Square                                (typo: "Ghiradelli")
+los-angeles-county-museum-of-art-lacma.html | Title: RT Los Angeles Counnty Museum of Art / LACMA    (typo: "Counnty")
+original-farmers-market.html              | Title: RT The Origianl Farmers Market                      (typo: "Origianl")
+torrey-pines-state-preserve.html          | Title: RT Torrey Pines State Natural Reserve               (Preserve vs Natural Reserve)
+santa-barbara-botanical-garden.html       | Title: RT Santa Barbara Botanic Garden                     (Botanical vs Botanic)
+simpson-reed-trail.html                   | Title: RT Simpson-Reed Grove                               (Trail vs Grove)

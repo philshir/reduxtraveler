@@ -1029,9 +1029,10 @@ tspan.st10.s11 {
   display: block;
 } */
 .img-cards-main-loc-state {
-  /* width: 100%; */
+  width: 100%;
   display: block;
   border-radius: 5px;
+  min-width: 100px
 }
 
 .img-cards-intinerary-portrait {
@@ -1432,7 +1433,7 @@ body {
 } */
 
 .title-text {
-  font-size: 28px;
+  font-size: 24px;
   margin: 0 auto;
   max-width: 1170px;
   font-weight: 800;
@@ -1946,6 +1947,8 @@ h4.navy {
 .hero img {
   width: 100%;
   height: auto;
+  position: relative;
+  top: 52px;
 }
 
 /*New landing page crads*/
@@ -2861,6 +2864,11 @@ transform: scale(1.1);
   .main-nav, .main-nav-home-page {
     height: 80px;
   }
+
+.hero img {
+  top: 0;
+}
+
   .main-padding {
     margin-bottom: 20px;
     margin-top: 20px;
@@ -3212,7 +3220,7 @@ transform: scale(1.1);
 
 .hero-top-adjusted {
   position: relative;
-  top: -50px;
+  top: -50px!important;
 }
 }
 
