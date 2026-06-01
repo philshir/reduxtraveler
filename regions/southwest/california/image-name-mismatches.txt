@@ -1,0 +1,105 @@
+﻿HTML FILES WITH MISMATCHED IMAGE FOLDERS
+(image folder doesn't match filename or any parent path segment)
+Generated: 2026-06-01
+
+NOTE: Overview/hub pages (central-california-coast, northern-california, sierra-nevada, etc.)
+      aggregate images from many places -- those are expected. The items below are flagged
+      because the img folder name appears nowhere in the file's path.
+
+--- california-missions (22) ---
+  All 22 mission pages use: california-spanish-missions
+  (folder name differs from directory name 'california-missions')
+
+--- california-national-protected-areas ---
+  fort-ord-national-monument.html  -->  img: ancient-bristlecone-pine-forest
+  santa-monica-mountains-national-recreation-area\ (10 sub-pages)  -->  img: santa-monica-national-recreation-area
+  santa-monica-mountains-national-recreation-area\point-mugu-state-park.html  -->  img: san-gabriel-mountains
+
+--- california-state-parks ---
+  anza-borrego-desert-state-park\ (6 pages)  -->  img: mojave-national-preserve
+  bluff-trail.html  -->  img: montana-de-oro-state-park, spooners-cove
+  caspar-headlands-state-beach.html  -->  img: bodie-state-historic-park
+  caspar-headlands-state-natural-reserve.html  -->  img: bodie-state-historic-park
+  donner-memorial-state-park.html  -->  img: amboy
+  fort-ord-dunes-state-park.html  -->  img: fort-ord-national-monument
+  gaviota-state-park.html  -->  img: montana-de-oro-state-park, spooners-cove
+  hazard-reef-trail.html  -->  img: montana-de-oro-state-park, spooners-cove
+  leo-carrillo-state-beach.html  -->  img: montana-de-oro-state-park, spooners-cove
+  mackerricher-state-park.html  -->  img: glass-beach
+  manchester-state-park.html  -->  img: bodie-state-historic-park
+  mcarthur-burney-falls-memorial-state-park.html  -->  img: glass-beach, mcarthur-burney-falls
+  montana-de-oro-state-park.html  -->  img: russian-gulch-state-park
+  mount-diablo-state-park.html  -->  img: montana-de-oro-state-park
+  navarro-river-redwoods-state-park.html  -->  img: bodie-state-historic-park
+  point-cabrillo-light-station-state-historic-park.html  -->  img: bodie-state-historic-park
+  saddleback-butte-state-park.html  -->  img: antelope-valley-california-poppy-reserve-state-natural-reserve
+  schooner-gulch-state-beach.html  -->  img: bodie-state-historic-park
+  spooners-cove.html  -->  img: montana-de-oro-state-park
+  valencia-peak.html  -->  img: montana-de-oro-state-park
+  van-damme-state-beach.html  -->  img: bodie-state-historic-park
+  van-damme-state-park.html  -->  img: bodie-state-historic-park
+
+--- cities-and-regions ---
+  avila-beach.html  -->  img: antelope-valley-california-poppy-reserve-state-natural-reserve
+  central-california-coast.html  -->  img: [many - hub page]
+  clinton-walker-house.html  -->  img: carmel-by-the-sea
+  lake-tahoe\lake-tahoe.html  -->  img: donner-memorial-state-park
+  los-angeles\los-angeles.html  -->  img: will-rogers-state-beach, wayfarers-chapel, san-gabriel-mountains
+  mendocino.html  -->  img: glass-beach, san-diego, russian-gulch-state-park
+  mojave-desert.html  -->  img: [many - hub page]
+  monterey-bay.html  -->  img: [many - hub page]
+  morro-bay\cerro-cabrillo.html  -->  img: black-hill-trail
+  morro-bay\morro-bay.html  -->  img: black-hill-trail
+  northern-california.html  -->  img: [many - hub page]
+  orange-county\orange-county.html  -->  img: california-spanish-missions
+  pacific-coast-highway-big-sur\elephant-seal-vista-point.html  -->  img: antelope-valley-california-poppy-reserve
+  pacific-coast-highway-big-sur\hearst-castle-exterior.html  -->  img: hearst-castle
+  pacific-coast-highway-big-sur\hearst-castle-interior.html  -->  img: hearst-castle
+  pacific-coast-highway-big-sur\pacific-coast-highway-big-sur.html  -->  img: [many sub-area folders]
+  pismo-beach\dinosaur-caves-park.html  -->  img: antelope-valley-california-poppy-reserve
+  pismo-beach\pismo-beach.html  -->  img: black-hill-trail
+  pismo-beach\pismo-beach-pier.html  -->  img: antelope-valley-california-poppy-reserve
+  pismo-beach\pismo-state-beach.html  -->  img: antelope-valley-california-poppy-reserve
+  pismo-beach\shell-beach.html  -->  img: antelope-valley-california-poppy-reserve
+  point-san-luis-lighthouse.html  -->  img: morro-bay
+  ritz-carlton-half-moon-bay.html  -->  img: half-moon-bay
+  san-diego\san-diego.html  -->  img: potato-chip-rock, california-spanish-missions
+  san-diego\torrey-pines-state-natural-reserve.html  -->  img: joshuaTree
+  san-francisco\san-francisco.html  -->  img: california-spanish-missions
+  san-francisco-bay-area.html  -->  img: [many - hub page]
+  san-luis-obispo\bishop-peak.html  -->  img: bubblegum-alley, sacramento
+  san-luis-obispo\bubblegum-alley.html  -->  img: sacramento
+  san-luis-obispo\madonna-inn.html  -->  img: sacramento
+  san-luis-obispo\san-luis-obispo.html  -->  img: california-spanish-missions
+  santa-barbara\santa-barbara.html  -->  img: california-spanish-missions
+  santa-barbara\santa-barbara-botanical-garden.html  -->  img: palm-springs
+  sierra-nevada.html  -->  img: [many - hub page]
+  southeastern.california.html  -->  img: [many - hub page]
+  us-route-395\ (12 sub-pages)  -->  img: santa-cruz
+  us-route-395\us-route-395.html  -->  img: bodie-state-historic-park, ancient-bristlecone-pine-forest
+  ventura\ventura.html  -->  img: california-spanish-missions
+  wine-country\french-laundry.html  -->  img: santa-cruz
+  wine-country\silverado-trail.html  -->  img: santa-cruz
+  wine-country\wine-country.html  -->  img: california-spanish-missions
+
+--- landmarks-landscapes ---
+  angel-island.html  -->  img: san-francisco
+  arroyo-hondo-vista-point.html  -->  img: morro-bay
+  chandelier-drive-thru-tree.html  -->  img: castle-rock-regional-recreation-area
+  gaviota-beach.html  -->  img: morro-bay
+  goleta-beach-park.html  -->  img: morro-bay
+  mendocino-coast-botanical-gardens.html  -->  img: bodie-state-historic-park
+  nine-sisters\ (sub-pages)  -->  img: black-hill-trail, san-luis-obispo, morro-bay
+  point-arena-stornetta-public-lands.html  -->  img: bodie-state-historic-park
+  point-mugu-missile-park.html  -->  img: morro-bay
+  railbikes-on-the-noyo.html  -->  img: bodie-state-historic-park
+  skunk-train.html  -->  img: bodie-state-historic-park
+  solvang-windmill.html  -->  img: morro-bay
+
+--- national-parks ---
+  death-valley-national-park\death-valley-national-park.html  -->  img: .. (relative path issue)
+  kings-canyon-national-park\cedar-grove.html  -->  img: sanDi-cgoOne-kings-canyon, lajol-ca
+  kings-canyon-national-park\grant-grove.html  -->  img: joshuaTree
+  yosemite-national-park\tioga-road-tuolumne-meadows\tuolumne-meadows.html  -->  img: deathValleyOne
+
+TOTAL FLAGGED: 232 entries
