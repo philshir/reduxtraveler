@@ -1068,7 +1068,7 @@ tspan.st10.s11 {
 
 .hero {
   position: relative;
-  height: 250px;
+  height: 300px;
   /* max-height: 500px; */
   width: 100%;
   overflow: hidden;
@@ -1119,7 +1119,7 @@ tspan.st10.s11 {
   text-align: left;
 }
 .caption-title {
-  font-size: 10px;
+  font-size: 9px;
   font-weight: 700;
 }
 .caption a {
@@ -1168,7 +1168,7 @@ tspan.st10.s11 {
   font-size: 13px !important;
   font-weight: 600;
   padding: 4px 4px 6px;
-  margin: 10px 0 20px;
+  margin: 10px 0 10px;
   color: rgb(18, 18, 18);
   background-color: #efd867;
   text-align: center;
@@ -1177,7 +1177,7 @@ tspan.st10.s11 {
 .cali-travel-guide {
   margin: 0;
   font-family: Tahoma, sans-serif;
-  font-size: 22px;
+  font-size: 18px;
   text-align: center;
 
 }
@@ -1487,7 +1487,7 @@ body {
 
 .info {
   display: grid;
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: 1fr 2fr;
   grid-template-rows: repeat(7, auto);
   grid-column-gap: 10px;
   grid-row-gap: 5px;
@@ -1497,7 +1497,6 @@ body {
   border-bottom: solid 1px gray;
   font-size: 12px;
   align-items: flex-start;
-  line-break: anywhere;
 }
 .info p {
   margin: 0 0 5px;
@@ -1565,7 +1564,7 @@ body {
 }
 .star {
   color: rgb(214, 214, 0);
-  font-size: 20px;
+  font-size: 15px;
 }
 .rating {
   color: #4d4d4d;
@@ -1841,12 +1840,11 @@ h4.navy {
   text-align: center;
 }
 .city-state-featured-title {
-  font-size: 22px;
+  font-size: 18px;
   text-align: center;
   font-weight: 700;
-  font-weight: 700;
-    font-family: tahoma;
-    margin: 26px 0 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
 }
 .pikes-table {
   font-size: 10px;
@@ -1995,13 +1993,13 @@ h4.navy {
 .best-location-card-title {
   padding: 10px;
   text-align: center;
-    font-size: 28px;
+    font-size: 20px;
     font-weight: 700;
 }
 .best-location-card-state {
   /* box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%); */
   /* max-width: 1000px; */
-  margin: 15px 0 30px;
+  margin: 2px 0 12px;
   /* border: solid 1px lightgrey; */
 }
 .best-location-card-flex {
@@ -2381,7 +2379,9 @@ transform: scale(1.1);
   transform: rotate(-6deg);
 }
 
-
+.line-break {
+  line-break: anywhere;
+}
 
 /* Entry Animation */
 @keyframes slideIn {
@@ -3193,6 +3193,9 @@ transform: scale(1.1);
 }
 .trail-table td {
   padding: 8px 2px;
+}
+.best-location-card-title {
+  font-size: 24px;
 }
 }
 
