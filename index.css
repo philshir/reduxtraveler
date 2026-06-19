@@ -3255,6 +3255,7 @@ transform: scale(1.1);
   position: relative;
   top: -50px!important;
 }
+
 }
 
 @media only screen and (min-width: 1170px) {
@@ -3565,6 +3566,9 @@ width: 100%;
 }
 .trail-description h3 {
   font-size: 20px;
+}
+.hero-top-adjusted-200 {
+  top: -200px!important;
 }
 }
 
