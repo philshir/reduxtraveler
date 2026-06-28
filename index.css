@@ -1068,7 +1068,7 @@ tspan.st10.s11 {
 
 .hero {
   position: relative;
-  height: 300px;
+  height: auto;
   /* max-height: 500px; */
   width: 100%;
   overflow: hidden;
@@ -1497,6 +1497,7 @@ body {
   border-bottom: solid 1px gray;
   font-size: 12px;
   align-items: flex-start;
+  line-break: anywhere;
 }
 .info p {
   margin: 0 0 5px;
