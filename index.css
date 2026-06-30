@@ -406,11 +406,11 @@ main {
   font-weight: 600;
 }
 .description-one h3 {
-  font-size: 24px;
-  margin: 0 0 4px 0;
+  font-size: 22px;
+  margin: 0 0 12px 0;
 }
 .description-one h3 a {
-  font-size: 20px;
+  font-size: 22px;
   margin: 0 0 4px 0;
 }
 .description-one h3 ul li a {
