@@ -203,7 +203,7 @@ a.itin-menu {
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
   margin: 10px 0;
-
+font-size: 16px;
 }
 .trail-description p:first-child {
   font-size: 18px;
@@ -228,8 +228,8 @@ h2.nyc-regions-title {
   font-size: 22px;
   margin: 40px 0 0 0;
 }
-.nyc-regions-margin {
-  margin: 24px 0;
+h3.navy.nyc-regions-title {
+  font-size: 22px;
 }
 h3 {
   text-align: center;
@@ -384,6 +384,7 @@ main {
   margin: 20px 0 !important;
 }
 .flex h2 {
+  font-size: 18px;
   text-align: center;
   margin: 5px 0 8px;
 }
@@ -410,7 +411,7 @@ main {
   margin: 0 0 12px 0;
 }
 .description-one h3 a {
-  font-size: 22px;
+  font-size: 16px;
   margin: 0 0 4px 0;
 }
 .description-one h3 ul li a {
@@ -1168,7 +1169,7 @@ tspan.st10.s11 {
   font-size: 13px !important;
   font-weight: 600;
   padding: 4px 4px 6px;
-  margin: 10px 0 10px;
+  margin: 10px 0 14px;
   color: rgb(18, 18, 18);
   background-color: #efd867;
   text-align: center;
@@ -1717,9 +1718,6 @@ body {
 }
 .featured.navy h2 {
   font-size: 22px;
-}
-.info {
-  margin-bottom: 40px;
 }
 .stats {
   font-size: 14px !important;
@@ -2492,7 +2490,7 @@ transform: scale(1.1);
   flex-direction: column;
 }
 .navy.nyc-regions-title {
-  font-size: 30px;
+  font-size: 26px;
 }
 }
 
@@ -2668,7 +2666,7 @@ transform: scale(1.1);
     margin: 60px 0 20px;
   }
   .nyc-regions-title {
-    margin-top: 50px;
+    margin-top: 26px;
   }
   .nyc-regions-margin {
     margin: 36px 0;
@@ -3136,6 +3134,7 @@ transform: scale(1.1);
     font-size: 16px;
   }
   .city-state-featured-title {
+    margin-bottom: 8px;
     font-size: 26px;
   }
   .pikes-table {
@@ -3227,6 +3226,9 @@ transform: scale(1.1);
 }
 .best-location-card-title {
   font-size: 24px;
+}
+.description-one h3 a {
+  font-size: 20px;
 }
 }
 
@@ -3527,7 +3529,7 @@ transform: scale(1.1);
     font-weight: 600;
   }
   .featured.navy {
-    margin-top: 50px;
+    margin-top: 5px;
     max-width: 1000px;
   }
   .featured.navy h2 {
