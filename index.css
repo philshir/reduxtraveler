@@ -539,12 +539,22 @@ article {
 rect {
   filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, 0.3));
 }
-.map svg text:hover rect,
 rect:hover {
   filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, 0.7));
 }
 
+/* city label text sits on top of its rect in a separate <g>, so let hover
+   pass through to the rect underneath instead of stopping on the glyphs */
+.map svg text {
+  pointer-events: none;
+}
+.map svg a text {
+  pointer-events: auto;
+}
 
+.map svg a {
+  text-decoration: none;
+}
 
 .map p {
   margin: 0 10px;
@@ -610,10 +620,6 @@ tspan.st10.s11 {
 
 .map a:hover text tspan {
   fill: navy;
-}
-.map a:hover text {
-  fill: navy;
-  text-decoration-color: navy;
 }
 
 .map-one .st1 {
@@ -1622,6 +1628,7 @@ body {
 .bold {
   font-weight: 700;
   color: #000;
+  font-size: 16px;
 }
 .semi-bold {
   font-weight: 700;
@@ -1707,6 +1714,15 @@ body {
 }
 .main-article p {
   font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+.main-article h3 {
+  font-size: 20px;
+}
+.main-article h4 {
+  text-align: center;
+  margin: 0;
+  font-size: 18px;
 }
 .description-main p {
   font-family: Arial, sans-serif;
