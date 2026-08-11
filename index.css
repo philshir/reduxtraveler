@@ -1811,6 +1811,11 @@ h4.navy {
   font-weight: 500;
 
 }
+
+.trail-description-itinerary h2 {
+  text-align: center;
+}
+
 .itinerary-margin {
   margin-top: 28px;
 }
