@@ -2429,3 +2429,107 @@ Mont Helena
 Museum Of The Mississippi Delta
 Old Court House Museum
 
+Oxford
+======
+Ammadelle
+Lafayette County Courthouse
+Oxford City Hall
+Oxford
+Rowan Oak
+University Of Mississippi Museum
+University Of Mississippi
+William Faulkners Grave
+
+Tupelo
+======
+Elvis Presley Birthplace
+Natchez Trace Parkway Visitor Center
+Tupelo National Battlefield
+Tupelo
+
+Jackson
+=======
+Governors Mansion
+Jackson
+Lefleurs Bluff State Park
+Medgar And Myrlie Evers Home National Monument
+Mississippi Agriculture And Forestry Museum
+Mississippi Civil Rights Museum And Museum Of Mississippi History
+Mississippi Museum Of Art
+Mississippi Museum Of Natural Science
+Mississippi State Capitol
+Old Capitol Museum
+Smith Robertson Museum
+
+Tampa Bay
+=========
+Caladesi Island State Park
+Clearwater Beach
+Dunedin
+Honeymoon Island State Park
+Don Cesar
+Egmont Key State Park And National Wildlife Refuge
+Fort De Soto Park
+Morean Arts Center
+Pass A Grille
+Salvador Dali Museum
+St Pete Beach
+St Petersburg Pier
+St Petersburg
+Sunken Gardens
+Sunshine Skyway Bridge
+Vinoy Park Hotel
+Vinoy Park
+Busch Gardens
+Columbia Restaurant Ybor City
+Henry Plant Museum
+Tampa Riverwalk
+Tampa
+Ybor City
+Tampa Bay
+
+Sarasota
+========
+Bradenton Riverwalk
+Ca D Zan
+De Soto National Memorial
+John And Mable Ringling Museum Of Art
+Lake Manatee State Park
+Lido Key
+Marie Selby Botanical Gardens
+Myakka River State Park
+Oscar Scherer State Park
+Sarasota
+Siesta Key
+St Armands Key
+
+Taos
+====
+Bernard J Beimer House
+D H Lawrence Ranch
+Eanger Irving Couse House And Studio
+Ernest L Blumenschein House
+Governor Charles Bent House
+Kit Carson House
+La Loma Plaza Historic District
+La Morada De Nuestra Senora De Guadalupe
+Leon Gaspard House
+Mabel Dodge Luhan House
+Martinez Hacienda
+Nicolai Fechin House
+Ojo Caliente Hot Springs Round Barn
+Ojo Caliente Hot Springs
+Our Lady Of Guadalupe Parish
+Picuris Pueblo
+Posi Ouinge
+Ranchos De Taos Plaza
+Rio Grande Gorge Bridge
+San Francisco De Asis Mission Church
+San Jose De Gracia Church
+Taos Downtown Historic District
+Taos Inn
+Taos Plaza
+Taos Pueblo
+Taos Ski Valley
+Taos
+
