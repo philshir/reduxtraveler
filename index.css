@@ -2424,6 +2424,105 @@ transform: scale(1.1);
 .table-body {
   position: relative;
   top: 70px;
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
+  background-color: #f7f4ef;
+  color: #222;
+  line-height: 1.5;
+  padding: 1rem;
+}
+
+.table-body h1 {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.table-body .subtitle {
+  text-align: center;
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.table-body .table-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow-x: auto;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.table-body table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 900px;
+}
+
+.table-body thead {
+  background-color: #2f4f4f;
+  color: #ffffff;
+}
+
+.table-body thead th {
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid #c19a6b;
+  white-space: nowrap;
+}
+
+.table-body tbody td {
+  padding: 0.65rem;
+  border-bottom: 1px solid #dddddd;
+  vertical-align: top;
+}
+
+.table-body tbody tr:nth-child(even) {
+  background-color: #f1f1f1;
+}
+
+.table-body tbody tr:hover {
+  background-color: #eaeaea;
+}
+
+.table-body .difficulty {
+  font-weight: 600;
+}
+
+.table-body .easy {
+  color: #2e8b57;
+}
+
+.table-body .moderate {
+  color: #c27c0e;
+}
+
+.table-body .hard {
+  color: #8b0000;
+}
+
+.table-body .table-citation {
+  max-width: 1200px;
+  margin: 1.5rem auto 0;
+  font-size: 0.9rem;
+  color: #555;
+  text-align: center;
+}
+
+/* Hiking Trail Table - Mobile Enhancements */
+@media (max-width: 768px) {
+  .table-body h1 {
+    font-size: 1.4rem;
+  }
+
+  .table-body .subtitle {
+    font-size: 0.95rem;
+  }
+
+  .table-body tbody td {
+    font-size: 0.9rem;
+  }
 }
 
 /* Entry Animation */
