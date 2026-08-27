@@ -106,20 +106,27 @@ Wrigley Field
 Minneapolis
 ===========
 American Swedish Institute
+Bakken Museum
 Bde Maka Ska
 First Avenue
+Foshay Museum And Observation Deck
 Grand Rounds National Scenic Byway
 Guthrie Theater
 Lake Harriet
 Lake Of The Isles
 Mall Of America
+Mill City Museum
 Mill Ruins Park
+Minneapolis Institute Of Art
 Minneapolis Sculpture Garden
 Minneapolis
 Minnehaha Park
+Museum Of Russian Art
 Prospect Park Water Tower
 Stone Arch Bridge
 Tower Hill Park
+Walker Art Center
+Weisman Art Museum
 
 Minnesota North Shore
 =====================
@@ -1483,25 +1490,32 @@ Wheelwright Museum Of The American Indian
 
 Phoenix
 =======
+Arizona Capitol Museum
+Arizona State Capitol
 Bartlett Lake Reservoir
 Black Mountain
 Camelback Mountain
 Desert Botanical Garden
 First Christian Church
 Goldfield Ghost Town
+Hall Of Flame Fire Museum
 Hayden Butte
 Heard Museum
 Lake Pleasant Regional Park
 Mcdowell Mountains
 Mystery Castle
 Papago Park
+Penske Racing Museum
 Phoenix
+Phoenix Art Museum
 Piestewa Peak
 Pinnacle Peak Park
 Red Mountain Park
 Rosson House
 San Tan Mountain Regional Park
 Scottsdale
+Scottsdale Museum Of Contemporary Art
+Sedav Vaaki Museum
 Sierra Estrella
 South Mountain Park And Preserve
 Spook Hill
@@ -4001,4 +4015,122 @@ Niagara Gorge
 Prospect Point Observation Tower
 Rainbow Bridge
 Whirlpool State Park
+
+Overland Park
+=============
+Mahaffie Stagecoach Stop And Farm
+Museum At Prairiefire
+Nerman Museum Of Contemporary Art
+Overland Park Arboretum And Botanical Gardens
+Overland Park
+
+St Paul
+=======
+Bell Museum
+Como Park Zoo And Conservatory
+Harriet Island Regional Park
+Minnesota History Center
+Minnesota Museum Of American Art
+Minnesota Transportation Museum
+Science Museum Of Minnesota
+St Paul
+Upper Landing Park
+Wabasha Street Caves
+
+New Orleans
+===========
+Algiers Point
+Audubon Park
+Audubon Zoo
+Backstreet Cultural Museum
+Basin St Station
+Bonnabel Hill
+Breakwater Park
+Bucktown Marsh Boardwalk
+Carousel Gardens Amusement Park
+Chalmette Battlefield
+Commanders Palace
+Confederate Memorial Hall Museum
+Congo Square
+Degas House
+Free People Of Color Museum
+1850 House Museum And Gift Shop
+Arnauds Germaine Wells Mardi Gras Museum
+Audubon Aquarium
+Bienville Place
+Bloody Marys Haunted Museum And Voodoo Shop
+Bourbon Street
+Cabildo
+Cafe Beignet Royal Street
+Cafe Du Monde
+Canal Street
+Carousel Bar And Lounge
+French Market Shops Of Colonnade
+French Quarter
+Galatoires Restaurant
+Gardette Lepretre Mansion
+Hermann Grima House Gallier House
+Historic New Orleans Collection
+Jackson Brewing Company
+Jackson Square
+Lafittes Blacksmith Shop Bar
+Madame Johns Legacy
+Mardi Gras Museum Of Costumes And Culture
+Museum Of Death New Orleans
+Musical Legends Park
+Natchez Steamboat
+New Orleans Historic Voodoo Museum
+New Orleans Jazz Museum
+New Orleans Pharmacy Museum
+New Orleans Riverwalk
+New Orleans Storyville Museum
+Old Ursuline Convent Museum
+Paddlewheeler Creole Queen
+Pat Obriens
+Presbytere
+Preservation Hall
+Southern Food And Beverage Museum And Museum Of American Cocktail
+Spanish Plaza
+St Louis Cathedral
+Vue Orleans Observation Deck
+Witches Brew Gallery And Haunted Sanctuary
+Woldenberg Park
+Garden District
+Harmony Circle
+Historic Dufour Plassan Home
+Jamnola
+Lafayette Cemetery No 1
+Lafayette Square
+Lake Lawn Metairie Funeral Home And Cemeteries
+Lakeshore Park
+Longue Vue House And Gardens
+Louis Armstrong Park
+Louisiana Civil Rights Museum
+Louisiana State Museum
+Loyola University
+Luling Mansion
+Bacchus Parade
+Endymion Parade
+Mardi Gras
+Orpheus Parade
+Rex Parade
+Zulu Parade
+Mardi Gras World
+Marigny Opera House
+Museum Of Southern Jewish Experience
+National Wwii Museum
+New Canal Lighthouse
+New Orleans Attractions Table
+New Orleans Botanical Garden
+New Orleans City Park
+New Orleans Museum Of Art
+New Orleans
+Ogden Museum Of Southern Art
+Pitot House Museum
+Sazerac House
+St Charles Streetcar
+St Louis Cemetery
+Storyland
+Sydney And Walda Besthoff Sculpture Garden
+West End Park
 
