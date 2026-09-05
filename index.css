@@ -517,6 +517,7 @@ article {
   background-color: #b9d1f7;
   border: 1px solid #86b3fb;
   padding: 20px;
+  margin: 20px 0
 }
 
 .map {
@@ -1055,6 +1056,11 @@ tspan.st10.s11 {
   display: block;
   border-radius: 5px;
   min-width: 100px
+}
+.img-cards-main-loc-state-itinerary {
+  width: 100px;
+  display: block;
+  border-radius: 5px;
 }
 
 .img-cards-intinerary-portrait {
@@ -2064,6 +2070,12 @@ h4.navy {
   scrollbar-width: none
 
 }
+.best-location-card-flex-itinerary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px 0
+}
 .best-location-card-flex::-webkit-scrollbar {
   display: none;
 }
@@ -2075,6 +2087,14 @@ h4.navy {
   box-shadow: 0px 0 5px 2px rgb(0 0 0 / 17%);
   border-radius: 7px;
 
+}
+.best-location-card-state-loc-itinerary {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  box-shadow: 0px 0 5px 2px rgb(0 0 0 / 17%);
+  border-radius: 7px;
+  width: 300px
 }
 .best-location-card-state-info {
   margin: 5px;
@@ -2843,7 +2863,7 @@ font-weight: 400;
     height: 15px !important;
   }
   .state-table {
-    font-size: 18px;
+    font-size: 16px;
   }
   .gallery-cell {
     width: 100%;
