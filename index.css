@@ -993,6 +993,7 @@ tspan.st10.s11 {
 .dropdown-container a {
     font-size: 12px;
     padding-right: 24px;
+        text-wrap: unset;
   }
 
 

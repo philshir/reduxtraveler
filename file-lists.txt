@@ -2658,7 +2658,7 @@ Waterfire
 Waterplace Park
 Westminster Arcade
 
-Great Smoky Mountain National Park
+Great Smoky Mountains National Park
 ==================================
 Abrams Falls Trail
 Alum Cave Trail
@@ -2669,7 +2669,7 @@ Charlies Bunion
 Chimney Tops
 Clingmans Dome
 Cove Hardwood Nature Trail
-Great Smoky Mountain National Park
+Great Smoky Mountains National Park
 Grotto Falls
 Laurel Falls
 Mingo Falls

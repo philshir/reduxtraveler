@@ -28,13 +28,22 @@ let i;
 
 for (i = 0; i < dropdown.length; i++) {
   dropdown[i].addEventListener("click", function() {
-       this.classList.toggle("active");
-  var dropdownContent = this.nextElementSibling;
-  if (dropdownContent.style.display === "block") {
-  dropdownContent.style.display = "none";
-  } else {
-  dropdownContent.style.display = "block";
-  }
+    var dropdownContent = this.nextElementSibling;
+    var isOpen = dropdownContent.style.display === "block";
+
+    // Close every dropdown first
+    for (var j = 0; j < dropdown.length; j++) {
+      dropdown[j].classList.remove("active");
+      if (dropdown[j].nextElementSibling) {
+        dropdown[j].nextElementSibling.style.display = "none";
+      }
+    }
+
+    // Open this one only if it wasn't already open
+    if (!isOpen) {
+      this.classList.add("active");
+      dropdownContent.style.display = "block";
+    }
   });
 }
 
