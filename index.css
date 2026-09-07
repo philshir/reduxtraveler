@@ -1277,6 +1277,120 @@ footer ul li {
 #Layer_1.pint-tube {
   width: 24px;
 }
+
+/* --- Redesigned index.html footer --- */
+footer .footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 35px 45px;
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 45px 55px 5px;
+}
+
+footer .footer-col {
+  display: flex;
+  flex-direction: column;
+  flex: 0 1 auto;
+  min-width: 0;
+}
+
+footer .footer-heading {
+  margin: 0 0 14px;
+  padding-bottom: 8px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+  font-family: Arial, sans-serif;
+  color: white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+footer ul.footer-links {
+  margin: 0;
+  padding: 0;
+  width: auto;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  text-align: left;
+}
+
+footer ul.footer-links li {
+  padding: 0;
+  font-size: 16px;
+  text-transform: none;
+  color: white;
+}
+
+footer .footer-links li a {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+footer .footer-links li a:hover {
+  text-decoration: underline;
+}
+
+footer .footer-social {
+  margin-left: auto;
+}
+
+footer .footer-social-icons {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 4px 0 0;
+  justify-content: center;
+}
+
+footer .footer-social-icons a {
+  color: white;
+  line-height: 0;
+  display: inline-flex;
+}
+
+footer .footer-social-icons svg {
+  width: 24px;
+  height: 24px;
+  fill: currentColor;
+}
+
+footer .footer-social-icons a:hover {
+  color: #8fcffa;
+}
+
+@media (max-width: 900px) {
+  footer .footer-container {
+    gap: 30px 30px;
+    padding: 38px 28px 5px;
+  }
+  footer .footer-col {
+    flex: 1 1 40%;
+  }
+  footer .footer-social {
+    flex-basis: 100%;
+    margin-left: 0;
+  }
+  footer .footer-social-icons {
+    gap: 22px;
+  }
+}
+
+@media (max-width: 500px) {
+  footer .footer-container {
+    padding: 34px 22px 5px;
+  }
+  footer .footer-col {
+    flex: 1 1 100%;
+  }
+}
 .itinerary-text {
   color: white;
   font-family: Arial, "Cambria Math", sans-serif;
@@ -2119,7 +2233,7 @@ font-weight: 600;
 .landing-flex-title {
   padding: 20px;
     text-align: center;
-    font-size: 36px;
+    font-size: 28px;
     font-weight: 700;
     color: black;
 }
@@ -3433,6 +3547,20 @@ font-weight: 400;
 .hero-top-adjusted {
   position: relative;
   top: -50px!important;
+}
+footer .footer-heading {
+  font-size: 12px;
+}
+footer .footer-links li a {
+  font-size: 12px;
+}
+
+footer .footer-container {
+  flex-wrap: nowrap;
+      padding: 25px 85px 5px;
+}
+footer .footer-social-icons {
+  justify-content: flex-start;
 }
 
 }
