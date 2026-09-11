@@ -172,9 +172,6 @@ a:hover,
   padding: 0 5px 5px 5px;
 }
 
-h3 a {
-  color: #01395e;
-}
 /* a:visited {
   color: navy;
 } */
@@ -481,7 +478,7 @@ margin-top: 175px;
 .menu ul {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
    list-style-type: none;
   padding: 0;
@@ -1136,6 +1133,10 @@ tspan.st10.s11 {
   margin: 0 20px;
 }
 
+.hero-caption-container .caption {
+  bottom: 8px;
+}
+
 .caption {
   margin: 0 !important;
   padding: 2px 7px 2px 5px;
@@ -1197,7 +1198,7 @@ tspan.st10.s11 {
   /* font-family: "AvenirLTStd-Black", Verdana, sans-serif !important; */
   font-size: 13px !important;
   font-weight: 600;
-  padding: 4px 4px 6px;
+  padding: 4px 6px 8px;
   margin: 10px 0 14px;
   color: rgb(18, 18, 18);
   background-color: #efd867;
@@ -1706,7 +1707,7 @@ footer .footer-social-icons a:hover {
   width: 100%;
   display: block;
   max-width: 400px;
-  border-radius: 10px;
+  border-radius: 10px 10px 0 0;
 }
 
 .city-location-card-image {
@@ -1729,8 +1730,8 @@ footer .footer-social-icons a:hover {
 }
 .star-title {
   color: rgb(214, 214, 0);
-  font-size: 16px;
-  margin: 0 5px 0 10px;
+  font-size: 12px;
+  margin: 0 5px 0 5px;
 }
 .rating {
   color: #4d4d4d;
@@ -1740,7 +1741,7 @@ footer .footer-social-icons a:hover {
   text-align: center;
 }
 .rating-number {
-  font-size: 16px;
+  font-size: 12px;
 }
 .nostar {
   color: #f4d8d8;
@@ -1766,10 +1767,10 @@ footer .footer-social-icons a:hover {
 
 .cap {
   text-align: center;
-  margin: 5px 0;
-  font-size: 12px;
+  margin-top: 8px;
+  font-size: 10px;
   font-family: Arial, sans-serif;
-  font-weight: 700;
+  font-weight: 500;
 }
 .bold {
   font-weight: 700;
@@ -2220,6 +2221,11 @@ h4.navy {
   border-radius: 7px;
   width: 300px
 }
+.best-location-card-state-loc-itinerary .best-location-card-state-info {
+display: flex;
+align-items: center;
+}
+
 .best-location-card-state-info {
   margin: 5px;
   text-align: center;
@@ -3044,7 +3050,7 @@ font-weight: 400;
     font-size: 10px !important;
   }
   .cap {
-    font-size: 14px;
+    font-size: 12px;
   }
   .design {
     height: 110px;
@@ -3206,8 +3212,13 @@ font-weight: 400;
   /* .star {
   font-size: 18px;
 } */
+ .hero-caption-container .caption {
+  bottom: 4px
+ }
+
   .caption {
     font-size: 8px !important;
+    bottom: 4px
   }
   .caption-portrait {
     font-size: 12px;
@@ -3528,6 +3539,12 @@ font-weight: 400;
 }
 .menu ul li {
   margin: 6px;
+}
+.star-title {
+  font-size: 16px;
+}
+.rating-number {
+  font-size: 16px;
 }
 }
 
