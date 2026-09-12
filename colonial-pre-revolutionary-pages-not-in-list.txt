@@ -6,10 +6,6 @@ NORTH CAROLINA
 - Alamance Battleground State Historic Site (Burlington, NC)
 
 VIRGINIA
-- Historic Jamestowne (Jamestown, VA)
-- Jamestown Rediscovery (Jamestown, VA)
-- Jamestown Settlement (Jamestown, VA)
-- Jamestown Glasshouse (Jamestown, VA)
 - Henricus Historical Park (Chester, VA)
 - George Washingtons Mount Vernon (Mount Vernon, VA)
 - Monticello (Charlottesville, VA)
@@ -20,7 +16,6 @@ VIRGINIA
 - Thoroughgood House (Virginia Beach, VA)
 - St Pauls Episcopal Church (Norfolk, VA)
 - Williamsburg (Williamsburg, VA)
-- Historic Triangle (Williamsburg, VA)
 - William And Mary (Williamsburg, VA)
 
 MARYLAND

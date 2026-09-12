@@ -1368,6 +1368,13 @@ footer .footer-social-icons a:hover {
   color: #8fcffa;
 }
 
+.major-cities-top-sites {
+  font-size: 14px;
+}
+.major-cities-top-sites span {
+  font-weight: 600;
+}
+
 @media (max-width: 900px) {
   footer .footer-container {
     gap: 30px 30px;
@@ -2124,6 +2131,26 @@ h4.navy {
   align-items: center;
 }
 
+.other-colonial-locations {
+  margin: 20px 0 40px;
+}
+.other-colonial-locations-state {
+  margin: 0 0 20px;
+}
+.other-colonial-locations-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2px 24px;
+  list-style: disc;
+  padding-left: 20px;
+  margin: 0;
+}
+@media only screen and (min-width: 900px) {
+  .other-colonial-locations-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 .hero img {
   width: 100%;
   height: auto;
@@ -2198,6 +2225,7 @@ h4.navy {
 .best-location-card-flex-itinerary {
   display: flex;
   flex-wrap: wrap;
+  text-align: center;
   justify-content: center;
   margin: 10px 0
 }
@@ -2224,6 +2252,8 @@ h4.navy {
 .best-location-card-state-loc-itinerary .best-location-card-state-info {
 display: flex;
 align-items: center;
+justify-content: center;
+width: 100%;
 }
 
 .best-location-card-state-info {
