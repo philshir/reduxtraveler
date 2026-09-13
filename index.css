@@ -440,7 +440,11 @@ main {
 .map-region {
 max-width: 1000px;
 margin: 0 auto;
-margin-top: 175px;
+margin-top: 105px;
+}
+.map-region svg {
+  width: 100%;
+  height: auto;
 }
 
 .map-main h2 {
@@ -3575,6 +3579,9 @@ font-weight: 400;
 }
 .rating-number {
   font-size: 16px;
+}
+.map-region {
+  margin-top: 175px;
 }
 }
 
