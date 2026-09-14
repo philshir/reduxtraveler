@@ -184,7 +184,7 @@ a.itin-menu {
 }
 
 .trail-description {
-  text-align: left;
+  text-align: center;
   font-size: 14px;
   /* line-height: 24px; */
   /* margin: 10px 20px 0; */
@@ -442,7 +442,13 @@ max-width: 1000px;
 margin: 0 auto;
 margin-top: 105px;
 }
-.map-region svg {
+.map-region-individual {
+max-width: 500px;
+margin: 0 auto;
+padding: 10px 0;
+display: flex;
+}
+.map-region svg, .map-region-individual svg {
   width: 100%;
   height: auto;
 }
@@ -1378,6 +1384,19 @@ footer .footer-social-icons a:hover {
 .major-cities-top-sites span {
   font-weight: 600;
 }
+.other-colonial-locations p {
+  text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 10px;
+}
+.other-colonial-locations h3 {
+  margin: 20px 0;
+      font-size: 20px;
+}
+.other-colonial-locations ul li{
+font-size: 16px;
+}
 
 @media (max-width: 900px) {
   footer .footer-container {
@@ -2188,7 +2207,7 @@ h4.navy {
   width: 100%;
   height: 65%;
   border: solid 1px lightgrey;
-  padding: 20px;
+  padding: 8px;
   text-align: center;
   font-weight: 700;
   border-radius: 10px;
@@ -2254,7 +2273,17 @@ h4.navy {
   border-radius: 7px;
   width: 300px
 }
-.best-location-card-state-loc-itinerary .best-location-card-state-info {
+
+.best-location-card-state-loc-mini {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  box-shadow: 0px 0 5px 2px rgb(0 0 0 / 17%);
+  border-radius: 7px;
+  width: 472px
+}
+
+.best-location-card-state-loc-itinerary .best-location-card-state-info, .best-location-card-state-loc-mini .best-location-card-state-info {
 display: flex;
 align-items: center;
 justify-content: center;
@@ -2264,6 +2293,10 @@ width: 100%;
 .best-location-card-state-info {
   margin: 5px;
   text-align: center;
+}
+.best-location-card-state-loc-mini .best-location-card-state-info h3 {
+  font-size: 16px;
+  font-weight: 400;
 }
 .state-card-title {
 font-size: 15px;
@@ -2485,15 +2518,35 @@ top: 50%;
 
 .read-more-container {
   max-width: 680px;
+  margin-bottom: 20px;
 }
 
 /* Text collapse behavior */
 .text-wrapper {
-  max-height: 72px; /* collapsed height */
+  position: relative;
+  max-height: 82px; /* collapsed height */
   overflow: hidden;
   transition: max-height 0.4s ease;
   color: #2f4f3a;
   line-height: 1.6;
+}
+
+/* Fade/blur mask over the clipped text while collapsed */
+.text-wrapper::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 40px;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+  pointer-events: none;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.read-more-container.expanded .text-wrapper::after {
+  opacity: 0;
 }
 
 /* Toggle button */
@@ -3944,6 +3997,9 @@ width: 100%;
 .hero-top-adjusted-200 {
   top: -200px!important;
 }
+.trail-img {
+    border-radius: 10px 0 0 10px;
+  }
 }
 
 /* ── Skeleton Loader ── */
