@@ -400,6 +400,12 @@ main {
   padding: 16px 10px 26px;
   text-align: center;
 }
+.description-one-multi-city {
+  margin: 0 auto;
+  padding: 16px 10px 26px;
+  display: flex;
+  flex-direction: column;
+}
 .description-one a {
   font-size: 18px;
   font-weight: 600;
@@ -1309,9 +1315,9 @@ footer .footer-col {
 }
 
 footer .footer-heading {
-  margin: 0 0 14px;
-  padding-bottom: 8px;
-  font-size: 20px;
+  margin: 0 0 4px;
+  padding-bottom: 4px;
+  font-size: 16px;
   font-weight: bold;
   text-align: left;
   text-transform: uppercase;
@@ -1339,7 +1345,7 @@ footer ul.footer-links li {
 }
 
 footer .footer-links li a {
-  font-size: 16px;
+  font-size: 12px;
   font-family: Arial, sans-serif;
   color: white;
   text-decoration: none;
@@ -1396,6 +1402,10 @@ footer .footer-social-icons a:hover {
 }
 .other-colonial-locations ul li{
 font-size: 16px;
+}
+.itinerary-number {
+  font-weight: 900;
+  font-size: 20px;
 }
 
 @media (max-width: 900px) {
@@ -2057,7 +2067,7 @@ h4.navy {
   font-size: 18px;
   text-align: center;
   font-weight: 700;
-    margin: 0;
+    margin: 20px;
 }
 .pikes-table {
   font-size: 10px;
@@ -2280,7 +2290,8 @@ h4.navy {
   margin: 5px;
   box-shadow: 0px 0 5px 2px rgb(0 0 0 / 17%);
   border-radius: 7px;
-  width: 472px
+  width: 500px;
+      height: 75px;
 }
 
 .best-location-card-state-loc-itinerary .best-location-card-state-info, .best-location-card-state-loc-mini .best-location-card-state-info {
@@ -2937,6 +2948,12 @@ font-weight: 400;
 }
 .deco-img {
   border-radius: 10px 0 0 10px;
+}
+.wrapper {
+  flex-wrap: nowrap;
+}
+.best-location-card-state-loc-mini {
+  width: 50%;
 }
 }
 
@@ -3669,10 +3686,9 @@ font-weight: 400;
   top: -50px!important;
 }
 footer .footer-heading {
+  margin: 0 0 14px;
   font-size: 12px;
-}
-footer .footer-links li a {
-  font-size: 12px;
+  padding-bottom: 8px;
 }
 
 footer .footer-container {

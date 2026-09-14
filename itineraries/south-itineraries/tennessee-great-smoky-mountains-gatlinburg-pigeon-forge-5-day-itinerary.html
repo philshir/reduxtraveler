@@ -10,6 +10,18 @@
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
     ></script>
+    <style>
+      /* disable read-more/read-less collapse on this page only; body reveal (.content .header) stays intact */
+      .text-wrapper {
+        max-height: none !important;
+      }
+      .text-wrapper::after {
+        display: none !important;
+      }
+      .toggle-btn {
+        display: none !important;
+      }
+    </style>
   </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WT52F8CV1K"></script>
@@ -275,7 +287,7 @@
 
     <div class="accordion-item active">
       <div class="timeline">
-        <span class="circle">1</span>
+        <span class="circle">1.</span>
         <span class="line"></span>
       </div>
 
@@ -288,6 +300,7 @@
         <div class="body">
           <div class="read-more-container">
             <div class="text-wrapper">
+              <img src="../../resources/images/tennessee/gatlinburg/gatlinburg-thumbnail-400.jpg">
               <p>
                 Begin your adventure exploring the charming mountain town of Gatlinburg. Local shops, mountain lodges, regional crafts, and scenic streets provide a lively introduction to the culture and hospitality of the Smokies.
               </p>
