@@ -1075,7 +1075,7 @@ tspan.st10.s11 {
 .img-cards-main-loc-state-itinerary {
   width: 100px;
   display: block;
-  border-radius: 5px;
+  border-radius: 5px 0 0 5px;
 }
 
 .img-cards-intinerary-portrait {
@@ -1387,6 +1387,9 @@ footer .footer-social-icons a:hover {
 .major-cities-top-sites {
   font-size: 14px;
 }
+.major-cities-top-sites a {
+  font-size: 14px;
+}
 .major-cities-top-sites span {
   font-weight: 600;
 }
@@ -1406,6 +1409,10 @@ font-size: 16px;
 .itinerary-number {
   font-weight: 900;
   font-size: 20px;
+}
+.social-media-pic-location {
+  font-size: 14px!important;
+    color: #253d5f;
 }
 
 @media (max-width: 900px) {
@@ -1569,6 +1576,21 @@ font-size: 16px;
 .title {
   top: 50px;
   padding: 15px;
+  z-index: 5;
+  font-family: Arial, sans-serif;
+  position: absolute;
+  width: 100%;
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.5) 38%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  color: #fff;
+}
+.title-states {
+  top: 50px;
+  padding: 15px 15px 0 15px;
   z-index: 5;
   font-family: Arial, sans-serif;
   position: absolute;
@@ -2258,10 +2280,17 @@ h4.navy {
 }
 .best-location-card-flex-itinerary {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   text-align: center;
-  justify-content: center;
-  margin: 10px 0
+  margin: 10px 0;
+  width: 100%
+}
+.best-location-card-flex-itinerary-links {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 10px 0;
+  width: 100%
 }
 .best-location-card-flex::-webkit-scrollbar {
   display: none;
@@ -2281,16 +2310,15 @@ h4.navy {
   margin: 5px;
   box-shadow: 0px 0 5px 2px rgb(0 0 0 / 17%);
   border-radius: 7px;
-  width: 300px
+  max-width: 300px;
 }
 
 .best-location-card-state-loc-mini {
   display: flex;
   flex-direction: row;
-  margin: 5px;
+  margin: 5px 0;
   box-shadow: 0px 0 5px 2px rgb(0 0 0 / 17%);
   border-radius: 7px;
-  width: 500px;
       height: 75px;
 }
 
@@ -2777,7 +2805,8 @@ transform: scale(1.1);
 
 .resource-page-city {
 font-size: 16px;
-font-weight: 400;
+    font-weight: 600;
+    color: #253d5f;
 }
 .tag-top {
       color: white;
@@ -2949,11 +2978,20 @@ font-weight: 400;
 .deco-img {
   border-radius: 10px 0 0 10px;
 }
-.wrapper {
-  flex-wrap: nowrap;
-}
 .best-location-card-state-loc-mini {
-  width: 50%;
+  width: 100%;
+}
+}
+
+@media only screen and (min-width: 700px) {
+.best-location-card-flex-itinerary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2px 8px;
+}
+.best-location-card-flex-itinerary-links {
+  flex-direction: row;
+        justify-content: center;
 }
 }
 
@@ -3434,6 +3472,11 @@ font-weight: 400;
     padding: 15px 15px 40px 30px;
   }
 
+  .title-states {
+    top: 80px;
+    padding: 15px 15px 0 30px;
+  }
+
   .title-no-hero-img {
     padding: 15px 15px 40px 30px;
   }
@@ -3558,6 +3601,9 @@ font-weight: 400;
   .description-one a {
     font-size: 20px;
   }
+  .major-cities-top-sites a {
+  font-size: 14px;
+}
   .state-table td {
     padding: 0 10px 10px 10px;
   }
@@ -3639,7 +3685,7 @@ font-weight: 400;
   font-size: 20px;
 }
 .resource-page-city {
-  font-size: 18px!important;
+  font-size: 16px!important;
 }
 .menu ul {
   flex-direction: row;
@@ -3657,6 +3703,7 @@ font-weight: 400;
 .map-region {
   margin-top: 175px;
 }
+
 }
 
 @media only screen and (min-width: 900px) {
@@ -4016,6 +4063,7 @@ width: 100%;
 .trail-img {
     border-radius: 10px 0 0 10px;
   }
+
 }
 
 /* ── Skeleton Loader ── */
@@ -4133,6 +4181,7 @@ width: 100%;
   transition: opacity 0.35s ease;
   pointer-events: none;
 }
+
 
 @media (max-width: 700px) {
   .sk-nav-links  { display: none; }
