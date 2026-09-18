@@ -199,7 +199,7 @@ a.itin-menu {
 
 .trail-description p {
   font-family: Arial, Helvetica, sans-serif;
-  margin: 10px 0;
+  margin: 6px 0;
 font-size: 16px;
 }
 .trail-description p:first-child {
@@ -402,10 +402,24 @@ main {
 }
 .description-one-multi-city {
   margin: 0 auto;
-  padding: 16px 10px 26px;
-  display: flex;
-  flex-direction: column;
+  padding: 10px 0;
+  
 }
+.description-one-multi-city h2 {
+margin: 0;
+}
+.description-one-multi-city ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+      font-size: 16px;
+    font-weight: 600;
+}
+.description-one-multi-city ul li {
+  margin: 5px;
+      text-align: center;
+}
+
 .description-one a {
   font-size: 18px;
   font-weight: 600;
@@ -449,9 +463,9 @@ margin: 0 auto;
 margin-top: 105px;
 }
 .map-region-individual {
-max-width: 500px;
+/* max-width: 500px;
 margin: 0 auto;
-padding: 10px 0;
+padding: 10px 0; */
 display: flex;
 }
 .map-region svg, .map-region-individual svg {
@@ -2926,6 +2940,11 @@ font-size: 16px;
 .navy.nyc-regions-title {
   font-size: 26px;
 }
+.map-region-individual {
+max-width: 500px;
+margin: 0 auto;
+display: flex;
+}
 }
 
 @media only screen and (min-width: 600px) {
@@ -3744,6 +3763,9 @@ footer .footer-container {
 }
 footer .footer-social-icons {
   justify-content: flex-start;
+}
+.description-one-multi-city ul {
+  font-size: 18px;
 }
 
 }
