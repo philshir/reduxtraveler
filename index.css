@@ -1229,7 +1229,7 @@ tspan.st10.s11 {
   font-size: 13px !important;
   font-weight: 600;
   padding: 4px 6px 8px;
-  margin: 10px 0 14px;
+  margin: 10px 0 0;
   color: rgb(18, 18, 18);
   background-color: #efd867;
   text-align: center;
@@ -2103,7 +2103,7 @@ h4.navy {
   font-size: 18px;
   text-align: center;
   font-weight: 700;
-    margin: 20px;
+    margin: 20px 20px 0;
 }
 .pikes-table {
   font-size: 10px;
@@ -3240,7 +3240,7 @@ display: flex;
  
   .highlights {
     text-align: center;
-    font-size: 24px !important;
+    font-size: 20px !important;
   }
   .cali-travel-guide {
     font-size: 28px;
