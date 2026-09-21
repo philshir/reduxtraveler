@@ -1712,6 +1712,7 @@ font-size: 16px;
   grid-column-gap: 10px;
   grid-row-gap: 5px;
   padding: 10px 15px;
+  margin-top: 10px;
   background: #b0d5f7;
   border-top: solid 1px gray;
   border-bottom: solid 1px gray;
