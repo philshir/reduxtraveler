@@ -1658,6 +1658,7 @@ font-size: 16px;
   max-width: 1170px;
   font-weight: 800;
   font-family: "AvenirLTStd-Black", Verdana, Tahoma, sans-serif;
+  display: inline;
 }
 .title-text-itinerary {
   font-size: 26px;
@@ -1674,7 +1675,6 @@ font-size: 16px;
   margin: 0 auto;
   font-size: 8px;
   font-weight: 700;
-  max-width: 1170px;
   /* padding-top: 5px; */
 }
 .breadcrumb-state {
