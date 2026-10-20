@@ -7,6 +7,23 @@
     <title>RT Half Dome</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 30%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -193,10 +210,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half Dome from Glacier Point, Yosemite NP - Diliff-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half Dome from Glacier Point, Yosemite NP - Diliff-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half Dome from Glacier Point, Yosemite NP - Diliff-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/half-dome-glacier-point-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/half-dome-glacier-point-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/half-dome-glacier-point-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/half-dome-glacier-point-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/half-dome-glacier-point-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/half-dome-glacier-point-hero-1600.jpg 1600w"
+                alt="Half Dome at sunset seen from Glacier Point" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Half_Dome_from_Glacier_Point,_Yosemite_NP_-_Diliff.jpg">Diliff</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -240,23 +273,23 @@
       </div>
 
     <div class="article-grid">
-       <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half_Dome--cables-1000.jpg" />
+       <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Half_Dome--cables-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Hikers climbing the Half Dome cables" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Half_Dome--cables.jpeg">Spencer Joplin</a>, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
         
-        <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half_dome_cables_big_(cropped)-750.jpg" />
+        <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Half_dome_cables_big_(cropped)-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Line of hikers on the Half Dome cable route" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Half_dome_cables_big_(cropped).jpg">Unclekykyderivative work: User:Maps and stuff (cropped to 2:3 ratio, removing some of the excess sky and foreground, and increasing the relative size of hikers along cable in thumbnail versions; saved as a high quality JPG)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half_Dome_ropes_2-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Half_Dome_ropes_2-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Half Dome cable route up the granite dome" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Half_Dome_ropes_2.jpg">Daniel Schwen</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/Half_dome_summit_panorama_360-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Half_dome_summit_panorama_360-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="360-degree panorama from the Half Dome summit" />
             <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Half_dome_summit_panorama_360.JPG">Japs 88</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-            <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/yosemite-half-dome-750wPortrait.jpg" />
+            <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/yosemite-half-dome-750wPortrait.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Half Dome in Yosemite National Park" />
               <figcaption class="cap"></figcaption></figure>
 
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/An_18_hour_climb_of_Half_Dome_-_by_a_trail_around_the_backside-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/An_18_hour_climb_of_Half_Dome_-_by_a_trail_around_the_backside-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Trail around the back side of Half Dome" />
                   <figcaption class="cap"></figcaption></figure>
 
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/half-dome/The_Climb_Up_-_Half_Dome_-_Yosemite_National_Park_(7617874892)-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/The_Climb_Up_-_Half_Dome_-_Yosemite_National_Park_(7617874892)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Hikers on the climb up Half Dome" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:The_Climb_Up_-_Half_Dome_-_Yosemite_National_Park_(7617874892).jpg">Alex Proimos</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
   </div>
       <!-- main -->
