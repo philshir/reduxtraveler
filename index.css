@@ -1853,7 +1853,7 @@ font-size: 16px;
 .bold {
   font-weight: 700;
   color: #000;
-  font-size: 16px;
+  font-size: 15px;
 }
 .semi-bold {
   font-weight: 700;
@@ -1939,7 +1939,7 @@ font-size: 16px;
 }
 .main-article p {
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 .main-article h3 {
   font-size: 22px;
@@ -3723,6 +3723,12 @@ display: flex;
 .map-region {
   margin-top: 175px;
 }
+.bold {
+  font-size: 18px;
+}
+.main-article p {
+  font-size: 18px;
+}
 
 }
 
@@ -3979,17 +3985,9 @@ footer .footer-social-icons {
     font-size: 22px;
     white-space: nowrap;
   }
-  /* .main-article img {
-    width: 520px;
-    height: 390px;
-  } */
   main {
     max-width: 1170px;
     margin: 0 auto;
-  }
-  .main-article .portrait {
-    width: 390px;
-    height: 520px;
   }
   .gallery-cell {
     height: 650px;
