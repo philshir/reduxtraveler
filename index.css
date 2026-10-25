@@ -2725,7 +2725,8 @@ transform: scale(1.1);
 }
 
 .line-break {
-  line-break: anywhere;
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 /* Hiking Trail Table  */
