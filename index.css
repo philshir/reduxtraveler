@@ -193,6 +193,26 @@ a.itin-menu {
   font-weight: 400;
 }
 
+.trail-description-itinerary {
+  font-size: 16px;
+  /* line-height: 24px; */
+  /* margin: 10px 20px 0; */
+  width: 100%;
+  font-weight: 400;
+}
+
+.trail-description-itinerary h2 {
+  text-align: center;
+  font-size: 24px;
+}
+.trail-description-days {
+      font-weight: 700;
+    font-size: 22px;
+}
+.day-itinerary h2 {
+  font-size: 22px;
+}
+
 .trail-description h3 {
   margin: 6px 0;
 }
@@ -210,6 +230,7 @@ font-size: 16px;
 
 .trail-description h2 {
   font-size: 18px;
+  display: inline;
 }
 .trail-description a {
   text-align: center;
@@ -293,7 +314,6 @@ h3 {
   );
   height: 52px;
   box-shadow: 8px 11px 7px 0px rgba(0, 0, 0, 0.4);
-  position: absolute;
   color: white;
   top: 0;
   z-index: 7;
@@ -351,7 +371,7 @@ main {
   flex-direction: column;
   color: black;
   width: 100%;
-  margin: 0 auto;
+  /* margin: 0 auto; */
   margin-bottom: 15px;
   margin-top: 20px;
 }
@@ -1429,6 +1449,7 @@ font-size: 16px;
     color: #253d5f;
 }
 
+
 @media (max-width: 900px) {
   footer .footer-container {
     gap: 30px 30px;
@@ -1807,7 +1828,7 @@ font-size: 16px;
 }
 .star-title {
   color: rgb(214, 214, 0);
-  font-size: 12px;
+  font-size: 14px;
   margin: 0 5px 0 5px;
 }
 .rating {
@@ -1818,7 +1839,11 @@ font-size: 16px;
   text-align: center;
 }
 .rating-number {
-  font-size: 12px;
+  font-size: 14px;
+   color: #4d4d4d;
+  font-weight: 700;
+  margin: 0 0 4px;
+  text-align: center;
 }
 .nostar {
   color: #f4d8d8;
@@ -2035,10 +2060,6 @@ h4.navy {
 .itineraries .trail-description p {
   font-weight: 500;
 
-}
-
-.trail-description-itinerary h2 {
-  text-align: center;
 }
 
 .itinerary-margin {
@@ -2474,6 +2495,7 @@ top: 50%;
 /* new itinerary */
 .portal svg {
   height: 100%;
+  width: 100%;
 }
 
 /* itinerary accordian */
@@ -2527,6 +2549,7 @@ top: 50%;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  text-align: left;
   font-size: 18px;
   font-weight: 600;
   cursor: pointer;
@@ -2887,10 +2910,6 @@ font-size: 16px;
     /* flex-direction: row; */
     max-width: 400px;
   }
-   .flex-no-shadow {
-    /* flex-direction: row; */
-    max-width: 400px;
-  }
   
   /* .trail-description {
   width: 60%;
@@ -2970,10 +2989,6 @@ display: flex;
     flex-direction: row;
     max-width: 1000px;
   }
-  .flex-no-shadow {
-    flex-direction: row;
-    max-width: 1000px;
-  }
   .description-one {
     width: 60%;
   }
@@ -3001,6 +3016,9 @@ display: flex;
 }
 .best-location-card-state-loc-mini {
   width: 100%;
+}
+.flex-no-shadow {
+ gap: 10px
 }
 }
 
@@ -3715,12 +3733,6 @@ display: flex;
 .menu ul li {
   margin: 6px;
 }
-.star-title {
-  font-size: 16px;
-}
-.rating-number {
-  font-size: 16px;
-}
 .map-region {
   margin-top: 175px;
 }
@@ -3730,7 +3742,12 @@ display: flex;
 .main-article p {
   font-size: 18px;
 }
-
+.main-nav {
+  position: absolute;
+}
+.trail-description-itinerary {
+  font-size: 18px;
+}
 }
 
 @media only screen and (min-width: 900px) {
