@@ -1811,7 +1811,7 @@ font-size: 16px;
 .city-location-card-image {
   position: relative;
 }
-
+star-title
 .city-location-card-image-svg {
   position: relative;
   width: 100%;
@@ -1829,6 +1829,10 @@ font-size: 16px;
 .star-title {
   color: rgb(214, 214, 0);
   font-size: 14px;
+  margin: 0 5px 0 5px;
+}
+.star-title-hero {
+  color: rgb(214, 214, 0);
   margin: 0 5px 0 5px;
 }
 .rating {
@@ -3746,6 +3750,12 @@ display: flex;
   position: absolute;
 }
 .trail-description-itinerary {
+  font-size: 18px;
+}
+.star-title-hero {
+  font-size: 18px;
+}
+.rating-number-hero {
   font-size: 18px;
 }
 }
