@@ -4112,7 +4112,10 @@ width: 100%;
 .trail-img {
     border-radius: 10px 0 0 10px;
   }
+.dropbtn a {
+  font-size: 16px;
 
+}
 }
 
 /* ── Skeleton Loader ── */
@@ -4242,4 +4245,27 @@ width: 100%;
 @media (min-width: 701px) and (max-width: 900px) {
   .sk-img-grid { grid-template-columns: repeat(2, 1fr); }
   .sk-img-grid .sk-img-card:last-child { display: none; }
+}
+/* New York City page: location card titles are h3 (borough headings are h2); mirrors the former h2 card styling */
+.trail-description h3.nyc-card-title {
+  font-size: 18px;
+  display: inline;
+  text-align: center;
+  margin: 5px 0 8px;
+}
+@media only screen and (min-width: 900px) {
+  .flex a h3.nyc-card-title {
+    font-size: 20px;
+  }
+}
+
+/* New York City page: Overview is an h2 above the article h3s; keeps the former h3 look */
+.main-article h2.article-overview {
+  font-size: 22px;
+  text-align: center;
+  margin: 1em 0;
+}
+/* Top Locations title as a heading: keep the former div spacing */
+h2.best-location-card-title {
+  margin: 0;
 }
