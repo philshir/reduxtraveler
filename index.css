@@ -36,6 +36,7 @@ strong {
 }
 .redux-logo {
   height: 30px;
+  width: auto;
   border-radius: 5px;
   position: absolute;
   font-weight: 700;
