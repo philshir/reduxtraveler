@@ -291,21 +291,25 @@ h3 {
 
 /* black overlay */
 
+/* Always covers the screen below the nav, but is transparent and hidden until
+   the menu opens, so it can fade both in and out. visibility: hidden also lets
+   clicks pass through to the page while it is closed. */
 .start {
-  position: absolute;
+  position: fixed;
   background: rgba(0, 0, 0, 0);
-  height: 0;
-  width: 100vw;
+  height: calc(100% - 52px);
+  width: 100%;
   top: 52px;
   left: 0;
-  z-index: 1;
-  transition: background 0.25s ease-in;
+  /* Same level as .slider; the slider comes later in the page, so it stays on top
+     while the overlay still covers page content (titles etc. use z-index up to 5) */
+  z-index: 6;
+  visibility: hidden;
+  transition: background 0.25s ease-in, visibility 0.25s;
 }
 .overlay {
   background: rgba(0, 0, 0, 0.7);
-  height: calc(100% - 52px);
-  width: 100%;
-  position: fixed;
+  visibility: visible;
 }
 .main-nav {
   background: linear-gradient(
@@ -1010,13 +1014,16 @@ tspan.st10.s11 {
   transition: 0.3s ease-in 0.1s;
   font-family: Arial, sans-serif;
   opacity: 0;
-  display: none;
+  /* Hidden with visibility (not display: none) so the width/opacity slide-in can animate.
+     visibility also keeps the closed menu's links out of the tab order. */
+  visibility: hidden;
+  overflow: hidden; /* clip links while the menu is narrow so they can't cause sideways scrolling */
 }
 .move {
   width: 50vw;
   padding: 0;
   opacity: 1;
-  display: block;
+  visibility: visible;
 }
 .slider a,
 .dropdown-btn {
@@ -1063,6 +1070,16 @@ tspan.st10.s11 {
 .dropdown-container {
   display: none;
   padding: 0;
+}
+/* Unified menu (index.html): reset list styling to match the old div/a markup */
+.site-menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+/* Submenus open based on aria-expanded, not inline styles */
+.site-menu .dropdown-btn[aria-expanded="true"] + .dropdown-container {
+  display: block;
 }
 .full-nav-columns a {
   font-family: sans-serif !important;
@@ -3428,8 +3445,10 @@ display: flex;
     margin-left: auto;
     margin-right: auto;
   } */
+  /* nav is 80px tall from 800px up; overlay starts below it */
   .start {
-    display: none;
+    top: 80px;
+    height: calc(100% - 80px);
   }
   /* .star {
   font-size: 18px;
@@ -3851,6 +3870,111 @@ footer .footer-social-icons {
   .container {
     display: none;
   }
+  /* No hamburger at this width, so no overlay */
+  .start {
+    display: none;
+  }
+
+  /* Unified menu (index.html): the slider becomes the horizontal bar (was .navbar) */
+  .site-menu,
+  .site-menu.move {
+    position: static;
+    display: flex;
+    width: 65%;
+    height: 80px;
+    padding: 16px;
+    margin: 0 auto;
+    opacity: 1;
+    visibility: visible;
+    overflow: visible; /* dropdowns hang below the bar */
+    background: none;
+    transition: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .site-menu .site-menu-list {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+  }
+  .site-menu .menu-search {
+    order: 1; /* search is first on mobile, last on desktop */
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+  }
+
+  /* Top-level items (was .dropdown / .dropbtn) */
+  .site-menu .menu-item {
+    height: 65px;
+    position: relative; /* dropdown is positioned/sized against its menu item */
+  }
+  .site-menu .menu-item:hover,
+  .site-menu .menu-item:has(> [aria-expanded="true"]) {
+    border-bottom: solid 10px navy;
+  }
+  .site-menu .dropdown-btn {
+    width: auto;
+    padding: 14px 10px;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: inherit;
+    color: white;
+    border-bottom: none;
+    white-space: nowrap;
+  }
+  .site-menu .dropdown-btn .fa-caret-down {
+    position: static;
+    padding: 0 5px;
+    color: white; /* mobile slider keeps the grey #5c5b5b from .fa-caret-down */
+    rotate: 0;
+    transition: 0.4s;
+  }
+  /* Caret flips to point up while the menu is open (matches .dropdown:hover on other pages) */
+  .site-menu .menu-item:hover .fa-caret-down,
+  .site-menu .dropdown-btn[aria-expanded="true"] .fa-caret-down {
+    rotate: 180deg;
+  }
+  .site-menu .menu-item:hover .dropdown-btn,
+  .site-menu .menu-item:hover .fa-caret-down {
+    color: navy;
+  }
+
+  /* Submenus (was .dropdown-content-single) */
+  /* Hidden with opacity + visibility (not display) so the fade can run;
+     visibility also keeps hidden links out of the tab order */
+  .site-menu .dropdown-container {
+    display: block;
+    position: absolute;
+    top: calc(100% + 10px); /* directly below the 10px navy hover border */
+    left: 0;
+    right: 0; /* same width as the menu item, so it matches the navy border */
+    padding: 16px 0 16px 15px;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1;
+  }
+  /* Fade in over 0.5s like the old .dropdown-content-single; hiding stays instant */
+  .site-menu .menu-item:hover .dropdown-container,
+  .site-menu .dropdown-btn[aria-expanded="true"] + .dropdown-container {
+    opacity: 0.95;
+    visibility: visible;
+    transition: opacity 0.5s;
+  }
+  .site-menu .dropdown-container li {
+    padding: 6px;
+  }
+  .site-menu .dropdown-container a {
+    padding: 0;
+    border-bottom: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: sans-serif;
+    white-space: normal;
+  }
+
   /* fullscreen navbar */
   /* Navbar container */
   .navbar {

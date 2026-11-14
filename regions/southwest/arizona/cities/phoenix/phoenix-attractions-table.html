@@ -27,159 +27,77 @@
 </head>
  <body class="article-color">
     <div class="start"></div>
-          <nav class="main-nav site-nav" id="menuSlider">
+          <nav class="main-nav site-nav" id="menuSlider" aria-label="Main">
         <div >
           <a href="../../../../index.html" title="home">
           <img class="redux-logo" src="../../../../../resources/redux-logo.svg" alt="Redux Traveler home" width="58" height="30">
         </a>
         </div>
    <!-- <div class="mag"></div> --> 
-    <button aria-label="Menu" aria-expanded="false" class="container">
+    <button aria-label="Menu" aria-expanded="false" aria-controls="site-menu" class="container">
         <div class="bar1"></div>
         <div class="bar2"></div>
         <div class="bar3"></div>
       </button>
     
-    <div class="slider">
-      <div style="padding: 10px 8px 10px 12px; border-bottom: 0.5px solid lightblue;">
+    <div class="slider site-menu" id="site-menu">
+      <div class="menu-search">
         <pagefind-modal-trigger hide-shortcut></pagefind-modal-trigger>
       </div>
-    <button class="dropdown-btn">PLACES TO GO<i class="fa fa-caret-down"></i></button>
-    <div class="dropdown-container">
-      <a href="../../../../regions/start-here.html">Start Here</a>
-      <a href="../../../../regions/regions.html">By Region</a>
-      <a href="../../../../regions/states.html">By State</a>
-      <a href="../../../../regions/major-cities.html">Major Cities</a>
-      <a href="../../../../regions/national-parks.html">National Parks</a>
-      <a href="../../../../regions/us-territories/us-territories.html">U.S. Territories</a>
-      </div>
-    <button class="dropdown-btn"><span>ITINERARIES </span><i class="fa fa-caret-down"></i></button>
-    <div class="dropdown-container">
-      <a href="../../../../itineraries/redux-traveler-itineraries.html">All Itineraries</a>
-      <a href="../../../../itineraries/top-itineraries.html">Top Itineraries</a>
-      <a href="../../../../itineraries/itineraries-by-region.html">By Region</a>
-      <a href="../../../../itineraries/itineraries-by-state.html">By State</a>
-      <a href="../../../../itineraries/itineraries-major-cities.html">Major Cities</a>
-      <a href="../../../../itineraries/type-of-trip/itineraries-by-type-of-trip.html">By Type of Trip</a>
-      <a href="../../../../itineraries/itineraries-national-parks.html">National Parks</a>
+
+      <ul class="site-menu-list">
+        <li class="menu-item">
+          <button class="dropdown-btn" aria-expanded="false">PLACES TO GO <i class="fa fa-caret-down" aria-hidden="true"></i></button>
+          <ul class="dropdown-container">
+            <li><a href="../../../../../regions/start-here.html">Start Here</a></li>
+            <li><a href="../../../../../regions/regions.html">By Region</a></li>
+            <li><a href="../../../../../regions/states.html">By State</a></li>
+            <li><a href="../../../../../regions/major-cities.html">Major Cities</a></li>
+            <li><a href="../../../../../regions/national-parks.html">National Parks</a></li>
+            <li><a href="../../../../../regions/us-territories/us-territories.html">U.S. Territories</a></li>
+          </ul>
+        </li>
+        <li class="menu-item">
+          <button class="dropdown-btn" aria-expanded="false">ITINERARIES <i class="fa fa-caret-down" aria-hidden="true"></i></button>
+          <ul class="dropdown-container">
+            <li><a href="../../../../../itineraries/redux-traveler-itineraries.html">All Itineraries</a></li>
+            <li><a href="../../../../../itineraries/top-itineraries.html">Top Itineraries</a></li>
+            <li><a href="../../../../../itineraries/itineraries-by-region.html">By Region</a></li>
+            <li><a href="../../../../../itineraries/itineraries-by-state.html">By State</a></li>
+            <li><a href="../../../../../itineraries/itineraries-major-cities.html">Major Cities</a></li>
+            <li><a href="../../../../../itineraries/type-of-trip/itineraries-by-type-of-trip.html">By Type of Trip</a></li>
+            <li><a href="../../../../../itineraries/itineraries-national-parks.html">National Parks</a></li>
+          </ul>
+        </li>
+        <li class="menu-item">
+          <button class="dropdown-btn" aria-expanded="false">TOP LOCATIONS <i class="fa fa-caret-down" aria-hidden="true"></i></button>
+          <ul class="dropdown-container">
+            <li><a href="../../../../../best-of/redux-traveler-best-of-lists.html">Best Of Lists</a></li>
+            <li><a href="../../../../../best-of/top-social-media-locations.html">Top Social Media Locations</a></li>
+            <li><a href="../../../../../best-of/iconic-locations.html">Iconic Locations</a></li>
+          </ul>
+        </li>
+        <li class="menu-item">
+          <button class="dropdown-btn" aria-expanded="false">ROAD TRIPS <i class="fa fa-caret-down" aria-hidden="true"></i></button>
+          <ul class="dropdown-container">
+            <li><a href="../../../../../road-trips/road-trips.html">All Road Trips</a></li>
+            <li><a href="../../../../../road-trips/route-66.html">Route 66</a></li>
+            <li><a href="../../../../../road-trips/oregon-trail.html">Oregon Trail</a></li>
+            <li><a href="../../../../../road-trips/lewis-and-clark-expedition.html">Lewis and Clark Expedition</a></li>
+            <li><a href="../../../../../road-trips/historic-sites.html">Historic Sites</a></li>
+            <li><a href="../../../../../road-trips/state-high-points.html">State High Points</a></li>
+          </ul>
+        </li>
+        <li class="menu-item">
+          <button class="dropdown-btn" aria-expanded="false">RESOURCES <i class="fa fa-caret-down" aria-hidden="true"></i></button>
+          <ul class="dropdown-container">
+            <li><a href="../../../../../things-to-do/things-to-do.html">Things To Do / Excursions</a></li>
+            <li><a href="../../../../../resource-pages/national-park-system-official-units.html">All National Protected Areas</a></li>
+            <li><a href="../../../../../resource-pages/smithsonian-affiliated-museums.html">Smithsonian Affiliated Museums</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
-      <button class="dropdown-btn"><span>TOP LOCATIONS </span><i class="fa fa-caret-down"></i></button>
-      <div class="dropdown-container">
-        <a href="../../../../best-of/redux-traveler-best-of-lists.html">Best Of Lists</a>
-        <a href="../../../../best-of/top-social-media-locations.html">Top Social Media Locations</a>
-          <a href="../../../../best-of/iconic-locations.html">Iconic Locations</a>
-         
-        </div>
-      <button class="dropdown-btn"><span>ROAD TRIPS </span><i class="fa fa-caret-down"></i></button>
-    <div class="dropdown-container">
-      <a href="../../../../road-trips/road-trips.html">All Road Trips</a>
-      <a href="../../../../road-trips/route-66.html">Route 66</a>
-        <a href="../../../../road-trips/oregon-trail.html">Oregon Trail</a>
-        <a href="../../../../road-trips/lewis-and-clark-expedition.html">Lewis and Clark Expedition</a>
-        <a href="../../../../road-trips/historic-sites.html">Historic Sites</a>
-        <a href="../../../../road-trips/state-high-points.html">State High Points</a>
-      </div>
-      <button class="dropdown-btn"><span>RESOURCES</span><i class="fa fa-caret-down"></i></button>
-    <div class="dropdown-container">
-      <a href="../../../../things-to-do/things-to-do.html">Things To Do / Excursions</a>
-      <a href="../../../../resource-pages/national-park-system-official-units.html">All National Protected Areas</a>
-      <a href="../../../../resource-pages/smithsonian-affiliated-museums.html">Smithsonian Affiliated Museums</a>
-      </div>
-     
-     </div>
-
-<!--    fullscreen navbar        -->
-<div class="navbar">
-  
-  <div class="dropdown">
-    <button class="dropbtn">PLACES TO GO <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content-single">
-      <div class="full-nav-columns">
-
-<ul class="menu-list">
-  <li><a href="../../../../regions/start-here.html">Start Here</a></li>
-  <li><a href="../../../../regions/regions.html">By Region</a></li>
-  <li><a href="../../../../regions/states.html">By State</a></li>
-  <li><a href="../../../../regions/major-cities.html">Major Cities</a></li>
-  <li><a href="../../../../regions/national-parks.html">National Parks</a></li>
-  <li><a href="../../../../regions/us-territories/us-territories.html">U.S. Territories</a></li>
-</ul>
-
-      </div>
-        </div>
-      </div>
-      
-      <div class="dropdown">
-    <button class="dropbtn">ITINERARIES<i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content-single">
-      <div class="full-nav-columns">
-        <ul class="menu-list">
-          <li>  <a href="../../../../itineraries/redux-traveler-itineraries.html">All Itineraries</a></li>
-          <li>  <a href="../../../../itineraries/top-itineraries.html">Top Itineraries</a></li>
-            <li>   <a href="../../../../itineraries/itineraries-by-region.html">By Region</a></li>
-              <li>   <a href="../../../../itineraries/itineraries-by-state.html">By State</a></li>
-                <li>   <a href="../../../../itineraries/itineraries-major-cities.html">Major Cities</a></li>
-                  <li>   <a href="../../../../itineraries/type-of-trip/itineraries-by-type-of-trip.html">By Type of Trip</a></li>
-                  <li>   <a href="../../../../itineraries/itineraries-national-parks.html">National Parks</a></li>
-      </ul>
-      </div>
-        </div>
-        </div>
-
-   <div class="dropdown">
-    <button class="dropbtn">TOP LOCATIONS<i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content-single">
-      <div class="full-nav-columns">
-        <ul class="menu-list">
-          <li>  <a href="../../../../best-of/redux-traveler-best-of-lists.html">Best of Lists</a></li>
-            <li>   <a href="../../../../best-of/top-social-media-locations.html">Top Social Media Locations</a></li>
-              <li>   <a href="../../../../best-of/iconic-locations.html">Iconic Locations</a></li>
-      </ul>
-      </div>
-        </div>
-        </div>
-        
-    <div class="dropdown">
-    <button class="dropbtn">ROAD TRIPS<i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content-single">
-      <div class="full-nav-columns">
-        <ul class="menu-list">
-          <li>  <a href="../../../../road-trips/road-trips.html">All Road Trips</a></li>
-          <li>  <a href="../../../../road-trips/route-66.html">Route 66</a></li>
-          <li>  <a href="../../../../road-trips/oregon-trail.html">Oregon Trail</a></li>
-          <li>  <a href="../../../../road-trips/lewis-and-clark-expedition.html">Lewis and Clark Expedition</a></li>
-            <li>   <a href="../../../../road-trips/historic-sites.html">Historic Sites</a></li>
-              <li>   <a href="../../../../road-trips/state-high-points.html">State High Points</a></li>
-      </ul>
-      </div>
-        </div>
-        </div>
-
-        <div class="dropdown">
-    <button class="dropbtn">RESOURCES<i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content-single">
-      <div class="full-nav-columns">
-        <ul class="menu-list">
-          <li>  <a href="../../../../things-to-do/things-to-do.html">Things To Do / Excursions</a></li>
-            <li>   <a href="../../../../resource-pages/national-park-system-official-units.html">All National Protected Areas</a></li>
-              <li>   <a href="../../../../resource-pages/smithsonian-affiliated-museums.html">Smithsonian Affiliated Museums</a></li>
-             
-      </ul>
-      </div>
-        </div>
-        </div>
-    <!-- <a target="_blank" rel="noopener" class="nav-position" href="https://reduxtravelerapp.herokuapp.com">STORE</a> -->
-
-    <div style="display: flex; align-items: center; justify-content: center; padding-left: 40px;">
-      <pagefind-modal-trigger hide-shortcut></pagefind-modal-trigger>
-    </div>
-
-</div>
 
 <pagefind-modal show-images></pagefind-modal>
 

@@ -20,6 +20,30 @@ const closeMenu = () => {
   newOverlay.classList.remove("overlay")
 }
 
+// One menu serves both layouts: hamburger slider below 1170px, horizontal bar at 1170px+
+const desktopQuery = window.matchMedia("(min-width: 1170px)");
+const dropdownBtns = document.querySelectorAll(".dropdown-btn");
+
+// Open/close a submenu (CSS shows a submenu when its button has aria-expanded="true")
+const setDropdown = (btn, open) => {
+  btn.classList.toggle("active", open);
+  btn.setAttribute("aria-expanded", open ? "true" : "false");
+};
+
+const closeDropdowns = () => {
+  dropdownBtns.forEach(btn => setDropdown(btn, false));
+};
+
+dropdownBtns.forEach(btn => {
+  btn.addEventListener("click", () => {
+    const wasOpen = btn.getAttribute("aria-expanded") === "true";
+    // Desktop: only one submenu open at a time so they don't overlap.
+    // Mobile slider: sections toggle independently, as before.
+    if (desktopQuery.matches) closeDropdowns();
+    setDropdown(btn, !wasOpen);
+  });
+});
+
 // Detect all clicks on the document
 document.addEventListener("click", function(event) {
 	// If user clicks inside the element, do nothing
@@ -27,29 +51,32 @@ document.addEventListener("click", function(event) {
 
 	// If user clicks outside the element, hide it!
   closeMenu()
+  // On desktop, also close any submenu opened by click/keyboard
+  if (desktopQuery.matches) closeDropdowns()
 });
 
-// Close the menu with the Escape key
+// Close the menu (mobile) or the open submenu (desktop) with the Escape key
 document.addEventListener("keydown", function(event) {
-  if (event.key !== "Escape" || !slider.classList.contains("move")) return;
+  if (event.key !== "Escape") return;
+
+  if (desktopQuery.matches) {
+    const openBtn = document.querySelector('.dropdown-btn[aria-expanded="true"]');
+    if (!openBtn) return;
+    closeDropdowns()
+    openBtn.focus()
+    return;
+  }
+
+  if (!slider.classList.contains("move")) return;
   closeMenu()
   hamburger.focus()
 });
 
-const dropdown = document.getElementsByClassName("dropdown-btn");
-let i;
-
-for (i = 0; i < dropdown.length; i++) {
-  dropdown[i].addEventListener("click", function() {
-       this.classList.toggle("active");
-  var dropdownContent = this.nextElementSibling;
-  if (dropdownContent.style.display === "block") {
-  dropdownContent.style.display = "none";
-  } else {
-  dropdownContent.style.display = "block";
-  }
-  });
-}
+// Reset menu state when crossing the desktop/mobile breakpoint
+desktopQuery.addEventListener("change", () => {
+  closeMenu()
+  closeDropdowns()
+});
 
 /* for (i = 0; i < arrow.length; i++) {
      arrow[i].addEventListener("click", function () {
