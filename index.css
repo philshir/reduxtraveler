@@ -1449,6 +1449,31 @@ font-size: 16px;
   font-size: 14px!important;
     color: #253d5f;
 }
+/* 1. Hide the link off-screen by default */
+.skip-link {
+  position: absolute;
+  top: -100px; /* Moves it well above the visible viewport */
+  left: 16px;
+  z-index: 1000; /* Ensures it sits above sticky headers */
+  
+  /* Styling for when it appears */
+  background-color: #005fcc;
+  color: #ffffff;
+  padding: 12px 16px;
+  border-radius: 4px;
+  font-weight: bold;
+  text-decoration: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: top 0.2s ease-in-out;
+}
+
+/* 2. Reveal the link when a user tabs to it */
+.skip-link:focus {
+  top: 16px; /* Brings it cleanly into the top-left corner */
+  outline: 3px solid #ffbf47; /* High-contrast focus ring */
+  outline-offset: 2px;
+}
+
 
 
 @media (max-width: 900px) {
