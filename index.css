@@ -261,6 +261,8 @@ h3 {
   position: absolute;
   right: 25px;
   top: 5px;
+    background-color: #26521a00;
+    border: none;
 }
 
 .bar1,
@@ -1278,7 +1280,6 @@ footer {
   );
   height: auto;
   padding-bottom: 35px;
-  position: relative;
 }
 
 footer ul {
@@ -1362,13 +1363,12 @@ footer .footer-heading {
 }
 
 footer ul.footer-links {
-  margin: 6px  0 0 0;
+  margin: 0;
   padding: 0;
   width: auto;
   list-style: none;
   display: flex;
   flex-direction: column;
-  gap: 4px;
   text-align: left;
 }
 
@@ -1449,6 +1449,7 @@ font-size: 16px;
   font-size: 14px!important;
     color: #253d5f;
 }
+
 /* 1. Hide the link off-screen by default */
 .skip-link {
   position: absolute;
@@ -1478,7 +1479,7 @@ font-size: 16px;
 
 @media (max-width: 900px) {
   footer .footer-container {
-    gap: 1px 1px;
+    gap: 10px;
     padding: 38px 28px 5px;
   }
   footer .footer-col {
@@ -2792,8 +2793,6 @@ transform: scale(1.1);
 
 /* Hiking Trail Table  */
 .table-body {
-  position: relative;
-  top: 70px;
   margin: 0;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
                Roboto, Helvetica, Arial, sans-serif;
@@ -3077,6 +3076,10 @@ display: flex;
   header {
     max-width: 100vw;
   }
+.table-body {
+  margin-top: 82px;
+  padding-bottom: 82px;
+}
   .main-details {
     font-size: 22px;
     margin-bottom: 20px;

@@ -9,6 +9,15 @@ const tester = () => {
      slider.classList.toggle("move");
      newOverlay.classList.toggle("overlay");
      hamburger.classList.toggle("change");
+     hamburger.setAttribute("aria-expanded", hamburger.classList.contains("change"));
+}
+
+// Close the menu
+const closeMenu = () => {
+  slider.classList.remove("move")
+  hamburger.classList.remove("change")
+  hamburger.setAttribute("aria-expanded", "false")
+  newOverlay.classList.remove("overlay")
 }
 
 // Detect all clicks on the document
@@ -17,9 +26,14 @@ document.addEventListener("click", function(event) {
 	if (event.target.closest(".slider") || event.target.closest(".container")) return;
 
 	// If user clicks outside the element, hide it!
-  slider.classList.remove("move")
-  hamburger.classList.remove("change")
-  newOverlay.classList.remove("overlay")
+  closeMenu()
+});
+
+// Close the menu with the Escape key
+document.addEventListener("keydown", function(event) {
+  if (event.key !== "Escape" || !slider.classList.contains("move")) return;
+  closeMenu()
+  hamburger.focus()
 });
 
 
