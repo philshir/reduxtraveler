@@ -37,9 +37,9 @@ const closeDropdowns = () => {
 dropdownBtns.forEach(btn => {
   btn.addEventListener("click", () => {
     const wasOpen = btn.getAttribute("aria-expanded") === "true";
-    // Desktop: only one submenu open at a time so they don't overlap.
-    // Mobile slider: sections toggle independently, as before.
-    if (desktopQuery.matches) closeDropdowns();
+    // Only one submenu open at a time (accordion on mobile, no overlap on desktop):
+    // close them all, then reopen this one unless it was the one already open.
+    closeDropdowns();
     setDropdown(btn, !wasOpen);
   });
 });
