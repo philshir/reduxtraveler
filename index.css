@@ -1123,7 +1123,7 @@ tspan.st10.s11 {
 .img-cards-main-loc-state {
   width: 100%;
   display: block;
-  border-radius: 5px;
+  border-radius: 5px 5px 0 0;
   min-width: 100px
 }
 .img-cards-main-loc-state-itinerary {
@@ -2386,6 +2386,13 @@ h4.navy {
 }
 .best-location-card-flex::-webkit-scrollbar {
   display: none;
+}
+/* When the card row is a <ul>, remove the browser's list bullets, indent and margins
+   so it looks the same as the <div> version */
+ul.best-location-card-flex {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 .best-location-card-state-loc{
   display: flex;
