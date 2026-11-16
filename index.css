@@ -1843,6 +1843,12 @@ nav.breadcrumb li + li::before {
 .info dd li {
   margin: 0 0 5px;
 }
+/* a few pages use class="general-info" (unstyled) instead of "general";
+   keep the old <h3> look now that the heading is an <h2> */
+.info > h2.general-info {
+  font-size: 1.17em;
+  text-align: center;
+}
 
 .info-itinerary {
   display: grid;
@@ -3710,12 +3716,12 @@ display: flex;
      item that has to span the rows. The third row is 1fr so the tall article stretches
      that row instead of opening a gap between .info and .featured. Anything after
      .featured (e.g. .article-grid) stays in the left column below the article.
-     When .info is itself a <section> it is the first one, so the article wrapper is
-     the section right after it. */
+     .info is itself a <section>, so the article wrapper is the first <section>
+     that is not .info. */
   .article:has(> .featured) {
     grid-template-rows: auto auto 1fr;
   }
-  .article:has(> .featured) > :is(section:first-of-type:not(.info), section.info + section, .main-article) {
+  .article:has(> .featured) > :is(section:not(.info):not(section:not(.info) ~ section), .main-article) {
     grid-column: 1;
     grid-row: 1 / 4;
   }
@@ -4515,10 +4521,13 @@ width: 100%;
 }
 
 /* New York City page: Overview is an h2 above the article h3s; keeps the former h3 look */
-.main-article h2.article-overview {
+.main-article h2 {
   font-size: 22px;
   text-align: center;
   margin: 1em 0;
+}
+section h2 {
+  text-align: center;
 }
 /* Top Locations title as a heading: keep the former div spacing */
 h2.best-location-card-title {
