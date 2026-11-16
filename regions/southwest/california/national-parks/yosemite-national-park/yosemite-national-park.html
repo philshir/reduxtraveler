@@ -124,7 +124,7 @@
     <div class="nav-spacing"></div>
     <header>
     <div class="title">
-      <h1 class="title-text">Yosemite National Park</h1><span class="star-title-hero">&#9733;</span ><span class="rating-number-hero">5.0</span>
+      <h1 class="title-text">Yosemite National Park</h1><span class="star-title-hero" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span><span class="rating-number-hero">5.0</span>
       <nav class="breadcrumb" aria-label="Breadcrumb">
         <ol>
           <li><a href='../../../southwest.html'>Southwest</a></li>
@@ -134,7 +134,7 @@
       </nav>
     </div>
     
-      <div class="hero">
+      <figure class="hero">
 
             <picture>
               <!-- 1100px and up: wide crop -->
@@ -152,11 +152,11 @@
                         ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-1200.jpg 1200w,
                         ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-1600.jpg 1600w,
                         ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-2400.jpg 2400w"
-                alt="Tunnel View of Yosemite Valley with El Capitan, Half Dome and Bridalveil Fall" width="1200" height="900" class="hero-img">
+                alt="Yosemite Valley from Tunnel View, with El Capitan on the left, Bridalveil Fall on the right and Half Dome in the distance" width="1200" height="900" class="hero-img">
             </picture>
-            <div class="hero-caption-container">
-      <p class="caption"><span class="caption-title"></span></p>
-    </div></div>
+            <figcaption class="hero-caption-container">
+      <p class="caption"><span class="caption-title">Yosemite Valley from Tunnel View</span></p>
+    </figcaption></figure>
       </header>
     <main class="article-main" id="main" tabindex="-1">
       
@@ -171,8 +171,8 @@
 
              <div class="best-location-card-flex-itinerary-links">
         <div class='best-location-card-state-loc-itinerary'>
-                          <a href="../../../../../itineraries/california-itineraries/yosemite-national-park-5-day-itinerary.html">
-              <img class="img-cards-main-loc-state-itinerary" src="../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-400.jpg" alt="Yosemite National Park" >
+                          <a href="../../../../../itineraries/california-itineraries/yosemite-national-park-5-day-itinerary.html" tabindex="-1" aria-hidden="true">
+              <img class="img-cards-main-loc-state-itinerary" src="../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-400.jpg" alt="" loading="lazy" width="400" height="300" />
             </a>
            <div class="best-location-card-state-info">
               <a href="../../../../../itineraries/california-itineraries/yosemite-national-park-5-day-itinerary.html">
@@ -185,38 +185,41 @@
 <!--general info-->
       <div class="article">
         
-      <div class="info">
-        <div class="general">General Information</div>
-        <div>Hours:</div>
-        <div>
-          <p class="notification">A reservation is not required to enter Yosemite in 2026.</p>
-          <p>
-            Open 24/7. However, the Hetch Hetchy Entrance Station is open only during daylight hours (approximately) and some roads are closed due to snow from around November through May or June. 
-          </p>
-            
-        </div>
-        <div>Fees:</div>
-        <div>
-          <p>Vehicle Pass: $35.00</p>
-          <p>Accepts America The Beautiful Pass</p>
-          <p>Non-U.S. residents age 16 and older pay an additional $100 per person (or may buy the $250 nonresident America the Beautiful Pass)</p>
-            </div>
-        <div>Pet Policy:</div>
-        <div>Pets NOT allowed on trails</div>
-        <div>Closest cities with hotels:</div>
-        <div>Oakhurst, 15 miles</div>
-        <div>Seasons:</div>
-        <div>Yosemite Valley and Wawona are open all year. Glacier Point Road is generally accessible from late May to November, and the Tioga Road/Tuolumne Meadows from early June to November</div>
-        <div>Location:</div>
-        <div class="line-break"><a href="https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park" rel="noopener" target="_blank">Yosemite National Park</a></div>
-        <div>Website:</div>
-        <div class="line-break"><a href="https://www.nps.gov/yose/" rel="noopener" target="_blank">nps.gov/yose/</a></div>
-        
+      <section class="info" aria-labelledby="general-info">
+        <h2 id="general-info" class="general">General Information</h2>
+        <dl>
+          <dt>Hours:</dt>
+          <dd>
+            <p class="notification">A reservation is not required to enter Yosemite in 2026.</p>
+            <p>
+              Open 24/7. However, the Hetch Hetchy Entrance Station is open only during daylight hours (approximately) and some roads are closed due to snow from around November through May or June.
+            </p>
+          </dd>
+          <dt>Fees:</dt>
+          <dd>
+            <ul>
+              <li>Vehicle Pass: $35.00</li>
+              <li>Accepts America The Beautiful Pass</li>
+              <li>Non-U.S. residents age 16 and older pay an additional $100 per person (or may buy the $250 nonresident America the Beautiful Pass)</li>
+            </ul>
+          </dd>
+          <dt>Pet Policy:</dt>
+          <dd>Pets <strong>not</strong> allowed on trails</dd>
+          <dt>Closest cities with hotels:</dt>
+          <dd>Oakhurst, 15 miles</dd>
+          <dt>Seasons:</dt>
+          <dd>Yosemite Valley and Wawona are open all year. Glacier Point Road is generally accessible from late May to November, and the Tioga Road/Tuolumne Meadows from early June to November</dd>
+          <dt>Location:</dt>
+          <dd class="line-break"><a href="https://www.google.com/maps/search/?api=1&query=Yosemite+National+Park" rel="noopener" target="_blank">Yosemite National Park</a></dd>
+          <dt>Website:</dt>
+          <dd class="line-break"><a href="https://www.nps.gov/yose/" rel="noopener" target="_blank">nps.gov/yose/</a></dd>
+        </dl>
+
         <div class="weather"><a class="weatherwidget-io" href="https://forecast7.com/en/37d33n119d65/oakhurst/?unit=us" data-label_1="Oakhurst, CA" data-label_2="Weather" data-theme="original" >Oakhurst, CA Weather</a>
             <script>
             !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
             </script></div>
-      </div>
+      </section>
       <!--getting there-->
       <section>
       <div class="main-article">
@@ -275,23 +278,22 @@
           <p class="third-party-img">This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Yosemite_National_Park">"Yosemite National Park"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>. Additional material comes from nps.gov <a href="https://www.nps.gov/yose/index.htm">"Yosemite National Park"</a>, <a href="https://www.nps.gov/yose/planyourvisit/lodging.htm">"Lodging"</a>, <a href="https://www.nps.gov/yose/planyourvisit/campgrounds.htm">"Campgrounds"</a>, <a href="https://www.nps.gov/yose/planyourvisit/publictransportation.htm">"Public Transportation"</a>, and <a href="https://www.nps.gov/yose/planyourvisit/tm.htm">"Tuolumne Meadows and Tioga Road"</a>.</p>
         </div>
       </section>
+      
         <div class="featured navy"><h2>Featured Locations and Trails</h2>
           <section>
           <div class="flex">
-            <div class="city-location-card-image">
-              <a href="./yosemite-valley/yosemite-valley.html">
+            <figure class="city-location-card-image">
+              <a href="./yosemite-valley/yosemite-valley.html" tabindex="-1" aria-hidden="true">
               <img
                 class="trail-img"
-                src="../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-400.jpg"
-              />
+                src="../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-400.jpg" alt="" loading="lazy" width="400" height="300" />
           </a>
-            <p class="caption"></p>
-            </div>
+            </figure>
             <div class="trail-description">
               <a href="./yosemite-valley/yosemite-valley.html">
                   <p>Yosemite Valley</p>
               </a>
-              <div class="rating"><span class="star">&#9733</span> 5.0</div>
+              <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
               <p>
               Glacial valley renowned for its natural environment and is regarded as the centerpiece of Yosemite National Park, attracting visitors from around the world
             </p>
@@ -301,20 +303,19 @@
 
           <section>
           <div class="flex">
-            <div class="city-location-card-image">
-              <a href="./glacier-point/glacier-point.html">
+            <figure class="city-location-card-image">
+              <a href="./glacier-point/glacier-point.html" tabindex="-1" aria-hidden="true">
               <img
                 class="trail-img"
-                src="../../../../../resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff-400.jpg"
-              />
+                src="../../../../../resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff-400.jpg" alt="" loading="lazy" width="400" height="300" />
           </a>
-          <p class="caption"><a href="https://commons.wikimedia.org/wiki/File:Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff.jpg">Diliff</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
-            </div>
+          <figcaption class="caption"><a href="https://commons.wikimedia.org/wiki/File:Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff.jpg">Diliff</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figcaption>
+            </figure>
             <div class="trail-description">
               <a href="./glacier-point/glacier-point.html">
                   <p>Glacier Point</p>
               </a>
-              <div class="rating"><span class="star">&#9733</span> 5.0</div>
+              <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
               <p>
                 Views of the high country and breathtaking views of Yosemite Valley, including Half Dome and three waterfalls, are some of the most spectacular in the park
               </p>
@@ -324,20 +325,19 @@
 
             <section>
             <div class="flex">
-              <div class="city-location-card-image">
-                    <a href="./tioga-road-tuolumne-meadows/tioga-road.html">
+              <figure class="city-location-card-image">
+                    <a href="./tioga-road-tuolumne-meadows/tioga-road.html" tabindex="-1" aria-hidden="true">
                         <img
                     class="trail-img"
-                    src="../../../../../resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-400.jpg"
-                  />
+                    src="../../../../../resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-400.jpg" alt="" loading="lazy" width="400" height="300" />
                 </a>
-                <p class="caption"><a href="https://commons.wikimedia.org/wiki/File:17_25_029_tioga.jpg">Dsdugan</a>, CC0, via Wikimedia Commons; Image Size Adjusted</p>
-                </div>
+                <figcaption class="caption"><a href="https://commons.wikimedia.org/wiki/File:17_25_029_tioga.jpg">Dsdugan</a>, CC0, via Wikimedia Commons; Image Size Adjusted</figcaption>
+                </figure>
                 <div class="trail-description">
                     <a href="./tioga-road-tuolumne-meadows/tioga-road.html">
                         <p>Tioga Road and Tuolumne Meadows</p>
                         </a>
-                        <div class="rating"><span class="star">&#9733</span> 5.0</div>
+                        <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
                   <p>
               Route through Yosemite National Park is the highest paved through road in the California State Route system that leads to Tuolumne Meadows, at 8,600 feet, is a popular area that offers scenic views, and hiking opportunities
             </p>
@@ -348,20 +348,19 @@
           
             <section>
             <div class="flex">
-              <div class="city-location-card-image">
-                <a href="./mariposa-grove.html">
+              <figure class="city-location-card-image">
+                <a href="./mariposa-grove.html" tabindex="-1" aria-hidden="true">
                 <img
                   class="trail-img"
-                  src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio-400.jpg"
-                />
+                  src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio-400.jpg" alt="" loading="lazy" width="400" height="300" />
             </a>
-            <p class="caption"><a href="https://commons.wikimedia.org/wiki/File:Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio.jpg">Kevin R Foote</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
-              </div>
+            <figcaption class="caption"><a href="https://commons.wikimedia.org/wiki/File:Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio.jpg">Kevin R Foote</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figcaption>
+              </figure>
               <div class="trail-description">
                 <a href="./mariposa-grove.html">
                     <p>Mariposa Grove</p>
                 </a>
-                <div class="rating"><span class="star">&#9733</span> 5.0</div>
+                <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
                 <p>
               Largest grove of giant sequoias in the park, with several hundred mature examples of the tree. Two of its trees are among the 30 largest giant sequoias in the world
             </p>
@@ -371,20 +370,19 @@
 
             <section>
             <div class="flex">
-              <div class="city-location-card-image">
-                <a href="./wawona.html">
+              <figure class="city-location-card-image">
+                <a href="./wawona.html" tabindex="-1" aria-hidden="true">
                 <img
                   class="trail-img"
-                  src="../../../../../resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-400.jpg"
-                />
+                  src="../../../../../resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-400.jpg" alt="" loading="lazy" width="398" height="300" />
             </a>
-            <p class="caption"><a href="https://commons.wikimedia.org/wiki/File:Wawona_Hotel2.jpg">Flickr user Joe Shlabotnik</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
-              </div>
+            <figcaption class="caption"><a href="https://commons.wikimedia.org/wiki/File:Wawona_Hotel2.jpg">Flickr user Joe Shlabotnik</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figcaption>
+              </figure>
               <div class="trail-description">
                 <a href="./wawona.html">
                     <p>Wawona</p>
                 </a>
-                <div class="rating"><span class="star">&#9733</span> 5.0</div>
+                <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
                 <p>
                   Large mid-elevation basin has hosted many people and activities for centuries and is home to numerous other natural features
                 </p>
@@ -394,20 +392,19 @@
 
             <section>
             <div class="flex">
-              <div class="city-location-card-image">
-                <a href="./hetch-hetchy/hetch-hetchy.html">
+              <figure class="city-location-card-image">
+                <a href="./hetch-hetchy/hetch-hetchy.html" tabindex="-1" aria-hidden="true">
                 <img
                   class="trail-img"
-                  src="../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/Leaving_Hetch_Hetchy_4640765636-400.jpg"
-                />
+                  src="../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/Leaving_Hetch_Hetchy_4640765636-400.jpg" alt="" loading="lazy" width="400" height="300" />
             </a>
-            <p class="caption"><a href="https://commons.wikimedia.org/wiki/File:Leaving_Hetch_Hetchy_(4640765636).jpg">Neil Cronin</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
-              </div>
+            <figcaption class="caption"><a href="https://commons.wikimedia.org/wiki/File:Leaving_Hetch_Hetchy_(4640765636).jpg">Neil Cronin</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figcaption>
+              </figure>
               <div class="trail-description">
                 <a href="./hetch-hetchy/hetch-hetchy.html">
                     <p>Hetch Hetchy</p>
                 </a>
-                <div class="rating"><span class="star">&#9733</span> 5.0</div>
+                <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
                 <p>Valley, reservoir, and water system drained by the Tuolumne River renowned for its natural beauty
                   
                 </p>
@@ -417,20 +414,19 @@
 
             <section>
             <div class="flex">
-              <div class="city-location-card-image">
-                <a href="./clouds-rest.html">
+              <figure class="city-location-card-image">
+                <a href="./clouds-rest.html" tabindex="-1" aria-hidden="true">
                 <img
                   class="trail-img"
-                  src="../../../../../resources/images/california/yosemite-national-park/clouds-rest/Yosemite_Valley_From_Clouds_Rest-400.jpg"
-                />
+                  src="../../../../../resources/images/california/yosemite-national-park/clouds-rest/Yosemite_Valley_From_Clouds_Rest-400.jpg" alt="" loading="lazy" width="400" height="300" />
             </a>
-            <p class="caption"><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Valley_From_Clouds_Rest.jpeg">Inklein</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
-              </div>
+            <figcaption class="caption"><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Valley_From_Clouds_Rest.jpeg">Inklein</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figcaption>
+              </figure>
               <div class="trail-description">
                 <a href="./clouds-rest.html">
                     <p>Clouds Rest</p>
                 </a>
-                <div class="rating"><span class="star">&#9733</span> 5.0</div>
+                <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
                 <div>12.2 mi round trip, 3,100 ft Elevation Gain:</div>
                 <p>
               Mountain east northeast of Yosemite Village with proximity to the valley giving it a very high degree of visual prominence and wide-ranging 360-degree panoramic views

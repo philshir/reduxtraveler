@@ -1125,12 +1125,14 @@ tspan.st10.s11 {
 }
 .img-cards-main-loc-state {
   width: 100%;
+  height: auto;
   display: block;
   border-radius: 5px 5px 0 0;
   min-width: 100px
 }
 .img-cards-main-loc-state-itinerary {
   width: 100px;
+  height: auto;
   display: block;
   border-radius: 5px 0 0 5px;
 }
@@ -1172,6 +1174,9 @@ tspan.st10.s11 {
   /* max-height: 500px; */
   width: 100%;
   overflow: hidden;
+}
+figure.hero {
+  margin: 0;
 }
 .hero-new {
   position: relative;
@@ -1814,6 +1819,30 @@ nav.breadcrumb li + li::before {
 .info p {
   margin: 0 0 5px;
 }
+/* description-list version of .info (label/value pairs as <dt>/<dd>);
+   mirrors the 1fr 2fr layout of the older div-based .info grid */
+.info dl {
+  grid-column: 1 / 3;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  column-gap: 10px;
+  row-gap: 5px;
+  margin: 0;
+}
+.info dt {
+  font-weight: 700;
+}
+.info dd {
+  margin: 0;
+}
+.info dd ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.info dd li {
+  margin: 0 0 5px;
+}
 
 .info-itinerary {
   display: grid;
@@ -1881,6 +1910,9 @@ nav.breadcrumb li + li::before {
 .city-location-card-image {
   position: relative;
 }
+figure.city-location-card-image {
+  margin: 0;
+}
 star-title
 .city-location-card-image-svg {
   position: relative;
@@ -1904,6 +1936,18 @@ star-title
 .star-title-hero {
   color: rgb(214, 214, 0);
   margin: 0 5px 0 5px;
+}
+/* text for screen readers only (e.g. "Rating:" next to the decorative star) */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 .rating {
   color: #4d4d4d;
@@ -3659,6 +3703,32 @@ display: flex;
     grid-column-gap: 10px;
     /* margin: 55px 0; */
     align-items: start;
+  }
+
+  /* Featured section directly below .info in the right column. The article text is
+     usually wrapped in a <section>, so that wrapper (not .main-article) is the grid
+     item that has to span the rows. The third row is 1fr so the tall article stretches
+     that row instead of opening a gap between .info and .featured. Anything after
+     .featured (e.g. .article-grid) stays in the left column below the article.
+     When .info is itself a <section> it is the first one, so the article wrapper is
+     the section right after it. */
+  .article:has(> .featured) {
+    grid-template-rows: auto auto 1fr;
+  }
+  .article:has(> .featured) > :is(section:first-of-type:not(.info), section.info + section, .main-article) {
+    grid-column: 1;
+    grid-row: 1 / 4;
+  }
+  .article:has(> .featured) > .info {
+    grid-column: 2;
+    grid-row: 1;
+  }
+  .article:has(> .featured) > .featured {
+    grid-column: 2;
+    grid-row: 2;
+  }
+  .article:has(> .featured) > .featured ~ * {
+    grid-column: 1;
   }
 
   .article-test {
