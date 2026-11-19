@@ -16,6 +16,23 @@
     <title>Grizzly Giant Travel Guide | Redux Traveler</title>
     <link href="../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 40%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
     
      <div class="hero">
       <picture>
-        <source media="(max-width: 400px)" srcset="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/grizzly-giant/Grizzly_Giant_in_Yosemite_July_2023-400.jpg">
-      
-        <source media="(min-width: 401px)" srcset="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/grizzly-giant/Grizzly_Giant_in_Yosemite_July_2023-1515.jpg">
-        <img fetchpriority="high" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/grizzly-giant/Grizzly_Giant_in_Yosemite_July_2023-400.jpg" alt="" height="300" width="400" >
+        <!-- 1100px and up: wide crop -->
+        <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/grizzly-giant-hero-wide-1600.avif 1600w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-wide-2400.avif 2400w">
+        <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/grizzly-giant-hero-wide-1600.jpg 1600w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-wide-2400.jpg 2400w">
+        <!-- under 1100px: full 4:3 image -->
+        <source type="image/avif" sizes="100vw"
+          srcset="https://images.reduxtraveler.com/grizzly-giant-hero-400.avif 400w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-800.avif 800w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-1200.avif 1200w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-1600.avif 1600w">
+        <img fetchpriority="high" sizes="100vw"
+          src="https://images.reduxtraveler.com/grizzly-giant-hero-800.jpg"
+          srcset="https://images.reduxtraveler.com/grizzly-giant-hero-400.jpg 400w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-800.jpg 800w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-1200.jpg 1200w,
+                  https://images.reduxtraveler.com/grizzly-giant-hero-1600.jpg 1600w"
+          alt="Grizzly Giant sequoia in Mariposa Grove" width="1200" height="900" class="hero-img">
       </picture>
       <div class="hero-caption-container caption-stack">
       <p class="caption"><span class="caption-title"></span></p>
@@ -191,14 +224,14 @@ Best in late spring and early fall; accessible year-round but shuttle service an
       </div>
 
     <div class="article-grid">
-        <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/grizzly-giant/Grizzly_Giant,_Mariposa_Grove,_Yosemite_National_Park,_CA_-_June_2022-750.jpg" />
+        <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Grizzly_Giant,_Mariposa_Grove,_Yosemite_National_Park,_CA_-_June_2022-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Visitors at the base of the Grizzly Giant" />
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/grizzly-giant/Yosemite_National_Park_(CA,_USA),_Mariposa_Grove_of_Giant_Sequoias,_Grizzly_Giant_--_2022_--_2752-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_National_Park_(CA,_USA),_Mariposa_Grove_of_Giant_Sequoias,_Grizzly_Giant_--_2022_--_2752-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Looking up at the branches of the Grizzly Giant" />
 
-            <figure class="third-party-img"><img class="deco-img" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/grizzly-giant/Yosemite_National_Park_(CA,_USA),_Mariposa_Grove_of_Giant_Sequoias,_Grizzly_Giant_--_2022_--_2754-1000.jpg" />
+            <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_National_Park_(CA,_USA),_Mariposa_Grove_of_Giant_Sequoias,_Grizzly_Giant_--_2022_--_2754-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Fire-scarred trunk of the Grizzly Giant" />
      
 
-                <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/grizzly-giant/Grizzly_Giant_Mariposa_Grove-750.jpg" />
+                <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Grizzly_Giant_Mariposa_Grove-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Grizzly Giant towering over the surrounding forest" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Grizzly_Giant_Mariposa_Grove.jpg">Mike Murphy</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
   </div>
       <!-- main -->

@@ -16,6 +16,23 @@
     <title>Tioga Road Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 50%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/17_25_029_tioga-400.jpg" alt="" height="300" width="400" class="hero-top-adjusted">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/tioga-road-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/tioga-road-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/tioga-road-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/tioga-road-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/tioga-road-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/tioga-road-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/tioga-road-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/tioga-road-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/tioga-road-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/tioga-road-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/tioga-road-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/tioga-road-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/tioga-road-hero-1600.jpg 1600w"
+                alt="Forested ridges and granite peaks along Tioga Road" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
       <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:17_25_029_tioga.jpg">Dsdugan</a>, CC0, via Wikimedia Commons; Image Size Adjusted</p>
@@ -181,6 +214,7 @@
               <p>Cathedral Lakes </p>
             </a>
               <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+              <p><b>7.6 miles</b> roundtrip, <b>1,000 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
               <p>
               Two lakes situated 1.6 km southwest of Cathedral Peak and 3.2 km east-northeast of Tenaya Lake
             </p>
@@ -203,10 +237,12 @@
               <div class="trail-description">
                 <a href="./dog-lake.html">
                 <p>Dog Lake</p></a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>2.8 miles</b> roundtrip, <b>600 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
+                 <p>
               Trail rises steeply for a spectacular view of Tuolumne Meadows and surrounding peaks
             </p>
-                </p>
+                
               </div>
             </div>
             </section>
@@ -226,6 +262,7 @@
                 <p>Gaylor Lakes</p>
                 </a>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                <p><b>2.6 miles</b> roundtrip, <b>500 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
                 <p>
               Hike offering some of the most spectacular high-country views off of Tioga Road
             </p>
@@ -248,10 +285,12 @@
                 <a href="./glen-aulin.html">
                 <p>Glen Aulin</p>
               </a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>11 miles</b> roundtrip, <b>800 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
+                 <p>
               Trail follows the Tuolumne River as it drops to Glen Aulin
             </p>
-                </p>
+                
               </div>
             </div>
             </section>
@@ -271,7 +310,9 @@
                 <a href="./lembert-dome.html">
                 <p>Lembert Dome</p>
                 </a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>2.8 miles</b> roundtrip, <b>850 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
+                 <p>
               Granite dome rock formation soaring 800 feet (240 m) above Tuolumne Meadows and the Tuolumne River
             </p>
               </div>
@@ -293,7 +334,9 @@
                 <a href="./lyell-canyon.html">
                 <p>Lyell Canyon</p>
               </a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>8 miles</b> roundtrip, <b>200 feet</b> elevation gain, <b class="difficulty-easy">Easy</b></p>
+                 <p>
               Sub-alpine meadow south of Tuolumne Meadows
             </p>
               </div>
@@ -315,7 +358,8 @@
                 <a href="./may-lake.html">
                 <p>May Lake</p>
               </a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>2.4 miles</b> roundtrip, <b>485 feet</b> elevation gain, <b class="difficulty-easy">Easy</b></p>
                   <p>
 Alpine lake nestled beneath granite cliffs and surrounded by conifer forest, accessible via a short uphill trail from a remote trailhead.
                 </p>
@@ -337,7 +381,9 @@ Alpine lake nestled beneath granite cliffs and surrounded by conifer forest, acc
               <div class="trail-description">
                 <a href="./mono-pass.html">
                 <p>Mono Pass</p></a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>8 miles</b> roundtrip, <b>1,000 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
+                 <p>
               Historic, trans-Sierra trail climbs gently through wet meadows and rushing creeks
             </p>
               </div>
@@ -359,7 +405,9 @@ Alpine lake nestled beneath granite cliffs and surrounded by conifer forest, acc
                 <a href="./mount-dana.html">
                 <p>Mount Dana</p>
               </a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>5.8 miles</b> roundtrip, <b>3,100 feet</b> elevation gain, <b class="difficulty-hard">Strenuous</b></p>
+                 <p>
               Second highest mountain in Yosemite and the highest peak that is a simple hike to the summit
             </p>
               </div>
@@ -379,7 +427,7 @@ Alpine lake nestled beneath granite cliffs and surrounded by conifer forest, acc
               <div class="trail-description">
                 <a href="./olmsted-point.html">
                 <p>Olmsted Point</p></a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
                   <p>
                     Scenic overlook offering panoramic views of granite peaks, glacial boulders, and alpine lakes from a high-elevation roadside pullout.
                 </p>
@@ -442,7 +490,8 @@ Alpine lake nestled beneath granite cliffs and surrounded by conifer forest, acc
                 <a href="./young-lakes.html">
                 <p>Young Lakes</p>
                 </a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>13.6 miles</b> roundtrip, <b>1,300 feet</b> elevation gain, <b class="difficulty-hard">Strenuous</b></p>
                   <p>
                     Remote alpine basin featuring three glacial lakes surrounded by granite peaks and meadows, accessible via a multi-day backcountry hike.
                 </p>

@@ -16,6 +16,23 @@
     <title>Mariposa Grove Travel Guide | Redux Traveler</title>
     <link href="../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 40%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio-1515.jpg">
-              <img fetchpriority="high" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mariposa-grove-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mariposa-grove-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/mariposa-grove-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/mariposa-grove-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/mariposa-grove-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/mariposa-grove-hero-1600.jpg 1600w"
+                alt="Giant sequoias and a historic cabin in Mariposa Grove" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Cabin_in_Mariposa_Grove_of_Sequoia_-_panoramio.jpg">Kevin R Foote</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -180,8 +213,7 @@
                     <p>Mariposa Grove Trail</p>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
                 <p>
-                    7 miles round-trip, 1200 feet<br>
-                    Begin at Mariposa Grove Arrival Area. This wide and relatively smooth trail follows a route that people have used to access the grove for generations. See famous sequoias such as the Bachelor and Three Graces, the Faithful Couple, and the Clothespin Tree along this somewhat strenuous route to the upper reaches of the grove. Continue to historic Wawona Point, an overlook with panoramic views. A number of alternative trails may be used to access the upper portion of the grove. These trails are generally steeper and more primitive than the Mariposa Grove Trail.
+                    7 miles round-trip, 1200 feet<br> From the Arrival Area, pass the Bachelor and Three Graces, Faithful Couple, and Clothespin Tree to the upper grove and Wawona Point.
                 </p>
               </div>
             </div>
@@ -227,57 +259,16 @@
                 </div>
               </div>
                </section>
-               <!-- <section>
-<div class="flex">
-            <div class="city-location-card-image">
-
-                  <img
-                    class="trail-img portrait-full"
-                    src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Grizzly_Giant_Mariposa_Grove-750.jpg/yosemite-one/yosemite-falls/yosemite-falls-thumbnail-400.jpg"
-                  />
-                </div>
-                <div class="trail-description">
-
-                      <p>Wawona Meadow Loop</p>
-
-                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
-                  <p>
-                      3.5 mile loop, 246 feet<br>
-                      Walk across the Wawona golf course on the paved road. Once across the golf course, take the first left onto the unpaved fire road that loops around the meadow
-                  </p>
-                </div>
-              </div>
-</section>
-               <section>
-               <div class="flex">
-            <div class="city-location-card-image">
-
-                  <img
-                    class="trail-img portrait-full"
-                    src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Grizzly_Giant_Mariposa_Grove-750.jpg/yosemite-one/yosemite-falls/yosemite-falls-thumbnail-400.jpg"
-                  />
-                </div>
-                <div class="trail-description">
-
-                      <p>Alder Creek</p>
-
-                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
-                  <p>
-                      12 miles round-trip, 2400 feet<br>
-                      Begin 0.4 miles up Chilnualna Falls Road. The trail begins across the street from the parking area at the "Backcountry Use" sign and leads uphill north through an open pine forest with abundant manzanita growing on drier slopes
-                  </p>
-                </div>
-              </div>
-               </section> -->
+               <!-- -->
               
       </div>
       </div>
 
     <div class="article-grid">
 
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Mariposa_Grove_-_panoramio_(1)-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Mariposa_Grove_-_panoramio_(1)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Giant sequoias in Mariposa Grove" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Mariposa_Grove_-_panoramio_(1).jpg">Dameon Hudson</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../resources/images/california/yosemite-national-park/mariposa-grove/Yosemite_National_Park_(California,_USA),_Mariposa_Grove_of_Giant_Sequoias_--_2012_--_4595-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_National_Park_(California,_USA),_Mariposa_Grove_of_Giant_Sequoias_--_2012_--_4595-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Looking up at giant sequoias in Mariposa Grove" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Agate_Fossil_Beds_National_Monument_-_Visitor_Center_%26_Museum.jpg" rel="noopener" target="_blank">Jllm06</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
      
     </div>

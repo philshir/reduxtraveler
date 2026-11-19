@@ -16,6 +16,7 @@
     <title>Yosemite National Park Travel Guide | Redux Traveler</title>
     <link href="../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
     <style>
       /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
          fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
@@ -138,20 +139,24 @@
 
             <picture>
               <!-- 1100px and up: wide crop -->
-              <source media="(min-width: 1100px)" width="3030" height="1263" sizes="(max-width: 1320px) 1320px, 100vw"
-                srcset="../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-wide-800.jpg 800w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-wide-1200.jpg 1200w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-wide-1600.jpg 1600w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-wide-2400.jpg 2400w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-wide-3030.jpg 3030w">
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-2400.jpg 2400w">
               <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1600.avif 1600w">
               <img fetchpriority="high" sizes="100vw"
-                src="../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-800.jpg"
-                srcset="../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-400.jpg 400w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-800.jpg 800w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-1200.jpg 1200w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-1600.jpg 1600w,
-                        ../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-2400.jpg 2400w"
+                src="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1600.jpg 1600w"
                 alt="Yosemite Valley from Tunnel View, with El Capitan on the left, Bridalveil Fall on the right and Half Dome in the distance" width="1200" height="900" class="hero-img">
             </picture>
             <figcaption class="hero-caption-container">
@@ -336,10 +341,9 @@
                 <div class="trail-description">
                     <a href="./tioga-road-tuolumne-meadows/tioga-road.html">
                         <p>Tioga Road and Tuolumne Meadows</p>
-                        </a>
-                        <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                        </a><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0
                   <p>
-              Route through Yosemite National Park is the highest paved through road in the California State Route system that leads to Tuolumne Meadows, at 8,600 feet, is a popular area that offers scenic views, and hiking opportunities
+              Highest paved through road in the California State Route system, crossing Yosemite to Tuolumne Meadows at 8,600 feet, a popular area for scenic views and hiking
             </p>
                 </div>
               </div>
@@ -427,7 +431,7 @@
                     <p>Clouds Rest</p>
                 </a>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
-                <div>12.2 mi round trip, 3,100 ft Elevation Gain:</div>
+                <p><b>14.5 miles</b> roundtrip, <b>2,300 feet</b> elevation gain, <b class="difficulty-hard">Strenuous</b></p>
                 <p>
               Mountain east northeast of Yosemite Village with proximity to the valley giving it a very high degree of visual prominence and wide-ranging 360-degree panoramic views
             </p>

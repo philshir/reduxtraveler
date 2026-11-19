@@ -16,6 +16,23 @@
     <title>Yosemite Falls Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 40%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/yosemite-falls-thumbnail-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/Yosemite_Falls_from_trail,_Yosemite_NP,_CA,_US_-_Diliff-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/yosemite-falls-thumbnail-400.jpg" alt="" height="300" width="400" class="hero-top-adjusted-200">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-falls-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-falls-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-falls-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/yosemite-falls-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/yosemite-falls-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/yosemite-falls-hero-1600.jpg 1600w"
+                alt="Upper Yosemite Fall pouring over the valley rim" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span></p>
@@ -145,13 +178,18 @@
         <dl>
         <dt>Length:</dt>
         <dd>
-          <p>Lower Yosemite Falls: 1.2 mi loop</p>
-          <p>Upper Yosemite Falls: 6.6 miles round trip</p>
+          <p>Lower Yosemite Falls: 1 mile loop</p>
+          <p>Upper Yosemite Falls: 7.2 miles round trip</p>
           </dd>
         <dt>Elevation Gain:</dt>
         <dd>
-          <p>Lower Yosemite Falls: 55 ft</p>
-          <p>Upper Yosemite Falls: 3,254 ft </p>
+          <p>Lower Yosemite Falls: 50 feet</p>
+          <p>Upper Yosemite Falls: 2,700 feet</p>
+        </dd>
+        <dt>Difficulty:</dt>
+        <dd>
+            Lower Yosemite Falls: <span class="difficulty-easy">Easy</span><br>
+            Upper Yosemite Falls: <span class="difficulty-hard">Strenuous</span>
         </dd>
         <dt>Pet Policy:</dt>
         <dd>Pets <strong>not</strong> allowed on trails</dd>
@@ -180,23 +218,23 @@
       </div>
 
     <div class="article-grid">
-       <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/yosemite-falls-distant-1000.jpg" />
+       <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/yosemite-falls-distant-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Yosemite Falls seen from the valley road" />
         <figcaption class="cap"></figcaption></figure>
         
-        <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/yosemite-falls-closeup-750wPortrait.jpg" />
+        <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/yosemite-falls-closeup-750wPortrait.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Lower Yosemite Fall crashing onto boulders" />
           <figcaption class="cap"></figcaption></figure>
       
-      <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/yosemite-falls-lower-falls-750wPortrait.jpg" />
+      <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/yosemite-falls-lower-falls-750wPortrait.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Lower Yosemite Fall" />
         <figcaption class="cap"></figcaption></figure>
 
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/California,_Yosemite_National_Park,_Yosemite_Valley_from_Yosemite_Falls-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/California,_Yosemite_National_Park,_Yosemite_Valley_from_Yosemite_Falls-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Half Dome and Yosemite Valley from above" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:California,_Yosemite_National_Park,_Yosemite_Valley_from_Yosemite_Falls.jpg">Lucas·G</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/Upper_Yosemite_Falls-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Upper_Yosemite_Falls-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Upper Yosemite Fall seen from above" />
             <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Upper_Yosemite_Falls.jpg">https://www.flickr.com/photos/navin75/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-            <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/Valley_View_Yosemite_August_2013_002-1000.jpg" />
+            <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/yosemite-falls-Valley_View_Yosemite_August_2013_002-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Steep granite walls of Yosemite Valley" />
               <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Valley_View_Yosemite_August_2013_002.jpg">King of Hearts</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-              <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-falls/Yosemite_-_Middle_Falls_from_Trail-750.jpg" />
+              <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Yosemite_-_Middle_Falls_from_Trail-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Middle cascades of Yosemite Falls from the trail" />
                 <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_-_Middle_Falls_from_Trail.jpg">Chris Dunstan (talk · contribs)</a>, Public domain, via Wikimedia Commons ; Image Size Adjusted</figure>
     </div>
       <!-- main -->

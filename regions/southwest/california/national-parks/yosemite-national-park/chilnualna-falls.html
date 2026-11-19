@@ -16,6 +16,23 @@
     <title>Chilnualna Falls Travel Guide | Redux Traveler</title>
     <link href="../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 50%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
     
      <div class="hero">
       <picture>
-        <source media="(max-width: 400px)" srcset="../../../../../resources/images/california/yosemite-national-park/wawona/chilnualna-falls/Chilnualna_Falls_2006-400.jpg">
-      
-        <source media="(min-width: 401px)" srcset="../../../../../resources/images/california/yosemite-national-park/wawona/chilnualna-falls/Chilnualna_Falls_2006-1515.jpg">
-        <img fetchpriority="high" src="../../../../../resources/images/california/yosemite-national-park/wawona/chilnualna-falls/Chilnualna_Falls_2006-400.jpg" alt="" height="300" width="400" >
+        <!-- 1100px and up: wide crop -->
+        <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/chilnualna-falls-hero-wide-1600.avif 1600w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-wide-2400.avif 2400w">
+        <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/chilnualna-falls-hero-wide-1600.jpg 1600w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-wide-2400.jpg 2400w">
+        <!-- under 1100px: full 4:3 image -->
+        <source type="image/avif" sizes="100vw"
+          srcset="https://images.reduxtraveler.com/chilnualna-falls-hero-400.avif 400w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-800.avif 800w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-1200.avif 1200w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-1600.avif 1600w">
+        <img fetchpriority="high" sizes="100vw"
+          src="https://images.reduxtraveler.com/chilnualna-falls-hero-800.jpg"
+          srcset="https://images.reduxtraveler.com/chilnualna-falls-hero-400.jpg 400w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-800.jpg 800w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-1200.jpg 1200w,
+                  https://images.reduxtraveler.com/chilnualna-falls-hero-1600.jpg 1600w"
+          alt="Chilnualna Falls cascading over granite boulders" width="1200" height="900" class="hero-img">
       </picture>
       <div class="hero-caption-container caption-stack">
       <p class="caption"><span class="caption-title"></span></p>
@@ -143,6 +176,17 @@ Multi-tiered waterfall system cascading through granite formations with scenic f
       <section class="info" aria-labelledby="general-info">
         <h2 id="general-info" class="general">General Information</h2>
 <dl>
+<dt>Length:</dt>
+<dd>
+    8.2 miles roundtrip</dd>
+<dt>Elevation Gain:</dt>
+<dd>
+    2,400 feet
+</dd>
+<dt>Difficulty:</dt>
+<dd>
+    <span class="difficulty-hard">Strenuous</span>
+</dd>
 <dt>Hours:</dt>
 <dd>
 Open year-round; trail access is available daily, but best hiked during daylight hours (no official gate hours)<br>
@@ -188,9 +232,9 @@ Best in late spring to early summer (May–June); accessible year-round but flow
       </div>
 
     <div class="article-grid">
-        <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../resources/images/california/yosemite-national-park/wawona/chilnualna-falls/Chilnualna_Falls-750.jpg" />
+        <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Chilnualna_Falls-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Chilnualna Falls cascading through pines and granite" />
      
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../resources/images/california/yosemite-national-park/wawona/chilnualna-falls/ChilnualnaFallsSwimmingHole-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/ChilnualnaFallsSwimmingHole-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Chilnualna Falls flowing over granite slabs into a pool" />
     </div>
       <!-- main -->
     </main>

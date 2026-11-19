@@ -16,6 +16,23 @@
     <title>Yosemite Valley Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 41%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
        <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/tunnel-view/yosemite-tunnel-view-hero-400.jpg" alt="" height="300" width="400" class="hero-top-adjusted-200">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/yosemite-tunnel-view-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/yosemite-tunnel-view-hero-1600.jpg 1600w"
+                alt="Yosemite Valley from Tunnel View, with El Capitan on the left, Bridalveil Fall on the right and Half Dome in the distance" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
       <p class="caption"><span class="caption-title"></span></p>
@@ -196,6 +229,7 @@
                   <p>Bridalveil Fall</p>
               </a>
               <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+              <p><b>0.5 mile</b> roundtrip, <b>80 feet</b> elevation gain, <b class="difficulty-easy">Easy</b></p>
               <p>
                 One of the most prominent waterfalls in the Yosemite at 617 ft in height and flows year round
               </p>
@@ -242,32 +276,7 @@
                         <p>Four Mile Trail</p>
                         </a>
                         <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
-                  <p>
-                    Trail climbs to the top of Yosemite Valley at Glacier Point with spectacular views of valley
-                  </p>
-                </div>
-              </div>
-              </section>
-
-              <section>
-              <div class="flex">
-            <div class="city-location-card-image">
-                    <a href="./half-dome-permit-info.html">
-                        <img
-                    class="trail-img"
-                    src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/el-capitan/yosemite-el-capitan-hero-400.jpg"
-                  />
-                </a>
-                <p class="caption">
-        Grinnell Point and Swiftcurrent Lake from the Many Glacier Hotel<br>
-        <a href="https://commons.wikimedia.org/wiki/File:Lakeside_View_(11415064175).jpg">Jeff P from Berkeley, CA, USA</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
-                </div>
-                <div class="trail-description">
-                    <a href="./half-dome-permit-info.html">
-                        <p>Half Dome Permit Info</p>
-                        </a>
-                        <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
-                    <p>4.8 mi one way to Glacier Point. 9.6 mi round trip, 3,200 ft</p>
+                        <p><b>9.6 miles</b> roundtrip, <b>3,200 feet</b> elevation gain, <b class="difficulty-hard">Strenuous</b></p>
                   <p>
                     Trail climbs to the top of Yosemite Valley at Glacier Point with spectacular views of valley
                   </p>
@@ -291,6 +300,7 @@
                         <p>Half Dome Trail</p>
                         </a>
                         <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                        <p><b>14–16.4 miles</b> roundtrip, <b>4,800 feet</b> elevation gain, <b class="difficulty-hard">Very Strenuous</b></p>
                   <p>
                     Well-known rock formation named for its distinct shape making it appear like a dome cut in half
                   </p>
@@ -315,6 +325,7 @@
                     <p>Mirror Lake Trail</p>
                 </a>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                <p><b>2 miles</b> roundtrip, <b>100 feet</b> elevation gain, <b class="difficulty-easy">Easy</b></p>
                 <p>
                     Small, seasonal lake, it is the last remnant of a large glacial lake that once filled most of Yosemite Valley
                 </p>
@@ -338,6 +349,7 @@
                     <p>Mist Trail / Vernal and Nevada Falls</p>
                 </a>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                <p><b>5.4 miles</b> roundtrip, <b>2,000 feet</b> elevation gain, <b class="difficulty-hard">Strenuous</b></p>
                
                 <p>
                   Popular hike offering spectacular, up-close views of two large waterfalls
@@ -386,6 +398,7 @@
                     <p>Yosemite Falls Trail</p>
                 </a>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                <p><b>7.2 miles</b> roundtrip, <b>2,700 feet</b> elevation gain, <b class="difficulty-hard">Strenuous</b></p>
                 <p>
                   Steep climb with close-up views of Upper Yosemite Fall and distant views of Half Dome and other Sierra mountain peaks
                 </p>
@@ -407,6 +420,7 @@
                     <p>Yosemite Valley Loop Trail</p>
                 </a>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                <p><b>13 miles</b> loop, <b>300 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
                 <p>
                     Loop hike around Yosemite Valley through meadows, forests, and beside the Merced River
                 </p>
@@ -440,15 +454,15 @@
       </div>
 
     <div class="article-grid">
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/Valley_View_Yosemite_August_2013_002-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Valley_View_Yosemite_August_2013_002-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="El Capitan and the Merced River from Valley View" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Valley_View_Yosemite_August_2013_002.jpg">King of Hearts</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/North_Dome-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/North_Dome-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Granite face of North Dome" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:North_Dome.jpg">Little Mountain 5</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
           
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-valley-picnicers-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/yosemite-valley-picnicers-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Yosemite Valley meadow below granite cliffs" />
         <figcaption class="cap"></figcaption></figure>
 
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-valley-partial-arch-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/yosemite-valley-partial-arch-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Royal Arches beneath North Dome" />
                   <figcaption class="cap"></figcaption></figure>
   </div>
       <!-- main -->

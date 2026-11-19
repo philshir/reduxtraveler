@@ -2963,6 +2963,25 @@ transform: scale(1.1);
   color: #8b0000;
 }
 
+/* Difficulty colors for trail cards and General Information (match trails tables) */
+.difficulty-easy,
+.difficulty-moderate,
+.difficulty-hard {
+  font-weight: 600;
+}
+
+.difficulty-easy {
+  color: #2e8b57;
+}
+
+.difficulty-moderate {
+  color: #c27c0e;
+}
+
+.difficulty-hard {
+  color: #8b0000;
+}
+
 .table-body .table-citation {
   max-width: 1200px;
   margin: 1.5rem auto 0;

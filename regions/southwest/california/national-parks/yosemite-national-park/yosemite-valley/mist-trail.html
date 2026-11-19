@@ -16,6 +16,23 @@
     <title>Mist Trail / Vernal and Nevada Falls Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 50%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal-and-Nevada-Falls-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal-and-Nevada-Falls-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal-and-Nevada-Falls-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mist-trail-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/mist-trail-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mist-trail-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/mist-trail-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/mist-trail-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/mist-trail-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/mist-trail-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/mist-trail-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/mist-trail-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/mist-trail-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/mist-trail-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/mist-trail-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/mist-trail-hero-1600.jpg 1600w"
+                alt="Vernal Fall and Nevada Fall along the Mist Trail" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span></p>
@@ -154,6 +187,12 @@
           Top of Vernal Fall: 1000 feet<br>
           Top of Nevada Fall: 2000 feet
         </dd>
+        <dt>Difficulty:</dt>
+        <dd>
+            Vernal Fall Footbridge: <span class="difficulty-moderate">Moderate</span><br>
+            Top of Vernal Fall: <span class="difficulty-hard">Strenuous</span><br>
+            Top of Nevada Fall: <span class="difficulty-hard">Strenuous</span>
+        </dd>
         <dt>Pet Policy:</dt>
         <dd>Pets <strong>not</strong> allowed on trails</dd>
         <dt>Seasons:</dt>
@@ -179,38 +218,38 @@
       </div>
 
     <div class="article-grid">
-       <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Early_Morning_Vernal_Falls_(7617803140)-1000.jpg" />
+       <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Early_Morning_Vernal_Falls_(7617803140)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Hikers on the Mist Trail below Vernal Fall" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Early_Morning_Vernal_Falls_(7617803140).jpg">Alex Proimos from Sydney, Australia</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
         
-        <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Mist_IMG_4299-750.jpg" />
+        <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Mist_IMG_4299-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Boulder-filled Merced River gorge along the Mist Trail" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Mist_IMG_4299.JPG">deror_avi</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Mist_Trail_Footbridge-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Mist_Trail_Footbridge-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Hikers on the Mist Trail among the trees" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Mist_Trail_Footbridge.jpg">Kārlis Dambrāns</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-        <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Nevada_Fall,_Yosemite_NP,_CA,_US_-_Diliff-750.jpg" />
+        <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Nevada_Fall,_Yosemite_NP,_CA,_US_-_Diliff-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Nevada Fall above the Merced River" />
             <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Nevada_Fall,_Yosemite_NP,_CA,_US_-_Diliff.jpg">Diliff</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-            <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Nevada_Falls,_Yosemite-1000.jpg" />
+            <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Nevada_Falls,_Yosemite-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Looking down Nevada Fall from the top" />
               <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Nevada_Falls,_Yosemite.JPG">M. Brogdon</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Nevada_Falls_from_Panorama_View-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Nevada_Falls_from_Panorama_View-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Liberty Cap and Nevada Fall" />
             <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Nevada_Falls_from_Panorama_View.jpg">Lamal13</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-            <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal_Falls_-_Yosemite_-_panoramio-1000.jpg" />
+            <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Vernal_Falls_-_Yosemite_-_panoramio-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Visitor at the railing above Vernal Fall" />
                 <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Vernal_Falls_-_Yosemite_-_panoramio.jpg">Pavel Špindler</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
 
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal_Falls_and_Mist_Trail-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Vernal_Falls_and_Mist_Trail-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Stone steps of the Mist Trail beside Vernal Fall" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Vernal_Falls_and_Mist_Trail.jpg">David Fulmer</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-              <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vodopad_Nevada_Falls_-_panoramio-1000.jpg" />
+              <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Vodopad_Nevada_Falls_-_panoramio-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Nevada Fall with a rainbow in its spray" />
                 <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Vodop%C3%A1d_Nevada_Falls_-_panoramio.jpg">Pavel Špindler</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vodopad_Nevada_Falls_-_Yosemite_N.P-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Vodopad_Nevada_Falls_-_Yosemite_N.P-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Close view of Nevada Fall's spray" />
                     <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Vodop%C3%A1d_Nevada_Falls_-_Yosemite_N.P._-_panoramio.jpg">Pavel Špindler</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
 
-                    <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vodopad_Vernal_Falls_v_Yosemitskem_udoli_-_panoramio-1000.jpg" />
+                    <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Vodopad_Vernal_Falls_v_Yosemitskem_udoli_-_panoramio-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Vernal Fall above the Merced River" />
                       <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Vodop%C3%A1d_Vernal_Falls_v_Yosemitsk%C3%A9m_%C3%BAdol%C3%AD_-_panoramio.jpg">Pavel Špindler</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-                  <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Yosemite's_Nevada_Falls_and_surroundings_from_The_Mist_Trail-1000.jpg" />
+                  <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite's_Nevada_Falls_and_surroundings_from_The_Mist_Trail-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Nevada Fall, Liberty Cap and surrounding domes" />
                     <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite%27s_Nevada_Falls_and_surroundings_from_The_Mist_Trail.jpg">Tiffany Zheng</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-                    <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Vernal_Falls_-_Yosemite_-_panoramio-1000.jpg" />
+                    <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Vernal_Falls_-_Yosemite_-_panoramio-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Visitor at the railing above Vernal Fall" />
                         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Vernal_Falls_-_Yosemite_-_panoramio.jpg">Pavel Špindler</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/mist-trail/Yosemite_Nationalpark_Vernal_Falls_IMG_20180411_121809-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_Nationalpark_Vernal_Falls_IMG_20180411_121809-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Vernal Fall with a rainbow in its mist" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Nationalpark_Vernal_Falls_IMG_20180411_121809.jpg">Alexander Migl</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
   </div>
       <!-- main -->

@@ -16,6 +16,23 @@
     <title>Wapama Falls Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 45%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Wapama_Falls_at_Hetch_Hetchy-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Wapama_Falls_at_Hetch_Hetchy-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Wapama_Falls_at_Hetch_Hetchy-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/wapama-falls-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/wapama-falls-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/wapama-falls-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/wapama-falls-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/wapama-falls-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/wapama-falls-hero-1600.jpg 1600w"
+                alt="Wapama Falls pouring down granite cliffs at Hetch Hetchy" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Wapama_Falls_at_Hetch_Hetchy.jpg">Craig Given</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -145,6 +178,17 @@
         <h2 id="general-info" class="general">General Information</h2>
        
         <dl>
+        <dt>Length:</dt>
+        <dd>
+            5 miles roundtrip</dd>
+        <dt>Elevation Gain:</dt>
+        <dd>
+            507 feet
+        </dd>
+        <dt>Difficulty:</dt>
+        <dd>
+            <span class="difficulty-moderate">Moderate</span>
+        </dd>
         <dt>Pet Policy:</dt>
         <dd>Pets <strong>not</strong> allowed on trails</dd>
         <dt>Closest cities with hotels:</dt>
@@ -178,12 +222,12 @@
               </div>
 
               <div class="article-grid">
-                  <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Footbridge_below_Wapama_Falls_-_panoramio-1000.jpg" />
+                  <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Footbridge_below_Wapama_Falls_-_panoramio-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Footbridge below Wapama Falls in the spray" />
       <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Footbridge_below_Wapama_Falls_-_panoramio.jpg">Richard Wood</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
       
-              <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Footbridge_below_Wapama_Falls_looking_west_towards_O'Shaughnessy_Dam_-_panoramio-1000.jpg" />
+              <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Footbridge_below_Wapama_Falls_looking_west_towards_O'Shaughnessy_Dam_-_panoramio-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Footbridge below Wapama Falls with a rainbow" />
                 <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Footbridge_below_Wapama_Falls_looking_west_towards_O%27Shaughnessy_Dam_-_panoramio.jpg">Richard Wood</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/hetch-hetchy/wapama-falls/Footbridge_below_Wapama_Falls_looking_west_towards_O'Shaughnessy_Dam_-_panoramio_-_Richard_Wood-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Footbridge_below_Wapama_Falls_looking_west_towards_O'Shaughnessy_Dam_-_panoramio_-_Richard_Wood-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Trail and footbridge looking west along Hetch Hetchy Reservoir" />
                     <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Footbridge_below_Wapama_Falls_looking_west_towards_O%27Shaughnessy_Dam_-_panoramio_-_Richard_Wood.jpg">Richard Wood</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
             </div>
       <!-- main -->

@@ -16,6 +16,23 @@
     <title>Royal Arches Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 35%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
     
      <div class="hero">
       <picture>
-        <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/royal-arches/Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_1-400.jpg">
-      
-        <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/royal-arches/Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_1-1515.jpg">
-        <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/royal-arches/Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_1-400.jpg" alt="" height="300" width="400" >
+        <!-- 1100px and up: wide crop -->
+        <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/royal-arches-hero-wide-1600.avif 1600w,
+                  https://images.reduxtraveler.com/royal-arches-hero-wide-2400.avif 2400w">
+        <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/royal-arches-hero-wide-1600.jpg 1600w,
+                  https://images.reduxtraveler.com/royal-arches-hero-wide-2400.jpg 2400w">
+        <!-- under 1100px: full 4:3 image -->
+        <source type="image/avif" sizes="100vw"
+          srcset="https://images.reduxtraveler.com/royal-arches-hero-400.avif 400w,
+                  https://images.reduxtraveler.com/royal-arches-hero-800.avif 800w,
+                  https://images.reduxtraveler.com/royal-arches-hero-1200.avif 1200w,
+                  https://images.reduxtraveler.com/royal-arches-hero-1600.avif 1600w">
+        <img fetchpriority="high" sizes="100vw"
+          src="https://images.reduxtraveler.com/royal-arches-hero-800.jpg"
+          srcset="https://images.reduxtraveler.com/royal-arches-hero-400.jpg 400w,
+                  https://images.reduxtraveler.com/royal-arches-hero-800.jpg 800w,
+                  https://images.reduxtraveler.com/royal-arches-hero-1200.jpg 1200w,
+                  https://images.reduxtraveler.com/royal-arches-hero-1600.jpg 1600w"
+          alt="Royal Arches granite formations above Yosemite Valley" width="1200" height="900" class="hero-img">
       </picture>
       <div class="hero-caption-container caption-stack">
       <p class="caption"><span class="caption-title"></span></p>
@@ -169,7 +202,7 @@
       </div>
 
     <div class="article-grid">
-      <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/royal-arches/North_Dome_&_Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_5-750.jpg" />
+      <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/North_Dome_%26_Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_5-750.jpg" width="852" height="1000" loading="lazy" decoding="async" alt="North Dome and Royal Arches above Yosemite Valley" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:North_Dome_&amp;_Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_5.jpg">James St. John</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
     </div>
       <!-- main -->

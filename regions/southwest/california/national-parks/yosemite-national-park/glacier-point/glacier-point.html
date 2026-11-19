@@ -16,6 +16,23 @@
     <title>Glacier Point Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 30%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
       <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff-400.jpg" alt="" height="300" width="400" >
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/glacier-point-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/glacier-point-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/glacier-point-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/glacier-point-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/glacier-point-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/glacier-point-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/glacier-point-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/glacier-point-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/glacier-point-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/glacier-point-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/glacier-point-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/glacier-point-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/glacier-point-hero-1600.jpg 1600w"
+                alt="Half Dome and the High Sierra at sunset from Glacier Point" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
       <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Glacier_Point_at_Sunset,_Yosemite_NP,_CA,_US_-_Diliff.jpg">Diliff</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -181,12 +214,10 @@
               <p>Panorama Trail</p>
             </a>
               <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+              <p><b>8.2 miles</b> one way, <b>800 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
               <p>
               Strenuous downhill hiking route featuring sweeping views of granite cliffs, waterfalls, and forested ridgelines along a high-elevation descent.
             </p>
-<p>
-  Strenuous downhill hiking route featuring sweeping views of granite cliffs, waterfalls, and forested ridgelines along a high-elevation descent.
-</p>
               
             </div>
           </div>
@@ -210,11 +241,10 @@
               <p>Sentinel Dome</p>
             </a>
               <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+              <p><b>2 miles</b> roundtrip, <b>400 feet</b> elevation gain, <b class="difficulty-moderate">Moderate</b></p>
               <p>
               Granite dome lying on the south wall of Yosemite Valley, 0.8 miles southwest of Glacier Point
             </p>
-<p>Granite dome lying on the south wall of Yosemite Valley, 0.8 miles southwest of Glacier Point  
-</p>
               
             </div>
           </div>
@@ -233,7 +263,8 @@
                 <a href="./taft-point.html">
                 <p>Taft Point</p>
               </a>
-                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
+                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                 <p><b>2.2 miles</b> roundtrip, <b>200 feet</b> elevation gain, <b class="difficulty-easy">Easy</b></p>
                   <p>
                            Viewpoint west of Glacier Point offering wide views of Yosemite Valley, Yosemite Falls and El Capitan. The main attraction is the giant fissures in the mile-high granite rock
 
@@ -269,13 +300,13 @@
       </div>
 
     <div class="article-grid">
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/Half_Dome10-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Half_Dome10-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Half Dome seen from Glacier Point" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Half_Dome10.jpg">Rainer Hübenthal (talk · contribs)</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/Half_Dome_from_near_Glacier_Point-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Half_Dome_from_near_Glacier_Point-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Half Dome and the High Sierra from near Glacier Point" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Half_Dome_from_near_Glacier_Point.jpg">Thomas Wolf, www.foto-tw.de</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-      <figure class="third-party-img"><img class="deco-img " src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/View_from_Glacier_Point_2019_7-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/View_from_Glacier_Point_2019_7-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Visitor at a viewpoint near Glacier Point" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:View_from_Glacier_Point_2019_7.jpg">Steven Lek</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-        <figure class="third-party-img"><img class="deco-img " src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/Yosemite_National_Park,_Glacier_Point-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_National_Park,_Glacier_Point-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Yosemite Valley seen from the Glacier Point overlook" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_National_Park,_Glacier_Point._September_2010.jpg">Brian Altmeyer</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
     </div>
       <!-- main -->

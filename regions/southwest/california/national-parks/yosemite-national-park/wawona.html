@@ -16,6 +16,23 @@
     <title>Wawona Travel Guide | Redux Traveler</title>
     <link href="../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 50%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -121,10 +138,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-1515.jpg">
-              <img fetchpriority="high" src="../../../../../resources/images/california/yosemite-national-park/wawona/Wawona_Hotel2-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/wawona-hotel-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/wawona-hotel-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/wawona-hotel-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/wawona-hotel-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/wawona-hotel-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/wawona-hotel-hero-1600.jpg 1600w"
+                alt="The historic Wawona Hotel" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Wawona_Hotel2.jpg">Flickr user Joe Shlabotnik</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -183,6 +216,7 @@
                       <p>Chilnualna Falls</p>
 </a>
                   <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
+                  <p><b>8.2 miles</b> roundtrip, <b>2,400 feet</b> elevation gain, <b class="difficulty-hard">Strenuous</b></p>
                   <p>
 Multi-tiered waterfall system cascading through granite formations with scenic forest views and a moderately strenuous hiking trail.
                   </p>
@@ -195,7 +229,7 @@ Multi-tiered waterfall system cascading through granite formations with scenic f
 
 
     <div class="article-grid">
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../resources/images/california/yosemite-national-park/wawona/Wawona_Hotel_in_November_2004-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Wawona_Hotel_in_November_2004-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Front of the historic Wawona Hotel" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Wawona_Hotel_in_November_2004.jpeg">Mav at the English-language Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/1.0">CC BY-SA 1.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
     </div>
       <!-- main -->

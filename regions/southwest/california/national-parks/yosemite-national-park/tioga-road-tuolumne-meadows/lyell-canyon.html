@@ -16,6 +16,23 @@
     <title>Lyell Canyon Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 35%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/lyell-canyon/Lyell_Canyon-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/lyell-canyon/Lyell_Canyon-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/lyell-canyon/Lyell_Canyon-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/lyell-canyon-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/lyell-canyon-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/lyell-canyon-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/lyell-canyon-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/lyell-canyon-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/lyell-canyon-hero-1600.jpg 1600w"
+                alt="Lyell Fork winding through Lyell Canyon" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Lyell_Canyon.jpg">Kaitymh</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -146,10 +179,14 @@
         <dl>
         <dt>Length:</dt>
         <dd>
-            11.7 mi roundtrip</dd>
+            8 miles roundtrip</dd>
         <dt>Elevation Gain:</dt>
         <dd>
-            521 feet
+            200 feet
+        </dd>
+        <dt>Difficulty:</dt>
+        <dd>
+            <span class="difficulty-easy">Easy</span>
         </dd>
         <dt>Pet Policy:</dt>
         <dd>Pets <strong>not</strong> allowed on trails</dd>
@@ -187,9 +224,9 @@
               </div>
 
               <div class="article-grid">
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/lyell-canyon/Agropyron_trachycaulum_-_slender_wheatgrass_-_Flickr_-_Matt_Lavin_(10)-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Agropyron_trachycaulum_-_slender_wheatgrass_-_Flickr_-_Matt_Lavin_(10)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Wild grasses in Lyell Canyon" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Agropyron_trachycaulum_-_slender_wheatgrass_-_Flickr_-_Matt_Lavin_(10).jpg">Matt Lavin from Bozeman, Montana, USA</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-              <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/lyell-canyon/Lyell_Canyon_valley_floor-1000.jpg" />
+              <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Lyell_Canyon_valley_floor-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Trail across the Lyell Canyon valley floor" />
                 <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Lyell_Canyon_valley_floor.jpg">Kaitymh (talk · contribs)</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
             </div>
       <!-- main -->

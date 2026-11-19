@@ -16,6 +16,23 @@
     <title>Yosemite Valley Loop Trail Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 50%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -123,10 +140,26 @@
      <div class="hero">
           
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley-loop-trail/Valley_Loop_Trail,_Yosemite_National_Park_-_53324712849-400.jpg">
-            
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley-loop-trail/Valley_Loop_Trail,_Yosemite_National_Park_-_53324712849-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley-loop-trail/Valley_Loop_Trail,_Yosemite_National_Park_-_53324712849-400.jpg" alt="Yosemite Valley Loop Trail" height="300" width="400" class="hero-top-adjusted">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/yosemite-valley-loop-trail-hero-1600.jpg 1600w"
+                alt="Valley Loop Trail passing beneath a granite boulder and oaks" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container caption-stack">
             <p class="caption"><span class="caption-title">Yosemite Valley Loop Trail</span></p>
@@ -145,6 +178,17 @@ Loop trail winding through forested terrain, meadows, and granite formations wit
       <section class="info" aria-labelledby="general-info">
         <h2 id="general-info" class="general">General Information</h2>
 <dl>
+<dt>Length:</dt>
+<dd>
+    13 miles loop (full loop); 6.5 miles (half loop)</dd>
+<dt>Elevation Gain:</dt>
+<dd>
+    300 feet
+</dd>
+<dt>Difficulty:</dt>
+<dd>
+    <span class="difficulty-moderate">Moderate</span>
+</dd>
 <dt>Hours:</dt>
 <dd>
 Open year-round<br>
@@ -196,10 +240,10 @@ All year
       </div>
 
     <div class="article-grid">
-      <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/royal-arches/North_Dome_&_Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_5-750.jpg" />
+      <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/North_Dome_%26_Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_5-750.jpg" width="852" height="1000" loading="lazy" decoding="async" alt="North Dome and Royal Arches above Yosemite Valley" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:North_Dome_&amp;_Royal_Arches_(Yosemite_Valley,_Sierra_Nevada_Mountains,_California,_USA)_5.jpg">James St. John</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-                <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley-loop-trail/Yosemite_Valley_Trail_Loop_Pzwsk-750.jpg" />
+                <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Yosemite_Valley_Trail_Loop_Pzwsk-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Merced River along the Valley Loop Trail" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Valley_Trail_Loop_Pzwsk.jpg">pi.zwsk</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
   </div>
       <!-- main -->

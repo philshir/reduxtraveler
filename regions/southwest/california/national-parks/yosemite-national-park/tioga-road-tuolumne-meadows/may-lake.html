@@ -16,6 +16,23 @@
     <title>May Lake Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 30%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
     
     <div class="hero">
       <picture>
-        <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/may-lake/Mount_Hoffmann_reflection_May_Lake-400.jpg">
-      
-        <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/may-lake/Mount_Hoffmann_reflection_May_Lake-1515.jpg">
-        <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/may-lake/Mount_Hoffmann_reflection_May_Lake-400.jpg" alt="" height="300" width="400" >
+        <!-- 1100px and up: wide crop -->
+        <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/may-lake-hero-wide-1600.avif 1600w,
+                  https://images.reduxtraveler.com/may-lake-hero-wide-2400.avif 2400w">
+        <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/may-lake-hero-wide-1600.jpg 1600w,
+                  https://images.reduxtraveler.com/may-lake-hero-wide-2400.jpg 2400w">
+        <!-- under 1100px: full 4:3 image -->
+        <source type="image/avif" sizes="100vw"
+          srcset="https://images.reduxtraveler.com/may-lake-hero-400.avif 400w,
+                  https://images.reduxtraveler.com/may-lake-hero-800.avif 800w,
+                  https://images.reduxtraveler.com/may-lake-hero-1200.avif 1200w,
+                  https://images.reduxtraveler.com/may-lake-hero-1600.avif 1600w">
+        <img fetchpriority="high" sizes="100vw"
+          src="https://images.reduxtraveler.com/may-lake-hero-800.jpg"
+          srcset="https://images.reduxtraveler.com/may-lake-hero-400.jpg 400w,
+                  https://images.reduxtraveler.com/may-lake-hero-800.jpg 800w,
+                  https://images.reduxtraveler.com/may-lake-hero-1200.jpg 1200w,
+                  https://images.reduxtraveler.com/may-lake-hero-1600.jpg 1600w"
+          alt="Mount Hoffmann reflected in May Lake" width="1200" height="900" class="hero-img">
       </picture>
       <div class="hero-caption-container caption-stack">
       <p class="caption"><span class="caption-title"></span></p>
@@ -143,6 +176,17 @@ Alpine lake nestled beneath granite cliffs and surrounded by conifer forest, acc
       <section class="info" aria-labelledby="general-info">
         <h2 id="general-info" class="general">General Information</h2>
 <dl>
+<dt>Length:</dt>
+<dd>
+    2.4 miles roundtrip</dd>
+<dt>Elevation Gain:</dt>
+<dd>
+    485 feet
+</dd>
+<dt>Difficulty:</dt>
+<dd>
+    <span class="difficulty-easy">Easy</span>
+</dd>
 <dt>Hours:</dt>
 <dd>
 Accessible only while Tioga Road is open to vehicles, typically late May or early June through November<br>
@@ -195,10 +239,10 @@ Late spring to early fall
               </div>
 
               <div class="article-grid">
-                <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/may-lake/May_lake_in_park-750.jpg" />
+                <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/May_lake_in_park-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="May Lake below Mount Hoffmann" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:May_lake_in_park.jpg">Jon Sullivan</a>, Public domain, via Wikimedia Commons; Image Size Adjusted</figure>
 
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/may-lake/Yosemite_may_lake-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_may_lake-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Clear blue water of May Lake" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_may_lake.jpg">Jon Sullivan</a>, Public domain, via Wikimedia Commons; Image Size Adjusted</figure>
   </div>
       <!-- main -->

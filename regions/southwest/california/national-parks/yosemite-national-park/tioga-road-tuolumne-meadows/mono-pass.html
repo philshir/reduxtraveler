@@ -16,6 +16,23 @@
     <title>Mono Pass Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 30%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mono-pass/View_from_12,000ft_Mono_Pass,_Eastern_Sierra,_CA-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mono-pass/View_from_12,000ft_Mono_Pass,_Eastern_Sierra,_CA-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mono-pass/View_from_12,000ft_Mono_Pass,_Eastern_Sierra,_CA-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mono-pass-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/mono-pass-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mono-pass-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/mono-pass-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/mono-pass-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/mono-pass-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/mono-pass-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/mono-pass-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/mono-pass-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/mono-pass-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/mono-pass-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/mono-pass-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/mono-pass-hero-1600.jpg 1600w"
+                alt="Snow-streaked peaks seen from Mono Pass" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:View_from_12,000ft_Mono_Pass,_Eastern_Sierra,_CA.jpg">Marty B</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -146,10 +179,14 @@
         <dl>
         <dt>Length:</dt>
         <dd>
-            7.9 mi roundtrip</dd>
+            8 miles roundtrip</dd>
         <dt>Elevation Gain:</dt>
         <dd>
-          1,174 feet
+          1,000 feet
+        </dd>
+        <dt>Difficulty:</dt>
+        <dd>
+            <span class="difficulty-moderate">Moderate</span>
         </dd>
         <dt>Pet Policy:</dt>
         <dd>Pets <strong>not</strong> allowed on trails</dd>
@@ -187,14 +224,14 @@
               </div>
 
               <div class="article-grid">
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mono-pass/Mono_Pass_(140374325)-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Mono_Pass_(140374325)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Hikers crossing the rocky slopes of Mono Pass" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Mono_Pass_(140374325).jpeg">J Doll</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-              <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mono-pass/No_fires_at_Mono_Pass-1000.jpg" />
+              <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/No_fires_at_Mono_Pass-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="No fires sign at Mono Pass" />
                 <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:No_fires_at_Mono_Pass.jpg">Dcrjsr</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
 
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mono-pass/Sardine_Lake_and_distant_Mono_Lake_(19214257179)-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Sardine_Lake_and_distant_Mono_Lake_(19214257179)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Sardine Lake with Mono Lake in the distance" />
                     <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Sardine_Lake_and_distant_Mono_Lake_(19214257179).jpg">Akos Kokai</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mono-pass/Summit_Lake_from_Mono_Pass-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Summit_Lake_from_Mono_Pass-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Summit Lake seen from Mono Pass" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Summit_Lake_from_Mono_Pass.jpg">Dcrjsr</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
             </div>
       <!-- main -->

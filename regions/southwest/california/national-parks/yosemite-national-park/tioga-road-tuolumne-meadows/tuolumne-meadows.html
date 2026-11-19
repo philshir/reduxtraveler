@@ -16,6 +16,23 @@
     <title>Tuolumne Meadows Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 35%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/112.TuolumnneMeadows-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/112.TuolumnneMeadows-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/112.TuolumnneMeadows-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/tuolumne-meadows-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/tuolumne-meadows-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/tuolumne-meadows-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/tuolumne-meadows-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/tuolumne-meadows-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/tuolumne-meadows-hero-1600.jpg 1600w"
+                alt="Tuolumne Meadows with forest and distant peaks" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:112.TuolumnneMeadows.jpg">Gowittylb</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</p>
@@ -186,8 +219,7 @@
               <p>Cathedral Lakes </p>
             </a>
               <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
-              <p>7 miles (11.3 km round-trip), 1000 feet<br>
-                Begin at Cathedral Lakes trailhead, 1/2 mile west of the Tuolumne Meadows Visitor Center, Shuttle Stop #7. The trail climbs steadily to Upper Cathedral Lake. Near the top of the climb, it passes a spur trail to Lower Cathedral Lake (0.5 mile to lake). 
+              <p>7 miles (11.3 km round-trip), 1000 feet<br> From the trailhead west of the Tuolumne Meadows Visitor Center, climb steadily to Upper Cathedral Lake, passing the Lower Lake spur. 
               </p>
               
             </div>
@@ -204,10 +236,7 @@
               <div class="trail-description">
                 <p>Dog Lake</p>
                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
-                  <p>Dog Lake: 2.8 miles (4.5 km) round-trip, 600 feet<br>
-                    Lembert Dome: 2.8 miles (4.5 km) round-trip, 850 feet<br>
-                    Dog Lake and Lembert Dome: 4 miles (6.4 km) round-trip, <br>
-                    The trail rises steeply for 0.75 mile to a signed junction. Turn left to reach the top of Lembert Dome for a spectacular view of Tuolumne Meadows and surrounding peaks. To reach Dog Lake, continue straight at the junction. 
+                  <p>Dog Lake: 2.8 miles round-trip, 600 feet<br> Lembert Dome: 2.8 miles round-trip, 850 feet<br> Climb 0.75 mile to a junction; turn left for Lembert Dome or go straight to Dog Lake. 
                     </p>
                 </p>
               </div>
@@ -224,8 +253,7 @@
               <div class="trail-description">
                 <p>Gaylor Lakes</p>
                 <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div>
-                <p>2 miles (3.2 km) round-trip, 500 feet<br>
-                  Begin at Tioga Pass Entrance Station. From the trailhead, climb steadily to a ridge with views of the high Sierra including Mt. Dana and Dana Meadows with its scattered ponds. At the ridge crest, the trail drops 200 feet to Middle Gaylor Lake.
+                <p>2 miles (3.2 km) round-trip, 500 feet<br> From Tioga Pass Entrance Station, climb to a ridge with views of Mt. Dana and Dana Meadows, then drop 200 feet to Middle Gaylor Lake.
 
                 </p>
                 
@@ -243,8 +271,7 @@
               <div class="trail-description">
                 <p>Glen Aulin</p>
                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
-                  <p>11 miles (17.7 km) round-trip, 800 feet<br>
-                    Follow the Tuolumne River as it drops to Glen Aulin. Tuolumne Fall and White Cascade are four miles from the trailhead. Beyond Glen Aulin are California Fall (13 miles roundtrip), LeConte Fall (15 miles roundtrip), and Waterwheel Falls (18 miles roundtrip). 
+                  <p>11 miles (17.7 km) round-trip, 800 feet<br> Follow the Tuolumne River to Glen Aulin, passing Tuolumne Fall and White Cascade, with more falls beyond for longer hikes. 
                    </p>
                 </p>
               </div>
@@ -300,8 +327,7 @@
               <div class="trail-description">
                 <p>Mono Pass</p>
                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
-                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br>
-                    Begin at Mono Pass trailhead. This historic trail climbs through wet meadows and rushing creeks to Spillway Lake junction and Mono Pass (elevation 10,600 feet) with spectacular views of Mono Lake and Bloody Canyon: from the pass, hike a bit farther toward Upper Sardine Lake.
+                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br> Historic trail through wet meadows and creeks to Mono Pass (10,600 feet), with views of Mono Lake and Bloody Canyon.
 
                 </p>
               </div>
@@ -338,8 +364,7 @@
               <div class="trail-description">
                 <p>Olmstead Point</p>
                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
-                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br>
-                    Begin at Mono Pass trailhead. This historic trail climbs through wet meadows and rushing creeks to Spillway Lake junction and Mono Pass (elevation 10,600 feet) with spectacular views of Mono Lake and Bloody Canyon: from the pass, hike a bit farther toward Upper Sardine Lake.
+                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br> Historic trail through wet meadows and creeks to Mono Pass (10,600 feet), with views of Mono Lake and Bloody Canyon.
 
                 </p>
               </div>
@@ -357,8 +382,7 @@
               <div class="trail-description">
                 <p>Tenaya Lake</p>
                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
-                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br>
-                    Begin at Mono Pass trailhead. This historic trail climbs through wet meadows and rushing creeks to Spillway Lake junction and Mono Pass (elevation 10,600 feet) with spectacular views of Mono Lake and Bloody Canyon: from the pass, hike a bit farther toward Upper Sardine Lake.
+                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br> Historic trail through wet meadows and creeks to Mono Pass (10,600 feet), with views of Mono Lake and Bloody Canyon.
 
                 </p>
               </div>
@@ -376,8 +400,7 @@
               <div class="trail-description">
                 <p>Tuolumne Meadows</p>
                  <div class="rating"><span class="star" aria-hidden="true">&#9733;</span><span class="visually-hidden">Rating:</span> 5.0</div><p>
-                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br>
-                    Begin at Mono Pass trailhead. This historic trail climbs through wet meadows and rushing creeks to Spillway Lake junction and Mono Pass (elevation 10,600 feet) with spectacular views of Mono Lake and Bloody Canyon: from the pass, hike a bit farther toward Upper Sardine Lake.
+                  <p>8 miles (12.9 km) round-trip, 1,000 feet<br> Historic trail through wet meadows and creeks to Mono Pass (10,600 feet), with views of Mono Lake and Bloody Canyon.
 
                 </p>
               </div>
@@ -388,11 +411,11 @@
       </div>
 
     <div class="article-grid">
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/Tuolumne_Meadows_-_Pywiack_Dome_summit_looking_SW_-_3-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Tuolumne_Meadows_-_Pywiack_Dome_summit_looking_SW_-_3-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="View from the summit of Pywiack Dome" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Tuolumne_Meadows_-_Pywiack_Dome_summit_looking_SW_-_3.JPG">Jarek Tuszyński</a>, <a href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/Tuolumne_Meadows_Sunset-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Tuolumne_Meadows_Sunset-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Sunset over a stream in Tuolumne Meadows" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Tuolumne_Meadows_Sunset.jpg">Steve Dunleavy from Lake Tahoe, NV, United States</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/tuolumne-meadows/Yosemite-tuolumne_meadows_1-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite-tuolumne_meadows_1-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Tuolumne River reflecting clouds in Tuolumne Meadows" />
             <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite-tuolumne_meadows_1.jpeg">Moppet65535</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
     </div>
       <!-- main -->

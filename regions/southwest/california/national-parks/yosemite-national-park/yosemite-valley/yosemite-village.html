@@ -16,6 +16,23 @@
     <title>Yosemite Village Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 75%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
     
     <div class="hero">
       <picture>
-        <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Village_Historic_District-400.jpg">
-      
-        <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Village_Historic_District-1515.jpg">
-        <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Village_Historic_District-400.jpg" alt="" height="300" width="400" class="hero-top-adjusted">
+        <!-- 1100px and up: wide crop -->
+        <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/yosemite-village-hero-wide-1600.avif 1600w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-wide-2400.avif 2400w">
+        <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/yosemite-village-hero-wide-1600.jpg 1600w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-wide-2400.jpg 2400w">
+        <!-- under 1100px: full 4:3 image -->
+        <source type="image/avif" sizes="100vw"
+          srcset="https://images.reduxtraveler.com/yosemite-village-hero-400.avif 400w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-800.avif 800w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-1200.avif 1200w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-1600.avif 1600w">
+        <img fetchpriority="high" sizes="100vw"
+          src="https://images.reduxtraveler.com/yosemite-village-hero-800.jpg"
+          srcset="https://images.reduxtraveler.com/yosemite-village-hero-400.jpg 400w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-800.jpg 800w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-1200.jpg 1200w,
+                  https://images.reduxtraveler.com/yosemite-village-hero-1600.jpg 1600w"
+          alt="Yosemite Village beneath granite cliffs" width="1200" height="900" class="hero-img">
       </picture>
       <div class="hero-caption-container caption-stack">
       <p class="caption"><span class="caption-title"></span></p>
@@ -171,30 +204,30 @@
       </div>
 
     <div class="article-grid">
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/yosemite-village-ansel-adams-gallery-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/yosemite-village-ansel-adams-gallery-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Ansel Adams Gallery in Yosemite Village" />
           <figcaption class="cap"></figcaption></figure>
-        <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/yosemite-village-john-muir-statue-750.jpg" />
+        <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/yosemite-village-john-muir-statue-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="John Muir statue in Yosemite Village" />
           <figcaption class="cap"></figcaption></figure>
       
-      <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/yosemite-village-yosemite-falls-750.jpg" />
+      <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/yosemite-village-yosemite-falls-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Yosemite Falls seen from a path in Yosemite Village" />
         <figcaption class="cap"></figcaption></figure>
 
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/yosemite-village-hero-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/yosemite-village-hero-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Outdoor seating in Yosemite Village below granite cliffs" />
           <figcaption class="cap"></figcaption></figure>
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Museum_Exterior-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_Museum_Exterior-1000.jpg" width="1124" height="750" loading="lazy" decoding="async" alt="Stone entrance of the Yosemite Museum" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Museum_Exterior.jpg">Jllm06</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Village_Historic_District-10-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_Village_Historic_District-10-1000.jpg" width="1125" height="750" loading="lazy" decoding="async" alt="Historic building in the Yosemite Village Historic District" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Village_Historic_District-10.jpg">Almonroth</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Village_Historic_District-5-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_Village_Historic_District-5-1000.jpg" width="1125" height="750" loading="lazy" decoding="async" alt="Paths among buildings in the Yosemite Village Historic District" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Village_Historic_District-5.jpg">Almonroth</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Village_Historic_District-9-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_Village_Historic_District-9-1000.jpg" width="1125" height="750" loading="lazy" decoding="async" alt="Traditional cedar-bark shelters in the Yosemite Village Historic District" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Village_Historic_District-9.jpg">Almonroth</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/yosemite-valley/yosemite-village/Yosemite_Village_Store_(3020745703)-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Yosemite_Village_Store_(3020745703)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Yosemite Village Store in autumn" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Yosemite_Village_Store_(3020745703).jpg">Rennett Stowe</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
     </div>
       <!-- main -->

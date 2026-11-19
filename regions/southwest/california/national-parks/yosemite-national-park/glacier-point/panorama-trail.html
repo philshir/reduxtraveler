@@ -16,6 +16,23 @@
     <title>Panorama Trail Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 40%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
     
     <div class="hero">
       <picture>
-        <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Nevada_Falls_from_Panorama_View-400.jpg">
-      
-        <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Nevada_Falls_from_Panorama_View-1515.jpg">
-        <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Nevada_Falls_from_Panorama_View-400.jpg" alt="" height="300" width="400" >
+        <!-- 1100px and up: wide crop -->
+        <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/panorama-trail-hero-wide-1600.avif 1600w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-wide-2400.avif 2400w">
+        <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+          srcset="https://images.reduxtraveler.com/panorama-trail-hero-wide-1600.jpg 1600w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-wide-2400.jpg 2400w">
+        <!-- under 1100px: full 4:3 image -->
+        <source type="image/avif" sizes="100vw"
+          srcset="https://images.reduxtraveler.com/panorama-trail-hero-400.avif 400w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-800.avif 800w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-1200.avif 1200w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-1600.avif 1600w">
+        <img fetchpriority="high" sizes="100vw"
+          src="https://images.reduxtraveler.com/panorama-trail-hero-800.jpg"
+          srcset="https://images.reduxtraveler.com/panorama-trail-hero-400.jpg 400w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-800.jpg 800w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-1200.jpg 1200w,
+                  https://images.reduxtraveler.com/panorama-trail-hero-1600.jpg 1600w"
+          alt="Liberty Cap and Nevada Fall seen from the Panorama Trail" width="1200" height="900" class="hero-img">
       </picture>
       <div class="hero-caption-container caption-stack">
       <p class="caption"><span class="caption-title"></span></p>
@@ -143,6 +176,17 @@ Strenuous downhill hiking route featuring sweeping views of granite cliffs, wate
       <section class="info" aria-labelledby="general-info">
         <h2 id="general-info" class="general">General Information</h2>
 <dl>
+<dt>Length:</dt>
+<dd>
+    8.2 miles one way</dd>
+<dt>Elevation Gain:</dt>
+<dd>
+    800 feet
+</dd>
+<dt>Difficulty:</dt>
+<dd>
+    <span class="difficulty-moderate">Moderate</span>
+</dd>
 <dt>Hours:</dt>
 <dd>
 Trail accessible year-round; Glacier Point Road typically open late May through October<br>
@@ -191,21 +235,21 @@ Best in late spring, early summer, and early fall; avoid winter due to road clos
       </div>
 
      <div class="article-grid">
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Illilouette_Creek_and_Panorama_Trail-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Illilouette_Creek_and_Panorama_Trail-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Illilouette Creek along the Panorama Trail" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Illilouette_Creek_and_Panorama_Trail.jpg">Fabio Achilli</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Illilouette_Fall_from_Panorama_Trail-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Illilouette_Fall_from_Panorama_Trail-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Illilouette Fall seen from the Panorama Trail" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Illilouette_Fall_from_Panorama_Trail.jpg">Fabio Achilli</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
       
-      <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Nevada_Fall,_Panorama_Trail,_Yosemite_(29240130720)-1000.jpg" />
+      <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Nevada_Fall,_Panorama_Trail,_Yosemite_(29240130720)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Hikers on the granite above Nevada Fall" />
         <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Nevada_Fall,_Panorama_Trail,_Yosemite_(29240130720).jpg">Fabio Achilli</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-        <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Panorama_Trail,_Yosemite_(28906389223)-1000.jpg" />
+        <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Panorama_Trail,_Yosemite_(28906389223)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Panorama Trail winding through pines" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Panorama_Trail,_Yosemite_(28906389223).jpg">Fabio Achilli</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-          <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Panorama_Trail,_Yosemite_(29238922780)-1000.jpg" />
+          <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Panorama_Trail,_Yosemite_(29238922780)-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Hiker standing inside a hollow tree along the Panorama Trail" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Panorama_Trail,_Yosemite_(29238922780).jpg">Fabio Achilli</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
 
-           <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/glacier-point/panorama-trail/Panorama_Trail_view_of_Nevada_and_Vernal_Falls_with_Half_Dome_-_panoramio-1000.jpg" />
+           <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Panorama_Trail_view_of_Nevada_and_Vernal_Falls_with_Half_Dome_-_panoramio-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Half Dome, Nevada Fall and Vernal Fall from the Panorama Trail" />
           <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Panorama_Trail_view_of_Nevada_and_Vernal_Falls_with_Half_Dome_-_panoramio.jpg">Richard Wood</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons; Image Size Adjusted</figure>
       <!-- main -->
     </main>

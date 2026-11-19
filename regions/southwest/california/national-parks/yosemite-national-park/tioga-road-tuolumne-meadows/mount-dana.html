@@ -16,6 +16,23 @@
     <title>Mount Dana Travel Guide | Redux Traveler</title>
     <link href="../../../../../../index.css" type=text/css rel="stylesheet"> <link
     href="../../../../../../hero.css" type=text/css rel="stylesheet">
+    <link rel="preconnect" href="https://images.reduxtraveler.com">
+    <style>
+      /* responsive hero: full 4:3 image on phones; from 445px up the image fills the
+         fixed .hero height set in index.css (325/450/550px), using the 2.4:1 crop from 1100px up */
+      .hero .hero-img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media only screen and (min-width: 445px) {
+        .hero .hero-img {
+          height: 100%;
+          object-fit: cover;
+          object-position: center 35%;
+        }
+      }
+    </style>
     <script
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
@@ -122,10 +139,26 @@
         <div class="hero">
 
             <picture>
-              <source media="(max-width: 400px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount_Dana_Panorama-400.jpg">
-
-              <source media="(min-width: 401px)" srcset="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount_Dana_Panorama-1515.jpg">
-              <img fetchpriority="high" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount_Dana_Panorama-400.jpg" alt="" height="300" width="400">
+              <!-- 1100px and up: wide crop -->
+              <source media="(min-width: 1100px)" type="image/avif" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mount-dana-hero-wide-1600.avif 1600w,
+                        https://images.reduxtraveler.com/mount-dana-hero-wide-2400.avif 2400w">
+              <source media="(min-width: 1100px)" width="2400" height="1000" sizes="(max-width: 1320px) 1320px, 100vw"
+                srcset="https://images.reduxtraveler.com/mount-dana-hero-wide-1600.jpg 1600w,
+                        https://images.reduxtraveler.com/mount-dana-hero-wide-2400.jpg 2400w">
+              <!-- under 1100px: full 4:3 image -->
+              <source type="image/avif" sizes="100vw"
+                srcset="https://images.reduxtraveler.com/mount-dana-hero-400.avif 400w,
+                        https://images.reduxtraveler.com/mount-dana-hero-800.avif 800w,
+                        https://images.reduxtraveler.com/mount-dana-hero-1200.avif 1200w,
+                        https://images.reduxtraveler.com/mount-dana-hero-1600.avif 1600w">
+              <img fetchpriority="high" sizes="100vw"
+                src="https://images.reduxtraveler.com/mount-dana-hero-800.jpg"
+                srcset="https://images.reduxtraveler.com/mount-dana-hero-400.jpg 400w,
+                        https://images.reduxtraveler.com/mount-dana-hero-800.jpg 800w,
+                        https://images.reduxtraveler.com/mount-dana-hero-1200.jpg 1200w,
+                        https://images.reduxtraveler.com/mount-dana-hero-1600.jpg 1600w"
+                alt="Mono Lake and the Mono Basin seen from the summit of Mount Dana" width="1200" height="900" class="hero-img">
             </picture>
             <div class="hero-caption-container">
             <p class="caption"><span class="caption-title"></span><a href="https://commons.wikimedia.org/wiki/File:Mount_Dana_Panorama.jpg">Jeffrey Pang</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons; Cropped and Image Size Adjusted</p>
@@ -146,10 +179,14 @@
         <dl>
         <dt>Length:</dt>
         <dd>
-            5.3 mi roundtrip</dd>
+            5.8 miles roundtrip</dd>
         <dt>Elevation Gain:</dt>
         <dd>
-            3,090 ft
+            3,100 feet
+        </dd>
+        <dt>Difficulty:</dt>
+        <dd>
+            <span class="difficulty-hard">Strenuous</span>
         </dd>
         <dt>Pet Policy:</dt>
         <dd>Pets <strong>not</strong> allowed on trails</dd>
@@ -186,16 +223,16 @@
               </div>
 
               <div class="article-grid">
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Dana_Meadows_from_Mount_Dana-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Dana_Meadows_from_Mount_Dana-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Dana Meadows seen from Mount Dana" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Dana_Meadows_from_Mount_Dana.jpg">Ottofunk9 at English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by/2.5">CC BY 2.5</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-              <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount-Dana-from-Tioga-Pass-1000.jpg" />
+              <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Mount-Dana-from-Tioga-Pass-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Mount Dana from Tioga Pass" />
                 <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Mount-Dana-from-Tioga-Pass.jpg">Eeekster</a>, <a href="https://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
 
-                <figure class="third-party-img"><img class="deco-img portrait" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount_Dana_2008_edit-750.jpg" />
+                <figure class="third-party-img"><img class="deco-img portrait" src="https://images.reduxtraveler.com/Mount_Dana_2008_edit-750.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Mount Dana rising above the forest" />
                     <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Mount_Dana_2008_edit.JPG">Inklein</a>, Public domain, via Wikimedia Commons ; Image Size Adjusted</figure>
-                <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/Mount_Dana_Yosemite_Lake-1000.jpg" />
+                <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/Mount_Dana_Yosemite_Lake-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="Mount Dana rising above a lake and pines" />
                   <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:Mount_Dana_Yosemite_Lake.jpg">Jon Starling</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
-                  <figure class="third-party-img"><img class="deco-img" src="../../../../../../resources/images/california/yosemite-national-park/tioga-pass/mount-dana/View_from_Mount_Dana_Summit_to_Tioga_Pass-1000.jpg" />
+                  <figure class="third-party-img"><img class="deco-img" src="https://images.reduxtraveler.com/View_from_Mount_Dana_Summit_to_Tioga_Pass-1000.jpg" width="1000" height="750" loading="lazy" decoding="async" alt="View from the summit of Mount Dana toward Tioga Pass" />
                     <figcaption class="cap"></figcaption><a href="https://commons.wikimedia.org/wiki/File:View_from_Mount_Dana_Summit_to_Tioga_Pass.jpg">Pimlico27</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons ; Image Size Adjusted</figure>
             </div>
       <!-- main -->
