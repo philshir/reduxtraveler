@@ -573,7 +573,7 @@ display: flex;
 article {
   background-color: #b9d1f7;
   border: 1px solid #86b3fb;
-  padding: 20px;
+  padding: 10px;
   margin: 20px 0
 }
 
@@ -1488,6 +1488,10 @@ font-size: 16px;
 .social-media-pic-location {
   font-size: 14px!important;
     color: #253d5f;
+}
+.state-details-table {
+      text-wrap: nowrap;
+    display: flex;
 }
 
 /* 1. Hide the link off-screen by default */
