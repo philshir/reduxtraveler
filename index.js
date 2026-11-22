@@ -133,6 +133,57 @@ items.forEach(item => {
   });
 });
 
+// park overview accordion: headings become toggle buttons below 1170px only.
+// At 1170px+ the buttons are removed so the headings are plain text and all panels show.
+document.querySelectorAll('.overview-accordion').forEach((accordion, aIndex) => {
+  const items = [...accordion.querySelectorAll('.overview-item')];
+
+  const parts = items.map((item, i) => {
+    const heading = item.querySelector('.overview-heading');
+    const panel = item.querySelector('.overview-panel');
+    panel.id = panel.id || `overview-${aIndex}-panel-${i}`;
+    return { item, heading, panel, label: heading.innerHTML };
+  });
+
+  const setOpen = (part, open) => {
+    part.item.classList.toggle('active', open);
+    if (part.button) part.button.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+
+  const enable = () => {
+    parts.forEach((part, i) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'overview-toggle';
+      button.setAttribute('aria-controls', part.panel.id);
+      button.innerHTML = `<span>${part.label}</span><span class="overview-chevron" aria-hidden="true">˄</span>`;
+      button.addEventListener('click', () => {
+        const wasOpen = part.item.classList.contains('active');
+        // only one open at a time
+        parts.forEach(p => setOpen(p, false));
+        setOpen(part, !wasOpen);
+      });
+      part.heading.replaceChildren(button);
+      part.button = button;
+      setOpen(part, i === 0); // first section (Overview) open on load
+    });
+    accordion.classList.add('is-collapsible');
+  };
+
+  const disable = () => {
+    accordion.classList.remove('is-collapsible');
+    parts.forEach(part => {
+      part.heading.innerHTML = part.label;
+      part.button = null;
+      part.item.classList.remove('active');
+    });
+  };
+
+  const apply = () => (desktopQuery.matches ? disable() : enable());
+  apply();
+  desktopQuery.addEventListener('change', apply);
+});
+
 // read more
 // const containerRead = document.querySelector('.read-more-container');
 // const textWrapper = document.getElementById('textWrapper');

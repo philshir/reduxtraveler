@@ -19,18 +19,6 @@
       src="https://kit.fontawesome.com/ea97e0442a.js"
       crossorigin="anonymous"
     ></script>
-    <style>
-      /* disable read-more/read-less collapse on this page only; body reveal (.content .header) stays intact */
-      .text-wrapper {
-        max-height: none !important;
-      }
-      .text-wrapper::after {
-        display: none !important;
-      }
-      .toggle-btn {
-        display: none !important;
-      }
-    </style>
       <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
     <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
     <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
@@ -148,7 +136,7 @@
 
   <div class="trail-description-itinerary">
     <h2>The Great Smoky Mountains: Waterfalls, Mountain Vistas, and Appalachian Heritage</h2>
-    <p>5 Days</p>
+    <p class="trail-description-days">5 Days</p>
 
     <p>
       This 5-day adventure explores the heart of the Great Smoky Mountains region of Tennessee, where mist-covered peaks, historic mountain communities, roaring waterfalls, and panoramic overlooks combine to create one of America's most beloved national park destinations. From the family-friendly attractions of Gatlinburg and Pigeon Forge to the remote valleys and scenic trails of Great Smoky Mountains National Park, this itinerary balances outdoor adventure, mountain culture, and breathtaking scenery while grouping destinations geographically to minimize driving and maximize exploration.
@@ -169,8 +157,7 @@
 
     <div class="accordion-item active">
       <div class="timeline">
-        <span class="circle">1.</span>
-        <span class="line"></span>
+        <span>1</span>
       </div>
 
       <div class="content">
@@ -180,27 +167,17 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <img src="../../resources/images/tennessee/gatlinburg/gatlinburg-thumbnail-400.jpg">
-              <p>
-                Begin your adventure exploring the charming mountain town of Gatlinburg. Local shops, mountain lodges, regional crafts, and scenic streets provide a lively introduction to the culture and hospitality of the Smokies.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <img src="../../resources/images/tennessee/gatlinburg/gatlinburg-thumbnail-400.jpg">
+          <p>
+            Begin your adventure exploring the charming mountain town of Gatlinburg. Local shops, mountain lodges, regional crafts, and scenic streets provide a lively introduction to the culture and hospitality of the Smokies.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">2</span>
-        <span class="line"></span>
+        <span>2</span>
       </div>
 
       <div class="content">
@@ -210,25 +187,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Ride high above town to one of the most spectacular viewpoints in the Smokies. The elevated walkways and mountain vistas provide sweeping views across Gatlinburg and the surrounding peaks, making it an ideal way to appreciate the scale of the landscape.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Ride high above town to one of the most spectacular viewpoints in the Smokies. The elevated walkways and mountain vistas provide sweeping views across Gatlinburg and the surrounding peaks, making it an ideal way to appreciate the scale of the landscape.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">3</span>
+        <span>3</span>
       </div>
 
       <div class="content">
@@ -238,18 +206,9 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Continue into the mountains at Ober Gatlinburg, where scenic overlooks, alpine-style attractions, and elevated viewpoints offer a different perspective on the Smoky Mountains. The higher elevation provides exceptional panoramic views, especially near sunset.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Continue into the mountains at Ober Gatlinburg, where scenic overlooks, alpine-style attractions, and elevated viewpoints offer a different perspective on the Smoky Mountains. The higher elevation provides exceptional panoramic views, especially near sunset.
+          </p>
         </div>
       </div>
     </div>
@@ -268,8 +227,7 @@
 
     <div class="accordion-item active">
       <div class="timeline">
-        <span class="circle">1</span>
-        <span class="line"></span>
+        <span>1</span>
       </div>
 
       <div class="content">
@@ -279,26 +237,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Begin the day with one of the park's most scenic drives. Winding through dense forests, historic cabins, and mountain streams, the route showcases the natural beauty and rich history of the Smokies.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Begin the day with one of the park's most scenic drives. Winding through dense forests, historic cabins, and mountain streams, the route showcases the natural beauty and rich history of the Smokies.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">2</span>
-        <span class="line"></span>
+        <span>2</span>
       </div>
 
       <div class="content">
@@ -308,26 +256,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                This short and easy walk leads to a picturesque waterfall tucked beneath a canopy of hardwood trees. It is one of the most accessible waterfall experiences in the national park.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            This short and easy walk leads to a picturesque waterfall tucked beneath a canopy of hardwood trees. It is one of the most accessible waterfall experiences in the national park.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">3</span>
-        <span class="line"></span>
+        <span>3</span>
       </div>
 
       <div class="content">
@@ -337,26 +275,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                One of the most unique waterfalls in the Smokies, Grotto Falls allows visitors to walk behind the curtain of falling water. The hike passes through lush forest filled with rhododendrons and mountain wildflowers.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            One of the most unique waterfalls in the Smokies, Grotto Falls allows visitors to walk behind the curtain of falling water. The hike passes through lush forest filled with rhododendrons and mountain wildflowers.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">4</span>
-        <span class="line"></span>
+        <span>4</span>
       </div>
 
       <div class="content">
@@ -366,25 +294,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                One of the park's most famous waterfalls, Laurel Falls cascades over multiple tiers into a picturesque mountain setting. The waterfall has become one of the iconic images of Great Smoky Mountains National Park.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            One of the park's most famous waterfalls, Laurel Falls cascades over multiple tiers into a picturesque mountain setting. The waterfall has become one of the iconic images of Great Smoky Mountains National Park.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">5</span>
+        <span>5</span>
       </div>
 
       <div class="content">
@@ -394,18 +313,9 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                End the afternoon at The Sinks, where the Little River plunges through a dramatic rocky channel. This powerful section of river showcases the force of mountain water and is one of the park's most popular scenic stops.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            End the afternoon at The Sinks, where the Little River plunges through a dramatic rocky channel. This powerful section of river showcases the force of mountain water and is one of the park's most popular scenic stops.
+          </p>
         </div>
       </div>
     </div>
@@ -424,8 +334,7 @@
 
     <div class="accordion-item active">
       <div class="timeline">
-        <span class="circle">1</span>
-        <span class="line"></span>
+        <span>1</span>
       </div>
 
       <div class="content">
@@ -435,26 +344,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Begin at Newfound Gap, where the Tennessee and North Carolina state line crosses the crest of the Smokies. The overlook delivers expansive mountain views stretching across multiple ridges fading into the distance.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Begin at Newfound Gap, where the Tennessee and North Carolina state line crosses the crest of the Smokies. The overlook delivers expansive mountain views stretching across multiple ridges fading into the distance.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">2</span>
-        <span class="line"></span>
+        <span>2</span>
       </div>
 
       <div class="content">
@@ -464,26 +363,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Continue to the highest point in Great Smoky Mountains National Park. The observation tower provides breathtaking 360-degree views across hundreds of square miles of mountains and forests.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Continue to the highest point in Great Smoky Mountains National Park. The observation tower provides breathtaking 360-degree views across hundreds of square miles of mountains and forests.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">3</span>
-        <span class="line"></span>
+        <span>3</span>
       </div>
 
       <div class="content">
@@ -493,26 +382,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Hike one of the park's most famous trails, passing through old-growth forest, stone archways, and dramatic cliffside scenery before reaching the impressive Alum Cave Bluffs.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Hike one of the park's most famous trails, passing through old-growth forest, stone archways, and dramatic cliffside scenery before reaching the impressive Alum Cave Bluffs.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">4</span>
-        <span class="line"></span>
+        <span>4</span>
       </div>
 
       <div class="content">
@@ -522,25 +401,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Adventurous hikers are rewarded with one of the finest vistas in the Smokies. The rocky outcrop projects dramatically from the mountain ridge and offers expansive views into the heart of the national park.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Adventurous hikers are rewarded with one of the finest vistas in the Smokies. The rocky outcrop projects dramatically from the mountain ridge and offers expansive views into the heart of the national park.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">5</span>
+        <span>5</span>
       </div>
 
       <div class="content">
@@ -550,18 +420,9 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Finish the day viewing one of the park's most recognizable geological formations. The twin rocky pinnacles rise above the forest canopy and have become an enduring symbol of the Smoky Mountains.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Finish the day viewing one of the park's most recognizable geological formations. The twin rocky pinnacles rise above the forest canopy and have become an enduring symbol of the Smoky Mountains.
+          </p>
         </div>
       </div>
     </div>
@@ -580,8 +441,7 @@
 
     <div class="accordion-item active">
       <div class="timeline">
-        <span class="circle">1</span>
-        <span class="line"></span>
+        <span>1</span>
       </div>
 
       <div class="content">
@@ -591,26 +451,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Begin the day in the most famous valley in the Smokies. Historic cabins, churches, barns, abundant wildlife, and open mountain views make Cades Cove one of the park's premier destinations.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Begin the day in the most famous valley in the Smokies. Historic cabins, churches, barns, abundant wildlife, and open mountain views make Cades Cove one of the park's premier destinations.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">2</span>
-        <span class="line"></span>
+        <span>2</span>
       </div>
 
       <div class="content">
@@ -620,25 +470,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                This peaceful trail winds through one of the finest examples of old-growth hardwood forest remaining in the Smokies, showcasing the remarkable biodiversity of the region.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            This peaceful trail winds through one of the finest examples of old-growth hardwood forest remaining in the Smokies, showcasing the remarkable biodiversity of the region.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">3</span>
+        <span>3</span>
       </div>
 
       <div class="content">
@@ -648,18 +489,9 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Hike through the wooded backcountry of Cades Cove to Abrams Falls. Although not the tallest waterfall in the park, its impressive volume and scenic setting make it one of the Smokies' most rewarding destinations.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Hike through the wooded backcountry of Cades Cove to Abrams Falls. Although not the tallest waterfall in the park, its impressive volume and scenic setting make it one of the Smokies' most rewarding destinations.
+          </p>
         </div>
       </div>
     </div>
@@ -678,8 +510,7 @@
 
     <div class="accordion-item active">
       <div class="timeline">
-        <span class="circle">1</span>
-        <span class="line"></span>
+        <span>1</span>
       </div>
 
       <div class="content">
@@ -689,26 +520,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Begin the day in Oconaluftee, where mountain farm buildings, historic exhibits, river views, and frequent wildlife sightings combine to tell the story of life in the Smokies before the establishment of the national park.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Begin the day in Oconaluftee, where mountain farm buildings, historic exhibits, river views, and frequent wildlife sightings combine to tell the story of life in the Smokies before the establishment of the national park.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">2</span>
-        <span class="line"></span>
+        <span>2</span>
       </div>
 
       <div class="content">
@@ -718,26 +539,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Explore one of the finest preserved gristmills in the Southern Appalachians. The historic structure demonstrates the ingenuity and self-sufficiency of mountain communities in the nineteenth century.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Explore one of the finest preserved gristmills in the Southern Appalachians. The historic structure demonstrates the ingenuity and self-sufficiency of mountain communities in the nineteenth century.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">3</span>
-        <span class="line"></span>
+        <span>3</span>
       </div>
 
       <div class="content">
@@ -747,25 +558,16 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                One of the tallest waterfalls in the southern Appalachians, Mingo Falls plunges dramatically through a narrow forested gorge. The powerful cascade provides a spectacular finale to your exploration of the Smoky Mountains.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            One of the tallest waterfalls in the southern Appalachians, Mingo Falls plunges dramatically through a narrow forested gorge. The powerful cascade provides a spectacular finale to your exploration of the Smoky Mountains.
+          </p>
         </div>
       </div>
     </div>
 
     <div class="accordion-item">
       <div class="timeline">
-        <span class="circle">4</span>
+        <span>4</span>
       </div>
 
       <div class="content">
@@ -775,18 +577,9 @@
         </button>
 
         <div class="body">
-          <div class="read-more-container">
-            <div class="text-wrapper">
-              <p>
-                Return to Tennessee and conclude the trip in Pigeon Forge. Nestled beside the Little Pigeon River, the town combines mountain hospitality, entertainment, local dining, and beautiful Smoky Mountain scenery, providing a lively ending to five unforgettable days in one of America's most spectacular national park regions.
-              </p>
-            </div>
-
-            <button class="toggle-btn">
-              <span class="label-read">Read more</span>
-              <span class="chevron-read">⌄</span>
-            </button>
-          </div>
+          <p>
+            Return to Tennessee and conclude the trip in Pigeon Forge. Nestled beside the Little Pigeon River, the town combines mountain hospitality, entertainment, local dining, and beautiful Smoky Mountain scenery, providing a lively ending to five unforgettable days in one of America's most spectacular national park regions.
+          </p>
         </div>
       </div>
     </div>
