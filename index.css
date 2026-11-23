@@ -480,7 +480,7 @@ margin: 0;
   padding: 4px 8px;
 }
 .description-main h2 {
-  font-size: 16px;
+  font-size: 20px;
 }
 .description-main h3 {
   font-size: 14px;
@@ -490,7 +490,7 @@ margin: 0;
 .map-region {
 max-width: 1000px;
 margin: 0 auto;
-margin-top: 105px;
+margin-top: 60px;
 }
 .map-region-individual {
 /* max-width: 500px;
@@ -641,7 +641,7 @@ rect:hover {
 .map-two h2 {
   text-align: center;
   font-size: 26px;
-  margin: 6px 0;
+  margin: 20px 0;
 }
 .map h3 {
   font-size: 16px;
@@ -1108,6 +1108,7 @@ tspan.st10.s11 {
   width: 100%;
   max-width: 400px;
   display: block;
+  height: auto;
 }
 .img-cards-main {
   width: 100%;
@@ -1122,6 +1123,7 @@ tspan.st10.s11 {
   width: 100%;
   min-width: 100px;
   border-radius: 10px;
+  height: auto;
 }
 .img-cards-main-loc-state {
   width: 100%;
@@ -1704,13 +1706,7 @@ font-size: 16px;
   font-family: Arial, sans-serif;
   position: absolute;
   width: 100%;
-  background-image: linear-gradient(
-    to top,
-    rgba(0, 0, 0, 0),
-    rgba(0, 0, 0, 0.5) 38%,
-    rgba(0, 0, 0, 1) 100%
-  );
-  color: #fff;
+  color: black;
 }
 
 .title-no-hero-img {
@@ -2640,6 +2636,7 @@ top: 50%;
 .portal svg {
   height: 100%;
   width: 100%;
+  padding: 10px;
 }
 
 /* itinerary accordian */
