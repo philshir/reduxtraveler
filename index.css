@@ -248,8 +248,7 @@ font-size: 16px;
 }
 
 h2.nyc-regions-title {
-  font-size: 22px;
-  margin: 40px 0 0 0;
+  font-size: 18px;
 }
 h3.navy.nyc-regions-title {
   font-size: 22px;
@@ -460,7 +459,7 @@ margin: 0;
   margin: 0 0 12px 0;
 }
 .description-one h3 a {
-  font-size: 16px;
+  font-size: 20px;
   margin: 0 0 4px 0;
 }
 .description-one h3 ul li a {
@@ -1494,6 +1493,9 @@ font-size: 16px;
       text-wrap: nowrap;
     display: flex;
 }
+.nyc-regions-margin {
+ margin: 6px 0;
+}
 
 /* 1. Hide the link off-screen by default */
 .skip-link {
@@ -2254,7 +2256,7 @@ h4.navy {
   font-size: 18px;
   text-align: center;
   font-weight: 700;
-    margin: 20px 20px 0;
+  margin: 20px 0;
 }
 .pikes-table {
   font-size: 10px;
@@ -2384,6 +2386,7 @@ h4.navy {
   flex-wrap: nowrap;
   justify-content: space-evenly;
   padding: 5px 5px 40px;
+  position: relative; /* clip absolutely positioned children (see .best-location-card-flex) */
   overflow-x: auto;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
@@ -2437,6 +2440,10 @@ h4.navy {
   display: flex;
   /* flex-wrap: wrap; */
   justify-content: space-evenly;
+  /* position: relative makes this row the containing block for absolutely
+     positioned children (e.g. .visually-hidden rating text), so overflow-x
+     clips them. Without it they escape and widen the whole page on mobile. */
+  position: relative;
   overflow-x: auto;
   overflow-y: hidden;
 -webkit-overflow-scrolling: touch;
@@ -2453,6 +2460,7 @@ h4.navy {
 .best-location-card-flex-itinerary-links {
   display: flex;
   flex-direction: column;
+  align-items: center;
   text-align: center;
   margin: 10px 0;
   width: 100%
@@ -3181,7 +3189,7 @@ font-size: 16px;
   flex-direction: column;
 }
 .navy.nyc-regions-title {
-  font-size: 26px;
+  font-size: 24px;
 }
 .map-region-individual {
 max-width: 500px;
@@ -3375,14 +3383,10 @@ display: flex;
     font-size: 32px;
   }
   h2.nyc-regions-title {
-    font-size: 26px;
-    margin: 60px 0 20px;
-  }
-  .nyc-regions-title {
-    margin-top: 26px;
+    font-size: 24px;
   }
   .nyc-regions-margin {
-    margin: 36px 0;
+    margin: 20px 0;
   }
   .back-to-top {
     height: 70px;
@@ -3877,7 +3881,6 @@ display: flex;
     font-size: 16px;
   }
   .city-state-featured-title {
-    margin-bottom: 8px;
     font-size: 26px;
   }
   .pikes-table {
@@ -3971,10 +3974,7 @@ display: flex;
   padding: 8px 2px;
 }
 .best-location-card-title {
-  font-size: 24px;
-}
-.description-one h3 a {
-  font-size: 20px;
+  font-size: 26px;
 }
 .resource-page-city {
   font-size: 16px!important;
