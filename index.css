@@ -2748,6 +2748,10 @@ top: 50%;
   border-bottom: 1px solid #e5e5e5;
 }
 
+h2.overview-h2 {
+  text-align: center;
+}
+
 .overview-accordion.is-collapsible .overview-heading {
   text-align: left;
   margin: 0;
