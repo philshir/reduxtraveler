@@ -15,17 +15,14 @@ html {
 
 @font-face {
   font-family: "AvenirLTStd-Book";
-  src: url("./AvenirLTStd-Book.ttf") format("opentype");
+  src: url("./AvenirLTStd-Book.woff2") format("woff2"),
+       url("./AvenirLTStd-Book.ttf") format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: "AvenirLTStd-Black";
-  src: url("./FontsFree-Net-AvenirLTStd-Black.ttf") format("opentype");
-  font-display: swap;
-}
-@font-face {
-  font-family: "Segoe Script";
-  src: url("./segoesc.ttf") format("opentype");
+  src: url("./AvenirLTStd-Black.woff2") format("woff2"),
+       url("./FontsFree-Net-AvenirLTStd-Black.ttf") format("truetype");
   font-display: swap;
 }
 body {
@@ -719,7 +716,7 @@ tspan.st10.s11 {
   stroke-miterlimit: 10;
 }
 .map-one .st8 {
-  font-family: HelveticaNeue-Bold;
+  font-family: HelveticaNeue-Bold, Arial, sans-serif;
   font-weight: 900;
 }
 .map-one .st9 {
@@ -735,7 +732,7 @@ tspan.st10.s11 {
   stroke-miterlimit: 10;
 }
 .map-one .st12 {
-  font-family: AvenirLTStd-Black;
+  font-family: AvenirLTStd-Black, Arial, sans-serif;
 }
 .map-one .st13 {
   font-size: 14px;
@@ -767,7 +764,7 @@ tspan.st10.s11 {
   stroke-miterlimit: 10;
 }
 .map-two .st8 {
-  font-family: HelveticaNeue-Bold;
+  font-family: HelveticaNeue-Bold, Arial, sans-serif;
   font-weight: 900;
 }
 .map-two .st9 {
@@ -777,7 +774,7 @@ tspan.st10.s11 {
   font-size: 4.5075px;
 }
 .map-two .st11 {
-  font-family: AvenirLTStd-Black;
+  font-family: AvenirLTStd-Black, Arial, sans-serif;
 }
 .map-two .st12 {
   font-size: 12px;
@@ -892,7 +889,7 @@ tspan.st10.s11 {
   font-size: 32px;
   top: 62px;
   color: #c91b27;
-  font-family: "Segoe Script";
+  font-family: "Segoe Script", "Bradley Hand", "Brush Script MT", cursive;
   font-weight: 900;
   width: 100%;
 }
@@ -1096,6 +1093,14 @@ tspan.st10.s11 {
 .fa-caret-down {
   color: #5c5b5b;
   transition: 0.1s;
+}
+/* Inline SVG caret (replaces Font Awesome icon font on index.html) */
+svg.fa-caret-down {
+  width: 0.625em;
+  height: 1em;
+  vertical-align: -0.125em;
+  box-sizing: content-box;
+  overflow: visible;
 }
 
 
@@ -1564,7 +1569,7 @@ font-size: 16px;
   background-color: rgb(0, 0, 0, 0.5);
 }
 .itinerary-text span {
-  font-family: "Segoe Script", "Bradley Hand", "Brush Script MT";
+  font-family: "Segoe Script", "Bradley Hand", "Brush Script MT", cursive;
   font-size: 12px;
   text-shadow: 0px 5px 10px rgb(40 40 40);
 }
