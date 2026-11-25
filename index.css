@@ -140,7 +140,8 @@ a:hover,
 .third-party-img {
   font-size: 8px !important;
   text-align: center;
-  margin: 2px;
+  margin: 0 auto;
+  padding: 10px;
   max-width: 400px;
 }
 
@@ -2125,9 +2126,7 @@ star-title
   text-align: center;
   font-size: 20px;
 }
-.featured h3 {
-  margin: 0 0 30px 0;
-}
+
 .navy {
   text-align: center;
   font-size: 20px;
@@ -2753,12 +2752,26 @@ top: 50%;
   border-bottom: 1px solid #e5e5e5;
 }
 
-h2.overview-h2 {
+h2.overview-h2,
+h2.overview-heading {
   text-align: center;
 }
 
+/* center the Overview label in its mobile toggle; chevron stays at the right edge */
+h2.overview-heading .overview-toggle {
+  justify-content: center;
+  position: relative;
+  padding: 0 28px;
+  text-align: center;
+}
+
+h2.overview-heading .overview-chevron {
+  position: absolute;
+  right: 0;
+}
+
 .overview-accordion.is-collapsible .overview-heading {
-  text-align: left;
+  text-align: center;
   margin: 0;
   padding: 14px 0;
 }
@@ -3969,6 +3982,7 @@ display: flex;
   max-width: 1000px;
   width: 500px;
   margin: 0 auto;
+  padding: 10px 0;
 }
 .logo.center {
   top: 70px;
