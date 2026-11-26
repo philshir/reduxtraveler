@@ -2228,6 +2228,15 @@ h4.navy {
   color: red;
   font-weight: 700;
 }
+/* alert shown inside the General Information box, spanning the full dl width */
+.info-alert {
+  grid-column: 1 / -1;
+  margin: 0;
+  text-align: center;
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+}
 .notification {
   color: green;
   font-weight: 700;
@@ -3344,10 +3353,6 @@ display: flex;
   .slideshow-container h2 {
     font-size: 36px;
     margin: 44px 0 0;
-  }
-  .main-article img {
-    width: 400px;
-    height: 300px;
   }
   .map-main p {
     font-size: 18px;
