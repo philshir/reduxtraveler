@@ -1843,6 +1843,10 @@ nav.breadcrumb li + li::before {
 }
 .info dd {
   margin: 0;
+  /* let long unbroken values (e.g. website URLs) wrap instead of
+     stretching the grid column past the edge of the info box */
+  min-width: 0;
+  overflow-wrap: anywhere;
 }
 .info dd ul {
   list-style: none;
