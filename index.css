@@ -894,6 +894,12 @@ tspan.st10.s11 {
   font-weight: 900;
   width: 100%;
 }
+/* "Redux" is an SVG (Segoe Script Bold outlines) so it looks the same on devices without Segoe Script, e.g. Android */
+.main-page-title .redux-script {
+  height: 1.584em;
+  width: auto;
+  vertical-align: -0.495em;
+}
 .main-page-title-nyc {
   position: absolute;
   text-align: center;
