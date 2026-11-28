@@ -526,6 +526,44 @@ display: flex;
   font-size: 10px;
   margin-bottom: 20px;
 }
+/* Search (index.html): sits directly below h3.main-details */
+.home-search {
+  display: flex;
+  justify-content: center;
+  margin: 0 16px 20px;
+}
+/* Search in the top nav bar (all pages except index.html), between the logo
+   and the hamburger button. Shown below 1170px only; at 1170px+ the search
+   inside .site-menu is used instead (see the 1170px media query). */
+.nav-search {
+  /* flex removes the inline-block baseline gap under the trigger, so the
+     wrapper is exactly as tall as the search box and centers correctly */
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 26px; /* half the 52px nav height */
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 7;
+}
+.site-menu .menu-search {
+  display: none;
+}
+/* Search box widths: the inner Pagefind button is width: 100%, so size the
+   trigger element (wrapper class needed to beat Pagefind's "all: initial") */
+.home-search pagefind-modal-trigger {
+  width: 100%;
+  max-width: 500px;
+      box-shadow: 5px 5px 15px 3px rgb(0 0 0 / 34%);
+    border-radius: 10px;
+    margin: 10px 0 20px;
+}
+.nav-search pagefind-modal-trigger {
+  width: 40vw; /* scales with the screen */
+  max-width: 300px;
+  --pf-input-height: 36px;
+  
+}
 .menu {
   border-radius: 2px;
   z-index: 10;
@@ -3633,6 +3671,9 @@ display: flex;
   .main-nav, .main-nav-home-page {
     height: 80px;
   }
+  .nav-search {
+    top: 40px; /* half the 80px nav height */
+  }
 
 .hero img {
   top: 0;
@@ -4128,11 +4169,38 @@ footer .footer-social-icons {
     flex: 1;
     justify-content: space-around;
   }
+  /* Below 1170px the search lives in .nav-search instead */
+  .nav-search {
+    display: none;
+  }
   .site-menu .menu-search {
-    order: 1; /* search is first on mobile, last on desktop */
+    order: 1; /* search is last in the desktop bar */
     display: flex;
     align-items: center;
     padding-left: 40px;
+  }
+  .site-menu .menu-search pagefind-modal-trigger {
+    width: 220px;
+  }
+  /* Other pages (not index.html): the menu fills the space right of the logo
+     instead of a centered 65%, and the search box shrinks to fit rather than
+     running off the right edge of the screen */
+  .main-nav .site-menu,
+  .main-nav .site-menu.move {
+    width: auto;
+    margin: 0 24px 0 230px; /* 230px clears the logo */
+    padding: 16px 0;
+  }
+  .main-nav .site-menu .site-menu-list {
+    min-width: 0;
+  }
+  .main-nav .site-menu .menu-search {
+    flex: 0 1 240px; /* up to 240px wide, shrinks when space is tight */
+    min-width: 120px;
+    padding-left: 20px;
+  }
+  .main-nav .site-menu .menu-search pagefind-modal-trigger {
+    width: 100%;
   }
 
   /* Top-level items (was .dropdown / .dropbtn) */
